@@ -1,0 +1,29 @@
+{
+    "image_file": "b942d1af.png",
+    "transcript": [
+        "NO SITTING ON THE STEPS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Sitzen auf den Stufen verboten"
+        ],
+        "es": [
+            "NO SENTARSE EN LAS ESCALERAS"
+        ],
+        "ru": [
+            "НЕ СИДЕТЬ НА СТУПЕНЬКАХ"
+        ],
+        "zh": [
+            "不要坐在台阶上"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

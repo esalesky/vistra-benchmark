@@ -1,0 +1,34 @@
+{
+    "image_file": "29a97961.png",
+    "transcript": [
+        "CAUTION",
+        "IF YOU ARE PREGNANT, OR THINK YOU MIGHT BE PREGNANT, TELL THE X-RAY TECHNOLOGIST BEFORE HAVING AN X-RAY COMPLETED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Wenn Sie schwanger sind oder eine Schwangerschaft vermuten, weisen Sie den Röntgenassistenten vor dem Erstellen eines Röntgenbilds darauf hin."
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "SI ESTÁ EMBARAZADA O CREE QUE PUEDE ESTARLO, INFORME AL TÉCNICO DE RADIOLOGÍA ANTES DE REALIZARSE LA PRUEBA DE RAYOS X"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "ЕСЛИ ВЫ БЕРЕМЕННЫ ИЛИ ДУМАЕТЕ, ЧТО МОЖЕТЕ БЫТЬ БЕРЕМЕННЫ, СООБЩИТЕ ОБ ЭТОМ ВРАЧУ-РЕНТГЕНОЛОГУ ПЕРЕД ПРОВЕДЕНИЕМ ПРОЦЕДУРЫ"
+        ],
+        "zh": [
+            "小心",
+            "如果您怀孕了，或者认为你可能怀孕了，在 X 光检查之前告诉 X 光技师"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

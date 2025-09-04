@@ -1,0 +1,29 @@
+{
+    "image_file": "34515091.png",
+    "transcript": [
+        "UNAUTHORIZED VEHICLES WILL BE TOWED AWAY AT OWNER'S EXPENSE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nicht berechtigte Fahrzeuge werden auf Kosten des Eigentümers abgeschleppt"
+        ],
+        "es": [
+            "SE REMOLCARÁ A LOS VEHÍCULOS NO AUTORIZADOS A COSTO DEL PROPIETARIO"
+        ],
+        "ru": [
+            "ТРАНСПОРТНЫЕ СРЕДСТВА БЕЗ РАЗРЕШЕНИЯ НА СТОЯНКУ БУДУТ ЭВАКУИРОВАНЫ ЗА СЧЕТ ВЛАДЕЛЬЦЕВ"
+        ],
+        "zh": [
+            "未经授权的车辆将被拖走，费用由车主承担"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

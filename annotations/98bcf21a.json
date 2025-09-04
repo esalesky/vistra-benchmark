@@ -1,0 +1,34 @@
+{
+    "image_file": "98bcf21a.png",
+    "transcript": [
+        "DO NOT THROW LITTER  $1000.00 FINE",
+        "DO NOT PASS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Keinen Müll wegwerfen 1000 Euro Strafe",
+            "Durchgang verboten"
+        ],
+        "es": [
+            "NO ARROJAR BASURA MULTA DE $1000",
+            "NO SOBREPASAR"
+        ],
+        "ru": [
+            "ВЫБРАСЫВАТЬ МУСОР ЗАПРЕЩЕНО ШТРАФ 1000 ДОЛЛАРОВ",
+            "ПРОХОД ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "不乱扔垃圾 罚款 1000 美元",
+            "禁止通行"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

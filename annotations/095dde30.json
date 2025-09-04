@@ -1,0 +1,39 @@
+{
+    "image_file": "095dde30.png",
+    "transcript": [
+        "PRIVATE PROPERTY",
+        "NO TRESPASSING",
+        "Violators Will Be Prosecuted"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Privatgrundstück",
+            "Zutritt verboten",
+            "Zuwiderhandlungen werden strafrechtlich verfolgt"
+        ],
+        "es": [
+            "PROPIEDAD PRIVADA",
+            "NO PASAR",
+            "Se sancionará a los infractores"
+        ],
+        "ru": [
+            "ЧАСТНАЯ ТЕРРИТОРИЯ",
+            "ПРОХОД ЗАПРЕЩЕН",
+            "Нарушители будут преследоваться по закону"
+        ],
+        "zh": [
+            "私人财产",
+            "非请莫入",
+            "违者严惩"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

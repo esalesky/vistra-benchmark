@@ -1,0 +1,34 @@
+{
+    "image_file": "d21ccd6d.png",
+    "transcript": [
+        "CAUTION",
+        "WIDE RIGHT TURNS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Vorsicht",
+            "Spurwechsel beim Rechtsabbiegen"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "GIROS ABIERTOS A LA DERECHA"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "ПОВОРОТ НЕГАБАРИТНЫХ АВТОМОБИЛЕЙ НАПРАВО"
+        ],
+        "zh": [
+            "小心",
+            "大右转弯"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

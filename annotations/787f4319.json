@@ -1,0 +1,34 @@
+{
+    "image_file": "787f4319.png",
+    "transcript": [
+        "SINGLE STREAM RECYCLING",
+        "CANS & BOTTLES, CARDBOARD AND MIXED PAPER"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Single-Stream-Recycling",
+            "Dosen und Flaschen, Pappe und Papier aller Art"
+        ],
+        "es": [
+            "RECICLAJE DE FLUJO ÚNICO",
+            "LATAS, BOTELLAS, CARTÓN Y PAPEL"
+        ],
+        "ru": [
+            "УТИЛИЗАЦИЯ С ОДИНОЧНЫМ ПОТОКОМ",
+            "БАНКИ И БУТЫЛКИ, КАРТОН И СМЕШАННАЯ БУМАГА"
+        ],
+        "zh": [
+            "单一回收",
+            "罐头和瓶子、纸板和混合纸"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

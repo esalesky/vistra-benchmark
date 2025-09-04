@@ -1,0 +1,34 @@
+{
+    "image_file": "d2d08ba3.png",
+    "transcript": [
+        "WELCOME!",
+        "Please keep visits brief so all may enjoy this space."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Willkommen!",
+            "Verweilen Sie nur kurz in diesem Raum, um Platz für andere Besucher zu machen."
+        ],
+        "es": [
+            "¡BIENVENIDO!",
+            "Limite el tiempo de su visita para que todos puedan disfrutar de este espacio."
+        ],
+        "ru": [
+            "ДОБРО ПОЖАЛОВАТЬ!",
+            "Постарайтесь сделать визит короче, чтобы все могли насладиться этим пространством."
+        ],
+        "zh": [
+            "欢迎！",
+            "请保持参观简短，以便所有人都能享受这个空间。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

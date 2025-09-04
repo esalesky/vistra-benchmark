@@ -1,0 +1,39 @@
+{
+    "image_file": "011c4e14.png",
+    "transcript": [
+        "CAUTION",
+        "PARKING LOT MAY BE SLIPPERY",
+        "WHEN ICY OR WET CONDITIONS EXIST"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "VORSICHT",
+            "GLÄTTEGEFAHR BEI",
+            "REGEN ODER SCHNEE"
+        ],
+        "es": [
+            "CUIDADO",
+            "ESTACIONAMIENTO RESBALADIZO",
+            "EN CONDICIONES DE HIELO O HUMEDAD"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "СКОЛЬЗКО",
+            "ВО ВРЕМЯ ДОЖДЯ ИЛИ ГОЛОЛЕДА"
+        ],
+        "zh": [
+            "小心",
+            "结冰或潮湿时",
+            "停车场可能湿滑"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

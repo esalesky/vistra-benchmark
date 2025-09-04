@@ -1,0 +1,34 @@
+{
+    "image_file": "888efb29.png",
+    "transcript": [
+        "KRAKEN HAZARD ZONE",
+        "IN CASE OF ATTACK, GO TO HIGH GROUND OR INLAND"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Krakengefahr",
+            "Bei einem Angriff Wasser verlassen"
+        ],
+        "es": [
+            "ZONA DE PELIGRO DE KRAKEN",
+            "EN CASO DE ATAQUE, DIRÍJASE A ZONAS ALTAS O LEJOS DEL AGUA."
+        ],
+        "ru": [
+            "ЗОНА АТАКИ МОРСКИХ ЖИВОТНЫХ",
+            "В СЛУЧАЕ АТАКИ ПОДНИМИТЕСЬ НА ВОЗВЫШЕННОСТЬ ИЛИ УЙДИТЕ КАК МОЖНО ДАЛЬШЕ ОТ БЕРЕГА"
+        ],
+        "zh": [
+            "海妖危险区",
+            "以防万一受到攻击，请到高地或内陆去"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

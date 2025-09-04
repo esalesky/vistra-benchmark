@@ -1,0 +1,44 @@
+{
+    "image_file": "2dbbb8f9.png",
+    "transcript": [
+        "ATTN: MARINA CUSTOMERS",
+        "For Your Safety & Protection of Your Vessel,",
+        "Please Make Sure",
+        "THE GATE IS CLOSED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung: Gäste der Marina",
+            "Stellen Sie zu Ihrer Sicherheit und zum Schutz",
+            "Ihres Bootes sicher, dass",
+            "das Tor geschlossen ist"
+        ],
+        "es": [
+            "ATTE: CLIENTES DE LA MARINA",
+            "Por su seguridad y la protección de su embarcación,",
+            "asegúrense de",
+            "CERRAR BIEN EL PORTÓN"
+        ],
+        "ru": [
+            "ВНИМАНИЕ: КЛИЕНТЫ КОМПАНИИ MARINA",
+            "Для обеспечения вашей безопасности и безопасности вашего судна",
+            "убедитесь в том, что",
+            "ВОРОТА ЗАКРЫТЫ"
+        ],
+        "zh": [
+            "注意：码头客户",
+            "为了您的安全和保护您的船舶，",
+            "请您确认",
+            "大门已关闭"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

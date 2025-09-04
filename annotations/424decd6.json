@@ -1,0 +1,39 @@
+{
+    "image_file": "424decd6.png",
+    "transcript": [
+        "EMERGENCY EXIT",
+        "PULL RED HANDLE DOWN",
+        "PUSH WINDOW OUT TO OPEN"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Notausgang",
+            "Roten Griff nach unten ziehen",
+            "Fenster zum Öffnen herausdrücken"
+        ],
+        "es": [
+            "SALIDA DE EMERGENCIA",
+            "TIRE LA MANIJA ROJA HACIA ABAJO",
+            "EMPUJE LA VENTANILLA PARA ABRIRLA"
+        ],
+        "ru": [
+            "АВАРИЙНЫЙ ВЫХОД",
+            "ПОТЯНИТЕ КРАСНУЮ РУКОЯТКУ ВНИЗ",
+            "НАЖМИТЕ НА ОКНО, ЧТОБЫ ОТКРЫТЬ ЕГО"
+        ],
+        "zh": [
+            "紧急出口",
+            "向下拉红色手柄",
+            "向外推窗户以打开"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

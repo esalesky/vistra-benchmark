@@ -1,0 +1,34 @@
+{
+    "image_file": "0d024231.png",
+    "transcript": [
+        "PLEASE PROTECT THE FORT!",
+        "DO NOT CLIMB ON THE EARTHWORKS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Schützen Sie die Festung!",
+            "Klettern Sie nicht auf die Erdwälle"
+        ],
+        "es": [
+            "¡PROTEJA EL FUERTE!",
+            "NO CAMINE POR LOS TERRAPLENES"
+        ],
+        "ru": [
+            "ПОМОГИТЕ НАМ ЗАЩИТИТЬ ФОРТ!",
+            "НЕ ВЗБИРАЙТЕСЬ НА ЗЕМЛЯНЫЕ СООРУЖЕНИЯ"
+        ],
+        "zh": [
+            "请保护堡垒!\n\n请保护堡垒！",
+            "不要爬上土方工程"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "no"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "cbf25349.png",
+    "transcript": [
+        "FIRE EXTINGUISHER INSIDE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Feuerlöscher im Inneren"
+        ],
+        "es": [
+            "EXTINTOR DE INCENCIOS DENTRO"
+        ],
+        "ru": [
+            "ОГНЕТУШИТЕЛЬ ВНУТРИ"
+        ],
+        "zh": [
+            "内有灭火器"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

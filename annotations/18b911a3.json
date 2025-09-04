@@ -1,0 +1,54 @@
+{
+    "image_file": "18b911a3.png",
+    "transcript": [
+        "TOW AWAY",
+        "NO PARKING OR STANDING",
+        "7 AM-9:30AM",
+        "4 PM-6:30PM",
+        "MONDAY-FRIDAY",
+        "IF TOWED CALL 311"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Hier wird abgeschleppt",
+            "Absolutes Park- und Halteverbot",
+            "7:00 bis 9:30 Uhr",
+            "16:00 bis 18:30 Uhr",
+            "Montag bis Freitag",
+            "Bei abgeschlepptem Fahrzeug wählen Sie 311"
+        ],
+        "es": [
+            "REMOLQUE",
+            "NO ESTACIONAR NI DETENERSE",
+            "7:00 a. m.-9:30 p. m.",
+            "4:00 p. m.-6:30 a. m.",
+            "LUNES A VIERNES",
+            "EN CASO DE REMOLQUE LLAME AL 311"
+        ],
+        "ru": [
+            "РАБОТАЕТ ЭВАКУАТОР",
+            "ОСТАНОВКА И ПАРКОВКА ЗАПРЕЩЕНЫ",
+            "07:00-09:30",
+            "16:00-18:30",
+            "С ПОНЕДЕЛЬНИКА ПО ПЯТНИЦУ",
+            "ЕСЛИ ВАШ АВТОМОБИЛЬ ЭВАКУИРОВАЛИ, ПОЗВОНИТЕ ПО ТЕЛЕФОНУ 311"
+        ],
+        "zh": [
+            "拖车移走",
+            "禁止停车或站立",
+            "早上 7-9:30",
+            "下午 4-6:30",
+            "周一至周五",
+            "如果车辆被拖走，请致电 311"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

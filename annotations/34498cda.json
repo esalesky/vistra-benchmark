@@ -1,0 +1,39 @@
+{
+    "image_file": "34498cda.png",
+    "transcript": [
+        "In Case Of Fire",
+        "Elevators Are Out Of Service",
+        "Use Exit"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Im Brandfall",
+            "sind die Aufzüge außer Betrieb",
+            "Benutzen Sie die Treppen"
+        ],
+        "es": [
+            "En caso de incendio",
+            "los elevadores quedan fuera de servicio",
+            "Use la salida"
+        ],
+        "ru": [
+            "В случае пожара",
+            "Лифты не будут работать",
+            "Воспользуйтесь выходом"
+        ],
+        "zh": [
+            "万一发生火灾",
+            "电梯将停止服务",
+            "使用出口"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

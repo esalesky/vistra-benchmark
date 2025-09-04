@@ -1,0 +1,34 @@
+{
+    "image_file": "6c8d2e05.png",
+    "transcript": [
+        "SLOW",
+        "PEDESTRIAN CROSSING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Langsam",
+            "Fußgängerübergang"
+        ],
+        "es": [
+            "DESPACIO",
+            "CRUCE PEATONAL"
+        ],
+        "ru": [
+            "СБАВЬТЕ СКОРОСТЬ",
+            "ПЕШЕХОДНЫЙ ПЕРЕХОД"
+        ],
+        "zh": [
+            "慢行",
+            "人行横道"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

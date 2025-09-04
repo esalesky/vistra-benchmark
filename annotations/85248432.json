@@ -1,0 +1,34 @@
+{
+    "image_file": "85248432.png",
+    "transcript": [
+        "WASTE",
+        "HOPEFULLY NOTHING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "MÜLL",
+            "EIMER"
+        ],
+        "es": [
+            "RESIDUOS",
+            "ESPERAMOS QUE NO TENGA"
+        ],
+        "ru": [
+            "МУСОР",
+            "НАДЕЕМСЯ, ЕГО НЕ БУДЕТ"
+        ],
+        "zh": [
+            "废物",
+            "希望没有什么"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

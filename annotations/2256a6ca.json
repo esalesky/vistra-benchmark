@@ -1,0 +1,44 @@
+{
+    "image_file": "2256a6ca.png",
+    "transcript": [
+        "MetroCard Only",
+        "Get Ticket Here For M86 SBS",
+        "Before You Board Bus",
+        "MTA + selectbusservice"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nur MetroCard",
+            "Ticket für M86 SBS hier erhältlich",
+            "Vor Besteigen des Busses",
+            "MTA + selectbusservice"
+        ],
+        "es": [
+            "Solo MetroCard",
+            "Compre los billetes aquí para M86 SBS",
+            "Antes de abordar el bus",
+            "MTA +selectbusservice"
+        ],
+        "ru": [
+            "Только карты MetroCard",
+            "Купите билет на M86 SBS здесь",
+            "Перед посадкой на автобус",
+            "MTA + некоторые операторы транспортных перевозок"
+        ],
+        "zh": [
+            "仅限捷运卡",
+            "上车前",
+            "在这里买 M86 SBS 的票",
+            "MTA + selectbusservice"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

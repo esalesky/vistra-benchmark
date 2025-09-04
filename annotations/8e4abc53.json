@@ -1,0 +1,34 @@
+{
+    "image_file": "8e4abc53.png",
+    "transcript": [
+        "please secure your valuables",
+        "Movement is not responsible for lost or stolen items."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achten Sie auf Ihre Wertsachen",
+            "Movement ist für verlorene oder gestohlene Gegenstände nicht verantwortlich."
+        ],
+        "es": [
+            "Asegure sus pertenencias.",
+            "Movement no se hace responsable por la pérdida o el robo de artículos."
+        ],
+        "ru": [
+            "положите ценные вещи в надежное место",
+            "Движение не несет ответственности за потерянные или украденные вещи."
+        ],
+        "zh": [
+            "请保管好贵重物品",
+            "移动造成物品丢失或被盗，概不负责。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

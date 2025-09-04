@@ -1,0 +1,29 @@
+{
+    "image_file": "f6981b1b.png",
+    "transcript": [
+        "Please See Hostess Inside for Outside Seating"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Für Plätze auf unserer Außenterrasse wenden Sie sich an einen Mitarbeiter"
+        ],
+        "es": [
+            "Consulte a la anfitriona dentro para sentarse en el exterior"
+        ],
+        "ru": [
+            "Чтобы занять столик снаружи, обратитесь к хозяйке внутри"
+        ],
+        "zh": [
+            "使用外面的座位请找里面的女主人"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

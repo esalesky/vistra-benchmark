@@ -1,0 +1,29 @@
+{
+    "image_file": "c79d6afa.png",
+    "transcript": [
+        "SPEED LIMIT 5 MPH"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Schrittgeschwindigkeit"
+        ],
+        "es": [
+            "LÍMITE DE VELOCIDAD 5 MPH"
+        ],
+        "ru": [
+            "ОГРАНИЧЕНИЕ СКОРОСТИ 5 МИЛЬ В ЧАС"
+        ],
+        "zh": [
+            "限速 5 英里/小时"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

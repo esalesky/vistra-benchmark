@@ -1,0 +1,34 @@
+{
+    "image_file": "22ad69ea.png",
+    "transcript": [
+        "CAUTION:",
+        "Slippery When Wet or Icy"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rutschgefahr",
+            "bei Regen oder Glätte"
+        ],
+        "es": [
+            "PRECAUCIÓN:",
+            "Resbaladizo cuando está húmedo o helado"
+        ],
+        "ru": [
+            "ВНИМАНИЕ:",
+            "Скользкая поверхность во время дождя и гололеда"
+        ],
+        "zh": [
+            "注意：",
+            "湿润或结冰时会湿滑"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

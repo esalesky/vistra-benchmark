@@ -1,0 +1,34 @@
+{
+    "image_file": "ebe86086.png",
+    "transcript": [
+        "SCHOOL",
+        "SPEED LIMIT 20"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Schule",
+            "Maximal 30 km/h"
+        ],
+        "es": [
+            "ESCUELA",
+            "VELOCIDAD MÁXIMA 20"
+        ],
+        "ru": [
+            "ШКОЛА",
+            "ОГРАНИЧЕНИЕ СКОРОСТИ 20"
+        ],
+        "zh": [
+            "学校",
+            "限速 20"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

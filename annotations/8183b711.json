@@ -1,0 +1,29 @@
+{
+    "image_file": "8183b711.png",
+    "transcript": [
+        "ONE DOES NOT SIMPLY WALK INTO MORDOR"
+    ],
+    "category": null,
+    "height": 604,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Man geht nicht einfach nach Mordor"
+        ],
+        "es": [
+            "UNO NO SE TOPA CON MORDOR SOLO DE CASUALIDAD"
+        ],
+        "ru": [
+            "ОН НЕ ПРОСТО ПРИХОДИТ В МОРДОР"
+        ],
+        "zh": [
+            "一个人不会轻易走进魔门"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

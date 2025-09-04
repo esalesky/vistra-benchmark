@@ -1,0 +1,34 @@
+{
+    "image_file": "e29265c8.png",
+    "transcript": [
+        "CONSTRUCTION PERSONNEL ONLY",
+        "HARD HATS & SAFETY GLASSES REQUIRED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nur Baupersonal",
+            "Schutzhelme und Schutzbrillen erforderlich"
+        ],
+        "es": [
+            "SOLO PERSONAL DE CONSTRUCCIÓN",
+            "SE REQUIEREN CASCOS Y GAFAS PROTECTORAS"
+        ],
+        "ru": [
+            "ВХОД ТОЛЬКО ДЛЯ ПЕРСОНАЛА СТРОИТЕЛЬНОЙ ПЛОЩАДКИ",
+            "КАСКИ И ЗАЩИТНЫЕ ОЧКИ ОБЯЗАТЕЛЬНЫ"
+        ],
+        "zh": [
+            "仅限施工人员使用",
+            "需要戴安全帽和安全眼镜"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "2d591045.png",
+    "transcript": [
+        "ALL TRAFFIC MUST TURN RIGHT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rechtsabbiegen für gesamten Verkehr obligatorisch"
+        ],
+        "es": [
+            "TODO EL TRÁFICO DEBE GIRAR A LA DERECHA"
+        ],
+        "ru": [
+            "ВСЕ АВТОМОБИЛИ ДОЛЖНЫ ПОВОРАЧИВАТЬ НАПРАВО"
+        ],
+        "zh": [
+            "所有车辆必须右转"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

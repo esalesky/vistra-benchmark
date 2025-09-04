@@ -1,0 +1,34 @@
+{
+    "image_file": "ea4bde19.png",
+    "transcript": [
+        "NY STATE LAW",
+        "NO TRUCKS ON PARKWAYS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gesetz des Staates New York",
+            "LKW-Verbot auf Parkstreifen"
+        ],
+        "es": [
+            "LEY ESTATAL DE NY",
+            "PROHIBIDO CAMIONES EN AUTOPISTAS"
+        ],
+        "ru": [
+            "ЗАКОН ШТАТА НЬЮ-ЙОРК",
+            "ПРОЕЗД ГРУЗОВИКОВ ПО ПАРКОВЫМ ДОРОГАМ ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "纽约州法律",
+            "公路上禁止卡车通行"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

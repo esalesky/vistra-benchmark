@@ -1,0 +1,34 @@
+{
+    "image_file": "9a3fa50b.png",
+    "transcript": [
+        "FISHERMAN PARKING ONLY.",
+        "ACTIVE WORK ZONE."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parken nur für Fischer.",
+            "Baustelle."
+        ],
+        "es": [
+            "ESTACIONAMIENTO EXCLUSIVO PESCADORES.",
+            "ZONA DE OBRAS ACTIVAS."
+        ],
+        "ru": [
+            "ПАРКОВКА ТОЛЬКО ДЛЯ РЫБАКОВ.",
+            "ЗОНА ПРОВЕДЕНИЯ РАБОТ."
+        ],
+        "zh": [
+            "只供渔民停车。",
+            "活跃的工作区。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

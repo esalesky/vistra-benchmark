@@ -1,0 +1,34 @@
+{
+    "image_file": "27116dc4.png",
+    "transcript": [
+        "FIRE EXIT",
+        "PLEASE KEEP CLEAR"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Notausgang",
+            "Freihalten"
+        ],
+        "es": [
+            "SALIDA DE INCENDIOS",
+            "MANTENER DESPEJADO"
+        ],
+        "ru": [
+            "ПОЖАРНЫЙ ВЫХОД",
+            "НЕ ЗАГОРАЖИВАТЬ"
+        ],
+        "zh": [
+            "安全出口",
+            "请保持畅通"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

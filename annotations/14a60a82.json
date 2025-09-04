@@ -1,0 +1,34 @@
+{
+    "image_file": "14a60a82.png",
+    "transcript": [
+        "NO FLASH PHOTOGRAPHY",
+        "QUIET PLEASE"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Fotografieren mit Blitzlicht verboten",
+            "Ruhe bitte"
+        ],
+        "es": [
+            "FOTOS SIN FLASH",
+            "HAGA SILENCIO"
+        ],
+        "ru": [
+            "ФОТОГРАФИЯ СО ВСПЫШКОЙ ЗАПРЕЩЕНА",
+            "СОБЛЮДАЙТЕ ТИШИНУ"
+        ],
+        "zh": [
+            "请勿使用闪光灯",
+            "请安静"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "b19864bf.png",
+    "transcript": [
+        "WALK BIKES ACROSS BRIDGE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Fahrräder über die Brücke schieben"
+        ],
+        "es": [
+            "CAMINE JUNTO A SU BICICLETA EN EL PUENTE"
+        ],
+        "ru": [
+            "ВЛАДЕЛЬЦЫ ВЕЛОСИПЕДОВ ДОЛЖНЫ ПРОХОДИТЬ С НИМИ ПО МОСТУ ПЕШКОМ"
+        ],
+        "zh": [
+            "骑自行车过桥"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

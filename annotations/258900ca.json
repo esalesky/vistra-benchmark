@@ -1,0 +1,39 @@
+{
+    "image_file": "258900ca.png",
+    "transcript": [
+        "HANDICAPPED PARKING",
+        "PERMIT REQUIRED",
+        "VIOLATORS WILL BE FINED MIN $150"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Behindertenparkplatz",
+            "Behindertenausweis erforderlich",
+            "Verstöße werden mit mindestens 150 Euro geahndet"
+        ],
+        "es": [
+            "ESTACIONAMIENTO DISCAPACITADOS",
+            "SE REQUIERE PERMISO",
+            "MULTA PARA INFRACTORES $150 MÍN."
+        ],
+        "ru": [
+            "ПАРКОВКА ДЛЯ ИНВАЛИДОВ",
+            "ТРЕБУЕТСЯ РАЗРЕШЕНИЕ",
+            "НАРУШИТЕЛИ БУДУТ ОШТРАФОВАНЫ НА СУММУ НЕ МЕНЕЕ 150 ДОЛЛАРОВ"
+        ],
+        "zh": [
+            "残疾人停车位",
+            "需要许可",
+            "违反者将被处以 150 美元以下的罚款"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

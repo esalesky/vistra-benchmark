@@ -1,0 +1,34 @@
+{
+    "image_file": "442b155d.png",
+    "transcript": [
+        "RIGHT LANE",
+        "BUSES BIKES ONLY ALL TIMES"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rechte Spur",
+            "Nur Busse und Fahrräder"
+        ],
+        "es": [
+            "CARRIL DERECHO",
+            "SOLO BICICLETAS Y BUSES EN TODO MOMENTO"
+        ],
+        "ru": [
+            "ПРАВАЯ ПОЛОСА",
+            "РАЗРЕШЕНО ДВИЖЕНИЕ ТОЛЬКО АВТОБУСОВ И ВЕЛОСИПЕДОВ ВСЕГДА"
+        ],
+        "zh": [
+            "右车道",
+            "所有时间仅允许公共汽车和自行车通行"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

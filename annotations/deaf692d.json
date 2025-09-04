@@ -1,0 +1,29 @@
+{
+    "image_file": "deaf692d.png",
+    "transcript": [
+        "PLEASE DO NOT SIT ON STEPS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Sitzen auf der Treppe verboten"
+        ],
+        "es": [
+            "NO SENTARSE EN LAS ESCALERAS"
+        ],
+        "ru": [
+            "НЕ СИДИТЕ НА СТУПЕНЬКАХ"
+        ],
+        "zh": [
+            "请不要坐在台阶上"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "c4e585a8.png",
+    "transcript": [
+        "Crossbar",
+        "THIS WAY FOR THE FRESHEST (AND BEST) COFFEE IN THE NEIGHBORHOOD"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Crossbar",
+            "Hier bekommen Sie den frischesten und (besten) Kaffee im gesamten Viertel."
+        ],
+        "es": [
+            "Crossbar",
+            "POR AQUÍ PARA CONSEGUIR EL CAFÉ MÁS FRESCO (Y MEJOR) DEL BARRIO"
+        ],
+        "ru": [
+            "Crossbar",
+            "ПУТЬ К САМОМУ СВЕЖЕМУ (И САМОМУ ЛУЧШЕМУ) КОФЕ В ОКРУГЕ"
+        ],
+        "zh": [
+            "横木",
+            "这样可以在附近找到最新鲜（也是最好）的咖啡"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "2392adcd.png",
+    "transcript": [
+        "PLEASE BE A GOOD NEIGHBOR",
+        "CLEAN UP AFTER YOUR DOG"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Entfernen Sie als guter Nachbar",
+            "die Hinterlassenschaften Ihres Hundes"
+        ],
+        "es": [
+            "SEA UN BUEN VECINO",
+            "LIMPIE LO QUE HACE SU PERRO"
+        ],
+        "ru": [
+            "УВАЖАЙТЕ СОСЕДЕЙ",
+            "УБИРАЙТЕ ЗА СОБАКОЙ"
+        ],
+        "zh": [
+            "请做个好邻居",
+            "及时清理狗的粪便"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

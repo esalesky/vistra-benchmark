@@ -1,0 +1,64 @@
+{
+    "image_file": "ac4e5a8c.png",
+    "transcript": [
+        "All pets must be on a leash",
+        "Please clean up after your pet",
+        "The Clean Solution to Dog Pollution",
+        "DOGI POT",
+        "COURTESY",
+        "LITTER BAGS",
+        "HOW TO USE DOGIPOT",
+        "LITTER BAGS PLEASE CLEAN UP AFTER YOUR DOG!"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Leinenpflicht",
+            "Entfernen Sie die Hinterlassenschaften Ihres Hundes",
+            "Die saubere Lösung für Hundefäkalien",
+            "DOGI POT",
+            "Nehmen Sie Rücksicht",
+            "Müllbeutel",
+            "So verwenden Sie DOGIPOT",
+            "Müllbeutel Entfernen Sie die Hinterlassenschaften Ihres Hundes"
+        ],
+        "es": [
+            "Lleve a su mascota con correa",
+            "Limpie lo que hace su mascota",
+            "La solución limpia para la polución canina",
+            "DOGI POT",
+            "BOLSITAS DE",
+            "CORTESÍA",
+            "CÓMO USAR DOGIPOT",
+            "BOLSITAS DE RESIDUOS LIMPIE LO QUE HACE SU PERRO"
+        ],
+        "ru": [
+            "Все домашние животные должны быть на поводках",
+            "Убирайте за домашними животными",
+            "Чистое решение для владельцев домашних животных",
+            "DOGI POT",
+            "ВЕЖЛИВОСТЬ",
+            "МУСОРНЫЕ ПАКЕТЫ",
+            "КАК ПОЛЬЗОВАТЬСЯ DOGI POT",
+            "ПАКЕТЫ ДЛЯ ЭКСКРЕМЕНТОВ УБИРАЙТЕ ЗА СОБАКОЙ!"
+        ],
+        "zh": [
+            "所有宠物都必须拴上皮带",
+            "请清理你宠物的粪便",
+            "狗污染的清洁解决方案",
+            "小狗罐子",
+            "礼貌",
+            "废物袋",
+            "如何使用小狗罐子",
+            "废物袋 请把狗的粪便清理干净！"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

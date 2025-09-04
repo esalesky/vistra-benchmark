@@ -1,0 +1,39 @@
+{
+    "image_file": "fadcb1d9.png",
+    "transcript": [
+        "NO SKATEBOARDING",
+        "NO BICYCLE RIDING",
+        "NO ROLLERBLADING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Skateboard-Fahren verboten",
+            "Fahrradfahren verboten",
+            "Rollschuhfahren verboten"
+        ],
+        "es": [
+            "NO ANDAR EN SKATE",
+            "NO ANDAR EN BICICLETA",
+            "NO ANDAR EN PATINES"
+        ],
+        "ru": [
+            "КАТАНИЕ НА СКЕЙТБОРДЕ ЗАПРЕЩЕНО",
+            "КАТАНИЕ НА ВЕЛОСИПЕДЕ ЗАПРЕЩЕНО",
+            "КАТАНИЕ НА РОЛИКАХ ЗАПРЕЩЕНО"
+        ],
+        "zh": [
+            "禁止滑板",
+            "禁止骑行",
+            "禁止轮滑"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

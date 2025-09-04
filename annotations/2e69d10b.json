@@ -1,0 +1,54 @@
+{
+    "image_file": "2e69d10b.png",
+    "transcript": [
+        "Park Guidelines",
+        "Please respect your National Monuments, Memorials, and Museums.",
+        "No Skateboarding",
+        "Keep Pets on Leash",
+        "Do Not Feed the Wildlife",
+        "No Alcohol Beyond this Point"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Im Park geltende Richtlinien",
+            "Schützen Sie Ihre nationalen Denkmäler, Gedenkstätten und Museen.",
+            "Skateboard-Fahren verboten",
+            "Leinenpflicht",
+            "Wildtiere nicht füttern",
+            "Kein Alkohol im Park"
+        ],
+        "es": [
+            "Normas del parque",
+            "Respete los monumentos nacionales, memoriales y museos.",
+            "No se permite andar en skate",
+            "Lleve su mascota con correa",
+            "No alimente a la fauna silvestre",
+            "No se permiten bebidas alcohólicas a partir de aquí"
+        ],
+        "ru": [
+            "Правила поведения в парке",
+            "Уважайте национальные памятники, мемориалы и музеи.",
+            "Катание на скейтборде запрещено",
+            "Держите животных на поводке",
+            "Не кормите диких животных",
+            "Употребление алкоголя запрещено"
+        ],
+        "zh": [
+            "游园准则",
+            "请尊重国家纪念碑、纪念馆和博物馆。",
+            "禁止滑板",
+            "用皮带拴住宠物",
+            "不投喂野生动物",
+            "停止喝酒"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

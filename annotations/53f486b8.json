@@ -1,0 +1,29 @@
+{
+    "image_file": "53f486b8.png",
+    "transcript": [
+        "STAY IN LANE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Spur halten"
+        ],
+        "es": [
+            "MANTENGA SU CARRIL"
+        ],
+        "ru": [
+            "ДЕРЖИТЕСЬ ПОЛОСЫ"
+        ],
+        "zh": [
+            "分道行驶"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

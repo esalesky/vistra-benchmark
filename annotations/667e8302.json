@@ -1,0 +1,34 @@
+{
+    "image_file": "667e8302.png",
+    "transcript": [
+        "STOP!",
+        "WATCH FOR BIKE LANE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "STOPP",
+            "Vorsicht Radweg"
+        ],
+        "es": [
+            "PARE",
+            "CUIDADO CON LA CICLOVÍA"
+        ],
+        "ru": [
+            "СТОП",
+            "ВПЕРЕДИ ВЕЛОСИПЕДНАЯ ДОРОЖКА"
+        ],
+        "zh": [
+            "停止！",
+            "注意自行车道"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

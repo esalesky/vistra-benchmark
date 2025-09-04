@@ -1,0 +1,34 @@
+{
+    "image_file": "f32861ed.png",
+    "transcript": [
+        "NO ENTRY",
+        "PLEASE USE THE MAIN ENTRANCE"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Kein Eingang",
+            "Benutzen Sie den Haupteingang"
+        ],
+        "es": [
+            "NO INGRESAR",
+            "USE LA ENTRADA PRINCIPAL"
+        ],
+        "ru": [
+            "ВХОДА НЕТ",
+            "ИСПОЛЬЗУЙТЕ ГЛАВНЫЙ ВХОД"
+        ],
+        "zh": [
+            "禁止入内",
+            "请走正门"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

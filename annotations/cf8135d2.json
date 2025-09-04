@@ -1,0 +1,29 @@
+{
+    "image_file": "cf8135d2.png",
+    "transcript": [
+        "END SCHOOL ZONE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Ende des Schulbereichs"
+        ],
+        "es": [
+            "FIN ZONA ESCOLAR"
+        ],
+        "ru": [
+            "КОНЕЦ ШКОЛЬНОЙ ЗОНЫ"
+        ],
+        "zh": [
+            "校区界终止"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

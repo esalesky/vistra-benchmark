@@ -1,0 +1,34 @@
+{
+    "image_file": "04aee69f.png",
+    "transcript": [
+        "WARNING",
+        "Storage not permitted in this area."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "WARNUNG",
+            "Lagerung in diesem Bereich verboten."
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "No se permite usar esta área como almacenamiento."
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "Хранить предметы запрещено."
+        ],
+        "zh": [
+            "警告",
+            "此处不可存放物品。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "no"
+    }
+}

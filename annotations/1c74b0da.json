@@ -1,0 +1,29 @@
+{
+    "image_file": "1c74b0da.png",
+    "transcript": [
+        "Collect Your Delivery Order HERE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Ihr Lieferschein befindet sich HIER"
+        ],
+        "es": [
+            "Recoja su pedido AQUÍ"
+        ],
+        "ru": [
+            "Заберите доставленный заказ ЗДЕСЬ"
+        ],
+        "zh": [
+            "在这里领取您的送货单"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

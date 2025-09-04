@@ -1,0 +1,34 @@
+{
+    "image_file": "ad8ea95f.png",
+    "transcript": [
+        "CUSTOMER PARKING ONLY",
+        "VIOLATORS WILL BE TOWED AWAY AT VEHICLE OWNER'S EXPENSE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nur Kundenparkplatz",
+            "Bei Verstößen werden die Fahrzeuge kostenpflichtig abgeschleppt"
+        ],
+        "es": [
+            "ESTACIONAMIENTO EXCLUSIVO CLIENTES",
+            "SE REMOLCARÁ A LOS INFRACTORES A COSTO DEL PROPIETARIO DEL VEHÍCULO"
+        ],
+        "ru": [
+            "ПАРКОВКА ТОЛЬКО ДЛЯ КЛИЕНТОВ",
+            "ТРАНСПОРТНЫЕ СРЕДСТВА НАРУШИТЕЛЕЙ БУДУТ ЭВАКУИРОВАНЫ ЗА СЧЕТ ВЛАДЕЛЬЦЕВ"
+        ],
+        "zh": [
+            "只供顾客泊车",
+            "违规者将被拖走，费用由车主承担"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

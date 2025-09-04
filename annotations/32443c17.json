@@ -1,0 +1,39 @@
+{
+    "image_file": "32443c17.png",
+    "transcript": [
+        "IN CASE OF EMERGENCY LIFT COVER - PUSH BUTTON",
+        "EXIT",
+        "DynaLock Corp"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Im Notfall Abdeckung öffnen - Knopf drücken",
+            "Ausgang",
+            "DynaLock Corp"
+        ],
+        "es": [
+            "EN CASO DE EMERGENCIA LEVANTE LA CUBIERTA - PULSE EL BOTÓN",
+            "SALIDA",
+            "DynaLock Corp"
+        ],
+        "ru": [
+            "В СЛУЧАЕ ОПАСНОСТИ ПОДНИМИТЕ КРЫШКУ И НАЖМИТЕ КНОПКУ",
+            "ВЫХОД",
+            "DynaLock Corp"
+        ],
+        "zh": [
+            "紧急情况下掀起盖子 - 按下按钮",
+            "出口",
+            "DynaLock 公司"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

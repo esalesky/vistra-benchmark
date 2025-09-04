@@ -1,0 +1,34 @@
+{
+    "image_file": "d5be3d94.png",
+    "transcript": [
+        "BICYCLE/MOTORCYCLE HOLDING AREA",
+        "STOP HERE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Wartebereich für Fahrräder/Motorräder",
+            "Hier anhalten"
+        ],
+        "es": [
+            "ZONA DE ESPERA PARA BICICLETAS/MOTOCICLETAS",
+            "PARE AQUÍ"
+        ],
+        "ru": [
+            "ЗОНА НАХОЖДЕНИЯ ВЕЛОСИПЕДОВ/МОТОЦИКЛОВ",
+            "ОСТАНОВИТЕСЬ ЗДЕСЬ"
+        ],
+        "zh": [
+            "自行车/摩托车停放区",
+            "到此为止"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

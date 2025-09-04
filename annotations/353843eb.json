@@ -1,0 +1,84 @@
+{
+    "image_file": "353843eb.png",
+    "transcript": [
+        "fitness area",
+        "RULES & REGULATIONS",
+        "No one under the age of 13 is allowed in the fitness area.",
+        "Closed-toe shoes are required on cardio equipment.",
+        "Limit time on treadmills to 30 minutes during peak hours.",
+        "Only drinks in closed containers allowed. No cans.",
+        "Refrain from dropping weights.",
+        "Please re-rack all weights after completed exercise.",
+        "Please wipe down equipment after each use.",
+        "Please be mindful and courteous of others.",
+        "Do not enter when class is in session.",
+        "It is the responsibility of the user to seek proper training before using equipment."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Fitnessbereich",
+            "Regeln und Vorschriften",
+            "Personen unter 13 Jahren dürfen den Fitnessbereich nicht betreten.",
+            "An den Kardiogeräten müssen geschlossene Schuhe getragen werden.",
+            "Nutzen Sie die Laufbänder während der Stoßzeiten maximal 30 Minuten.",
+            "Nur Getränke in geschlossenen Behältern sind erlaubt. Keine Dosen.",
+            "Lassen Sie keine Gewichte fallen.",
+            "Legen Sie alle Gewichte nach dem Training an den dafür vorgesehenen Platz zurück.",
+            "Wischen Sie die Geräte nach Benutzung ab.",
+            "Gehen Sie respektvoll und höflich miteinander um.",
+            "Betreten Sie den Raum nicht, wenn Unterricht stattfindet.",
+            "Es liegt in der Verantwortung des Benutzers, sich vor der Benutzung mit dem jeweiligen Gerät vertraut zu machen."
+        ],
+        "es": [
+            "Zona de entrenamiento",
+            "NORMAS Y REGULACIONES",
+            "No se permiten menores de 13 años en esta zona.",
+            "Se requiere el uso de calzado cerrado en las máquinas de cardio.",
+            "Limita el uso de las caminadoras a 30 minutos en las horas pico.",
+            "Solo bebidas en contenedores cerrados. No se permiten latas.",
+            "No dejes caer las pesas.",
+            "Vuelve a colocar todas las pesas en su lugar al finalizar el ejercicio.",
+            "Pasa un paño por los equipos después de usarlos.",
+            "Sé respetuoso y amable con los demás.",
+            "No ingreses cuando la clase está iniciada.",
+            "Es responsabilidad del usuario tener la capacitación adecuada antes de usar los equipos."
+        ],
+        "ru": [
+            "зона фитнеса",
+            "ПРАВИЛА И ОГРАНИЧЕНИЯ",
+            "В зоне фитнеса не могут находиться дети младше 13 лет.",
+            "При занятиях на кардиотренажерах необходимо использовать обувь с закрытыми носками.",
+            "Время на беговой дорожке в часы с наибольшим количеством посетителей ограничено 30 минутами.",
+            "Разрешается проносить только напитки в закрытых контейнерах. Напитки в банках проносить запрещается.",
+            "Не бросайте блины и гантели.",
+            "Повесьте блины и положите гантели на стойки после выполнения упражнения.",
+            "Протирайте тренажеры после каждого использования.",
+            "Будьте внимательны и вежливы по отношению к другим.",
+            "Не входите в зону во время групповых занятий.",
+            "Пользователь обязан пройти соответствующее обучение перед началом занятий на тренажерах."
+        ],
+        "zh": [
+            "健身区",
+            "规则和规定",
+            "13 岁以下不得进入健身区。",
+            "在做有氧运动的时候需要穿闭趾鞋。",
+            "高峰时段，限制在跑步机上的时间为 30 分钟。",
+            "只允许使用密闭容器饮用。禁止罐装饮料。",
+            "不要丢弃重物。",
+            "完成训练后，请重新进行负重训练。",
+            "每次使用后请将设备擦拭干净。",
+            "请注意并礼貌对待他人。",
+            "上课期间请勿进入教室。",
+            "用户有责任在使用设备前进行适当的培训。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

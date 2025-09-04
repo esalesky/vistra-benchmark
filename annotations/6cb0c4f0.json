@@ -1,0 +1,49 @@
+{
+    "image_file": "6cb0c4f0.png",
+    "transcript": [
+        "MANUAL DOOR RELEASE",
+        "BREAK WINDOW",
+        "PULL RED HANDLE",
+        "PUSH DOOR TO OPEN",
+        "EXIT DOOR"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Manuelle Türentriegelung",
+            "Fenster einschlagen",
+            "Roten Griff ziehen",
+            "Zum Öffnen gegen Tür drücken",
+            "Ausgang"
+        ],
+        "es": [
+            "APERTURA MANUAL DE PUERTAS",
+            "ROMPA EL VIDRIO",
+            "TIRE DE LA MANIJA ROJA",
+            "EMPUJE LA PUERTA PARA ABRIR",
+            "PUERTA DE SALIDA"
+        ],
+        "ru": [
+            "РУЧНОЕ ОТКРЫВАНИЕ ДВЕРИ",
+            "РАЗБЕЙТЕ ОКНО",
+            "ПОТЯНИТЕ КРАСНУЮ РУКОЯТКУ",
+            "ТОЛКНИТЕ ДВЕРЬ, ЧТОБЫ ОТКРЫТЬ ЕЕ",
+            "АВАРИЙНЫЙ ВЫХОД"
+        ],
+        "zh": [
+            "手动开门",
+            "破窗",
+            "拉动红色把手",
+            "推门以打开",
+            "出口门"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "c337977c.png",
+    "transcript": [
+        "PLEASE DO NOT TOUCH THE WORKS OF ART",
+        "Photography Allowed (except where noted)"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Die Kunstwerke bitte nicht berühren",
+            "Fotografieren gestattet (wenn nicht anders angegeben)"
+        ],
+        "es": [
+            "NO TOQUE LAS OBRAS DE ARTE",
+            "Se permite tomar fotos (excepto donde se indique lo contrario)"
+        ],
+        "ru": [
+            "НЕ КАСАЙТЕСЬ ПРЕДМЕТОВ ИСКУССТВА",
+            "Фотографировать экспонаты разрешено (за исключением тех случаев, где это отмечено отдельно)"
+        ],
+        "zh": [
+            "请不要触摸这些艺术品",
+            "允许摄影（特别注明的除外）"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

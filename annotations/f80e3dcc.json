@@ -1,0 +1,39 @@
+{
+    "image_file": "f80e3dcc.png",
+    "transcript": [
+        "Welcome Back",
+        "Thank You For Practicing Physical Distancing",
+        "STAY 6 FEET APART"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Willkommen",
+            "Danke, dass Sie die Abstände einhalten",
+            "2,40 m"
+        ],
+        "es": [
+            "Qué gusto vernos de nuevo",
+            "Gracias por respetar el distanciamiento social",
+            "MANTÉNGASE A 6 PIES DE DISTANCIA"
+        ],
+        "ru": [
+            "Добро пожаловать обратно",
+            "Спасибо, что соблюдаете социальную дистанцию",
+            "ПОДДЕРЖИВАЙТЕ РАССТОЯНИЕ В 6 ФУТОВ"
+        ],
+        "zh": [
+            "欢迎回来",
+            "谢谢您保持身体距离",
+            "保持 6 英尺的距离"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

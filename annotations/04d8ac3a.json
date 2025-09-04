@@ -1,0 +1,44 @@
+{
+    "image_file": "04d8ac3a.png",
+    "transcript": [
+        "No Signal",
+        "1. Please check the input cable connection",
+        "2. Please check the power status of connected device",
+        "3. Press key on remote, and check the input device"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Kein Signal",
+            "1. Überprüfen Sie den Anschluss des Eingangskabels",
+            "2. Überprüfen Sie, ob das angeschlossene Gerät mit Strom versorgt wird",
+            "3. Drücken Sie eine Taste auf der Fernbedienung und überprüfen Sie das Eingabegerät"
+        ],
+        "es": [
+            "Sin señal",
+            "1. Compruebe la conexión del cable de entrada.",
+            "2. Compruebe el estado de energía del dispositivo conectado.",
+            "3. Pulse la tecla [X] del control remoto y compruebe el dispositivo de entrada."
+        ],
+        "ru": [
+            "Нет сигнала",
+            "1. Проверьте подключение входного кабеля",
+            "2. Проверьте питание подключенного устройства",
+            "3. Нажмите кнопку на пульте дистанционного управления и проверьте входное устройство"
+        ],
+        "zh": [
+            "无信号",
+            "1.请检查输入电缆连接状况",
+            "2.请检查已连接设备的电源状态",
+            "3.按遥控器上的键并检查输入设备"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

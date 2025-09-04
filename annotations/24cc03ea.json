@@ -1,0 +1,29 @@
+{
+    "image_file": "24cc03ea.png",
+    "transcript": [
+        "NO STANDING Anytime"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Absolutes Halteverbot"
+        ],
+        "es": [
+            "NO DETENERSE en ningún momento"
+        ],
+        "ru": [
+            "ОСТАНОВКА ЗАПРЕЩЕНА"
+        ],
+        "zh": [
+            "任何时候都不能驻留"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "image_file": "0bada5db.png",
+    "transcript": [
+        "Please be mindful of class times and enter quietly if class is in session.",
+        "Thank You!",
+        "movement",
+        "CLIMBING YOGA FITNESS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Halten Sie sich an die Unterrichtszeiten und betreten Sie den Raum leise, wenn Unterricht stattfindet.",
+            "Vielen Dank",
+            "movement",
+            "CLIMBING YOGA FITNESS"
+        ],
+        "es": [
+            "Respeta los horarios de clase y entra en silencio cuando la clase está iniciada.",
+            "¡Gracias!",
+            "movement",
+            "ESCALADA YOGA ENTRENAMIENTO"
+        ],
+        "ru": [
+            "Во время проведения занятий входите в класс тихо.",
+            "Спасибо.",
+            "движение",
+            "CLIMBING YOGA FITNESS"
+        ],
+        "zh": [
+            "请注意上课时间，上课时请安静入场。",
+            "谢谢！",
+            "movement",
+            "攀岩瑜伽健身"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "no"
+    }
+}

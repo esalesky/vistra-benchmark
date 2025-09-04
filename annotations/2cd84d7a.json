@@ -1,0 +1,44 @@
+{
+    "image_file": "2cd84d7a.png",
+    "transcript": [
+        "Parking for Vehicles Displaying Handicapped tags or Motor Vehicle Administration permits",
+        "Meter Payment Required",
+        "OTHER VEHICLES TOWED AWAY",
+        "$500 FINE FOR VIOLATORS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parken für Fahrzeuge mit Behindertenausweis oder Genehmigungen durch die Kraftfahrzeugbehörde",
+            "Parkschein erforderlich",
+            "Andere Fahrzeuge werden abgeschleppt",
+            "500 Euro Bußgeld bei Verstößen"
+        ],
+        "es": [
+            "Estacionamiento para vehículos con etiqueta de discapacidad o permiso de la Administración de Vehículos Motorizados",
+            "Se requiere pago de parquímetro",
+            "SE REMOLCARÁ A LOS DEMÁS VEHÍCULOS",
+            "MULTA DE $500 PARA INFRACTORES"
+        ],
+        "ru": [
+            "Парковка для автомобилей со знаком \"Инвалид\" или разрешением Управления автотранспорта",
+            "Оплата по счетчику",
+            "ДРУГИЕ АВТОМОБИЛИ БУДУТ ЭВАКУИРОВАНЫ",
+            "ШТРАФ 500 ДОЛЛАРОВ"
+        ],
+        "zh": [
+            "停放悬挂残疾人牌照或机动车管理部门许可的车辆",
+            "所需计费器付款",
+            "其他车辆将被拖走",
+            "违规者罚款 500 美元"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

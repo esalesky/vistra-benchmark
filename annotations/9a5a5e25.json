@@ -1,0 +1,34 @@
+{
+    "image_file": "9a5a5e25.png",
+    "transcript": [
+        "NOTICE",
+        "THIS VEHICLE'S SPEED IS MONITORED BY GPS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Hinwes",
+            "Die Geschwindigkeit dieses Fahrzeugs wird mit GPS überwacht"
+        ],
+        "es": [
+            "AVISO",
+            "LA VELOCIDAD DEL VEHÍCULO SE MIDE POR GPS"
+        ],
+        "ru": [
+            "УВЕДОМЛЕНИЕ",
+            "СКОРОСТЬ ЭТОГО ТРАНСПОРТНОГО СРЕДСТВА ОТСЛЕЖИВАЕТСЯ С ПОМОЩЬЮ GPS"
+        ],
+        "zh": [
+            "注意",
+            "这辆车的速度由全球定位系统监控"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

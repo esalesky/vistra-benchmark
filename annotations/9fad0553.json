@@ -1,0 +1,34 @@
+{
+    "image_file": "9fad0553.png",
+    "transcript": [
+        "CAUTION",
+        "CONDITIONS MAY BE SLIPPERY OR ICY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Glätte- oder Rutschgefahr"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "LA CALZADA PUEDE ESTAR RESBALADIZA O CON HIELO"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "ДОРОГА МОЖЕТ БЫТЬ СКОЛЬЗКОЙ ИЛИ ОБЛЕДЕНЕЛОЙ"
+        ],
+        "zh": [
+            "小心",
+            "路况可能很滑或结冰"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

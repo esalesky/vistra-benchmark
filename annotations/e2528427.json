@@ -1,0 +1,39 @@
+{
+    "image_file": "e2528427.png",
+    "transcript": [
+        "NOTICE",
+        "AS A PART OF OUR EFFORTS TO PROVIDE SAFE AND AVAILABLE FREE PARKING FOR CUSTOMERS OF OUR TENANTS, PLEASE UNDERSTAND THAT WE DO NOT ALLOW LOITERING OR SOLICITING ON OUR PREMISES.",
+        "THANK YOU FOR YOUR COOPERATION."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Hinweis",
+            "Im Rahmen unserer Bemühungen, den Kunden unserer Mieter sichere und freie Parkplätze zur Verfügung stellen, ist der Aufenthalt unbefugter Personen und Werbetreibender auf unserem Gelände verboten.",
+            "Vielen Dank."
+        ],
+        "es": [
+            "AVISO",
+            "COMO PARTE DE NUESTROS ESFUERZOS PARA PROPORCIONAR ESTACIONAMIENTO GRATUITO SEGURO Y DISPONIBLE PARA LOS CLIENTES DE NUESTROS ARRENDATARIOS, COMPRENDA QUE NO PERMITIMOS MERODEAR NI VENDER EN NUESTRAS INSTALACIONES.",
+            "GRACIAS POR SU COLABORACIÓN."
+        ],
+        "ru": [
+            "УВЕДОМЛЕНИЕ",
+            "В РАМКАХ НАШИХ УСИЛИЙ ПО ОБЕСПЕЧЕНИЮ БЕЗОПАСНОЙ И ДОСТУПНОЙ БЕСПЛАТНОЙ ПАРКОВКИ ДЛЯ КЛИЕНТОВ НАШИХ АРЕНДАТОРОВ МЫ ЗАПРЕЩАЕМ НАХОЖДЕНИЕ БЕЗ ОПРЕДЕЛЕННОЙ ЦЕЛИ И ПРЕДЛОЖЕНИЕ УСЛУГ НА НАШЕЙ ТЕРРИТОРИИ.",
+            "СПАСИБО ЗА ПОНИМАНИЕ."
+        ],
+        "zh": [
+            "注意",
+            "我们努力为租户的客户提供安全和可用的免费停车位，因此请理解我们不允许在此闲逛或拉客。",
+            "谢谢合作。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

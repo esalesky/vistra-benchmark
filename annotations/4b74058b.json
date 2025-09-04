@@ -1,0 +1,34 @@
+{
+    "image_file": "4b74058b.png",
+    "transcript": [
+        "SHOP LOCAL",
+        "FIND WALDO HERE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Vor Ort einkaufen",
+            "Waldo ist hier"
+        ],
+        "es": [
+            "COMPRA LOCAL",
+            "ENCUENTRA A WALLY AQUÍ"
+        ],
+        "ru": [
+            "ПОКУПАЙТЕ В МЕСТНОМ МАГАЗИНЕ",
+            "НАЙДИТЕ ЗДЕСЬ УОЛЛИ"
+        ],
+        "zh": [
+            "本地购物",
+            "在这里找到沃尔多"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

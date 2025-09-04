@@ -1,0 +1,29 @@
+{
+    "image_file": "c6ed86b4.png",
+    "transcript": [
+        "PLEASE CURB YOUR DOG"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Hundekot gehört in den Rinnstein"
+        ],
+        "es": [
+            "CONTROLE A SU PERRO"
+        ],
+        "ru": [
+            "ДЕРЖИТЕ СОБАКУ У БОРДЮРА"
+        ],
+        "zh": [
+            "请管住你的狗"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

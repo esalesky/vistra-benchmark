@@ -1,0 +1,29 @@
+{
+    "image_file": "74ee329e.png",
+    "transcript": [
+        "NO TURNS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Kein Abbiegen"
+        ],
+        "es": [
+            "NO GIRAR"
+        ],
+        "ru": [
+            "ПОВОРОТ ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "不准掉头"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

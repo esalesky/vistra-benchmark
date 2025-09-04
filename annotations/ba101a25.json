@@ -1,0 +1,34 @@
+{
+    "image_file": "ba101a25.png",
+    "transcript": [
+        "RESERVED SEATING",
+        "When needed by guests with disabilities"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Reservierter Sitzplatz",
+            "Im Bedarfsfall für Personen mit Behinderung"
+        ],
+        "es": [
+            "ASIENTOS RESERVADOS",
+            "Cuando sean necesarios para asistentes con discapacidad"
+        ],
+        "ru": [
+            "ЗАРЕЗЕРВИРОВАННЫЕ МЕСТА",
+            "Для гостей с ограниченными возможностями"
+        ],
+        "zh": [
+            "预定座位",
+            "当有残疾的客人需要时"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

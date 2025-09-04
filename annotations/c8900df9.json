@@ -1,0 +1,29 @@
+{
+    "image_file": "c8900df9.png",
+    "transcript": [
+        "NO STOPPING OR STANDING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Absolutes Halteverbot"
+        ],
+        "es": [
+            "NO DETENERSE"
+        ],
+        "ru": [
+            "ОСТАНОВКА И СТОЯНКА ЗАПРЕЩЕНЫ"
+        ],
+        "zh": [
+            "禁止停车或驻留"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

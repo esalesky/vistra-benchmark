@@ -1,0 +1,29 @@
+{
+    "image_file": "b6c964ef.png",
+    "transcript": [
+        "YOUR ENTIRE PARTY MUST BE PRESENT TO BE SEATED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Ein Platzzuweisung kann erst erfolgen, wenn die Gruppe vollzählig ist"
+        ],
+        "es": [
+            "TODO SU GRUPO DEBE ESTAR PRESENTE PARA SENTARSE A UNA MESA"
+        ],
+        "ru": [
+            "ДЛЯ ТОГО, ЧТОБЫ ВАС УСАДИЛИ, ДОЛЖНА ПРИСУТСТВОВАТЬ ВСЯ ВАША КОМПАНИЯ"
+        ],
+        "zh": [
+            "你们所有人必须到场才能入座"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

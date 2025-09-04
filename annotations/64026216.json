@@ -1,0 +1,39 @@
+{
+    "image_file": "64026216.png",
+    "transcript": [
+        "STOP",
+        "ALL PETS MUST BE ON A LEASH",
+        "PLEASE CLEAN UP AFTER YOUR PET"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "STOPP",
+            "Leinenpflicht",
+            "Entfernen Sie die Hinterlassenschaften Ihres Hundes"
+        ],
+        "es": [
+            "PARE",
+            "LLEVE SU MASCOTA CON CORREA",
+            "LIMPIE LO QUE HACE SU MASCOTA"
+        ],
+        "ru": [
+            "СТОП",
+            "ВСЕ ЖИВОТНЫЕ ДОЛЖНЫ БЫТЬ НА ПОВОДКАХ",
+            "УБИРАЙТЕ ЗА ЖИВОТНЫМИ"
+        ],
+        "zh": [
+            "停车",
+            "所有宠物都必须拴上皮带",
+            "请及时清理宠物粪便"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

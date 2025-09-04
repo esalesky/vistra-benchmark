@@ -1,0 +1,34 @@
+{
+    "image_file": "e8be9b92.png",
+    "transcript": [
+        "CAUTION",
+        "WATCH FOR CHILDREN AND PETS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Gefahr durch Kinder und Tiere"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "Cuidado con los niños y mascotas."
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "ВОЗМОЖНО ПОЯВЛЕНИЕ ДЕТЕЙ И ДОМАШНИХ ЖИВОТНЫХ"
+        ],
+        "zh": [
+            "小心",
+            "注意儿童和宠物"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

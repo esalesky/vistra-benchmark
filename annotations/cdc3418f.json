@@ -1,0 +1,34 @@
+{
+    "image_file": "cdc3418f.png",
+    "transcript": [
+        "CAUTION",
+        "WATCH FOR TRAFFIC"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Verkehr"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "CUIDADO CON EL TRÁFICO"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "СЛЕДИТЕ ЗА ДВИЖЕНИЕМ АВТОМОБИЛЕЙ"
+        ],
+        "zh": [
+            "小心",
+            "注意交通信号灯"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

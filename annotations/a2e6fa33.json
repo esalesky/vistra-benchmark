@@ -1,0 +1,54 @@
+{
+    "image_file": "a2e6fa33.png",
+    "transcript": [
+        "DANGER",
+        "HIGH VOLTAGE",
+        "MOVING TRAINS",
+        "STOP",
+        "LOOK BOTH WAYS BEFORE CROSSING.",
+        "TRAINS ARE ARRIVING FROM BOTH DIRECTIONS."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gefahr",
+            "Hochspannung",
+            "Vorbeifahrende Züge",
+            "Stopp",
+            "Vor dem Überqueren in beide Richtungen blicken.",
+            "Züge kommen aus beiden Richtungen."
+        ],
+        "es": [
+            "PELIGRO",
+            "TRENES DE ALTO VOLTAJE",
+            "EN MOVIMIENTO",
+            "PARE",
+            "MIRE EN AMBAS DIRECCIONES ANTES DE CRUZAR.",
+            "LOS TRENES CIRCULAN EN LAS DOS DIRECCIONES."
+        ],
+        "ru": [
+            "ОПАСНО",
+            "ВЫСОКОЕ НАПРЯЖЕНИЕ",
+            "ДВИЖЕНИЕ ПОЕЗДОВ",
+            "СТОП",
+            "ПОСМОТРИТЕ В ОБЕ СТОРОНЫ ПЕРЕД ПЕРЕХОДОМ ПУТЕЙ.",
+            "ПОЕЗДА ДВИЖУТСЯ В ОБОИХ НАПРАВЛЕНИЯХ."
+        ],
+        "zh": [
+            "危险",
+            "高压电",
+            "火车同行",
+            "停车",
+            "过马路前先看看两边。",
+            "两个方向都有火车进站。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

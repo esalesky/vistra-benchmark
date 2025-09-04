@@ -1,0 +1,29 @@
+{
+    "image_file": "f7a33edc.png",
+    "transcript": [
+        "FRESH SEAFOOD MARKET"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Fischmarkt"
+        ],
+        "es": [
+            "MERCADOS DE PESCADOS Y MARISCOS FRESCOS"
+        ],
+        "ru": [
+            "РЫНОК СВЕЖИХ МОРЕПРОДУКТОВ"
+        ],
+        "zh": [
+            "新鲜海产市场"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

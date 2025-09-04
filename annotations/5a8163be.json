@@ -1,0 +1,64 @@
+{
+    "image_file": "5a8163be.png",
+    "transcript": [
+        "SOUTH",
+        "INTERSTATE 95",
+        "SOUTH",
+        "1",
+        "G Washington Br",
+        "Newark NJ",
+        "TRUCKS - UPPER LEVEL ONLY",
+        "USE LEFT 2 LANES"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Süden",
+            "INTERSTATE 95",
+            "Süden",
+            "1",
+            "G Washington Br",
+            "Newark NJ",
+            "Lastwagen - Nur obere Ebene",
+            "Beide linke Fahrstreifen benutzen"
+        ],
+        "es": [
+            "SUR",
+            "INTERSTATE 95",
+            "SUR",
+            "1",
+            "G Washington Br",
+            "Newark NJ",
+            "CAMIONES - SOLO NIVEL SUPERIOR",
+            "USE LOS 2 CARRILES IZQUIERDOS"
+        ],
+        "ru": [
+            "ЮГ",
+            "INTERSTATE 95",
+            "ЮГ",
+            "1",
+            "Мост Вашингтона",
+            "Ньюарк, Нью-Джерси",
+            "ГРУЗОВИКИ — ТОЛЬКО ВЕРХНИЙ УРОВЕНЬ",
+            "ИСПОЛЬЗУЙТЕ ДВЕ ЛЕВЫЕ ПОЛОСЫ"
+        ],
+        "zh": [
+            "南",
+            "95 号州际公路",
+            "南",
+            "1",
+            "G 华盛顿 Br",
+            "纽瓦克 NJ",
+            "卡车 - 仅限上层",
+            "使用左 2 车道"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

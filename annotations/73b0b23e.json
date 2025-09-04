@@ -1,0 +1,34 @@
+{
+    "image_file": "73b0b23e.png",
+    "transcript": [
+        "THRU",
+        "OBEY THIS SIGNAL"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Durchgangsverkehr",
+            "Signal beachten"
+        ],
+        "es": [
+            "HACIA ADELANTE",
+            "RESPETE ESTE CARTEL"
+        ],
+        "ru": [
+            "СКВОЗНОЙ ПРОЕЗД",
+            "СОБЛЮДАЙТЕ ЭТОТ СИГНАЛ"
+        ],
+        "zh": [
+            "周四",
+            "遵从这个标识"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

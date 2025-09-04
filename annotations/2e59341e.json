@@ -1,0 +1,34 @@
+{
+    "image_file": "2e59341e.png",
+    "transcript": [
+        "Two Way Traffic",
+        "Look Both Ways Before Crossing"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Verkehr in beide Richtungen",
+            "Vor dem Überqueren nach links und rechts blicken"
+        ],
+        "es": [
+            "Doble vía",
+            "Mire a ambos lados antes de cruzar"
+        ],
+        "ru": [
+            "Двустороннее движение",
+            "Посмотрите в обе стороны перед началом перехода"
+        ],
+        "zh": [
+            "双向交通",
+            "过马路前要看左右"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

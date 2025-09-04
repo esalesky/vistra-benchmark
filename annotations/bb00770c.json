@@ -1,0 +1,39 @@
+{
+    "image_file": "bb00770c.png",
+    "transcript": [
+        "AUTOMATIC DOOR",
+        "CAUTION",
+        "ACTIVATE SWITCH TO OPERATE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Automatische Tür",
+            "Achtung",
+            "Zum Öffnen Schalter drücken"
+        ],
+        "es": [
+            "PUERTA AUTOMÁTICA",
+            "CUIDADO",
+            "ACTIVE EL INTERRUPTOR PARA USARLA"
+        ],
+        "ru": [
+            "АВТОМАТИЧЕСКАЯ ДВЕРЬ",
+            "ОСТОРОЖНО",
+            "АКТИВИРУЙТЕ ПЕРЕКЛЮЧАТЕЛЬ, ЧТОБЫ ОТКРЫТЬ ДВЕРЬ"
+        ],
+        "zh": [
+            "自动门",
+            "小心",
+            "激活开关操作"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

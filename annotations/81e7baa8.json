@@ -1,0 +1,29 @@
+{
+    "image_file": "81e7baa8.png",
+    "transcript": [
+        "SCHOOL BUS STOP AHEAD"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Schulbushaltestelle voraus"
+        ],
+        "es": [
+            "PARADA DE AUTOBÚS ESCOLAR ADELANTE"
+        ],
+        "ru": [
+            "ВПЕРЕДИ ОСТАНОВКА ШКОЛЬНОГО АВТОБУСА"
+        ],
+        "zh": [
+            "前方有校车站"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

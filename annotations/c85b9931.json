@@ -1,0 +1,44 @@
+{
+    "image_file": "c85b9931.png",
+    "transcript": [
+        "NO PARKING",
+        "TOW AWAY ZONE",
+        "NO PARKING",
+        "TOW AWAY ZONE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parkverbot",
+            "Abschleppzone",
+            "Parkverbot",
+            "Abschleppzone"
+        ],
+        "es": [
+            "NO ESTACIONAR",
+            "ZONA DE REMOLQUE",
+            "NO ESTACIONAR",
+            "ZONA DE REMOLQUE"
+        ],
+        "ru": [
+            "ПАРКОВКА ЗАПРЕЩЕНА",
+            "РАБОТАЕТ ЭВАКУАТОР",
+            "ПАРКОВКА ЗАПРЕЩЕНА",
+            "РАБОТАЕТ ЭВАКУАТОР"
+        ],
+        "zh": [
+            "禁止停车",
+            "禁止停车，违者拖走！",
+            "禁止停车",
+            "禁止停车，违者拖走！"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

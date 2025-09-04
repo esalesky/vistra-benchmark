@@ -1,0 +1,29 @@
+{
+    "image_file": "94940b6d.png",
+    "transcript": [
+        "NO SMOKING ON SITE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rauchen verboten"
+        ],
+        "es": [
+            "PROHIBIDO FUMAR EN EL SITIO"
+        ],
+        "ru": [
+            "КУРЕНИЕ НА ПЛОЩАДКЕ ЗАПРЕЩЕНО"
+        ],
+        "zh": [
+            "现场禁止吸烟"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

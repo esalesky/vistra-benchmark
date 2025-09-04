@@ -1,0 +1,29 @@
+{
+    "image_file": "c6d7e362.png",
+    "transcript": [
+        "Watch Out For Vehicles"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Vorsicht Fahrzeuge"
+        ],
+        "es": [
+            "Cuidado con los vehículos"
+        ],
+        "ru": [
+            "Берегитесь автомобилей"
+        ],
+        "zh": [
+            "当心车辆"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

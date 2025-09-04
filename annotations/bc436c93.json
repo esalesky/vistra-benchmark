@@ -1,0 +1,29 @@
+{
+    "image_file": "bc436c93.png",
+    "transcript": [
+        "REDUCE SPEED GET TICKET 2000 FT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Geschwindigkeit reduzieren Ticket in 600 Metern"
+        ],
+        "es": [
+            "REDUZCA LA VELOCIDAD SE MULTARÁ 2000 PIES"
+        ],
+        "ru": [
+            "СНИЗЬТЕ СКОРОСТЬ ВОЗЬМИТЕ ТАЛОН 2000 ФУТОВ"
+        ],
+        "zh": [
+            "前方 2000 英尺减速取票"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

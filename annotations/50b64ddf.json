@@ -1,0 +1,34 @@
+{
+    "image_file": "50b64ddf.png",
+    "transcript": [
+        "PARKING BY PERMIT ONLY",
+        "ALL OTHERS TOWED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parken nur mit Erlaubnis",
+            "Alle anderen Fahrzeuge werden abgeschleppt"
+        ],
+        "es": [
+            "ESTACIONAMIENTO SOLO CON PERMISO",
+            "SE REMOLCARÁ A LOS DEMÁS"
+        ],
+        "ru": [
+            "ПАРКОВКА ТОЛЬКО ПРИ НАЛИЧИИ РАЗРЕШЕНИЯ",
+            "ВСЕ ОСТАЛЬНЫЕ АВТОМОБИЛИ БУДУТ ЭВАКУИРОВАНЫ"
+        ],
+        "zh": [
+            "未经许可不得停车",
+            "违者拖走"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "7e3f3013.png",
+    "transcript": [
+        "NO PETS ALLOWED",
+        "SERVICE DOGS ARE WELCOME!"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Tiere verboten",
+            "Assistenzhunde ausgenommen"
+        ],
+        "es": [
+            "NO SE PERMITEN MASCOTAS",
+            "LOS PERROS DE SERVICIO SON BIENVENIDOS."
+        ],
+        "ru": [
+            "ПРОХОД С ДОМАШНИМИ ЖИВОТНЫМИ ЗАПРЕЩЕН",
+            "СЛУЖЕБНЫЕ СОБАКИ ПРИВЕТСТВУЮТСЯ!"
+        ],
+        "zh": [
+            "宠物禁止入内",
+            "欢迎服务犬！"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

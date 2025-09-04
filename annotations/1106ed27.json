@@ -1,0 +1,39 @@
+{
+    "image_file": "1106ed27.png",
+    "transcript": [
+        "NO TRESPASSING",
+        "UNDER PENALTY OF NEW YORK STATE PENAL LAW VIOLATORS ARE SUBJECT TO ARREST",
+        "VISITORS MUST USE ENTRANCE LOCATED AT _ AND OBTAIN A PASS IN ROOM _"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Betreten verboten",
+            "Bei Verstößen gegen das Strafrecht des Staates New York droht Haft.",
+            "Besucher müssen den Eingang ___ benutzen und sich einen Ausweis in Raum ___ abholen"
+        ],
+        "es": [
+            "NO PASAR",
+            "BAJO PENA DE LA LEY ESTATAL DE NUEVA YORK LOS INFRACTORES PODRÁN SER ARRESTADOS",
+            "LOS VISITANTES DEBEN USAR LA ENTRADA DE _ Y OBTENER UN PASE EN LA SALA _"
+        ],
+        "ru": [
+            "ПРОХОД ЗАПРЕЩЕН",
+            "НАРУШИТЕЛИ БУДУТ АРЕСТОВАНЫ В СООТВЕТСТВИИ С УГОЛОВНЫМ ЗАКОНОДАТЕЛЬСТВОМ ШТАТА НЬЮ-ЙОРК",
+            "ПОСЕТИТЕЛИ ДОЛЖНЫ ИСПОЛЬЗОВАТЬ ВХОД, РАСПОЛОЖЕННЫЙ В _, И ПОЛУЧИТЬ ПРОПУСК В ПОМЕЩЕНИИ _"
+        ],
+        "zh": [
+            "非请莫入",
+            "根据纽约州刑法，违规者将被逮捕",
+            "访客必须使用位于_的入口，并在_房间取得通行证"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

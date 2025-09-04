@@ -1,0 +1,34 @@
+{
+    "image_file": "5a07eda5.png",
+    "transcript": [
+        "DANGER",
+        "NO SWIMMING UNLESS LIFEGUARD IS PRESENT ON POOL DECK"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gefahr",
+            "Schwimmen nur in Anwesenheit eines Rettungsschwimmers erlaubt"
+        ],
+        "es": [
+            "PELIGRO",
+            "NO NADAR A MENOS QUE EL GUARDAVIDAS ESTÉ PRESENTE EN EL ÁREA DE PISCINA"
+        ],
+        "ru": [
+            "ОПАСНО",
+            "ЕСЛИ В БАССЕЙНЕ НЕТ СПАСАТЕЛЯ, ПЛАВАТЬ ЗАПРЕЩЕНО"
+        ],
+        "zh": [
+            "危险",
+            "除非泳池甲板上有救生员在场，否则不得游泳"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

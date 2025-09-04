@@ -1,0 +1,74 @@
+{
+    "image_file": "6c3ea659.png",
+    "transcript": [
+        "PUSH BUTTON TO CROSS JOPPA RD.",
+        "START CROSSING",
+        "Watch For Turning Cars",
+        "FLASHING",
+        "DON'T START",
+        "Finish Crossing If Started",
+        "TIMER",
+        "TIME REMAINING To Finish Crossing",
+        "STEADY",
+        "PEDESTRIANS SHOULD NOT BE IN CROSSWALK"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Zum Überqueren der Joppa Road Knopf drücken",
+            "Losgehen",
+            "Auf abbiegende Fahrzeuge achten",
+            "Blinken",
+            "Nicht losgehen",
+            "Nach Losgehen Überquervorgang fortsetzen",
+            "Timer",
+            "Verbleibende Zeit zum Überqueren der Straße",
+            "Gleichbleibend",
+            "Fußgänger dürfen sich nicht auf dem Fußgängerüberweg aufhalten"
+        ],
+        "es": [
+            "PULSE EL BOTÓN PARA CRUZAR JOPPA RD.",
+            "COMIENCE A CRUZAR",
+            "Cuidado con los autos que giran",
+            "PARPADEO",
+            "NO COMIENCE",
+            "Termine de cruzar si ya comenzó",
+            "TEMPORIZADOR",
+            "TIEMPO RESTANTE para terminar de cruzar",
+            "FIJO",
+            "LOS PEATONES NO DEBEN ESTAR EN LA SENDA PEATONAL"
+        ],
+        "ru": [
+            "НАЖМИТЕ КНОПКУ, ЧТОБЫ ПЕРЕЙТИ ДОРОГУ JOPPA RD.",
+            "НАЧИНАЙТЕ ПЕРЕХОД",
+            "Следите за автомобилями, которые выполняют поворот",
+            "МИГАЕТ",
+            "НЕ НАЧИНАЙТЕ ПЕРЕХОД",
+            "Закончите переход, если начали",
+            "ТАЙМЕР",
+            "ОСТАВШЕЕСЯ ВРЕМЯ для перехода",
+            "ВНИМАНИЕ",
+            "ПЕШЕХОДЫ НЕ ДОЛЖНЫ НАХОДИТЬСЯ НА ПЕРЕХОДЕ"
+        ],
+        "zh": [
+            "按按钮穿过约帕路。",
+            "开始穿越",
+            "注意转弯车辆",
+            "如果已开始",
+            "闪烁",
+            "不要开始穿越",
+            "计时器",
+            "完成穿越的剩余时间",
+            "平稳",
+            "行人不应走人行横道"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "image_file": "1322df84.png",
+    "transcript": [
+        "ATTENTION!",
+        "PLEASE LOCK UP YOUR VALUABLES",
+        "WE HAVE FREE LOCKERS WITH PROGRAMMABLE LOCKS",
+        "movement",
+        "CLIMBING YOGA FITNESS"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Achtung!",
+            "Schließen Sie Ihre Wertsachen ein",
+            "Kostenlose Schließfächer mit programmierbaren Schlössern stehen zur Verfügung",
+            "movement",
+            "CLIMBING YOGA FITNESS"
+        ],
+        "es": [
+            "¡ATENCIÓN!",
+            "GUARDA TUS PERTENENCIAS BAJO LLAVE",
+            "TENEMOS CASILLEROS GRATUITOS CON CERRADURA PROGRAMABLE",
+            "movement",
+            "ESCALADA YOGA ENTRENAMIENTO"
+        ],
+        "ru": [
+            "ВНИМАНИЕ!",
+            "ПОЛОЖИТЕ ЦЕННЫЕ ВЕЩИ В ШКАФЧИКИ",
+            "У НАС ЕСТЬ БЕСПЛАТНЫЕ ШКАФЧИКИ С ПРОГРАММИРУЕМЫМИ ЗАМКАМИ",
+            "движение",
+            "CLIMBING YOGA FITNESS"
+        ],
+        "zh": [
+            "注意！",
+            "请把贵重物品锁好",
+            "我们有带可编程锁的免费储物柜",
+            "movement",
+            "攀岩瑜伽健身"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "665d434b.png",
+    "transcript": [
+        "Due to limited seating, please limit your dining time to 45 min.",
+        "We seek your kind understanding"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Begrenzen Sie Ihre Essenszeiten wegen der begrenzten Anzahl an Sitzplätzen auf 45 Minuten",
+            "Vielen Dank für Ihr Verständnis"
+        ],
+        "es": [
+            "Debido a la cantidad limitada de asientos, solicitamos que no permanezca más de 45 minutos.",
+            "Agradecemos su amable comprensión."
+        ],
+        "ru": [
+            "В связи с ограниченным количеством мест, пожалуйста, ограничьте время обеда 45 минутами.",
+            "Спасибо за понимание"
+        ],
+        "zh": [
+            "由于座位有限，请将用餐时间限制在 45 分钟内。",
+            "我们希望得到您的谅解"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

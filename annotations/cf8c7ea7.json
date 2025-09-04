@@ -1,0 +1,54 @@
+{
+    "image_file": "cf8c7ea7.png",
+    "transcript": [
+        "COMPOST",
+        "PRO TIP: To-go items on campus are compostable",
+        "All Food",
+        "Paper Products & Napkins",
+        "Food Boxes",
+        "Compostable Plastics"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Kompost",
+            "Tipps vom Profi: To-Go-Artikel auf dem Campus sind kompostierbar",
+            "Alle Lebensmittel",
+            "Papierprodukte und Servietten",
+            "Lebensmittelverpackungen",
+            "Kompostierbare Kunststoffe"
+        ],
+        "es": [
+            "COMPOST",
+            "CONSEJO ÚTIL: Los productos para llevar del campus son compostables",
+            "Todos los alimentos",
+            "Productos de papel y servilletas",
+            "Cajas de comida",
+            "Plásticos compostables"
+        ],
+        "ru": [
+            "КОМПОСТ",
+            "ПРОФЕССИОНАЛЬНЫЙ СОВЕТ: то, что можно взять с собой в кампус, может быть переработано в компост",
+            "Вся еда",
+            "Бумажные продукты и салфетки",
+            "Коробки для еды",
+            "Пластмасса, перерабатываемая в компост"
+        ],
+        "zh": [
+            "堆肥",
+            "小贴士：校园里的外带物品是可堆肥的",
+            "所有食品",
+            "纸制品和餐巾",
+            "食品盒",
+            "可堆肥塑料"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

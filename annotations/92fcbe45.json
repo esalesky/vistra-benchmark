@@ -1,0 +1,29 @@
+{
+    "image_file": "92fcbe45.png",
+    "transcript": [
+        "BEGIN ONE WAY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Beginn der Einbahnstraße"
+        ],
+        "es": [
+            "COMIENZA UNA VÍA"
+        ],
+        "ru": [
+            "НАЧАЛО ОДНОСТОРОННЕГО ДВИЖЕНИЯ"
+        ],
+        "zh": [
+            "单向路段起点"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

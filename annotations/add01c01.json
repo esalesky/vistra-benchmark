@@ -1,0 +1,29 @@
+{
+    "image_file": "add01c01.png",
+    "transcript": [
+        "ONE WAY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Einbahnstraße"
+        ],
+        "es": [
+            "UNA VÍA"
+        ],
+        "ru": [
+            "ОДНОСТОРОННЕЕ ДВИЖЕНИЕ"
+        ],
+        "zh": [
+            "单向"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

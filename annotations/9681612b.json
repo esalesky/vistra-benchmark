@@ -1,0 +1,44 @@
+{
+    "image_file": "9681612b.png",
+    "transcript": [
+        "CAUTION",
+        "Ice And Snow May Be Present On Lot And Walkways.",
+        "PLEASE",
+        "Watch Your Step And Use Caution"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Schnee und Eis auf Parkflächen und Gehwegen möglich.",
+            "Vorsicht",
+            "geboten"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "Puede haber hielo o nieve en el estacionamiento y en las aceras.",
+            "POR FAVOR",
+            "Cuide donde pisa y sea precavido"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "На парковке и тротуарах может присутствовать снег и лед",
+            "ПОЖАЛУЙСТА",
+            "Соблюдайте осторожность"
+        ],
+        "zh": [
+            "小心",
+            "停车场和人行道上可能会有冰雪。",
+            "请",
+            "注意脚下，小心行事"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

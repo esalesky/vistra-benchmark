@@ -1,0 +1,34 @@
+{
+    "image_file": "be1a91ed.png",
+    "transcript": [
+        "CAUTION",
+        "CARS ENTERING ROADWAY AHEAD"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Auffahrender Verkehr voraus"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "ENTRAN COCHES A LA CALLE ADELANTE"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "ВПЕРЕДИ АВТОМОБИЛИ, ВЫЕЗЖАЮЩИЕ НА ПРОЕЗЖУЮ ЧАСТЬ"
+        ],
+        "zh": [
+            "小心",
+            "有车辆驶入前方道路"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

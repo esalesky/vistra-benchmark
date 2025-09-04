@@ -1,0 +1,29 @@
+{
+    "image_file": "f06402f5.png",
+    "transcript": [
+        "STOP"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Stopp"
+        ],
+        "es": [
+            "PARE"
+        ],
+        "ru": [
+            "СТОП"
+        ],
+        "zh": [
+            "停车"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

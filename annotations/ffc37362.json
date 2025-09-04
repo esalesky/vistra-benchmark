@@ -1,0 +1,39 @@
+{
+    "image_file": "ffc37362.png",
+    "transcript": [
+        "Please don't take glassware outside.",
+        "PLEASE ENJOY RESPONSIBLY",
+        "GUINNESS BREWING COMPANY, BALTIMORE, MD"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nehmen Sie keine Gläser mit nach draußen.",
+            "Genuss im Einklang mit Verantwortung",
+            "GUINNESS BREWING COMPANY, BALTIMORE, MD"
+        ],
+        "es": [
+            "No lleves los vasos afuera.",
+            "DISFRUTA CON RESPONSABILIDAD",
+            "GUINNESS BREWING COMPANY, BALTIMORE, MD"
+        ],
+        "ru": [
+            "Не уносите стеклянную посуду с собой",
+            "УПОТРЕБЛЯЙТЕ АЛКОГОЛЬ ОТВЕТСТВЕННО",
+            "ПИВОВАРЕННАЯ КОМПАНИЯ \"ГИННЕСС\", БАЛТИМОР, МЭРИЛЕНД"
+        ],
+        "zh": [
+            "请不要把玻璃器皿带出去。",
+            "请负责任地享受",
+            "健力士啤酒公司，马里兰州巴尔的摩"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

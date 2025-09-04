@@ -1,0 +1,44 @@
+{
+    "image_file": "482102fc.png",
+    "transcript": [
+        "OPEN",
+        "Wash, Fold, & Dry",
+        "Drop Off",
+        "Same Day Service"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Geöffnet",
+            "Waschen, Falten und Trocknen",
+            "Abgabe hier",
+            "Abholung am selben Tag"
+        ],
+        "es": [
+            "ABIERTO",
+            "Lavado, doblado y secado",
+            "Entrega",
+            "Servicio en el día"
+        ],
+        "ru": [
+            "ОТКРЫТО",
+            "Стирка, свертывание и сушка белья",
+            "Получение выстиранного белья",
+            "Обслуживание в тот же день"
+        ],
+        "zh": [
+            "营业中",
+            "洗衣、折叠及烘干",
+            "送达服务",
+            "当日服务"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

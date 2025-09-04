@@ -1,0 +1,39 @@
+{
+    "image_file": "80afbab7.png",
+    "transcript": [
+        "STOP",
+        "CAUTION",
+        "WALK BIKES THROUGH INTERSECTION"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Stopp",
+            "Achtung",
+            "Fahrräder über die Kreuzung schieben"
+        ],
+        "es": [
+            "PARE",
+            "PRECAUCIÓN",
+            "CAMINE JUNTO A SU BICICLETA EN LA INTERSECCIÓN"
+        ],
+        "ru": [
+            "СТОП",
+            "ВНИМАНИЕ",
+            "ВЕЛОСИПЕДИСТЫ ДОЛЖНЫ ПЕРЕСЕКАТЬ ПЕШЕХОДНЫЙ ПЕРЕХОД ПЕШКОМ"
+        ],
+        "zh": [
+            "停车",
+            "小心",
+            "步行穿过十字路口"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

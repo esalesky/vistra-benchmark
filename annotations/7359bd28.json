@@ -1,0 +1,44 @@
+{
+    "image_file": "7359bd28.png",
+    "transcript": [
+        "Thank You For...",
+        "...Keeping your children with you at all times.",
+        "...Wearing shoes and shirts while shopping in the warehouse.",
+        "...Allowing us to inspect briefcases, backpacks, etc."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Wir danken Ihnen dafür, dass",
+            "...Sie Ihre Kinder jederzeit beaufsichtigen.",
+            "...Schuhe und Oberbekleidung beim Einkauf im Lagerhaus tragen.",
+            "...wir Ihre Aktentaschen, Rücksäcke etc. durchsuchen dürfen."
+        ],
+        "es": [
+            "Gracias por:",
+            "Mantener a sus hijos consigo en todo momento.",
+            "Usar calzado y camiseta dentro del almacén.",
+            "Permitirnos inspeccionar su maletín, mochila, etc."
+        ],
+        "ru": [
+            "Спасибо за то, что вы...",
+            "... присматриваете за своими детьми.",
+            "... носите обувь и футболки во время шопинга в магазине.",
+            "... разрешаете нам осмотреть чемоданы, рюкзаки и т. д."
+        ],
+        "zh": [
+            "感谢...",
+            "...任何时候都要带着您的孩子。",
+            "...在仓库购物时穿鞋和衬衫。",
+            "...允许我们检查公文包、背包等。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "cd3096d3.png",
+    "transcript": [
+        "CONSTRUCTION ENTRANCE AHEAD"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Baustellenzufahrt voraus"
+        ],
+        "es": [
+            "ENTRADA DE CONSTRUCCIÓN ADELANTE"
+        ],
+        "ru": [
+            "ВПЕРЕДИ ВЪЕЗД В ЗОНУ СТРОИТЕЛЬНЫХ РАБОТ"
+        ],
+        "zh": [
+            "前方施工入口"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

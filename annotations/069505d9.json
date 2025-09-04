@@ -1,0 +1,29 @@
+{
+    "image_file": "069505d9.png",
+    "transcript": [
+        "WATCH OUT FOR FOUL BALLS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung: Bälle können das Grundstück verlassen"
+        ],
+        "es": [
+            "CUIDADO CON LAS BOLAS DE FOUL"
+        ],
+        "ru": [
+            "ОСТОРОЖНО! БЕРЕГИТЕСЬ МЯЧЕЙ"
+        ],
+        "zh": [
+            "小心界外球"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "yes",
+        "zh": "no"
+    }
+}

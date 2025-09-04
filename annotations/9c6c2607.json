@@ -1,0 +1,34 @@
+{
+    "image_file": "9c6c2607.png",
+    "transcript": [
+        "FOOD ALLERGY WARNING",
+        "Our food may contain peanut products"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warnung bei Lebensmittelallergie",
+            "Unsere Lebensmittel können Erdnussprodukte enthalten"
+        ],
+        "es": [
+            "AVISO SOBRE ALERGIAS ALIMENTARIAS",
+            "Nuestros alimentos pueden contener trazas de maní"
+        ],
+        "ru": [
+            "ПРЕДУПРЕЖДЕНИЕ О ПИЩЕВОЙ АЛЛЕРГИИ",
+            "Наши продукты могут содержать арахис"
+        ],
+        "zh": [
+            "食物过敏警告",
+            "我们的食物可能含有花生制品"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

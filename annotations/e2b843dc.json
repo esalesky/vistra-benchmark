@@ -1,0 +1,34 @@
+{
+    "image_file": "e2b843dc.png",
+    "transcript": [
+        "HEALTH REGULATION",
+        "NO FEEDING OF BIRDS OR OTHER ANIMALS ON OR NEAR NYC PUBLIC SCHOOL PROPERTY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gesundheitsvorschriften",
+            "Füttern von Vögeln und anderen Tieren auf oder in der Nähe des städtischen Schulgeländes verboten"
+        ],
+        "es": [
+            "NORMA DE SALUD",
+            "NO SE PERMITE ALIMENTAR A LAS AVES NI A OTROS ANIMALES EN EDIFICIOS DE ESCUELAS PÚBLICAS DE NYC"
+        ],
+        "ru": [
+            "ПОСТАНОВЛЕНИЕ В ОБЛАСТИ ЗДРАВООХРАНЕНИЯ",
+            "КОРМЛЕНИЕ ПТИЦ ИЛИ ДРУГИХ ЖИВОТНЫХ НА ТЕРРИТОРИИ ПУБЛИЧНОЙ ШКОЛЫ НЬЮ-ЙОРКА ИЛИ РЯДОМ С НЕЙ ЗАПРЕЩЕНО"
+        ],
+        "zh": [
+            "卫生条例",
+            "禁止在纽约市公立学校内或附近喂养鸟类或其他动物"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

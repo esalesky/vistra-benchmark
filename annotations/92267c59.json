@@ -1,0 +1,34 @@
+{
+    "image_file": "92267c59.png",
+    "transcript": [
+        "Pet Free Zone",
+        "Service Animals Are Welcome"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Tiere verboten",
+            "Assistenzhunde ausgenommen"
+        ],
+        "es": [
+            "Zona sin mascotas",
+            "Los animales de servicio son bienvenidos"
+        ],
+        "ru": [
+            "Проход с домашними животными запрещен",
+            "Служебные животные приветствуются"
+        ],
+        "zh": [
+            "无宠物区",
+            "欢迎服务型动物"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

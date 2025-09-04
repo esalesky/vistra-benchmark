@@ -1,0 +1,69 @@
+{
+    "image_file": "99f7c148.png",
+    "transcript": [
+        "Planting Instructions:",
+        "Place peat pellets in a separate container",
+        "Add approximately 1 cup of water",
+        "Wait for the peat pellets to fully expand",
+        "Add more water if necessary",
+        "Remove casing on the pellets and place in the mini campfire mug",
+        "Break apart the peat for even coverage",
+        "Add seeds and cover lightly with peat",
+        "Add plant food as needed (not included)"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Pflanzanleitung:",
+            "Geben Sie die Torfpellets in einen separaten Behälter",
+            "Fügen Sie etwa eine Tasse Wasser hinzu",
+            "Warten Sie, bis sich die Pellets mit Wasser vollgesogen haben",
+            "Geben Sie bei Bedarf mehr Wasser hinzu",
+            "Entfernen Sie die Hülle und setzen Sie die Pellets in die kleine Blechtasse",
+            "Verteilen Sie den Torf gleichmäßig",
+            "Pflanzen Sie die Samen ein und bedecken Sie sie leicht mit Torf",
+            "Geben Sie bei Bedarf Dünger hinzu (nicht im Lieferumfang enthalten)"
+        ],
+        "es": [
+            "Cómo plantar:",
+            "Coloque las pastillas de turba prensada en un recipiente aparte.",
+            "Añada aproximadamente 1 taza de agua.",
+            "Espere a que las pastillas de turba prensada se expandan completamente.",
+            "Añada más agua si es necesario.",
+            "Retire la cubierta de las pastillas y colóquelas en la mini taza de fogata.",
+            "Desmenuce la turba para una cobertura uniforme.",
+            "Añada las semillas y cúbralas ligeramente con turba.",
+            "Añada fertilizante según sea necesario (no incluido)."
+        ],
+        "ru": [
+            "Инструкции по посадке:",
+            "Положите торфяные гранулы в отдельный контейнер",
+            "Добавьте примерно 1 чашку воды",
+            "Дождитесь, пока торфяные гранулы полностью расправятся",
+            "При необходимости добавьте еще воды",
+            "Снимите оболочку с гранул и поместите их в мини-кружку для костра",
+            "Размельчите торф на части, чтобы он равномерно покрывал поверхность",
+            "Положите семена и немного присыпьте их торфом",
+            "При необходимости добавьте удобрения для растений (не входят в комплект)"
+        ],
+        "zh": [
+            "种植说明：",
+            "将泥炭颗粒放在一个单独的容器中",
+            "加入大约一杯水",
+            "等待泥炭颗粒完全膨胀",
+            "如果需要的话，可以加更多的水",
+            "除去芯块的外壳，放在迷你的篝火杯里",
+            "把泥炭分开，使其覆盖均匀",
+            "加入种子，轻轻盖上泥炭",
+            "根据需要添加植物食物（不包括在内）"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

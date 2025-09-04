@@ -1,0 +1,34 @@
+{
+    "image_file": "2f403d3c.png",
+    "transcript": [
+        "CAUTION",
+        "No Food, Drinks, Glass or Animals in Pool Area"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Keine Lebensmittel, Getränke, Glasgefäße oder Tiere im Poolbereich"
+        ],
+        "es": [
+            "AVISO",
+            "No se permiten alimentos, bebidas, vasos ni animales en el área de la piscina"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "В зону бассейна запрещается проносить еду, напитки, стеклянную посуду и проходить с животными"
+        ],
+        "zh": [
+            "小心",
+            "泳池区域内禁止食物、饮料、玻璃或动物"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "no"
+    }
+}

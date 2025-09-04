@@ -1,0 +1,44 @@
+{
+    "image_file": "81450843.png",
+    "transcript": [
+        "EXIT 15 X",
+        "Secaucus 1 MILE",
+        "LANE ENDS MERGE LEFT",
+        "ALEXANDER HAMILTON SERVICE AREA"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Abfahrt 15 X",
+            "Secaucus 1 MILE",
+            "Straße endet Links einordnen",
+            "Industriegebiet Alexander Hamilton"
+        ],
+        "es": [
+            "SALIDA 15 X",
+            "Secaucus 1 MILLA",
+            "FIN DEL CARRIL INCORPÓRESE A LA IZQUIERDA",
+            "ALEXANDER HAMILTON ÁREA DE SERVICIO"
+        ],
+        "ru": [
+            "ВЫХОД 15 X",
+            "До Секосуса 1 МИЛЯ",
+            "ПОЛОСА ЗАКАНЧИВАЕТСЯ СЛИЯНИЕ С ЛЕВОЙ ПОЛОСОЙ",
+            "ЗОНА ОБСЛУЖИВАНИЯ АЛЕКСАНДР ГАМИЛЬТОН"
+        ],
+        "zh": [
+            "出口 15 X",
+            "西考克斯 1 英里",
+            "道路终止驶入左道",
+            "亚历山大汉密尔顿服务区"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

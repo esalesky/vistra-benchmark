@@ -1,0 +1,29 @@
+{
+    "image_file": "cc542653.png",
+    "transcript": [
+        "LAWN & WALKWAYS SLIPPERY WHEN WET"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Bei Nässe Glättegefahr auf Rasenflächen und Fußwegen"
+        ],
+        "es": [
+            "CÉSPED Y ACERAS RESBALADIZAS CUANDO ESTÁN MOJADOS"
+        ],
+        "ru": [
+            "ТРОПИНКИ И ДОРОЖКИ СТАНОВЯТСЯ СКОЛЬЗКИМИ В МОКРУЮ ПОГОДУ"
+        ],
+        "zh": [
+            "潮湿时草坪和人行道湿滑"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "5458be00.png",
+    "transcript": [
+        "LIFE RING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rettungsring"
+        ],
+        "es": [
+            "SALVAVIDAS"
+        ],
+        "ru": [
+            "СПАСАТЕЛЬНЫЙ КРУГ"
+        ],
+        "zh": [
+            "救生圈"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

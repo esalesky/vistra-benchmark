@@ -1,0 +1,39 @@
+{
+    "image_file": "af4afb23.png",
+    "transcript": [
+        "STAPLES",
+        "ALL FOOD AND DRINK MUST STAY OUT HERE DURING YOUR MUSEUM VISIT.",
+        "THANK YOU!"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "STAPLES",
+            "Speisen und Getränke sind während des Museumsbesuchs verboten.",
+            "Vielen Dank!"
+        ],
+        "es": [
+            "STAPLES",
+            "DEJE AQUÍ AFUERA LOS ALIMENTOS Y BEBIDAS DURANTE SU VISITA AL MUSEO.",
+            "¡GRACIAS!"
+        ],
+        "ru": [
+            "STAPLES",
+            "ВО ВРЕМЯ ПОСЕЩЕНИЯ МУЗЕЯ ВСЯ ЕДА И НАПИТКИ ДОЛЖНЫ ОСТАВАТЬСЯ ЗДЕСЬ.",
+            "СПАСИБО!"
+        ],
+        "zh": [
+            "史泰博",
+            "参观博物馆期间，所有的食物和饮料必须留在这里。",
+            "谢谢！"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

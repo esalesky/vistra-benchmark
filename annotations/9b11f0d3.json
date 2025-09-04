@@ -1,0 +1,34 @@
+{
+    "image_file": "9b11f0d3.png",
+    "transcript": [
+        "Park Closes at Sunset",
+        "PLEASE KEEP PARKS FREE OF ALCOHOL SMOKING VAPING TOBACCO"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Park schließt bei Sonnenuntergang",
+            "Im Park verboten: Alkohol Rauchen Vapen Tabak"
+        ],
+        "es": [
+            "El parque cierra al atardecer",
+            "MANTENGA LOS PARQUES LIBRES DE ALCOHOL, TABACO, CIGARRILLOS ELECTRÓNICOS Y VAPORIZADORES."
+        ],
+        "ru": [
+            "Парк закрывается на закате",
+            "В ПАРКАХ ЗАПРЕЩЕНО КУРЕНИЕ ТАБАКА И ВЕЙПОВ И УПОТРЕБЛЕНИЕ АЛКОГОЛЯ"
+        ],
+        "zh": [
+            "日落时公园关闭",
+            "请勿公园内饮酒、吸烟、吸电子烟"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

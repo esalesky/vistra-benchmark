@@ -1,0 +1,34 @@
+{
+    "image_file": "cadfd3b7.png",
+    "transcript": [
+        "SIDEWALK CLOSED",
+        "USE OTHER SIDE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Bürgersteig gesperrt",
+            "Straßenseite wechseln"
+        ],
+        "es": [
+            "ACERA CERRADA",
+            "USE EL OTRO LADO"
+        ],
+        "ru": [
+            "ТРОТУАР ЗАКРЫТ",
+            "ИСПОЛЬЗУЙТЕ ДРУГУЮ СТОРОНУ"
+        ],
+        "zh": [
+            "人行道封闭",
+            "请走另一侧"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

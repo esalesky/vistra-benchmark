@@ -1,0 +1,39 @@
+{
+    "image_file": "cc27144d.png",
+    "transcript": [
+        "NO PARKING",
+        "DO NOT BLOCK DRIVEWAY",
+        "TOW ZONE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parkverbot",
+            "Einfahrt freihalten",
+            "Abschleppzone"
+        ],
+        "es": [
+            "NO ESTACIONAR",
+            "NO BLOQUEAR LA ENTRADA",
+            "ZONA DE REMOLQUE"
+        ],
+        "ru": [
+            "ПАРКОВКА ЗАПРЕЩЕНА",
+            "НЕ БЛОКИРУЙТЕ ПРОЕЗД",
+            "РАБОТАЕТ ЭВАКУАТОР"
+        ],
+        "zh": [
+            "禁止停车",
+            "切勿堵塞车道",
+            "拖车区"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

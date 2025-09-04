@@ -1,0 +1,34 @@
+{
+    "image_file": "12a52086.png",
+    "transcript": [
+        "NOTICE",
+        "THIS IS NOT AN ENTRANCE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Hinweis",
+            "Dies ist kein Eingang"
+        ],
+        "es": [
+            "ATENCIÓN",
+            "ESTA NO ES UNA ENTRADA"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "ЭТО НЕ ВХОД"
+        ],
+        "zh": [
+            "注意",
+            "这不是入口"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

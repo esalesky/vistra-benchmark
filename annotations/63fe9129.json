@@ -1,0 +1,39 @@
+{
+    "image_file": "63fe9129.png",
+    "transcript": [
+        "CAUTION",
+        "SLOW DOWN",
+        "PEDESTRIANS IN AREA"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Langsam fahren",
+            "Fußgänger unterwegs"
+        ],
+        "es": [
+            "ATENCIÓN",
+            "REDUZCA LA VELOCIDAD",
+            "PEATONES EN LA ZONA"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "СНИЗЬТЕ СКОРОСТЬ",
+            "В ЭТОЙ ЗОНЕ ЕСТЬ ПЕШЕХОДЫ"
+        ],
+        "zh": [
+            "小心",
+            "慢行",
+            "区域内有行人"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

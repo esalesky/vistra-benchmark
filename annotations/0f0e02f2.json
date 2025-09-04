@@ -1,0 +1,29 @@
+{
+    "image_file": "0f0e02f2.png",
+    "transcript": [
+        "FOOT TRAFFIC ONLY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nur Fußgänger"
+        ],
+        "es": [
+            "SOLO TRÁFICO PEATONAL"
+        ],
+        "ru": [
+            "ТОЛЬКО ДЛЯ ПЕШЕХОДОВ"
+        ],
+        "zh": [
+            "仅限步行"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

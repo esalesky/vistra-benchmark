@@ -1,0 +1,44 @@
+{
+    "image_file": "a31bba21.png",
+    "transcript": [
+        "CAUTION",
+        "Use caution walking the docks during frost, snow and icy conditions.",
+        "SMILE!",
+        "YOU'RE ON CAMERA"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Betreten Sie die Hafenanlagen bei Frost, Schnee und Glätte mit Vorsicht",
+            "Lächeln!",
+            "Sie werden gefilmt"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "Tenga cuidado al caminar por los muelles si hay escarcha, nieve o hielo.",
+            "¡SONRÍA!",
+            "LO ESTAMOS FILMANDO"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "Соблюдайте осторожность при прогулках по причалам во время морозной погоды, дождя и в снегопад.",
+            "УЛЫБНИТЕСЬ!",
+            "ВАС СНИМАЮТ"
+        ],
+        "zh": [
+            "小心",
+            "在霜冻、下雪和结冰的情况下，在码头行走要小心。",
+            "微笑！",
+            "您已进入视频监控区域"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

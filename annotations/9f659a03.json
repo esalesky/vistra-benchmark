@@ -1,0 +1,34 @@
+{
+    "image_file": "9f659a03.png",
+    "transcript": [
+        "CAUTION",
+        "ARM LOWERS AFTER EACH VEHICLE PASSES"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Schranke senkt sich nach jedem Fahrzeug"
+        ],
+        "es": [
+            "CUIDADO",
+            "LA BARRERA BAJA DESPUÉS DE QUE PASA CADA VEHÍCULO"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "СТРЕЛА ШЛАГБАУМА ОПУСКАЕТСЯ ПОСЛЕ ПРОЕЗДА КАЖДОГО АВТОМОБИЛЯ"
+        ],
+        "zh": [
+            "小心",
+            "每辆车经过后，档杆就会放下"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

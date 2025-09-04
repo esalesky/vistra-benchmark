@@ -1,0 +1,29 @@
+{
+    "image_file": "5d302d24.png",
+    "transcript": [
+        "BLANK ENVELOPES & PENS INSIDE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Enthält leere Umschläge und Stifte"
+        ],
+        "es": [
+            "HAY SOBRES EN BLANCO Y LAPICERAS ADENTRO"
+        ],
+        "ru": [
+            "ЧИСТЫЕ КОНВЕРТЫ И РУЧКИ ВНУТРИ"
+        ],
+        "zh": [
+            "内有空白信封和笔"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

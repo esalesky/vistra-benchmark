@@ -1,0 +1,44 @@
+{
+    "image_file": "e468ea05.png",
+    "transcript": [
+        "Ice-cold Coca-Cola has the taste you never get tired of.",
+        "Always refreshing.",
+        "That's why things go better with Coke after Coke after Coke.",
+        "Drink Coca-Cola"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Von eisgekühlter Coca-Cola kann man nie genug bekommen.",
+            "Immer erfrischend.",
+            "Mit einer Cola nach der anderen geht alles besser.",
+            "Trinken Sie Coca-Cola"
+        ],
+        "es": [
+            "Una Coca-Cola bien fría tiene un sabor que nunca te cansa.",
+            "Es siempre refrescante.",
+            "Por eso todo es mejor con una Coca tras otra.",
+            "Bebe Coca-Cola"
+        ],
+        "ru": [
+            "Вкус Кока-колы со льдом не надоест никогда.",
+            "Он всегда освежает.",
+            "Поэтому все становится лучше с каждым глотком.",
+            "Пейте Кока-колу"
+        ],
+        "zh": [
+            "冰镇可口可乐的味道永远不会让你感到厌倦。",
+            "总是让人耳目一新。",
+            "这就是为什么一杯接一杯的可乐让人感觉越来越好。",
+            "请喝可口可乐"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "image_file": "e01e6366.png",
+    "transcript": [
+        "PET WASTE TRANSMITS DISEASE",
+        "LEASH AND CLEAN UP AFTER YOUR PET",
+        "IT'S THE LAW!",
+        "$75.00 TO $500.00 FINE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Tierkot überträgt Krankheiten",
+            "Leinen Sie Ihren Hund an und entfernen Sie dessen Hinterlassenschaften",
+            "Gesetzlich vorgeschrieben",
+            "Geldbußen in Höhe von 75 bis 500 Euro"
+        ],
+        "es": [
+            "LAS HECES DE MASCOTAS TRANSMITEN ENFERMEDADES",
+            "LLEVE A SU PERRO CON CORREA Y LIMPIE LO QUE HACE",
+            "¡ES LA LEY!",
+            "MULTA DE $75 A $500"
+        ],
+        "ru": [
+            "ЭКСКРЕМЕНТЫ ДОМАШНИХ ЖИВОТНЫХ ПРИВОДЯТ К РАСПРОСТРАНЕНИЮ ЗАБОЛЕВАНИЙ",
+            "ДЕРЖИТЕ СОБАКУ НА ПОВОДКЕ И УБИРАЙТЕ ЗА НЕЙ",
+            "ЭТО ЗАКОН!",
+            "ШТРАФ ОТ 75 ДО 500 ДОЛЛАРОВ"
+        ],
+        "zh": [
+            "宠物排泄物会传播疾病",
+            "给你的宠物拴上皮带并清理其粪便",
+            "这是法律规定！",
+            "违者罚款 75 - 500 美元"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

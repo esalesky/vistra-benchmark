@@ -1,0 +1,29 @@
+{
+    "image_file": "bdcb32cd.png",
+    "transcript": [
+        "TREE TAGS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 727,
+    "translation": {
+        "de": [
+            "Weihnachtsbaumanhänger"
+        ],
+        "es": [
+            "ETIQUETAS DE ÁRBOLES"
+        ],
+        "ru": [
+            "ТАБЛИЧКИ НА ДЕРЕВЬЯХ"
+        ],
+        "zh": [
+            "树标"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

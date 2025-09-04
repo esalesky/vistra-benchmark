@@ -1,0 +1,34 @@
+{
+    "image_file": "5fc3cbf1.png",
+    "transcript": [
+        "PRIVATE DRIVE",
+        "RESIDENTS ONLY NO TRESPASSING NO SOLICITING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Privatstraße",
+            "Nur für Anwohner Zutritt verboten Keine Werbung"
+        ],
+        "es": [
+            "VÍA PRIVADA",
+            "SOLO RESIDENTES NO PASAR SIN AUTORIZACIÓN NO VENDEDORES AMBULANTES"
+        ],
+        "ru": [
+            "ЧАСТНАЯ ДОРОГА",
+            "ТОЛЬКО ДЛЯ РЕЗИДЕНТОВ ПРОХОД ЗАПРЕЩЕН ПРЕДЛОЖЕНИЕ УСЛУГ ЗАПРЕЩЕНО"
+        ],
+        "zh": [
+            "私人道路",
+            "仅限居民使用，禁止非法侵入，禁止揽客"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

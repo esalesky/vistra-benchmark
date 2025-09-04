@@ -1,0 +1,29 @@
+{
+    "image_file": "46e70e06.png",
+    "transcript": [
+        "NO ANIMALS EXCEPT TRAINED SERVICE ANIMALS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Keine Tiere mit Ausnahme trainierter Diensthunde"
+        ],
+        "es": [
+            "PROHIBIDO ANIMALES EXCEPTO ANIMALES DE SERVICIO ENTRENADOS"
+        ],
+        "ru": [
+            "ПРОХОД С ЖИВОТНЫМИ ЗАПРЕЩЕН КРОМЕ ОБУЧЕННЫХ СЛУЖЕБНЫХ ЖИВОТНЫХ"
+        ],
+        "zh": [
+            "除了受过训练的服务性动物外，禁止动物入内"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

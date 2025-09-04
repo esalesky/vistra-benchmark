@@ -1,0 +1,59 @@
+{
+    "image_file": "3c942268.png",
+    "transcript": [
+        "ENTRANCE",
+        "Prohibited Items:",
+        "Any bag larger than 18\" wide x 14\" high x 8.5\" deep",
+        "Aerosol containers and non-aerosol spray, mace and pepper spray",
+        "Guns, replica guns, electric stun guns, ammunition, martial arts weapons or devices, explosives and fireworks",
+        "Any pointed object (e.g. knitting needles and letter openers) and knives of any size (pens and pencils are permitted)",
+        "Razors and box cutters"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Eingang",
+            "Verboten sind:",
+            "Alle Taschen größer als 46x35x21,5 cm (HxBxT)",
+            "Aerosolbehälter und aerosolfreie Sprays, Reizgas und Pfefferspray",
+            "Schusswaffen, Nachbildungen von Schusswaffen, Elektroschocker, Munition, im Kampfsport verwendete Waffen oder Geräte, Sprengstoff und Feuerwerkskörper",
+            "Alle spitzen Gegenstände (z. B. Stricknadeln und Brieföffner) sowie Messer beliebiger Größe (Kugelschreiber und Bleistifte sind erlaubt)",
+            "Rasier- und Teppichmesser"
+        ],
+        "es": [
+            "ENTRADA",
+            "Artículos prohibidos:",
+            "Bolsos de más de 18\" ancho x 14\" alto x 8,5\" profundidad",
+            "Aerosoles y atomizadores no aerosoles, gas lacrimógeno y gas pimienta",
+            "Armas, réplicas de armas, pistolas eléctricas, municiones, armas o dispositivos de artes marciales, explosivos y pirotecnia",
+            "Objetos punzantes (p. ej., agujas de tejer y abrecartas) y cuchillos de ningún tamaño (se permiten lápices y lapiceras)",
+            "Rasuradoras y cúters"
+        ],
+        "ru": [
+            "ВХОД",
+            "Запрещено проносить:",
+            "Пакеты размером более 18 дюймов x 14 дюймов x 8,5 дюймов",
+            "Контейнеры с аэрозолями и неаэрозольные спреи, баллончики со слезоточивым газом и перцовые баллончики",
+            "Оружие, муляжи оружия, электрошокеры, боеприпасы, оружие или принадлежности для боевых искусств, взрывчатые вещества и фейерверки",
+            "Любые острые предметы (например, вязальные спицы и канцелярские ножи) и ножи любого размера (ручки и карандаши проносить можно)",
+            "Лезвия и ножи со сменными лезвиями"
+        ],
+        "zh": [
+            "入口",
+            "禁止携带物品：",
+            "任何大于 18 英寸宽 x 14 英寸高 x 8.5 英寸深的袋子",
+            "气雾剂容器及非气雾剂、豆蔻及胡椒喷雾",
+            "枪支、仿制枪、电晕枪、弹药、武术武器或装置、炸药和烟花",
+            "任何尖头物品（例如针织针及开信刀）及任何大小的刀具（允许使用钢笔及铅笔）",
+            "剃须刀和美工刀"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

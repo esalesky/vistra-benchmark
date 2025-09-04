@@ -1,0 +1,59 @@
+{
+    "image_file": "beb11bde.png",
+    "transcript": [
+        "TENNIS & PICKLEBALL COURT RULES",
+        "Use the courts at your own risk.",
+        "Courts are for Tennis or Pickleball play ONLY. Absolutely no biking, rollerblading, skateboarding or playing of any other sport or activity is permitted on the courts.",
+        "When the courts are busy and players are waiting to play, play is limited to one hour. If a court monitor is not present, please use the honor system of regulating play.",
+        "Do NOT cross behind players or run onto another court. Wait for play to stop, then ask for permission to enter the court.",
+        "Tennis shoes ONLY - No cleats allowed.",
+        "No glass containers. Please deposit trash in the provided receptacles."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Tennis und Pickleball – Platzordnung",
+            "Nutzung der Plätze auf eigene Gefahr",
+            "Auf den Plätzen darf NUR Tennis oder Pickleball gespielt werden.\nRadfahren, Inlineskaten, Skateboarden oder das Ausüben anderer Sportarten oder Aktivitäten ist auf den Plätzen nicht gestattet.",
+            "Wenn alle Plätze belegt sind und andere Spieler warten, ist die Spielzeit auf eine Stunde begrenzt. Wenn kein Platzwart anwesend ist, wenden Sie zur Regelung der Spielreihenfolge das Bonussystem an.",
+            "Sie dürfen NICHT hinter Spielern herlaufen oder ein anderes Spielfeld betreten. Warten Sie, bis das Spiel beendet ist, und bitten Sie dann um Erlaubnis, das Spielfeld zu betreten.",
+            "NUR Tennisschuhe – Stollenschuhe sind nicht erlaubt.",
+            "Keine Glascontainer. Werfen Sie Ihren Müll in die dafür vorgesehenen Behälter."
+        ],
+        "es": [
+            "NORMAS DE LAS CANCHAS DE TENIS Y PICKLEBALL",
+            "Use las canchas bajo su propio riesgo.",
+            "Las canchas son solo para jugar tenis o pickleball. Está absolutamente prohibido andar en bicicleta, patinar, andar en skate y practicar cualquier otro deporte o actividad en las canchas.",
+            "Cuando las canchas están ocupadas y hay jugadores esperando, el tiempo de juego está limitado a una hora. Si no hay un monitor de cancha presente, use el sistema de honor para regular el tiempo de juego.",
+            "NO cruce detrás de los jugadores ni corra a otra cancha. Espere a que termine el juego y luego pida permiso para entrar a la cancha.",
+            "Solo zapatos de tenis - No se permiten tachones.",
+            "No se permiten envases de vidrio. Deposite la basura en los recipientes provistos."
+        ],
+        "ru": [
+            "ПРАВИЛА ПОВЕДЕНИЯ НА КОРТАХ ДЛЯ ТЕННИСА И ПИКЛБОЛА",
+            "Вы занимаетесь спортом на кортах на свой собственный риск.",
+            "Корты предназначены ТОЛЬКО для игры в теннис и пиклбол. На кортах категорически запрещено кататься на велосипедах, роликах, скейтбордах и заниматься любым другим видом спорта или любой другой деятельностью.",
+            "Если корты заняты и игроки ожидают начала игры, время игры ограничено одним часом. Если на корте нет наблюдателя, используйте честную систему регулирования времени игры.",
+            "НЕ пробегайте за игроками на другой корт. Подождите, пока игра остановится, и спросите разрешения пройти на корт.",
+            "Разрешается надевать ТОЛЬКО теннисные туфли. Бутсы использовать запрещено.",
+            "Запрещается проносить стеклянные контейнеры. Выбрасывайте мусор в специализированные контейнеры."
+        ],
+        "zh": [
+            "网球和匹克球场规则",
+            "使用场地自担风险。",
+            "球场只供网球或匹克球使用。绝对不允许在球场上骑自行车、滑旱冰、滑板或玩任何其他运动或活动。",
+            "当球场繁忙，球员等待比赛时，比赛限制在一个小时内。如果没有球场监督人员在场，请使用规范比赛的荣誉制度。",
+            "不要越过球员身后或跑到另一个场地。等待比赛结束，然后请求允许进入球场。",
+            "只允许穿网球鞋，不允许穿钉鞋。",
+            "没有玻璃容器。请将垃圾存放在提供的容器中。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

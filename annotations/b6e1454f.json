@@ -1,0 +1,54 @@
+{
+    "image_file": "b6e1454f.png",
+    "transcript": [
+        "OWNER / OPERATOR",
+        "OWNER/OPERATOR AND ATTENDANT MUST BE TRAINED IN THE SAFE SET UP AND OPERATION OF THIS INFLATABLE RIDE",
+        "OWNER/OPERATOR MUST PERFORM A DAILY SAFETY AND PERFORMANCE INSPECTION AS PER THE INSTRUCTIONS PROVIDED BY THE MANUFACTURER OF THIS INFLATABLE RIDE",
+        "OWNER/OPERATOR AND ATTENDANT IS RESPONSIBLE FOR PROVIDING ALL NECESSARY VERBAL, VISUAL AND PHYSICAL INSTRUCTIONS REGARDING THE SAFE OPERATION AND USE OF THIS INFLATABLE RIDE",
+        "OWNER/OPERATOR IS REQUIRED TO MAINTAIN A COPY OF ALL MANUFACTURER SUPPLIED SET UP AND OPERATION INSTRUCTIONS FOR THIS INFLATABLE RIDE",
+        "OWNER/OPERATOR AND ATTENDANT OF THIS INFLATABLE RIDE IS RESPONSIBLE TO ENSURE THAT ALL PARTICIPANTS COMPLY WITH ALL SAFETY RULES AND ARE NOT UNDER THE INFLUENCE OF DRUGS AND / OR ALCOHOL."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Eigentümer/Betreiber",
+            "Besitzer/Betreiber und Aufsichtsperson müssen mit dem sicheren Aufbau und Betrieb des aufblasbaren Spielgeräts vertraut sein",
+            "Besitzer/Betreiber muss täglich eine Sicherheits- und Funktionsprüfung entsprechend der vom Hersteller dieses aufblasbaren Spielgeräts bereitgestellten Anweisungen durchführen",
+            "Besitzer/Betreiber und Aufsichtsperson sind für alle notwendigen Anweisungen (verbal, visuell und physisch) bezüglich des sicheren Betriebs und der sicheren Nutzung dieses aufblasbaren Spielgeräts verantwortlich",
+            "Der Besitzer/Betreiber ist verpflichtet, eine Kopie aller vom Hersteller bereitgestellten Anweisungen für den Aufbau und den Betrieb dieses aufblasbaren Spielgeräts aufzubewahren",
+            "Besitzer/Betreiber und Aufsichtsperson dieses aufblasbaren Spielgeräts müssen sicherstellen, dass alle Teilnehmer sämtliche Sicherheitsregeln befolgen und nicht unter dem Einfluss von Drogen und/oder Alkohol stehen"
+        ],
+        "es": [
+            "PROPIETARIO/OPERADOR",
+            "EL PROPIETARIO/OPERADOR Y EL ASISTENTE DEBEN ESTAR CAPACITADOS EN MONTAJE Y OPERACIÓN SEGUROS DE ESTA ATRACCIÓN INFLABLE",
+            "EL PROPIETARIO/OPERADOR DEBE REALIZAR UNA INSPECCIÓN DIARIA DE SEGURIDAD Y DESE,PEÑO DE ACUERDO CON LAS INSTRUCCIONES PROPORCIONADAS POR EL FABRICANTE DE ESTA ATRACCIÓN INFLABLE",
+            "EL PROPIETARIO/OPERADOR Y EL ASISTENTE SON RESPONSABLES DE PROPORCIONAR TODAS LAS INSTRUCCIONES VERBALES, VISUALES Y FÍSICAS NECESARIAS PARA OPERACIÓN Y USO SEGUROS DE ESTA ATRACCIÓN INFLABLE",
+            "EL PROPIETARIO/OPERADOR DEBE CONSERVAR UNA COPIA DE TODAS LAS INSTRUCCIONES DE MONTAJE Y OPERACIÓN PROPORCIONADAS POR EL FABRICANTE DE ESTA ATRACCIÓN INFLABLE",
+            "EL PROPIETARIO/OPERADOR Y EL ASISTENTE DE ESTA ATRACCIÓN INFLABLE SON RESPONSABLES DE ASEGURARSE DE QUE TODOS LOS PARTICIPANTES CUMPLAN CON TODAS LAS NORMAS DE SEGURIDAD Y NO ESTÉN BAJO LA INFLUENCIA DE DROGAS Y/O ALCOHOL"
+        ],
+        "ru": [
+            "ВЛАДЕЛЕЦ/ОПЕРАТОР",
+            "ВЛАДЕЛЕЦ/ОПЕРАТОР И ОБСЛУЖИВАЮЩИЙ ПЕРСОНАЛ ДОЛЖНЫ ПРОЙТИ ОБУЧЕНИЕ ПО БЕЗОПАСНОЙ ПОДГОТОВКЕ И ЭКСПЛУАТАЦИИ ЭТОГО НАДУВНОГО АТТРАКЦИОНА",
+            "ВЛАДЕЛЕЦ/ОПЕРАТОР ДОЛЖЕН ПРОВОДИТЬ ЕЖЕДНЕВНУЮ ПРОВЕРКУ БЕЗОПАСНОСТИ И РАБОТОСПОСОБНОСТИ В СООТВЕТСТВИИ С ИНСТРУКЦИЯМИ, ПРЕДОСТАВЛЕННЫМИ ПРОИЗВОДИТЕЛЕМ ЭТОГО НАДУВНОГО АТТРАКЦИОНА",
+            "ВЛАДЕЛЕЦ/ОПЕРАТОР И ОБСЛУЖИВАЮЩИЙ ПЕРСОНАЛ НЕСУТ ОТВЕТСТВЕННОСТЬ ЗА ПРЕДОСТАВЛЕНИЕ ВСЕХ НЕОБХОДИМЫХ ВЕРБАЛЬНЫХ, ВИЗУАЛЬНЫХ И ФИЗИЧЕСКИХ ИНСТРУКЦИЙ ПО БЕЗОПАСНОЙ ЭКСПЛУАТАЦИИ И ИСПОЛЬЗОВАНИЮ ЭТОГО НАДУВНОГО АТТРАКЦИОНА",
+            "ВЛАДЕЛЕЦ/ОПЕРАТОР ОБЯЗАН ХРАНИТЬ КОПИИ ВСЕХ ПРЕДОСТАВЛЕННЫХ ПРОИЗВОДИТЕЛЕМ ИНСТРУКЦИЙ ПО ПОДГОТОВКЕ И ЭКСПЛУАТАЦИИ ЭТОГО НАДУВНОГО АТТРАКЦИОНА",
+            "ВЛАДЕЛЕЦ/ОПЕРАТОР И ОБСЛУЖИВАЮЩИЙ ПЕРСОНАЛ ЭТОГО НАДУВНОГО АТТРАКЦИОНА НЕСУТ ОТВЕТСТВЕННОСТЬ ЗА ТО, ЧТОБЫ ВСЕ УЧАСТНИКИ СОБЛЮДАЛИ ВСЕ ПРАВИЛА БЕЗОПАСНОСТИ И НЕ ДОПУСКАЛИСЬ НА АТТРАКЦИОН, ЕСЛИ ОНИ НАХОДЯТСЯ В СОСТОЯНИИ АЛКОГОЛЬНОГО ИЛИ НАРКОТИЧЕСКОГО ОПЬЯНЕНИЯ."
+        ],
+        "zh": [
+            "所有人/操作员",
+            "所有人/操作员及随行人员必须接受安全设置及操作充气游乐设施的培训",
+            "所有人/操作员必须按照制造商提供的说明进行日常安全和性能检查",
+            "所有人/操作员和乘务员负责提供有关安全操作和使用本充气游乐设施的所有必要的口头、视觉和身体指导",
+            "所有人/操作员必须保留所有制造商提供的充气游乐设施的安装和操作说明的副本",
+            "本充气游乐设施的所有人/操作员和服务人员有责任确保所有参与者遵守所有安全规则，并且不受药物和/或酒精的影响。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "image_file": "350752b8.png",
+    "transcript": [
+        "WELCOME",
+        "DROP OFF",
+        "PICK UP & DELIVERY",
+        "MINIMUM REQUIRED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Willkommen",
+            "Abgabe",
+            "Mitnahme und Lieferung",
+            "Minimum erforderlich"
+        ],
+        "es": [
+            "BIENVENIDO",
+            "ENTREGA",
+            "RECOGIDA Y ENVÍO A DOMICILIO",
+            "MÍNIMO REQUERIDO"
+        ],
+        "ru": [
+            "ДОБРО ПОЖАЛОВАТЬ",
+            "ПРИЕМ ОТПРАВЛЕНИЙ",
+            "ОТБОР И ДОСТАВКА",
+            "НЕОБХОДИМОЕ МИНИМАЛЬНОЕ КОЛИЧЕСТВО"
+        ],
+        "zh": [
+            "欢迎光临",
+            "自取",
+            "外带或送货",
+            "有最低消费要求"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "yes",
+        "zh": "no"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image_file": "cf8f0085.png",
+    "transcript": [
+        "DO NOT BLOCK DRIVEWAY",
+        "24 HOUR ACCESS REQUIRED",
+        "NO TRESPASSING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Einfahrt rund um die",
+            "Uhr freihalten",
+            "Zutritt verboten"
+        ],
+        "es": [
+            "NO BLOQUEAR LA ENTRADA",
+            "SE REQUIERE ACCESO LAS 24 HORAS",
+            "NO PASAR"
+        ],
+        "ru": [
+            "НЕ БЛОКИРУЙТЕ ПРОЕЗД",
+            "ТРЕБУЕТСЯ КРУГЛОСУТОЧНЫЙ ДОСТУП",
+            "ПРОХОД ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "切勿堵塞车道",
+            "需要 24 小时畅通",
+            "禁止侵入"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

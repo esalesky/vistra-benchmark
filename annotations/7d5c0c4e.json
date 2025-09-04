@@ -1,0 +1,49 @@
+{
+    "image_file": "7d5c0c4e.png",
+    "transcript": [
+        "CAUTION",
+        "NO PARKING",
+        "DO NOT BLOCK CONTAINER",
+        "DO NOT FILL ABOVE TOP OF CONTAINER",
+        "NO APPLIANCES NO BATTERIES NO LIQUIDS OR CHEMICALS NO TIRES NO DRUMS OR CONTAINERS NO BIOHAZARDOUS WASTE"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Parkverbot",
+            "Container freihalten",
+            "Container nur bis zum Rand befüllen",
+            "Keine Weißware Keine Batterien Keine Flüssigkeiten oder Chemikalien Keine Reifen Keine Fässer oder Behälter Keine biogefährlichen Abfälle"
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "NO ESTACIONAR",
+            "NO BLOQUEAR EL CONTENEDOR",
+            "NO LLENAR POR ENCIMA DEL BORDE",
+            "NO ARROJAR ELECTRODOMÉSTICOS BATERÍAS LÍQUIDOS PRODUCTOS QUÍMICOS CUBIERTAS BARRILES O CONTENEDORES NI RESIDUOS BIOLÓGICOS PELIGROSOS"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "ПАРКОВКА ЗАПРЕЩЕНА",
+            "НЕ БЛОКИРОВАТЬ КОНТЕЙНЕР",
+            "НЕ ПЕРЕПОЛНЯТЬ КОНТЕЙНЕР",
+            "НЕ ВЫБРАСЫВАТЬ ЭЛЕКТРОННЫЕ УСТРОЙСТВА НЕ ВЫБРАСЫВАТЬ АККУМУЛЯТОРЫ НЕ ВЫБРАСЫВАТЬ ЖИДКОСТИ ИЛИ ХИМИЧЕСКИЕ ВЕЩЕСТВА НЕ ВЫБРАСЫВАТЬ ШИНЫ НЕ ВЫБРАСЫВАТЬ КАТУШКИ ИЛИ КОНТЕЙНЕРЫ НЕ ВЫБРАСЫВАТЬ БИОЛОГИЧЕСКИ ОПАСНЫЕ ОТХОДЫ"
+        ],
+        "zh": [
+            "小心",
+            "禁止停车",
+            "不要堵塞容器",
+            "不填满容器顶部",
+            "禁止电器、电池、液体或化学品，禁止轮胎、桶或容器，禁止生物危险废物"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

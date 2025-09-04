@@ -1,0 +1,29 @@
+{
+    "image_file": "8a4319e3.png",
+    "transcript": [
+        "NO PLAYING ON STAIRS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Spielen auf der Treppe verboten"
+        ],
+        "es": [
+            "NO JUGAR EN LAS ESCALERAS"
+        ],
+        "ru": [
+            "НЕ ИГРАТЬ НА ЛЕСТНИЦЕ"
+        ],
+        "zh": [
+            "禁止在楼梯上玩耍"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

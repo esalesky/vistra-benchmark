@@ -1,0 +1,34 @@
+{
+    "image_file": "3c3863b3.png",
+    "transcript": [
+        "ONE WAY",
+        "DO NOT ENTER"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Einbahnstraße",
+            "Nicht betreten"
+        ],
+        "es": [
+            "UNA VÍA",
+            "NO PASAR"
+        ],
+        "ru": [
+            "ОДНОСТОРОННЕЕ ДВИЖЕНИЕ",
+            "ВЪЕЗД ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "单向",
+            "禁止进入"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

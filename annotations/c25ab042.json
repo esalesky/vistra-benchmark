@@ -1,0 +1,49 @@
+{
+    "image_file": "c25ab042.png",
+    "transcript": [
+        "TO OPEN, Turn RIGHT two or more full turns and stop at 14",
+        "Turn LEFT one full turn past above number and stop at 28",
+        "Turn RIGHT and stop at 13",
+        "TO LOCK, Push in shackle for automatic locking & self-erasing combination.",
+        "MADE IN CHINA"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Zum Öffnen mindestens zwei volle Umdrehungen im Uhrzeigersinn ausführen und bei 14 anhalten",
+            "Eine volle Umdrehung entgegen dem Uhrzeigersinn über die obere Zahl (14) hinaus ausführen und bei 28 anhalten",
+            "Nach rechts drehen und bei 13 anhalten",
+            "Bügel zum automatischen Sperren und Löschen der Kombination reinschieben",
+            "MADE IN CHINA"
+        ],
+        "es": [
+            "PARA ABRIR, gire a la DERECHA dos o más vueltas completas y deténgase en 14.",
+            "Gire a la IZQUIERDA una vuelta completa pasando el número anterior y deténgase en 28.",
+            "Gire a la DERECHA y deténgase en 13.",
+            "PARA CERRAR, empuje el pestillo hacia adentro para que se cierre automáticamente y se elimine la combinación.",
+            "HECHO EN CHINA"
+        ],
+        "ru": [
+            "Чтобы ОТКРЫТЬ, поверните НАПРАВО на два или более полных оборота и остановитесь на 14",
+            "Поверните НАЛЕВО на один полный оборот мимо указанного выше номера и остановитесь на 28",
+            "Поверните НАПРАВО и остановитесь на 13",
+            "ЧТОБЫ ЗАКРЫТЬ, нажмите на дужку, при этом замок заблокируется и комбинация удалится автоматически.",
+            "СДЕЛАНО В КИТАЕ"
+        ],
+        "zh": [
+            "打开时，右转两个或更多的完整圈，并在 14 处停止",
+            "左转一圈，过了上面的数字，停在 28 号",
+            "向右转，在 13 号路停车",
+            "锁定，推入锁扣自动锁定和自动擦除组合。",
+            "中国制造"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

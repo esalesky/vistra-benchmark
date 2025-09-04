@@ -1,0 +1,29 @@
+{
+    "image_file": "eb16bbd9.png",
+    "transcript": [
+        "Do not enter or cross tracks"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Betreten oder Überqueren der Schienen verboten"
+        ],
+        "es": [
+            "No ingresar ni cruzar las vías"
+        ],
+        "ru": [
+            "Не выходите на пути и не переходите их"
+        ],
+        "zh": [
+            "不要进入或穿越轨道"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

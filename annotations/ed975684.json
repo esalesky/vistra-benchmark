@@ -1,0 +1,34 @@
+{
+    "image_file": "ed975684.png",
+    "transcript": [
+        "COMBUSTION VEHICLES PROHIBITED IN TUNNEL",
+        "CLEARANCE 9 FEET"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Verbrenner im Tunnel verboten",
+            "Höhe 2,70 Meter"
+        ],
+        "es": [
+            "PROHIBIDO VEHÍCULOS DE COMBUSTIÓN EN EL TÚNEL",
+            "ALTURA 9 PIES"
+        ],
+        "ru": [
+            "ЗАПРЕЩЕН ВЪЕЗД В ТУННЕЛЬ АВТОМОБИЛЕЙ С ДВИГАТЕЛЕМ ВНУТРЕННЕГО СГОРАНИЯ",
+            "ВЫСОТА 9 ФУТОВ"
+        ],
+        "zh": [
+            "禁止燃烧车辆进入隧道",
+            "净空 9 英尺"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

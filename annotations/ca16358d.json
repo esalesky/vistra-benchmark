@@ -1,0 +1,29 @@
+{
+    "image_file": "ca16358d.png",
+    "transcript": [
+        "WEAR AND USE YOUR PERSONAL PROTECTIVE EQUIPMENTS"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Persönliche Schutzausrüstung tragen"
+        ],
+        "es": [
+            "USE SU EQUIPO DE PROTECCIÓN PERSONAL"
+        ],
+        "ru": [
+            "НОСИТЕ И ИСПОЛЬЗУЙТЕ СРЕДСТВА ИНДИВИДУАЛЬНОЙ ЗАЩИТЫ"
+        ],
+        "zh": [
+            "穿戴和使用个人防护装备"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

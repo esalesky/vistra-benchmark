@@ -1,0 +1,49 @@
+{
+    "image_file": "b263693b.png",
+    "transcript": [
+        "Attention:",
+        "Any changes to your account that will affect billing (Adding, removing, or freezing a member) must be submitted by the 25th of the Month to take effect.",
+        "Thank you!",
+        "movement",
+        "CLIMBING - YOGA - FITNESS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung:",
+            "Alle die Rechnungsstellung betreffenden Änderungen an Ihrem Konto (Hinzufügen, Entfernen oder Sperren eines Mitglieds), müssen bis zum 25. des Monats eingereicht werden, damit sie wirksam werden.",
+            "Vielen Dank!",
+            "movement",
+            "CLIMBING - YOGA - FITNESS"
+        ],
+        "es": [
+            "Atención:",
+            "Cualquier cambio en su cuenta que afecte la facturación (agregar, eliminar o congelar un miembro) debe enviarse antes del 25 del mes para que tenga efecto.",
+            "¡Gracias!",
+            "movement",
+            "ESCALADA - YOGA - ENTRENAMIENTO"
+        ],
+        "ru": [
+            "Внимание!",
+            "Сообщите нам о любых изменениях в вашем аккаунте, влияющих на выставление счета (добавление, удаление или \"замораживание\" участника), до 25-го числа месяца, чтобы эти изменения вступили в силу.",
+            "Спасибо!",
+            "движение",
+            "CLIMBING - YOGA - FITNESS"
+        ],
+        "zh": [
+            "注意：",
+            "任何会影响账单的账户变更（添加、删除或冻结会员）必须在当月25日之前提交才能生效。",
+            "谢谢！",
+            "movement",
+            "攀岩-瑜伽-健身"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

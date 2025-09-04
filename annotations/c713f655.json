@@ -1,0 +1,34 @@
+{
+    "image_file": "c713f655.png",
+    "transcript": [
+        "DANGER",
+        "AUTHORIZED PERSONNEL ONLY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Nur befugtes Personal"
+        ],
+        "es": [
+            "PELIGRO",
+            "SOLO PERSONAL AUTORIZADO"
+        ],
+        "ru": [
+            "ОПАСНО",
+            "ДОСТУП ТОЛЬКО ДЛЯ АВТОРИЗОВАННОГО ПЕРСОНАЛА"
+        ],
+        "zh": [
+            "危险",
+            "仅限授权人员"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

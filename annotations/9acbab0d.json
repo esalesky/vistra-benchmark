@@ -1,0 +1,34 @@
+{
+    "image_file": "9acbab0d.png",
+    "transcript": [
+        "MAY USE FULL LANE",
+        "NO STOPPING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gesamte Fahrbahnbreite nutzen",
+            "Halteverbot"
+        ],
+        "es": [
+            "PUEDEN USAR TODO EL CARRIL",
+            "NO DETENERSE"
+        ],
+        "ru": [
+            "ВЕЛОСИПЕДИСТЫ МОГУТ ИСПОЛЬЗОВАТЬ ВСЮ ПОЛОСУ",
+            "ОСТАНОВКА ЗАПРЕЩЕНА"
+        ],
+        "zh": [
+            "可使用全车道",
+            "禁止停车"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

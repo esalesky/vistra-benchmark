@@ -1,0 +1,34 @@
+{
+    "image_file": "a9e70bac.png",
+    "transcript": [
+        "Hold Guest Room Key Over Key Card Reader.",
+        "Wait for Green Light then Select Floor."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Halten Sie die Karte für das Gästezimmer über den Schlüsselkartenleser.",
+            "Wählen Sie die Etage aus, wenn das grüne Licht aufleuchtet."
+        ],
+        "es": [
+            "Sostenga la llave de la habitación sobre el lector de tarjetas.",
+            "Espere la luz verde y luego seleccione el piso."
+        ],
+        "ru": [
+            "Приложите ключ гостя к считывателю.",
+            "Дождитесь зеленого индикатора и выберите этаж."
+        ],
+        "zh": [
+            "把客房钥匙放在钥匙卡读卡器上。",
+            "等待绿灯，然后选择楼层。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

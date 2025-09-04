@@ -1,0 +1,39 @@
+{
+    "image_file": "24a1b94b.png",
+    "transcript": [
+        "TOW AWAY",
+        "NO STANDING OR PARKING ANYTIME",
+        "IF TOWED CALL 311"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Abschleppzone",
+            "Absolutes Halte- oder Parkverbot",
+            "Bei abgeschlepptem Fahrzeug 311 wählen"
+        ],
+        "es": [
+            "REMOLQUE",
+            "NO ESTACIONAR NI DETENERSE EN NINGÚN MOMENTO",
+            "EN CASO DE REMOLQUE LLAME AL 311"
+        ],
+        "ru": [
+            "РАБОТАЕТ ЭВАКУАТОР",
+            "ОСТАНОВКА И СТОЯНКА ЗАПРЕЩЕНЫ",
+            "ЕСЛИ ВАШ АВТОМОБИЛЬ ЭВАКУИРОВАЛИ, ПОЗВОНИТЕ ПО ТЕЛЕФОНУ 311"
+        ],
+        "zh": [
+            "拖车移走",
+            "任何时候都不能驻留或停车",
+            "如果车辆被拖走，请拨打 311"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

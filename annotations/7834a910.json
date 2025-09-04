@@ -1,0 +1,34 @@
+{
+    "image_file": "7834a910.png",
+    "transcript": [
+        "Caution",
+        "Surface slippery when wet"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Glättegefahr bei Nässe"
+        ],
+        "es": [
+            "Precaución",
+            "Superficie resbaladiza cuando está mojada"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "СКОЛЬЗКАЯ ПОВЕРХНОСТЬ ВО ВРЕМЯ ДОЖДЯ"
+        ],
+        "zh": [
+            "小心",
+            "湿时表面湿滑"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

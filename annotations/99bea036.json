@@ -1,0 +1,34 @@
+{
+    "image_file": "99bea036.png",
+    "transcript": [
+        "KEEP RIGHT",
+        "EXCEPT TO PASS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rechts halten",
+            "Außer beim Überholen"
+        ],
+        "es": [
+            "MANTÉNGASE A LA DERECHA",
+            "EXCEPTO PARA SOBREPASAR"
+        ],
+        "ru": [
+            "ДЕРЖИТЕСЬ ПРАВОЙ ПОЛОСЫ",
+            "КРОМЕ СКВОЗНОГО ПРОЕЗДА"
+        ],
+        "zh": [
+            "靠右",
+            "超车除外"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

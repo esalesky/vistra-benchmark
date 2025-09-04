@@ -1,0 +1,34 @@
+{
+    "image_file": "67165078.png",
+    "transcript": [
+        "DRIVE SLOWLY",
+        "SPEED BUMPS INSIDE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Langsam fahren",
+            "Bodenschwellen im Inneren"
+        ],
+        "es": [
+            "CONDUZCA DESPACIO",
+            "REDUCTORES DE VELOCIDAD DENTRO"
+        ],
+        "ru": [
+            "СНИЗЬТЕ СКОРОСТЬ",
+            "ВПЕРЕДИ ЛЕЖАЧИЕ ПОЛИЦЕЙСКИЕ"
+        ],
+        "zh": [
+            "慢行",
+            "内有减速带"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

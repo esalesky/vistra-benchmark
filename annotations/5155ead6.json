@@ -1,0 +1,29 @@
+{
+    "image_file": "5155ead6.png",
+    "transcript": [
+        "BIKES RIDE SINGLE FILE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Fahrräder fahren hintereinander"
+        ],
+        "es": [
+            "BICICLETAS CIRCULAR EN FILA ÚNICA"
+        ],
+        "ru": [
+            "ДВИЖЕНИЕ ВЕЛОСИПЕДОВ В ОДНОМ НАПРАВЛЕНИИ"
+        ],
+        "zh": [
+            "自行车排成一列"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

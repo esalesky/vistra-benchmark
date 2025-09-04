@@ -1,0 +1,44 @@
+{
+    "image_file": "097d31f7.png",
+    "transcript": [
+        "NO SMOKING",
+        "INCLUDING ELECTRONIC CIGARETTES",
+        "SMOKING OR CARRYING LIGHTED TOBACCO PRODUCTS OR USING ELECTRONIC CIGARETTES IS PROHIBITED BY LAW.",
+        "VIOLATORS ARE SUBJECT TO A PENALTY NOT TO EXCEED $50.00."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rauchen verboten",
+            "E-Zigaretten eingeschlossen",
+            "Das Rauchen oder Mitführen von brennenden Tabakprodukten oder die Verwendung von E-Zigaretten ist gesetzlich verboten.",
+            "Verstöße werden mit einer Strafe von bis zu 50 Euro geahndet."
+        ],
+        "es": [
+            "PROHIBIDO FUMAR",
+            "INCLUIDOS CIGARRILLOS ELECTRÓNICOS",
+            "FUMAR O LLEVAR PRODUCTOS DE TABACO ENCENDIDOS O USAR CIGARRILLOS ELECTRÓNICOS ESTÁ PROHIBIDO POR LEY.",
+            "LOS INFRACTORES PODRÁN RECIBIR UNA SANCIÓN DE HASTA $50,00."
+        ],
+        "ru": [
+            "НЕ КУРИТЬ",
+            "ЭТО ОТНОСИТСЯ И К ЭЛЕКТРОННЫМ СИГАРЕТАМ",
+            "КУРЕНИЕ ИЛИ НОШЕНИЕ ЗАЖЖЕННЫХ ТАБАЧНЫХ ИЗДЕЛИЙ, А ТАКЖЕ ИСПОЛЬЗОВАНИЕ ЭЛЕКТРОННЫХ СИГАРЕТ ЗАПРЕЩЕНЫ ЗАКОНОМ.",
+            "НА НАРУШИТЕЛЕЙ БУДЕТ НАЛОЖЕН ШТРАФ В РАЗМЕРЕ НЕ БОЛЕЕ 50 ДОЛЛАРОВ."
+        ],
+        "zh": [
+            "禁止吸烟",
+            "包括电子香烟",
+            "法律禁止吸烟、携带点燃的烟草制品或使用电子香烟。",
+            "违反者将被处以不超过 50 美元的罚款。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

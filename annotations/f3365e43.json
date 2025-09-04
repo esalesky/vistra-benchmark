@@ -1,0 +1,34 @@
+{
+    "image_file": "f3365e43.png",
+    "transcript": [
+        "DANGER",
+        "CONSTRUCTION AREA"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gefahr",
+            "Baustelle"
+        ],
+        "es": [
+            "PELIGRO",
+            "ZONA DE CONSTRUCCIÓN"
+        ],
+        "ru": [
+            "ОПАСНО",
+            "СТРОИТЕЛЬНАЯ ПЛОЩАДКА"
+        ],
+        "zh": [
+            "危险",
+            "施工区域"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

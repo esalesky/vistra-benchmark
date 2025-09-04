@@ -1,0 +1,29 @@
+{
+    "image_file": "c8068c0b.png",
+    "transcript": [
+        "BICYCLISTS SLOW DOWN"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Fahrradfahrer langsam fahren"
+        ],
+        "es": [
+            "BICICLETAS DESPACIO"
+        ],
+        "ru": [
+            "ВЕЛОСИПЕДИСТЫ ДОЛЖНЫ СНИЗИТЬ СКОРОСТЬ"
+        ],
+        "zh": [
+            "骑自行车的人减速"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

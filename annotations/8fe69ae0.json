@@ -1,0 +1,29 @@
+{
+    "image_file": "8fe69ae0.png",
+    "transcript": [
+        "SPRINKLERS THROUGHOUT BUILDING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Sprinkleranlagen im gesamten Gebäude"
+        ],
+        "es": [
+            "ROCIADORES EN TODO EL EDIFICIO"
+        ],
+        "ru": [
+            "СПРИНКЛЕРЫ ПО ВСЕМУ ЗДАНИЮ"
+        ],
+        "zh": [
+            "大厦各处都有洒水装置"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

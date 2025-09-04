@@ -1,0 +1,34 @@
+{
+    "image_file": "1fbccebf.png",
+    "transcript": [
+        "CAUTION",
+        "SPEED BUMP"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Vorsicht",
+            "Bodenschwelle"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "REDUCTOR DE VELOCIDAD"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "ЛЕЖАЧИЙ ПОЛИЦЕЙСКИЙ"
+        ],
+        "zh": [
+            "小心",
+            "减速带"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

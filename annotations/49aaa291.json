@@ -1,0 +1,34 @@
+{
+    "image_file": "49aaa291.png",
+    "transcript": [
+        "YIELD",
+        "EMPLOYEES ONLY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Nur Mitarbeiter"
+        ],
+        "es": [
+            "PARE",
+            "SOLO EMPLEADOS"
+        ],
+        "ru": [
+            "УСТУПИТЕ ДОРОГУ",
+            "ТОЛЬКО СОТРУДНИКИ"
+        ],
+        "zh": [
+            "让路",
+            "仅限员工使用"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "no"
+    }
+}

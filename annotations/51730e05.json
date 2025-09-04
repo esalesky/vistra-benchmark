@@ -1,0 +1,29 @@
+{
+    "image_file": "51730e05.png",
+    "transcript": [
+        "WE ARE HAPPY TO PROVIDE ASSISTANCE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Wir helfen Ihnen gerne"
+        ],
+        "es": [
+            "ESTAMOS ENCANTADOS DE BRINDAR ASISTENCIA"
+        ],
+        "ru": [
+            "МЫ РАДЫ ПОМОЧЬ ВАМ"
+        ],
+        "zh": [
+            "我们很乐意提供帮助"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "image_file": "cfcae0f7.png",
+    "transcript": [
+        "CAUTION",
+        "PESTICIDE APPLICATION",
+        "KEEP OFF",
+        "CUSTOMER: PLEASE REMOVE AFTER 48 HOURS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Einsatz von Pestiziden",
+            "Abstand halten",
+            "Kunde: Schild kann nach 24 Stunden entfernt werden"
+        ],
+        "es": [
+            "CUIDADO",
+            "APLICACIÓN DE PESTICIDAS",
+            "ALÉJESE",
+            "CLIENTE: QUITE EL CARTEL DESPUÉS DE 48 HORAS"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "НАНЕСЕН ПЕСТИЦИД",
+            "НЕ ПОДХОДИТЬ",
+            "КЛИЕНТУ: УДАЛИТЕ ПЕСТИЦИД ПО ИСТЕЧЕНИИ 48 ЧАСОВ"
+        ],
+        "zh": [
+            "小心",
+            "农药施用",
+            "避开",
+            "客户：请在 48 小时后移除"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

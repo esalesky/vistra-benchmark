@@ -1,0 +1,64 @@
+{
+    "image_file": "ee91f7e8.png",
+    "transcript": [
+        "YOU CAN HELP!",
+        "1. Never dump into the river!",
+        "Only discharge boat waste in the approved pump out facilities.",
+        "Use the oil and antifreeze collection area, located at this site, to responsibly dispose of these wastes.",
+        "2. Only dispose boat debris, including cigarettes, into trash cans.",
+        "3. Reduce your use of lawn fertilizer.",
+        "If you must fertilize, please do so responsibly.",
+        "4. Properly dispose of your pet's waste ."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Ihre Mithilfe ist gefragt",
+            "1. Keine Schmutzwasserentsorgung in den Fluss",
+            "Entsorgen Sie Schmutzwasser nur in den dafür vorgesehenen Pumpenanlagen",
+            "Nutzen Sie die Sammelstelle für Öl und Frostschutzmittel, die sich an diesem Ort befindet, um diese Abfälle verantwortungsvoll zu entsorgen.",
+            "2. Bootsabfälle, einschließlich Zigaretten, ausschließlich in Mülleimern entsorgen",
+            "3. Weniger Rasendünger verwenden",
+            "Wenn gedüngt werden muss, tun Sie es verantwortungsvoll.",
+            "4. Hundekot ordnungsgemäß entsorgen"
+        ],
+        "es": [
+            "¡PUEDE AYUDAR!",
+            "1. ¡No descargue en el río!",
+            "Solo descargue los residuos de los botes en las instalaciones de bombeo aprobadas.",
+            "Utilice el área de recolección de aceite y anticongelante, ubicada en este sitio, para desechar estos residuos de manera responsable.",
+            "2. Elimine los desechos de los botes, incluidos los cigarrillos, solo en los cubos de basura.",
+            "3. Reduzca el uso de fertilizantes para césped.",
+            "Si debe fertilizar, hágalo de manera responsable.",
+            "4. Deseche adecuadamente las heces de su mascota."
+        ],
+        "ru": [
+            "ВЫ МОЖЕТЕ ПОМОЧЬ НАМ",
+            "1. Никогда не выбрасывайте мусор в реку!",
+            "Отработанные жидкости с лодок следует сливать только в утвержденных местах для откачивания жидких отходов.",
+            "Для экологичной утилизации этих отходов используйте зону сбора масла и антифриза, расположенную на этом участке.",
+            "2. Выбрасывайте весь мусор с лодок, включая сигареты, только в мусорные корзины.",
+            "3. Сократите использование удобрений для газонов.",
+            "Если вы обязаны использовать эти удобрения, делайте это ответственно.",
+            "4. Правильно утилизируйте экскременты домашних животных."
+        ],
+        "zh": [
+            "您能提供帮助！",
+            "1. 千万不要往河里倾倒!",
+            "只在认可的排污设施排放船上废物。",
+            "使用位于此站点的油和防冻液收集区负责任地处理这些废物。",
+            "2. 只将船上杂物，包括香烟，扔进垃圾桶。",
+            "3. 减少草坪肥料的使用。",
+            "如果你一定要施肥，请负责任地施肥。",
+            "4. 妥善处理宠物的排泄物。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

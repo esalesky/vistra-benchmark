@@ -1,0 +1,44 @@
+{
+    "image_file": "ec1f9535.png",
+    "transcript": [
+        "SNOW ROUTE",
+        "NO PARKING",
+        "DURING SNOW EMERGENCY",
+        "9 PM - 9 AM"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Ausweichstraße bei Schnee",
+            "Parkverbot",
+            "Bei Schneechaos",
+            "21:00 – 9:00 Uhr"
+        ],
+        "es": [
+            "RUTA DE NIEVE",
+            "NO ESTACIONAR",
+            "EN EMERGENCIA POR NIEVE",
+            "9 P. M. - 9 A. M."
+        ],
+        "ru": [
+            "ДОРОГА, КОТОРАЯ ПОКРЫВАЕТСЯ СНЕГОМ",
+            "ПАРКОВКА ЗАПРЕЩЕНА",
+            "ВО ВРЕМЯ СНЕГОПАДА",
+            "21:00-09:00"
+        ],
+        "zh": [
+            "积雪线路",
+            "禁止停车",
+            "在雪灾期间",
+            "下午 9 点至早上 9 点"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

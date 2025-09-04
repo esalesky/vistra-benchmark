@@ -1,0 +1,44 @@
+{
+    "image_file": "775d6e6e.png",
+    "transcript": [
+        "WARNING",
+        "PARKING BY PERMIT ONLY",
+        "KEEP AWAY FROM GATE ARM DROP ZONE",
+        "MOVING GATE ARM CAN CAUSE SERIOUS INJURY OR VEHICLE DAMAGE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warnung",
+            "Parken nur mit Parkausweis",
+            "Halten Sie Abstand von der Schranke",
+            "Eine sich senkende Schranke kann schwere Verletzungen oder Schäden am Fahrzeug verursachen"
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "ESTACIONAMIENTO SOLO CON PERMISO",
+            "ALÉJESE DE LA ZONA DE BAJADA DE LA BARRERA",
+            "LA BARRERA MÓVIL PUEDE CAUSAR LESIONES GRAVES O DAÑOS EN EL VEHÍCULO"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "ПАРКОВКА ТОЛЬКО ПРИ НАЛИЧИИ РАЗРЕШЕНИЯ",
+            "НЕ НАХОДИТЕСЬ В ЗОНЕ ОПУСКАНИЯ ШЛАГБАУМА",
+            "ДВИЖУЩАЯСЯ СТРЕЛА ШЛАГБАУМА МОЖЕТ ПОВРЕДИТЬ ДВИГАТЕЛЬ ИЛИ ПРИЧИНИТЬ СЕРЬЕЗНЫЕ ТРАВМЫ"
+        ],
+        "zh": [
+            "警告",
+            "残疾人停车位",
+            "远离门臂下降区",
+            "移动门臂会造成严重伤害或车辆损坏"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

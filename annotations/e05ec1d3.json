@@ -1,0 +1,29 @@
+{
+    "image_file": "e05ec1d3.png",
+    "transcript": [
+        "SOMEONE ON THE INTERNET DISAGREES WITH ME"
+    ],
+    "category": null,
+    "height": 357,
+    "width": 552,
+    "translation": {
+        "de": [
+            "Personen im Internet sind anderer Meinung als ich"
+        ],
+        "es": [
+            "ALGUIEN EN INTERNET NO ESTÁ DE ACUERDO CONMIGO"
+        ],
+        "ru": [
+            "КТО-ТО В ИНТЕРНЕТЕ НЕ СОГЛАСЕН СО МНОЙ"
+        ],
+        "zh": [
+            "网上有人不同意我的观点"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

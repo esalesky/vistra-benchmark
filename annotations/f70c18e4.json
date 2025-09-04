@@ -1,0 +1,74 @@
+{
+    "image_file": "f70c18e4.png",
+    "transcript": [
+        "yoga studio etiquette",
+        "No shoes or cell phones.",
+        "Must be 13+ years old to enter yoga studio.",
+        "If you're running late for class, please check in with the instructor prior to putting your mat down.",
+        "Let your teacher know if you are new or have injuries.",
+        "Mats are available to borrow.",
+        "Wipe down mats after class.",
+        "Do not remove yoga props from the studio.",
+        "Feel free to use the yoga studio when classes or private lessons are not in session.",
+        "Keep yoga studio door closed."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Verhaltensregeln im Yoga-Studio",
+            "Keine Schuhe oder Mobiltelefone.",
+            "Zutritt zum Yoga-Studio erst ab 13 Jahren.",
+            "Wenn Sie zu spät zum Kurs kommen, melden Sie sich beim Kursleiter, bevor Sie Ihre Matte ablegen.",
+            "Informieren Sie Ihren Yoga-Lehrer, wenn Sie neu sind oder Verletzungen haben.",
+            "Matten können ausgeliehen werden.",
+            "Wischen Sie die Matten nach Kursende ab.",
+            "Nehmen Sie keine Yoga-Requisiten aus dem Studio mit.",
+            "Sie können das Yoga-Studio auch nutzen, wenn keine Kurse oder Privatstunden stattfinden.",
+            "Halten Sie die Tür des Yoga-Studios geschlossen."
+        ],
+        "es": [
+            "Normas del estudio de yoga",
+            "No se permite calzado ni teléfonos móviles.",
+            "Debes ser mayor de 13 años para entrar al estudio de yoga.",
+            "Si llegas tarde a la clase, comunícate con el instructor antes de colocar tu esterilla.",
+            "Informa al profesor si eres nuevo/a o si tienes lesiones.",
+            "Hay esterillas disponibles para préstamo.",
+            "Limpia las esterillas después de la clase.",
+            "No retires los accesorios de yoga del estudio.",
+            "Puedes usar el estudio de yoga cuando no haya clases ni lecciones privadas.",
+            "Mantén la puerta del estudio de yoga cerrada."
+        ],
+        "ru": [
+            "Правила поведения в студии йоги",
+            "Не надевайте обувь и не пользуйтесь мобильным телефоном.",
+            "Для посещения студии йоги ваш возраст должен составлять не менее 13 лет.",
+            "Если вы опоздали на занятие, обратитесь к инструктору, прежде чем положить свой коврик.",
+            "Если вы новичок или у вас есть травмы, сообщите преподавателю.",
+            "Вы можете взять коврик в аренду.",
+            "Протрите коврик после завершения занятия.",
+            "Не уносите принадлежности для занятий йогой из студии.",
+            "Вы можете пользоваться студией, когда в ней не проводятся занятия или частные уроки.",
+            "Дверь в студию йоги должна оставаться закрытой."
+        ],
+        "zh": [
+            "瑜伽馆礼仪",
+            "不穿鞋，不用手机。",
+            "必须年满 13 岁才能进入瑜伽馆。",
+            "如果您上课迟到了，请在放下垫子之前与教练确认。",
+            "如果您是新来的或者受伤了，请告诉老师。",
+            "垫子可以借用。",
+            "课后把垫子擦干净。",
+            "请勿将瑜伽器材搬离练习室。",
+            "没有课程或私人课程的时间，请随意使用瑜伽工作室。",
+            "关闭瑜伽室的门。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

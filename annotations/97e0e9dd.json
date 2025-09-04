@@ -1,0 +1,39 @@
+{
+    "image_file": "97e0e9dd.png",
+    "transcript": [
+        "SEE A SPOTTED LANTERNFLY?",
+        "STOMP! REPORT!",
+        "www.mda.maryland.gov"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Haben Sie eine gepunktete Laternenträgerzikade gesehen?",
+            "Sofort melden!",
+            "www.mda.maryland.gov"
+        ],
+        "es": [
+            "¿VIO UNA MOSCA LINTERNA MANCHADA?",
+            "¡PÍSELA! ¡INFORME!",
+            "www.mda.maryland.gov"
+        ],
+        "ru": [
+            "ЗАМЕТИЛИ ПЯТНИСТУЮ ФОНАРНИЦУ?",
+            "ПОРАДУЙТЕСЬ И СООБЩИТЕ ОБ ЭТОМ!",
+            "www.mda.maryland.gov"
+        ],
+        "zh": [
+            "看见斑衣蜡蝉了？",
+            "跺脚！报告！",
+            "www.mda.maryland.gov"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

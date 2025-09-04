@@ -1,0 +1,29 @@
+{
+    "image_file": "280aa8c1.png",
+    "transcript": [
+        "NO SMOKING WITHIN 25 FEET"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rauchen im Umkreis von 8 Metern verboten"
+        ],
+        "es": [
+            "PROHIBIDO FUMAR A MENOS DE 25 PIES"
+        ],
+        "ru": [
+            "НЕ КУРИТЬ НА РАССТОЯНИИ 8 М"
+        ],
+        "zh": [
+            "25 英尺内禁止吸烟"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

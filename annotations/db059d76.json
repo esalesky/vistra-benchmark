@@ -1,0 +1,34 @@
+{
+    "image_file": "db059d76.png",
+    "transcript": [
+        "NO TRESPASSING",
+        "Violators Will Be Prosecuted"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Zutritt verboten",
+            "Verstöße werden strafrechtlich verfolgt"
+        ],
+        "es": [
+            "NO PASAR",
+            "Se procesará a los infractores"
+        ],
+        "ru": [
+            "ПРОХОД ЗАПРЕЩЕН",
+            "Нарушители будут наказаны"
+        ],
+        "zh": [
+            "禁止侵入",
+            "违者严惩"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

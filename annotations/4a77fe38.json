@@ -1,0 +1,34 @@
+{
+    "image_file": "4a77fe38.png",
+    "transcript": [
+        "PRIVATE PROPERTY",
+        "NO Pedestrian or Vehicle Pass Through"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Privatgrundstück",
+            "Kein Durchgang für Fußgänger oder Fahrzeuge"
+        ],
+        "es": [
+            "PROPIEDAD PRIVADA",
+            "NO paso de peatones ni vehículos"
+        ],
+        "ru": [
+            "ЧАСТНАЯ ТЕРРИТОРИЯ",
+            "Проход пешеходов и проезд автомобилей ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "私有财产",
+            "禁止行人或车辆通过"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "af6405cd.png",
+    "transcript": [
+        "CAUTION",
+        "WATCH FOR PEDESTRIANS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Fußgänger"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "CUIDADO CON LOS PEATONES"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "ВПЕРЕДИ МОГУТ БЫТЬ ПЕШЕХОДЫ"
+        ],
+        "zh": [
+            "小心",
+            "注意行人"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

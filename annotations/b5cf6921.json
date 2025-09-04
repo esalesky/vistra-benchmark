@@ -1,0 +1,39 @@
+{
+    "image_file": "b5cf6921.png",
+    "transcript": [
+        "Automated Clearance",
+        "Automated Clearance for Eligible Visitors",
+        "Queue Here"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Automatische Abfertigung",
+            "Automatische Abfertigung für berechtigte Besucher",
+            "Hier anstellen"
+        ],
+        "es": [
+            "Despacho de aduanas automatizado",
+            "Despacho de aduanas automatizado para visitantes aptos",
+            "Forme fila aquí"
+        ],
+        "ru": [
+            "Автоматический турникет",
+            "Автоматический турникет для посетителей с правом прохода",
+            "Очередь здесь"
+        ],
+        "zh": [
+            "自动通关系统",
+            "资格符合的访客可自动通关",
+            "在此排队"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

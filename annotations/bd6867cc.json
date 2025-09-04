@@ -1,0 +1,29 @@
+{
+    "image_file": "bd6867cc.png",
+    "transcript": [
+        "Raised Zebra Crossing"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Erhöhter Zebrastreifen"
+        ],
+        "es": [
+            "Paso de cebra elevado"
+        ],
+        "ru": [
+            "Приподнятый переход"
+        ],
+        "zh": [
+            "凸起斑马线"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

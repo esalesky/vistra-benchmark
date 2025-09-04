@@ -1,0 +1,44 @@
+{
+    "image_file": "0033df2c.png",
+    "transcript": [
+        "IT'S THE LAW!",
+        "Clean Up After Your Dog",
+        "MAXIMUM FINE $250",
+        "PUBLIC HEALTH LAW"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gesetzlich vorgeschrieben",
+            "Entfernen Sie die Hinterlassenschaften Ihres Hundes",
+            "Höchststrafe 250 €",
+            "Gesundheitsrecht"
+        ],
+        "es": [
+            "ES LEY",
+            "Limpie lo que hace su perro",
+            "MULTA MÁXIMA $250",
+            "LEY DE SALUD PÚBLICA"
+        ],
+        "ru": [
+            "ЭТО ЗАКОН!",
+            "Уберите за собакой",
+            "МАКСИМАЛЬНЫЙ ШТРАФ 250 ДОЛЛАРОВ",
+            "ЗАКОНОДАТЕЛЬСТВО В СФЕРЕ ОБЩЕСТВЕННОГО ЗДРАВООХРАНЕНИЯ"
+        ],
+        "zh": [
+            "尊敬守法！",
+            "及时清理宠物粪便",
+            "否则最高罚款 250 美元",
+            "公共健康法"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

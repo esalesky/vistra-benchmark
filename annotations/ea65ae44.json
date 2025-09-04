@@ -1,0 +1,39 @@
+{
+    "image_file": "ea65ae44.png",
+    "transcript": [
+        "KEEP BUS LANES CLEAR",
+        "THIS BUS LANE MAY BE SUBJECT TO ENFORCEMENT BY CAMERA",
+        "AVOID A TICKET"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Busspur freihalten",
+            "Diese Busspur kann videoüberwacht werden",
+            "Vermeiden Sie Strafzettel"
+        ],
+        "es": [
+            "MANTENGA CARRILES DE BUS DESPEJADOS",
+            "ESTE CARRIL DE BUS PUEDE ESTAR CONTROLADO POR CÁMARA",
+            "EVITE MULTAS"
+        ],
+        "ru": [
+            "НЕ ЗАЕЗЖАЙТЕ НА ПОЛОСЫ ДЛЯ АВТОБУСОВ",
+            "НА ЭТОЙ ПОЛОСЕ МОЖЕТ ИСПОЛЬЗОВАТЬСЯ ВИДЕОНАБЛЮДЕНИЕ",
+            "В СЛУЧАЕ НАРУШЕНИЯ ВЫ ПОЛУЧИТЕ ШТРАФ"
+        ],
+        "zh": [
+            "保持公共汽车车道畅通",
+            "这条公共汽车车道可能会强制使用摄像头",
+            "避免被开罚单"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

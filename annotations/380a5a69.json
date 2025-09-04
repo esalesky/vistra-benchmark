@@ -1,0 +1,29 @@
+{
+    "image_file": "380a5a69.png",
+    "transcript": [
+        "FOR YOUR SAFETY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Zu Ihrer Sicherheit"
+        ],
+        "es": [
+            "POR SU SEGURIDAD"
+        ],
+        "ru": [
+            "ЗАЩИТНЫЙ БОРТИК"
+        ],
+        "zh": [
+            "注意安全"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

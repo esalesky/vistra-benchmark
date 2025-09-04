@@ -1,0 +1,44 @@
+{
+    "image_file": "0a8f293a.png",
+    "transcript": [
+        "Purell",
+        "ADVANCED HAND SANITIZER",
+        "KILLS 99.99% OF GERMS*",
+        "EXP 03/2025"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Purell",
+            "Verbesserte Handdesinfektion",
+            "Tötet 99,99 % aller Keime*",
+            "Mindesthaltbarkeitsdatum: 03/2025"
+        ],
+        "es": [
+            "Purell",
+            "AVANZADO DESINFECTANTE DE MANOS",
+            "ELIMINA EL 99,99% DE LOS GÉRMENES*",
+            "EXP. 03/2025"
+        ],
+        "ru": [
+            "Purell",
+            "УЛУЧШЕННЫЙ САНИТАЙЗЕР ДЛЯ РУК",
+            "УБИВАЕТ 99,99% МИКРОБОВ*",
+            "ГОДЕН ДО: 03/2025"
+        ],
+        "zh": [
+            "普瑞来",
+            "高级洗手液",
+            "杀死 99.99% 的细菌*",
+            "2025 年 3 月过期"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "no"
+    }
+}

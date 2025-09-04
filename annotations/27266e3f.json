@@ -1,0 +1,39 @@
+{
+    "image_file": "27266e3f.png",
+    "transcript": [
+        "$2.00 per hour",
+        "4 HOURS MAXIMUM",
+        "PAY HERE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "2 Euro pro Stunde",
+            "Maximal 4 Stunden",
+            "Hier bezahlen"
+        ],
+        "es": [
+            "$2,00 por hora",
+            "MÁXIMO 4 HORAS",
+            "PAGUE AQUÍ"
+        ],
+        "ru": [
+            "2 доллара в час",
+            "НЕ БОЛЕЕ 4 ЧАСОВ",
+            "ОПЛАТА ЗДЕСЬ"
+        ],
+        "zh": [
+            "每小时 2 美元",
+            "最多 4 小时",
+            "此处付款"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "1676b543.png",
+    "transcript": [
+        "CAUTION",
+        "WATCH FOR TRAFFIC"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Verkehr beachten"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "CUIDADO CON EL TRÁFICO"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "СЛЕДИТЕ ЗА ДВИЖЕНИЕМ АВТОМОБИЛЕЙ"
+        ],
+        "zh": [
+            "小心",
+            "注意车辆"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

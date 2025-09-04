@@ -1,0 +1,29 @@
+{
+    "image_file": "bbba96c0.png",
+    "transcript": [
+        "ALWAYS WEAR A HELMET"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Helmpflicht"
+        ],
+        "es": [
+            "USE CASCO SIEMPRE"
+        ],
+        "ru": [
+            "ВСЕГДА ОДЕВАЙТЕ ШЛЕМ"
+        ],
+        "zh": [
+            "始终戴着头盔"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "6c2a337e.png",
+    "transcript": [
+        "No Parking in Front of Gates"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parken vor Toren verboten"
+        ],
+        "es": [
+            "No estacionar frente al portón"
+        ],
+        "ru": [
+            "Парковка перед воротами запрещена"
+        ],
+        "zh": [
+            "大门前禁止停车"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

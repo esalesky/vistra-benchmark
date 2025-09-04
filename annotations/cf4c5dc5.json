@@ -1,0 +1,44 @@
+{
+    "image_file": "cf4c5dc5.png",
+    "transcript": [
+        "NOTICE",
+        "STAY ON TRAILS",
+        "For your own safety, please do not stray off designated trails.",
+        "Thank you for your understanding"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Hinweis",
+            "Bleiben Sie auf den Wegen",
+            "Bleiben Sie zu Ihrer eigenen Sicherheit auf den ausgewiesenen Wegen.",
+            "Vielen Dank für Ihr Verständnis"
+        ],
+        "es": [
+            "ATENCIÓN",
+            "MANTÉNGASE EN LOS SENDEROS",
+            "Por su seguridad, no se aparte de los senderos designados.",
+            "Gracias por su comprensión"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "ОСТАВАЙТЕСЬ НА ТРОПИНКАХ",
+            "Для вашей собственной безопасности не сходите с обозначенных тропинок.",
+            "Спасибо за понимание"
+        ],
+        "zh": [
+            "注意",
+            "沿着小路走",
+            "为了您自身的安全，请不要偏离指定的路线。",
+            "感谢您的理解"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

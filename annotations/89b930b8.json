@@ -1,0 +1,29 @@
+{
+    "image_file": "89b930b8.png",
+    "transcript": [
+        "NO TRUCKS BUSES TRAILERS LEFT LANE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Keine LKWs, Busse und Anhänger auf der linken Spur"
+        ],
+        "es": [
+            "NO CAMIONES BUSES REMOLQUES EN CARRIL IZQUIERDO"
+        ],
+        "ru": [
+            "ГРУЗОВИКИ, АВТОБУСЫ И ПРИЦЕПЫ НЕ МОГУТ ДВИГАТЬСЯ В ЛЕВОЙ ПОЛОСЕ"
+        ],
+        "zh": [
+            "左车道禁止卡车、公共汽车、拖车"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

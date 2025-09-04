@@ -1,0 +1,44 @@
+{
+    "image_file": "c868940c.png",
+    "transcript": [
+        "WARNING",
+        "CARS/TRUCKS ONLY",
+        "KEEP AWAY FROM GATE ARM DROP ZONE.",
+        "MOVING GATE ARM CAN CAUSE SERIOUS INJURY OR VEHICLE DAMAGE."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warung",
+            "Nur Autos/LKWs",
+            "Halten Sie sich von der Schranke fernhalten",
+            "Die Schranke kann schwere Verletzungen oder Fahrzeugschäden verursachen."
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "SOLO CAMIONES/COCHES",
+            "ALÉJESE DE LA ZONA DE BAJADA DE LA BARRERA.",
+            "LA BARRERA MÓVIL PUEDE CAUSAR LESIONES GRAVES O DAÑOS EN EL VEHÍCULO."
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "ТОЛЬКО ДЛЯ АВТОМОБИЛЕЙ И ГРУЗОВИКОВ",
+            "НЕ ПОДХОДИТЕ К ЗОНЕ ОПУСКАНИЯ СТРЕЛЫ ШЛАГБАУМА.",
+            "ДВИЖУЩАЯСЯ СТРЕЛА ШЛАГБАУМА МОЖЕТ ПРИВЕСТИ К СЕРЬЕЗНЫМ ТРАВМАМ ИЛИ К ПОВРЕЖДЕНИЮ АВТОМОБИЛЯ."
+        ],
+        "zh": [
+            "警告",
+            "仅限轿车/卡车",
+            "远离门臂下降区。",
+            "移动门臂会造成严重伤害或车辆损坏。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

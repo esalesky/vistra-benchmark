@@ -1,0 +1,29 @@
+{
+    "image_file": "0170e6ea.png",
+    "transcript": [
+        "GAME DAY PROGRAMS AVAILABLE HERE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "PROGRAMME FÜR SPIELTAG HIER ERHÄLTLICH"
+        ],
+        "es": [
+            "PROGRAMAS DE DÍAS DE JUEGO DISPONIBLES AQUÍ"
+        ],
+        "ru": [
+            "ПРОГРАММЫ ДЛЯ ИГРОВОГО ДНЯ МОЖНО ПОЛУЧИТЬ ЗДЕСЬ"
+        ],
+        "zh": [
+            "游戏日节目在此"
+        ]
+    },
+    "requires_image_context": {
+        "de": "no",
+        "es": "no",
+        "ru": "no",
+        "zh": "no"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image_file": "0a18b508.png",
+    "transcript": [
+        "Please Do Not Enter",
+        "WITHOUT A FACE COVERING",
+        "Thank You"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Eintritt",
+            "nur mit Maske",
+            "Vielen Dank"
+        ],
+        "es": [
+            "Por favor",
+            "No ingresar",
+            "SIN MASCARILLA"
+        ],
+        "ru": [
+            "Не входить",
+            "БЕЗ ЛИЦЕВОЙ МАСКИ",
+            "Спасибо"
+        ],
+        "zh": [
+            "未戴口罩者",
+            "请勿进入",
+            "谢谢"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

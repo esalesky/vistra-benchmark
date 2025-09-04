@@ -1,0 +1,34 @@
+{
+    "image_file": "85ff3318.png",
+    "transcript": [
+        "SIDEWALK CLOSED AHEAD",
+        "CROSS HERE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gesperrter Gehweg voraus",
+            "Hier Straßenseite wechseln"
+        ],
+        "es": [
+            "CALLE CERRADA ADELANTE",
+            "CRUCE AQUÍ"
+        ],
+        "ru": [
+            "ТРОТУАР ВПЕРЕДИ ЗАКРЫТ",
+            "ПЕРЕХОД ЗДЕСЬ"
+        ],
+        "zh": [
+            "前方人行道关闭",
+            "从此处穿过"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

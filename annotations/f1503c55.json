@@ -1,0 +1,44 @@
+{
+    "image_file": "f1503c55.png",
+    "transcript": [
+        "HANDICAPPED PARKING",
+        "2 HOUR VISITOR USE ONLY",
+        "VIOLATORS WILL BE TOWED",
+        "VAN ACCESSIBLE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Behindertenparkplatz",
+            "2 Stunden nur für Besucher",
+            "Bei Zuwiderhandlung werden die Fahrzeuge abgeschleppt",
+            "Behindertengerechte Fahrzeuge"
+        ],
+        "es": [
+            "ESTACIONAMIENTO PARA DISCAPACITADOS",
+            "2 HORAS USO EXCLUSIVO VISITANTES",
+            "SE REMOLCARÁ A LOS INFRACTORES",
+            "ACCESIBLE PARA FURGONETAS"
+        ],
+        "ru": [
+            "ПАРКОВКА ДЛЯ ИНВАЛИДОВ",
+            "ОГРАНИЧЕНИЕ 2 ЧАСА НА КАЖДОГО ПОСЕТИТЕЛЯ",
+            "ТРАНСПОРТНЫЕ СРЕДСТВА НАРУШИТЕЛЕЙ БУДУТ ЭВАКУИРОВАНЫ",
+            "РАЗРЕШЕНА ПАРКОВКА ДЛЯ АВТОФУРГОНОВ"
+        ],
+        "zh": [
+            "残疾人停车位",
+            "仅供游客使用 2 小时",
+            "违规者将被拖走",
+            "小型货车可使用"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "bd3e13c7.png",
+    "transcript": [
+        "NO IDLING",
+        "MIN $250 FINE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Kein Leerlauf",
+            "Mindestgeldbuße 250 Euro"
+        ],
+        "es": [
+            "NO PERMANECER",
+            "MULTA MÍN. $250"
+        ],
+        "ru": [
+            "СТОЯНКА С РАБОТАЮЩИМ ДВИГАТЕЛЕМ ЗАПРЕЩЕНА",
+            "МИНИМАЛЬНЫЙ ШТРАФ 250 ДОЛЛАРОВ"
+        ],
+        "zh": [
+            "禁止怠速",
+            "最少罚款 250 美元"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

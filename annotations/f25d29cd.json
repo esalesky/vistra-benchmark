@@ -1,0 +1,34 @@
+{
+    "image_file": "f25d29cd.png",
+    "transcript": [
+        "LIBRARY OF CONGRESS",
+        "Researchers, Staff and Volunteers Only Beyond This Point"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "LIBRARY OF CONGRESS",
+            "Ab hier nur Wissenschaftler, Mitarbeiter und Praktikanten"
+        ],
+        "es": [
+            "BIBLIOTECA DEL CONGRESO",
+            "Solo investigadores, personal y voluntarios a partir de este punto"
+        ],
+        "ru": [
+            "БИБЛИОТЕКА КОНГРЕССА",
+            "Проход разрешен только научным сотрудникам, представителям персонала и волонтерам"
+        ],
+        "zh": [
+            "国会图书馆",
+            "仅允许研究人员、工作人员和志愿者进入"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

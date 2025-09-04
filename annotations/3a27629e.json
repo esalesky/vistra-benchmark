@@ -1,0 +1,49 @@
+{
+    "image_file": "3a27629e.png",
+    "transcript": [
+        "WARNING",
+        "LOAD EVENLY!",
+        "Container must be placed on hard, level surface.",
+        "Tilted or unevenly loaded container could result in serious injury or death.",
+        "TIPPING HAZARD"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warnung",
+            "Gleichmäßig befüllen!",
+            "Der Container muss auf festem, ebenem Grund stehen.",
+            "Ein schief stehender oder ungleichmäßig befüllter Container kann zu schweren Verletzungen oder zum Tod führen.",
+            "Kippgefahr"
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "CARGAR DE MANERA UNIFORME",
+            "El contenedor debe colocarse sobre una superficie sólida y plana.",
+            "Un contenedor inclinado o con carga desigual puede causar lesiones graves o la muerte.",
+            "RIESGO DE VOLCADO"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "НАГРУЗКА ДОЛЖНА БЫТЬ РАВНОМЕРНОЙ!",
+            "Контейнер необходимо установить на ровную твердую поверхность.",
+            "Наклон или неравномерная загрузка контейнера могут привести к серьезным травмам или летальному исходу.",
+            "ОПАСНОСТЬ ОПРОКИДЫВАНИЯ"
+        ],
+        "zh": [
+            "警告",
+            "均匀分布负荷！",
+            "集装箱必须放置在坚硬、平整的表面上。",
+            "倾斜或不均匀装载的集装箱可能导致严重的人身伤害或死亡。",
+            "倾斜危险"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

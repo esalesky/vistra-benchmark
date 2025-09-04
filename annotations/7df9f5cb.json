@@ -1,0 +1,44 @@
+{
+    "image_file": "7df9f5cb.png",
+    "transcript": [
+        "WARNING",
+        "Moving Gate Can Cause Serious Injury Or Death",
+        "Persons are to keep clear! The gate is able to be moved without prior warning.",
+        "Do not let children operate the gate or play in the gate area."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warnung",
+            "Ein sich bewegendes Tor kann schwere oder tödliche Verletzungen verursachen",
+            "Halten Sie Abstand vom Tor! Das Tor kann sich ohne Vorwarnung öffnen oder schließen.",
+            "Kinder dürfen das Tor nicht bedienen und sollten sich nicht im Torbereich aufhalten."
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "El portón en movimiento puede causar lesiones graves o la muerte",
+            "¡Manténgase alejado! El portón podría moverse sin previo aviso.",
+            "No deje que los niños operen el portón ni jueguen cerca de él."
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "Движущиеся ворота могут причинить серьезную травму или привести к летальному исходу",
+            "Не подходите к воротам! Ворота могут начинать движение без предупреждения.",
+            "Не разрешайте детям управлять воротами или играть в зоне ворот."
+        ],
+        "zh": [
+            "警告",
+            "移动的门可能导致严重的伤害或死亡",
+            "人员请保持距离！大门可以在没有事先警告的情况下移动。",
+            "请勿让儿童操作大门或在大门区域内玩耍。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

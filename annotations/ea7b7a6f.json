@@ -1,0 +1,54 @@
+{
+    "image_file": "ea7b7a6f.png",
+    "transcript": [
+        "WARNING",
+        "UNITED STATES",
+        "POSTAL INSPECTION SERVICE",
+        "Armed robbery of a postal employee or postal facility carries a prison sentence of up to 25 years upon conviction.",
+        "TITLE 18, UNITED STATES CODE, SECTION 2114",
+        "United States Postal Inspection Service"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Warnung",
+            "UNITED STATES",
+            "POSTAL INSPECTION SERVICE",
+            "Bewaffneter Raubüberfall auf einen Postmitarbeiter oder eine Poststelle wird bei Verurteilung mit einer Haftstrafe von bis zu 25 Jahren geahndet",
+            "Titel 18, United States Code, Abschnitt 2114",
+            "United States Postal Inspection Service"
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "ESTADOS UNIDOS",
+            "SERVICIO DE INSPECCIÓN POSTAL",
+            "El robo a mano armada a un empleado postal o a una instalación postal conlleva una sentencia de prisión de hasta 25 años en caso de condena.",
+            "TÍTULO 18, CÓDIGO DE LOS ESTADOS UNIDOS, SECCIÓN 2114",
+            "Servicio de Inspección Postal de los Estados Unidos"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "СОЕДИНЕННЫЕ ШТАТЫ АМЕРИКИ",
+            "ПОЧТОВАЯ ИНСПЕКЦИОННАЯ СЛУЖБА",
+            "Вооруженное нападение на почтового служащего или почтовый объект влечет за собой тюремное заключение сроком до 25 лет.",
+            "СТАТЬЯ 18 СВОДА ЗАКОНОВ США, РАЗДЕЛ 2114",
+            "Почтовая инспекционная служба США"
+        ],
+        "zh": [
+            "警告",
+            "美国",
+            "邮政检查局",
+            "持械抢劫邮政雇员或邮政设施一经定罪，最高可判处 25 年监禁。",
+            "美国法典第 18 篇第 2114 节",
+            "联邦邮政检查局"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

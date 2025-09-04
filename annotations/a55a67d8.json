@@ -1,0 +1,29 @@
+{
+    "image_file": "a55a67d8.png",
+    "transcript": [
+        "NO MAINTENANCE VEHICLES"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Keine Wartungsfahrzeuge"
+        ],
+        "es": [
+            "PROHIBIDO VEHÍCULOS DE MANTENIMIENTO"
+        ],
+        "ru": [
+            "ПРОЕЗД РЕМОНТНЫХ АВТОМОБИЛЕЙ ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "禁止维修车辆"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "image_file": "31180ef5.png",
+    "transcript": [
+        "HOTEL ORA",
+        "RESERVED FOR PRODUCTIVITY",
+        "To make use of our co-working space, simply purchase any food or beverage from the Grab & Go café or Ora Lounge.",
+        "Enjoy access to high-speed complimentary Wi-Fi, charging stations plus more. Please approach our hotel staff for more information."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "HOTEL ORA",
+            "Arbeitsbereich",
+            "Zur Nutzung unseres Coworking-Space kaufen Sie Speisen und Getränke einfach im Grab & Go-Café oder in der Ora-Lounge.",
+            "Sie erhalten kostenlosen Zugang zu Hochgeschwindigkeits-WLAN, Ladestationen usw. Weitere Informationen erhalten Sie beim Hotelpersonal."
+        ],
+        "es": [
+            "HOTEL ORA",
+            "RESERVADO PARA PRODUCTIVIDAD",
+            "Para usar nuestro espacio de cowork, solo tienes que comprar algo para comer o beber en el café Grab & Go o en Ora Lounge.",
+            "Disfruta del acceso gratuito a Wi-Fi de alta velocidad, estaciones de carga y mucho más. Habla con el personal del hotel si necesitas más información."
+        ],
+        "ru": [
+            "ОТЕЛЬ ORA",
+            "ЗАРЕЗЕРВИРОВАНО ДЛЯ ПРОДУКТИВНОСТИ",
+            "Чтобы воспользоваться нашим пространством для совместной работы, купите любую еду или напиток в кафе Grab & Go или в Ora Lounge.",
+            "Пользуйтесь бесплатным высокоскоростным Wi-Fi, зарядными станциями и не только. Чтобы получить дополнительную информацию, обратитесь к персоналу отеля."
+        ],
+        "zh": [
+            "ORA 酒店",
+            "为生产力预留",
+            "要使用我们的联合办公空间，只需在 Grab & Go 咖啡厅或 Ora 酒廊购买食品或饮料。",
+            "享受高速免费 Wi-Fi，充电站等。请向酒店工作人员咨询更多信息。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

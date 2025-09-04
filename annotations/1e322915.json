@@ -1,0 +1,29 @@
+{
+    "image_file": "1e322915.png",
+    "transcript": [
+        "NO PARKING ANYTIME ON EITHER SIDE OF ALLEY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Absolutes Parkverbot auf beiden Seiten der Gasse"
+        ],
+        "es": [
+            "NO ESTACIONAR EN NINGÚN MOMENTO EN NINGÚN LADO DEL CALLEJÓN"
+        ],
+        "ru": [
+            "ПАРКОВКА ЗАПРЕЩЕНА ПО ОБЕИМ СТОРОНАМ ПЕРЕУЛКА В ЛЮБОЕ ВРЕМЯ"
+        ],
+        "zh": [
+            "小巷两边任何时候都不准停车"
+        ]
+    },
+    "requires_image_context": {
+        "de": "no",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

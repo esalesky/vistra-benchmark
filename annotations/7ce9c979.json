@@ -1,0 +1,34 @@
+{
+    "image_file": "7ce9c979.png",
+    "transcript": [
+        "RESERVED PARKING",
+        "PERMIT REQUIRED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Reservierter Parkplatz",
+            "Parkausweis erforderlich"
+        ],
+        "es": [
+            "ESTACIONAMIENTO RESERVADO",
+            "SE REQUIERE PERMISO"
+        ],
+        "ru": [
+            "ЗАРЕЗЕРВИРОВАННАЯ ПАРКОВКА",
+            "НЕОБХОДИМО РАЗРЕШЕНИЕ"
+        ],
+        "zh": [
+            "预留停车位",
+            "需要许可证"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

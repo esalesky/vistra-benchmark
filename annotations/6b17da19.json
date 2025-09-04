@@ -1,0 +1,29 @@
+{
+    "image_file": "6b17da19.png",
+    "transcript": [
+        "NO SMOKING INCLUDES VAPING & E-CIGARETTES"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rauchverbot, einschließlich Verdampfern und E-Zigaretten"
+        ],
+        "es": [
+            "PROHIBIDO FUMAR, INCLUIDOS VAPORIZADORES Y CIGARRILLOS ELECTRÓNICOS"
+        ],
+        "ru": [
+            "КУРЕНИЕ ЗАПРЕЩЕНО (ВКЛЮЧАЯ ВЕЙПЫ И ЭЛЕКТРОННЫЕ СИГАРЕТЫ)"
+        ],
+        "zh": [
+            "禁止吸烟（包括水烟和电子烟）"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

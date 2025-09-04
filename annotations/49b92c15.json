@@ -1,0 +1,39 @@
+{
+    "image_file": "49b92c15.png",
+    "transcript": [
+        "NO SWIMMING OR SKATING",
+        "BALTIMORE COUNTY DEPT. OF RECREATION & PARKS",
+        "BOATERS: LIFE JACKETS MUST BE WORN AT ALL TIMES"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Schwimmen oder Schlittschuhlaufen verboten",
+            "Abteilung für Erholung und Parks des Baltimore County",
+            "Bootsfahrer: Pflicht zum Tragen einer Schwimmweste"
+        ],
+        "es": [
+            "NO NADAR NI PATINAR",
+            "DEPT. DE RECREACIÓN Y PARQUES DEL CONDADO DE BALTIMORE",
+            "NAVEGANTES: DEBEN USAR CHALECO SALVAVIDAS EN TODO MOMENTO"
+        ],
+        "ru": [
+            "ПЛАВАНИЕ И КАТАНИЕ НА КОНЬКАХ ЗАПРЕЩЕНО",
+            "BALTIMORE COUNTY DEPT. OF RECREATION & PARKS",
+            "ЕСЛИ ВЫ ПЛАВАЕТЕ НА ЛОДКЕ, НА ВАС ВСЕГДА ДОЛЖЕН БЫТЬ НАДЕТ СПАСАТЕЛЬНЫЙ ЖИЛЕТ"
+        ],
+        "zh": [
+            "禁止游泳或滑冰",
+            "巴尔的摩县娱乐和公园部",
+            "划船者：必须一直穿着救生衣"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

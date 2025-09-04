@@ -1,0 +1,44 @@
+{
+    "image_file": "b364e200.png",
+    "transcript": [
+        "DANGER",
+        "INTERMITTENT WAVES OF UNUSUAL SIZE AND FORCE",
+        "WADING AND SWIMMING UNSAFE",
+        "NO DOGS ON BEACH"
+    ],
+    "category": null,
+    "height": 683,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Gefahr",
+            "Vereinzelt sehr hoher und starker Wellengang",
+            "Waten und Schwimmen nicht sicher",
+            "Hunde am Strand verboten"
+        ],
+        "es": [
+            "PELIGRO",
+            "OLAS INTERMITENTES DE TAMAÑO Y FUERZA INUSUALES",
+            "NO ES SEGURO NADAR NI CAMINAR POR EL AGUA",
+            "NO SE PERMITEN PERROS EN LA PLAYA"
+        ],
+        "ru": [
+            "ОПАСНО",
+            "ПЕРИОДИЧЕСКИЕ ВОЛНЫ НЕОБЫЧНОГО РАЗМЕРА И СИЛЫ",
+            "ПЛАВАНИЕ И НАХОЖДЕНИЕ В ВОДЕ НЕБЕЗОПАСНЫ",
+            "ПРОХОД С СОБАКАМИ НА ПЛЯЖ ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "危险",
+            "有大小和强度异常的间歇性波浪",
+            "涉水和游泳不安全",
+            "海滩上禁止遛狗"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

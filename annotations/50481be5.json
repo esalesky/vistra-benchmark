@@ -1,0 +1,29 @@
+{
+    "image_file": "50481be5.png",
+    "transcript": [
+        "SELL YOUR USED GOLD FOR CASH"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Verkaufen Sie Ihr Altgold gegen Bargeld"
+        ],
+        "es": [
+            "VENDA EL ORO USADO POR EFECTIVO"
+        ],
+        "ru": [
+            "ПРОДАЙТЕ ЗОЛОТО Б/У ЗА НАЛИЧНЫЕ"
+        ],
+        "zh": [
+            "卖二手黄金换取现金"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

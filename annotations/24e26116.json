@@ -1,0 +1,39 @@
+{
+    "image_file": "24e26116.png",
+    "transcript": [
+        "Caution!",
+        "Mind the Ceiling",
+        "Keep your head down"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Vorsicht!",
+            "Niedrige Decke",
+            "Halten Sie den Kopf gesenkt"
+        ],
+        "es": [
+            "¡Cuidado!",
+            "Tenga cuidado con el techo",
+            "Mantenga la cabeza baja"
+        ],
+        "ru": [
+            "Осторожно!",
+            "Низкий потолок",
+            "Пригните голову"
+        ],
+        "zh": [
+            "注意！",
+            "小心天花板",
+            "保持低调"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

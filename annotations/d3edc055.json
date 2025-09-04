@@ -1,0 +1,34 @@
+{
+    "image_file": "d3edc055.png",
+    "transcript": [
+        "CAUTION",
+        "HOLD HANDRAIL"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Handlauf benutzen"
+        ],
+        "es": [
+            "CUIDADO",
+            "TÓMESE DEL PASAMANOS"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "ДЕРЖИТЕСЬ ЗА ПОРУЧЕНЬ"
+        ],
+        "zh": [
+            "小心",
+            "抓牢扶手"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

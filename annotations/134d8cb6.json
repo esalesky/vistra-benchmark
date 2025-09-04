@@ -1,0 +1,29 @@
+{
+    "image_file": "134d8cb6.png",
+    "transcript": [
+        "END ROAD WORK"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Baustellenende"
+        ],
+        "es": [
+            "FIN DE LAS OBRAS"
+        ],
+        "ru": [
+            "ОКОНЧАНИЕ ДОРОЖНЫХ РАБОТ"
+        ],
+        "zh": [
+            "道路施工 此路不通"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "image_file": "eb7ebd60.png",
+    "transcript": [
+        "CAUTION",
+        "AUTOMATIC  DOOR",
+        "LOW ENERGY POWER OPERATED DOOR",
+        "ACTIVATE SWITCH TO OPERATE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Automatische Tür",
+            "Tür verbraucht wenig Energie",
+            "Zum Öffnen Knopf betätigen"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "PUERTA AUTOMÁTICA",
+            "PUERTA DE BAJO CONSUMO DE ENERGÍA",
+            "ACTIVE EL INTERRUPTOR PARA USARLA"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "АВТОМАТИЧЕСКАЯ ДВЕРЬ",
+            "АВТОМАТИЧЕСКАЯ ДВЕРЬ НИЗКОЙ МОЩНОСТИ",
+            "ЧТОБЫ ОТКРЫТЬ ДВЕРЬ, ИСПОЛЬЗУЙТЕ ПЕРЕКЛЮЧАТЕЛЬ"
+        ],
+        "zh": [
+            "小心",
+            "自动门",
+            "低能耗动力操作门",
+            "激活开关操作"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

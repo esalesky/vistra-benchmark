@@ -1,0 +1,34 @@
+{
+    "image_file": "cbeae006.png",
+    "transcript": [
+        "In case of fire do not use elevators",
+        "Use stairways"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Im Brandfall Aufzüge nicht benutzen",
+            "Treppe benutzen"
+        ],
+        "es": [
+            "En caso de incendio no use los elevadores",
+            "Use las escaleras"
+        ],
+        "ru": [
+            "В случае пожара не пользуйтесь лифтами",
+            "Пользуйтесь лестницами"
+        ],
+        "zh": [
+            "如果发生火灾，不要使用电梯",
+            "使用楼梯"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

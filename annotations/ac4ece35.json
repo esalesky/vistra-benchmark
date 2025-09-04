@@ -1,0 +1,29 @@
+{
+    "image_file": "ac4ece35.png",
+    "transcript": [
+        "STAY BEHIND GATE WHEN BRIDGE IS IN OPERATION"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Bleiben Sie hinter der Schranke, wenn die Brücke in Betrieb ist"
+        ],
+        "es": [
+            "PERMANEZCA DETRÁS DE LA BARRERA CUANDO EL PUENTE ESTÉ EN OPERACIÓN"
+        ],
+        "ru": [
+            "НЕ ПРИБЛИЖАЙТЕСЬ К ШЛЮЗУ ВО ВРЕМЯ ДВИЖЕНИЯ МОСТА"
+        ],
+        "zh": [
+            "桥梁运行时请站在门后"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

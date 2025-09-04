@@ -1,0 +1,34 @@
+{
+    "image_file": "ebfecc9d.png",
+    "transcript": [
+        "WORK IN PROGRESS",
+        "SORRY FOR ANY INCONVENIENCE CAUSED"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Bauarbeiten",
+            "Entschuldigen Sie die Unannehmlichkeiten"
+        ],
+        "es": [
+            "OBRAS EN CURSO",
+            "LAMENTAMOS LOS INCONVENIENTES"
+        ],
+        "ru": [
+            "ВЕДУТСЯ РАБОТЫ",
+            "ПРИНОСИМ ИЗВИНЕНИЯ ЗА НЕУДОБСТВА"
+        ],
+        "zh": [
+            "工作进行中",
+            "对造成的任何不便表示歉意"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

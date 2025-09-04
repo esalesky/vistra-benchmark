@@ -1,0 +1,29 @@
+{
+    "image_file": "6a99ea03.png",
+    "transcript": [
+        "YOU MAY BE SMOKIN' BUT ONLY IN LOOKS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rauchen verboten"
+        ],
+        "es": [
+            "PUEDES HECHAR HUMO, PERO SOLO POR TU APARIENCIA"
+        ],
+        "ru": [
+            "ВЫ МОЖЕТЕ КУРИТЬ, НО ТОЛЬКО ПОНАРОШКУ"
+        ],
+        "zh": [
+            "您也许是在抽烟，但只是在外表上"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "no"
+    }
+}

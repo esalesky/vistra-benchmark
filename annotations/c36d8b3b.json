@@ -1,0 +1,34 @@
+{
+    "image_file": "c36d8b3b.png",
+    "transcript": [
+        "No Smoking within 25 feet of the building.",
+        "Thank you."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rauchen im Umkreis von 8 Metern um das Gebäude verboten.",
+            "Vielen Dank."
+        ],
+        "es": [
+            "No fumar a menos de 25 pies del edificio.",
+            "Gracias."
+        ],
+        "ru": [
+            "Курение в радиусе 8 м от здания запрещено.",
+            "Спасибо."
+        ],
+        "zh": [
+            "大楼 25 英尺内禁止吸烟。",
+            "谢谢。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

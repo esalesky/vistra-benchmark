@@ -1,0 +1,64 @@
+{
+    "image_file": "9e8540d4.png",
+    "transcript": [
+        "PROHIBITED ITEMS",
+        "Food or beverages of any kind, including fruit and unopened packaged food",
+        "Liquid, including water",
+        "Any bag larger than 18\" wide x 14\" high x 8.5\" deep",
+        "Aerosol containers and non-aerosol spray, mace and pepper spray",
+        "Guns, replica guns, electric stun guns, ammunition, martial arts weapons or devices, and fireworks",
+        "Any pointed object (e.g. knitting needles and letter openers) and knives of any size (pens and pencils are permitted)",
+        "Razors and box cutters"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "VERBOTEN",
+            "Lebensmittel oder Getränke, einschließlich Obst und ungeöffneter verpackter Lebensmittel",
+            "Flüssigkeiten, einschließlich Wasser",
+            "Alle Taschen größer 45x35x21 (BxHxT)",
+            "Aerosolpackungen und aerosolfreie Sprays, Reizgas und Pfefferspray",
+            "Schusswaffen, Nachbildungen von Schusswaffen, Elektroschocker, Munition, Kampfsportwaffen und Feuerwerkskörper",
+            "Alle spitzen Gegenstände (z. B. Nähnadeln und Brieföffner) sowie Messer jeder Größe (Kugelschreiber und Bleistifte sind erlaubt)",
+            "Rasierklingen und Teppichmesser"
+        ],
+        "es": [
+            "ARTÍCULOS PROHIBIDOS",
+            "Alimentos o bebidas de cualquier tipo, incluidos frutas y alimentos empaquetados sin abrir",
+            "Líquidos, incluido agua",
+            "Bolsos que midan más de 18\" de ancho x 14\" de alto x 8.5\" de profundidad",
+            "Aerosoles y atomizadores no aerosoles, gas lacrimógeno y gas pimienta",
+            "Armas de fuego, réplicas de armas, pistolas eléctricas, municiones, armas o dispositivos de artes marciales y pirotecnia",
+            "Objetos punzantes (p. ej., agujas de tejer y abrecartas) y cuchillos de cualquier tamaño (se permiten lapiceras y lápices)",
+            "Rasuradoras y cúters"
+        ],
+        "ru": [
+            "ЗАПРЕЩЕНО ПРОНОСИТЬ",
+            "Еду и напитки любого вида, включая фрукты и нераспечатанные упакованные продукты питания",
+            "Жидкости, включая воду",
+            "Любые пакеты размером больше 18 x 14 x 8,5 дюймов",
+            "Аэрозольные контейнеры и неаэрозольные спреи, слезоточивый газ и перцовые спреи",
+            "Оружие, муляжи оружия, электрошокеры, боеприпасы, оружие или аксессуары для боевых искусств и фейерверки",
+            "Любые острые предметы (например, спицы для вязания и канцелярские ножи) и ножи любого размера (ручки и карандаши проносить можно)",
+            "Лезвия и садовые ножи"
+        ],
+        "zh": [
+            "禁止携带物品",
+            "任何种类的食品或饮料，包括水果和未开封的包装食品",
+            "液体，包括水",
+            "任何大于 18 英寸宽 x 14 英寸高 x  8.5 英寸深的袋子",
+            "气雾剂容器及非气雾剂、狼牙棒及胡椒喷雾",
+            "枪支、仿制枪、电眩晕枪、弹药、武术武器或装置、烟花爆竹",
+            "任何尖头物品（例如针织针及开信刀）及任何大小的刀具（允许使用钢笔及铅笔）",
+            "剃须刀和美工刀"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

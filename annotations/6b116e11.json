@@ -1,0 +1,29 @@
+{
+    "image_file": "6b116e11.png",
+    "transcript": [
+        "NO THRU TRAFFIC"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Kein Durchgangsverkehr"
+        ],
+        "es": [
+            "PROHIBIDO EL TRÁNSITO"
+        ],
+        "ru": [
+            "СКВОЗНОЙ ПРОЕЗД ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "此路不通"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

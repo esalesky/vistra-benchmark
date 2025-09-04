@@ -1,0 +1,39 @@
+{
+    "image_file": "15f4fa6b.png",
+    "transcript": [
+        "PARKING",
+        "10 MINUTE",
+        "PASSENGER LOADING ZONE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parken",
+            "10 Minuten",
+            "Ausschließlich zur Mitnahme von Fahrgästen"
+        ],
+        "es": [
+            "ESTACIONAMIENTO",
+            "10 MINUTOS",
+            "ZONA DE CARGA DE PASAJEROS"
+        ],
+        "ru": [
+            "ПАРКОВКА",
+            "10 МИНУТ",
+            "ЗОНА ПОСАДКИ ПАССАЖИРОВ"
+        ],
+        "zh": [
+            "停车场",
+            "10 分钟",
+            "旅客装货区"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

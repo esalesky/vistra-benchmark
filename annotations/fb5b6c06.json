@@ -1,0 +1,49 @@
+{
+    "image_file": "fb5b6c06.png",
+    "transcript": [
+        "DOGS MUST BE ON LEASH",
+        "CITY ORDINANCE 473.05-b",
+        "VIOLATORS FINED UP TO $300 AND/OR 30 DAYS IN PRISON",
+        "PGH",
+        "DPW"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Leinenpflicht",
+            "Stadtverordnung 473.05-b",
+            "Verstöße werden mit 300 Euro Bußgeld und/oder 30 Tagen Haft geahndet",
+            "PGH",
+            "PGH"
+        ],
+        "es": [
+            "LLEVE A SU PERRO CON CORREA",
+            "ORDENANZA DE LA CIUDAD 473.05-b",
+            "SE MULTARÁ A LOS INFRACTORES CON HASTA $300 Y/O 30 DÍAS EN PRISIÓN",
+            "PGH",
+            "DPW"
+        ],
+        "ru": [
+            "СОБАКИ ДОЛЖНЫ НАХОДИТЬСЯ НА ПОВОДКЕ",
+            "ГОРОДСКОЕ ПОСТАНОВЛЕНИЕ 473.05-b",
+            "НАРУШИТЕЛИ ПОЛУЧАТ ШТРАФ ДО 300 ДОЛЛАРОВ США И/ИЛИ ТЮРЕМНОЕ ЗАКЛЮЧЕНИЕ НА 30 ДНЕЙ",
+            "PGH",
+            "PGH"
+        ],
+        "zh": [
+            "狗必须拴上皮带",
+            "城市条例 473.05-b",
+            "违反者将被处以最高 300 美元的罚款和/或 30 天监禁",
+            "PGH",
+            "DPW"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

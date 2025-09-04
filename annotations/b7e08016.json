@@ -1,0 +1,29 @@
+{
+    "image_file": "b7e08016.png",
+    "transcript": [
+        "WARNING: STROBE LIGHTS WILL BE IN USE DURING THIS EVENT!!"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warnung: Bei dieser Veranstaltung kommt Stroboskoplicht zur Anwendung!"
+        ],
+        "es": [
+            "ADVERTENCIA: SE UTILIZARÁN LUCES ESTROBOSCÓPICAS DURANTE ESTE EVENTO"
+        ],
+        "ru": [
+            "ВНИМАНИЕ: ВО ВРЕМЯ ЭТОГО МЕРОПРИЯТИЯ БУДЕТ ИСПОЛЬЗОВАТЬСЯ МИГАЮЩИЙ СВЕТ!!"
+        ],
+        "zh": [
+            "警告：活动期间将使用频闪灯！！"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

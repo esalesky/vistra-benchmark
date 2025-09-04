@@ -1,0 +1,64 @@
+{
+    "image_file": "277414ff.png",
+    "transcript": [
+        "TAKE 20",
+        "PLEASE WASH YOUR HANDS",
+        "1. WET HANDS",
+        "2. APPLY SOAP",
+        "3. SCRUB 20 SECONDS",
+        "4. RINSE UNDER WATER",
+        "5. DRY WITH CLEAN TOWEL",
+        "CLEAN HANDS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "TAKE 20",
+            "Waschen Sie Ihre Hände",
+            "1. Hände nass machen",
+            "2. Seife verwenden",
+            "3. 20 Sekunden gründlich waschen",
+            "4. Hände abwaschen",
+            "5. Mit sauberem Handtuch abtrocknen",
+            "Saubere Hände"
+        ],
+        "es": [
+            "TÓMATE 20",
+            "LÁVATE LAS MANOS",
+            "1. MOJA TUS MANOS",
+            "2. APLICA JABÓN",
+            "3. FROTA POR 20 SEGUNDOS",
+            "4. ENJUAGA BAJO EL AGUA",
+            "5. SÉCATE CON UNA TOALLA LIMPIA",
+            "MANOS LIMPIAS"
+        ],
+        "ru": [
+            "TAKE 20",
+            "ВЫМОЙТЕ РУКИ",
+            "1. НАМОЧИТЕ РУКИ",
+            "2. НАНЕСИТЕ МЫЛО",
+            "3. ДЕЛАЙТЕ МОЮЩИЕ ДВИЖЕНИЯ 20 СЕКУНД",
+            "4. ПРОМОЙТЕ РУКИ ПОД СТРУЕЙ ВОДЫ",
+            "5. ВЫТРИТЕ РУКИ ЧИСТЫМ ПОЛОТЕНЦЕМ",
+            "ЧИСТЫЕ РУКИ"
+        ],
+        "zh": [
+            "认真洗手 20 秒",
+            "请洗手",
+            "1. 淋湿双手",
+            "2. 打肥皂",
+            "3. 擦洗 20 秒",
+            "4. 用水冲洗",
+            "5. 用干净毛巾擦干",
+            "双手清洁"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

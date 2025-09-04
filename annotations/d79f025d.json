@@ -1,0 +1,69 @@
+{
+    "image_file": "d79f025d.png",
+    "transcript": [
+        "Harpers Ferry",
+        "National Historical Park",
+        "National Park Service",
+        "U.S. Department of the Interior",
+        "Trash Free Park",
+        "There are no trash cans in Harpers Ferry NHP",
+        "Please practice Leave No Trace by taking your trash with you.",
+        "Thank you for keeping your national park clean!",
+        "For more information visit go.nps.gov/TrashFreeHF"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Harpers Ferry",
+            "National Historical Park",
+            "Nationalparkbehörde",
+            "Amerikanisches Innenministerium",
+            "Müllfreier Park",
+            "Im Harpers Ferry National Historical Park gibt es keine Mülleimer.",
+            "Hinterlassen Sie keine Spuren und nehmen Sie Ihren Müll mit.",
+            "Vielen Dank, dass Sie uns beim Sauberhalten des Parks unterstützen!",
+            "Weitere Informationen finden Sie unter go.nps.gov/TrashFreeHF"
+        ],
+        "es": [
+            "Harpers Ferry",
+            "Parque Histórico Nacional",
+            "Servicio de Parques Nacionales",
+            "Departamento del Interior de los Estados Unidos",
+            "Parque sin basura",
+            "No hay cubos de basura en Harpers Ferry NHP",
+            "Ponga en práctica el principio de \"No dejar rastro\" llevando sus desechos consigo.",
+            "¡Gracias por mantener limpio el Parque Nacional!",
+            "Para obtener más información, visite go.nps.gov/TrashFreeHF"
+        ],
+        "ru": [
+            "Харперс Ферри",
+            "Национальный исторический парк",
+            "Служба национальных парков",
+            "Департамент внутренних дел США",
+            "Парк без мусора",
+            "В Национальном историческом парке \"Харперс Ферри\" нет мусорных корзин",
+            "Не оставляйте мусора — забирайте его с собой.",
+            "Спасибо, что поддерживаете чистоту нашего национального парка!",
+            "Дополнительную информацию см. на сайте go.nps.gov/TrashFreeHF"
+        ],
+        "zh": [
+            "哈泊斯费里",
+            "国家历史公园",
+            "国家公园管理局",
+            "美国内政部",
+            "无公害公园",
+            "哈珀斯费里县没有垃圾桶",
+            "请践行“不留痕迹”，随身携带垃圾。",
+            "感谢您保持国家公园的清洁！",
+            "更多信息请访问 go.nps.gov/TrashFreeHF"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

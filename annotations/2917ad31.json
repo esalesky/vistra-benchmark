@@ -1,0 +1,34 @@
+{
+    "image_file": "2917ad31.png",
+    "transcript": [
+        "ONE WAY",
+        "NO PARKING THIS SIDE OF STREET"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Einbahnstraße",
+            "Parken auf dieser Straßenseite verboten"
+        ],
+        "es": [
+            "UNA VÍA",
+            "NO ESTACIONAR EN ESTE LADO DE LA CALLE"
+        ],
+        "ru": [
+            "ОДНОСТОРОННЕЕ ДВИЖЕНИЕ",
+            "ПАРКОВКА С ЭТОЙ СТОРОНЫ УЛИЦЫ ЗАПРЕЩЕНА"
+        ],
+        "zh": [
+            "单向",
+            "这条街禁止停车"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

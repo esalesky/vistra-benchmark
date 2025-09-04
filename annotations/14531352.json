@@ -1,0 +1,29 @@
+{
+    "image_file": "14531352.png",
+    "transcript": [
+        "Do not touch or climb on the works of art"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Berühren oder Besteigen der Kunstwerke verboten"
+        ],
+        "es": [
+            "No tocar ni subirse a las obras de arte"
+        ],
+        "ru": [
+            "Не касайтесь предметов искусства и не залезайте на них"
+        ],
+        "zh": [
+            "不要触摸或爬上艺术品"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

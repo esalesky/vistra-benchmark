@@ -1,0 +1,34 @@
+{
+    "image_file": "4e746448.png",
+    "transcript": [
+        "PLEASE DO NOT FEED ANIMALS",
+        "(BE COUGAR & BEAR AWARE)"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nicht füttern",
+            "(Achtung vor Pumas und Bären)"
+        ],
+        "es": [
+            "NO ALIMENTE A LOS ANIMALES",
+            "(CUIDADO CON PUMAS Y OSOS)"
+        ],
+        "ru": [
+            "НЕ КОРМИТЕ ДИКИХ ЖИВОТНЫХ",
+            "(БЕРЕГИТЕСЬ КУГУАРОВ И МЕДВЕДЕЙ)"
+        ],
+        "zh": [
+            "请不要给动物喂食",
+            "（当心美洲狮和熊）"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

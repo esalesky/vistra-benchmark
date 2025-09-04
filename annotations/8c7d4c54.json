@@ -1,0 +1,39 @@
+{
+    "image_file": "8c7d4c54.png",
+    "transcript": [
+        "BE GOOD",
+        "PLEASE RETURN YOUR TRAY HERE after enjoying your meal.",
+        "Thank you"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Helfen Sie uns",
+            "Stellen Sie Ihr Tablett nach dem Essen hier ab.",
+            "Vielen Dank"
+        ],
+        "es": [
+            "SEA AMABLE",
+            "DEVUELVA SU BANDEJA AQUÍ después de disfrutar de su comida.",
+            "Gracias"
+        ],
+        "ru": [
+            "ПОЖАЛУЙСТА",
+            "ВЕРНИТЕ ПОДНОС СЮДА после окончания приема пищи.",
+            "Спасибо"
+        ],
+        "zh": [
+            "听话",
+            "用餐后请把托盘放回这里。",
+            "感谢"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

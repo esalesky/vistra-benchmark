@@ -1,0 +1,34 @@
+{
+    "image_file": "f488c322.png",
+    "transcript": [
+        "Please limit computer use to allow others to check e-mail.",
+        "THANK YOU"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Schränken Sie die Computernutzung ein, damit andere Personen ihre E-Mails abrufen können.",
+            "Vielen Dank"
+        ],
+        "es": [
+            "Limita el uso de las computadoras para permitir que todos puedan revisar sus correos electrónicos.",
+            "GRACIAS"
+        ],
+        "ru": [
+            "Ограничьте время работы за компьютером, чтобы другие могли проверить электронную почту.",
+            "СПАСИБО"
+        ],
+        "zh": [
+            "请限制电脑的使用，让其他人可以查看电子邮件。",
+            "谢谢"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

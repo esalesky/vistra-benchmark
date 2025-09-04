@@ -1,0 +1,34 @@
+{
+    "image_file": "2e44dad8.png",
+    "transcript": [
+        "ALL Visitors Must Sign In At the Front Office desk.",
+        "Unauthorized vehicles will be Towed without notice at the owners expense."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Alle Besucher müssen sich am Schalter des Front Office anmelden.",
+            "Nicht autorisierte Fahrzeuge werden ohne Vorankündigung auf Kosten des Besitzers abgeschleppt."
+        ],
+        "es": [
+            "Todos los visitantes deben registrarse en Recepción.",
+            "Se remolcará a los vehículos no autorizados a costo del propietario."
+        ],
+        "ru": [
+            "Все посетители должны зарегистрироваться у стойки администратора.",
+            "Автомобили, которые находятся на стоянке без разрешения, будут эвакуированы без предупреждения за счет владельца."
+        ],
+        "zh": [
+            "所有访客必须在前台签到。",
+            "未经授权的车辆将被拖走，恕不另行通知，费用由业主承担。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

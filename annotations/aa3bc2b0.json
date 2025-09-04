@@ -1,0 +1,34 @@
+{
+    "image_file": "aa3bc2b0.png",
+    "transcript": [
+        "Passenger Drop-off & Pick-up",
+        "Driver must remain in car"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Abholen und Absetzen von Passagieren",
+            "Fahrer muss im Auto bleiben"
+        ],
+        "es": [
+            "Zona de descenso y recogida de pasajeros",
+            "El conductor debe permanecer dentro del vehículo"
+        ],
+        "ru": [
+            "Посадка и высадка пассажиров",
+            "Водитель должен оставаться в автомобиле"
+        ],
+        "zh": [
+            "接送乘客",
+            "司机必须留在车里"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

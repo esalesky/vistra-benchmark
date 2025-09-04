@@ -1,0 +1,44 @@
+{
+    "image_file": "f2026111.png",
+    "transcript": [
+        "Buy It.",
+        "Stamp It.",
+        "Mail It!",
+        "Greeting Cards Now Available"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Kaufen.",
+            "Frankieren.",
+            "Absenden.",
+            "Grußkarten jetzt verfügbar"
+        ],
+        "es": [
+            "Cómprelo.",
+            "Péguelo.",
+            "¡Envíelo!",
+            "Tarjetas de felicitación ahora disponibles"
+        ],
+        "ru": [
+            "Купите.",
+            "Наклейте марку.",
+            "Отправьте.",
+            "Поздравительные открытки теперь в наличии"
+        ],
+        "zh": [
+            "购买",
+            "盖章",
+            "邮寄",
+            "贺卡现正发售"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

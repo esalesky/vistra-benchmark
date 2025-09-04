@@ -1,0 +1,34 @@
+{
+    "image_file": "f2d70b9a.png",
+    "transcript": [
+        "WARNING",
+        "LOW PIPES AHEAD"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warnung",
+            "Niedrige Rohre"
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "TUBERÍAS BAJAS ADELANTE"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "ВПЕРЕДИ НИЗКАЯ ТРУБА"
+        ],
+        "zh": [
+            "警告",
+            "前方有低位水管"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

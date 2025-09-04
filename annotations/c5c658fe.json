@@ -1,0 +1,29 @@
+{
+    "image_file": "c5c658fe.png",
+    "transcript": [
+        "NO FIREWORKS DISCHARGE WITHIN 300 FEET"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Kein Abfeuern von Feuerwerkskörpern im Umkreis von 90 Metern"
+        ],
+        "es": [
+            "NO TIRAR PIROTECNIA A MENOS DE 300 PIES"
+        ],
+        "ru": [
+            "ФЕЙЕРВЕРКИ В РАДИУСЕ 100 М ЗАПРЕЩЕНЫ"
+        ],
+        "zh": [
+            "300 英尺内禁止燃放烟花"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

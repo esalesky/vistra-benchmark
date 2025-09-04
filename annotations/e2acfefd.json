@@ -1,0 +1,34 @@
+{
+    "image_file": "e2acfefd.png",
+    "transcript": [
+        "NO TURN ON RED",
+        "NO TURN ON RED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Bei Rot nicht abbiegen",
+            "Bei Rot nicht abbiegen"
+        ],
+        "es": [
+            "NO GIRAR CON LUZ ROJA",
+            "NO GIRAR CON LUZ ROJA"
+        ],
+        "ru": [
+            "ПОВОРОТ НА КРАСНЫЙ ЗАПРЕЩЕН",
+            "ПОВОРОТ НА КРАСНЫЙ ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "红灯时不能转弯",
+            "红灯时不能转弯"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

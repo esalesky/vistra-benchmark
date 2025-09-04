@@ -1,0 +1,39 @@
+{
+    "image_file": "70034724.png",
+    "transcript": [
+        "No Parking",
+        "Stopping or Standing Anytime",
+        "Violators Subject to Fines & Towing at Owners Risk & Expense"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Absolutes",
+            "Park- und Halteverbot",
+            "Verstöße werden mit Bußgeldern und Abschleppen auf Kosten und Risiko des Eigentümers geahndet"
+        ],
+        "es": [
+            "No estacionar",
+            "ni detenerse en ningún momento",
+            "Los infractores podrán ser multados o remolcados a riesgo y costo del propietario"
+        ],
+        "ru": [
+            "Парковка запрещена",
+            "Остановка и стоянка запрещены в любое время",
+            "На нарушителей будет наложен штраф, и их транспортные средства будут эвакуированы на риск и за счет владельцев."
+        ],
+        "zh": [
+            "禁止停车",
+            "任何时候都停车或驻留",
+            "违规者将受到罚款和拖曳，风险和费用由车主承担"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

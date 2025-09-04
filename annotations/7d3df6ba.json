@@ -1,0 +1,34 @@
+{
+    "image_file": "7d3df6ba.png",
+    "transcript": [
+        "No Smoking - or - Sitting On The Steps",
+        "Thank You For Respecting Our Neighbors."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rauchen oder Sitzen auf der Treppe verboten",
+            "Vielen Dank für die Rücksichtnahme."
+        ],
+        "es": [
+            "No fumar ni sentarse en los escalones",
+            "Gracias por respetar a nuestros vecinos."
+        ],
+        "ru": [
+            "Курить и сидеть на ступеньках запрещено",
+            "Спасибо, что уважаете соседей."
+        ],
+        "zh": [
+            "禁止吸烟或坐在台阶上",
+            "谢谢你尊重我们的邻居。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

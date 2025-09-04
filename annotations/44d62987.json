@@ -1,0 +1,29 @@
+{
+    "image_file": "44d62987.png",
+    "transcript": [
+        "-WE- RESERVE THE RIGHT TO REFUSE SERVICE TO ANYONE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Wir behalten uns das Recht vor, bestimmte Personen nicht zu bedienen"
+        ],
+        "es": [
+            "NOS RESERVAMOS EL DERECHO A RECHAZAR EL SERVICIO A CUALQUIER PERSONA"
+        ],
+        "ru": [
+            "МЫ ОСТАВЛЯЕМ ЗА СОБОЙ ПРАВО ОТКАЗАТЬ В ОБСЛУЖИВАНИИ ЛЮБЫМ ЛИЦАМ"
+        ],
+        "zh": [
+            "我们保留拒绝为任何人提供服务的权利"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "no"
+    }
+}

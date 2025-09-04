@@ -1,0 +1,29 @@
+{
+    "image_file": "8b6aa8c8.png",
+    "transcript": [
+        "RAISED CROSSWALK AHEAD"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Zebrastreifen voraus"
+        ],
+        "es": [
+            "CRUCE PEATONAL ELEVADO ADELANTE"
+        ],
+        "ru": [
+            "ВПЕРЕДИ ПРИПОДНЯТЫЙ ПЕРЕХОД"
+        ],
+        "zh": [
+            "前方高架人行横道"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

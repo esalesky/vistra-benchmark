@@ -1,0 +1,34 @@
+{
+    "image_file": "1feddb5f.png",
+    "transcript": [
+        "LEAK DETECTION MONITORING PORT",
+        "DO NOT FILL WITH PRODUCT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Wartungsklappe zur Lecksuche",
+            "Kein Produkt einfüllen"
+        ],
+        "es": [
+            "PUERTO DE MONITOREO DETECCIÓN DE FUGAS",
+            "NO RELLENAR CON PRODUCTO"
+        ],
+        "ru": [
+            "ПОРТ МОНИТОРИНГА ДЛЯ ОБНАРУЖЕНИЯ УТЕЧЕК",
+            "НЕ ЗАЛИВАЙТЕ ПРОДУКТ СЮДА"
+        ],
+        "zh": [
+            "检漏监控口",
+            "不要用产品填充"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

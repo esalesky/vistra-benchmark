@@ -1,0 +1,29 @@
+{
+    "image_file": "7710b51c.png",
+    "transcript": [
+        "NO BUSES"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Keine Busse"
+        ],
+        "es": [
+            "PROHIBIDO BUSES"
+        ],
+        "ru": [
+            "ПРОЕЗД ДЛЯ АВТОБУСОВ ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "禁止巴士同行"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "3a802775.png",
+    "transcript": [
+        "TO ALL MEMBERS:",
+        "COSTCO IS COMMITTED TO COMPLIANCE WITH THE AMERICANS WITH DISABILITIES ACT AND WE HAVE PLANNED OUR FACILITY AND SERVICES TO PROVIDE ACCESS TO THE DISABLED. IF YOU ARE DISABLED AND REQUIRE SPECIAL ASSISTANCE, PLEASE CONTACT THE MANAGER ON DUTY."
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "An alle Mitglieder:",
+            "Costco hat sich zur Einhaltung des „Americans with Disabilites Act“ (Gesetz zur Gleichstellung von Menschen mit Behinderung) verpflichtet. Alle unsere Geschäfte und Dienstleistungen sind barrierefrei. Wenn Sie als behinderte Person besondere Hilfe benötigen, wenden Sie sich an den Geschäftsführer."
+        ],
+        "es": [
+            "A TODOS LOS MIEMBROS:",
+            "COSTCO SE COMPROMETE A CUMPLIR LA LEY DE ESTADOUNIDENSES CON DISCAPACIDAD Y DISEÑAMOS NUESTRAS INSTALACIONES Y SERVICIOS PARA PROPORCIONAR ACCESO A LAS PERSONAS CON DISCAPACIDAD. SI USTED TIENE ALGUNA DISCAPACIDAD Y REQUIERE ASISTENCIA ESPECIAL, CONTACTE AL GERENTE DE TURNO."
+        ],
+        "ru": [
+            "ИНФОРМАЦИЯ ДЛЯ ВСЕХ УЧАСТНИКОВ:",
+            "КОМПАНИЯ COSTCO СОБЛЮДАЕТ ЗАКОН О ЗАЩИТЕ ПРАВ ГРАЖДАН США С ИНВАЛИДНОСТЬЮ. НАШ ОБЪЕКТ И НАШИ УСЛУГИ СПРОЕКТИРОВАНЫ ТАКИМ ОБРАЗОМ, ЧТОБЫ ОБЕСПЕЧИТЬ ДОСТУП ДЛЯ ИНВАЛИДОВ. ЕСЛИ ВЫ ЯВЛЯЕТЕСЬ ИНВАЛИДОМ И ВАМ НЕОБХОДИМА СПЕЦИАЛЬНАЯ ПОМОЩЬ, ОБРАТИТЕСЬ К ДЕЖУРНОМУ МЕНЕДЖЕРУ."
+        ],
+        "zh": [
+            "所有会员：",
+            "Costco 承诺遵守《美国残疾人法案》，我们已规划好我们的设施和服务，以便为残疾人提供无障碍通道。如果您是残疾人并需要特殊帮助，请联系值班经理。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

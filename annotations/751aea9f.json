@@ -1,0 +1,29 @@
+{
+    "image_file": "751aea9f.png",
+    "transcript": [
+        "WE ARE OPEN"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Geöffnet"
+        ],
+        "es": [
+            "ABIERTO"
+        ],
+        "ru": [
+            "МЫ ОТКРЫТЫ"
+        ],
+        "zh": [
+            "营业中"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

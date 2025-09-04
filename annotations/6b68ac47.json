@@ -1,0 +1,29 @@
+{
+    "image_file": "6b68ac47.png",
+    "transcript": [
+        "FOOD AND DRINKS FROM OUTSIDE PROHIBITED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Speisen und Getränke verboten"
+        ],
+        "es": [
+            "SE PROHIBE EL INGRESO CON ALIMENTOS Y BEBIDAS AJENOS A ESTE ESTABLECIMIENTO"
+        ],
+        "ru": [
+            "ЗАПРЕЩЕНО ПРОНОСИТЬ ЕДУ И НАПИТКИ"
+        ],
+        "zh": [
+            "禁止外带食物和饮料"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

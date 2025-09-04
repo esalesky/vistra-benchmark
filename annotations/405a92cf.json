@@ -1,0 +1,29 @@
+{
+    "image_file": "405a92cf.png",
+    "transcript": [
+        "NO SMOKING ON THIS PROPERTY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rauchverbot auf diesem Grundstück"
+        ],
+        "es": [
+            "PROHIBIDO FUMAR EN ESTA PROPIEDAD"
+        ],
+        "ru": [
+            "КУРЕНИЕ ЗАПРЕЩЕНО"
+        ],
+        "zh": [
+            "此处禁止吸烟"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image_file": "47020710.png",
+    "transcript": [
+        "NO HUNTING",
+        "WEAPONS PROHIBITED",
+        "MARYLAND PARK SERVICE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Keine Jagd",
+            "Waffen verboten",
+            "Maryland Park Service"
+        ],
+        "es": [
+            "NO CAZAR",
+            "PROHIBIDO ARMAS",
+            "SERVICIO DE PARQUES DE MARYLAND"
+        ],
+        "ru": [
+            "ОХОТА ЗАПРЕЩЕНА",
+            "ОРУЖИЕ ЗАПРЕЩЕНО",
+            "MARYLAND PARK SERVICE"
+        ],
+        "zh": [
+            "禁止狩猎",
+            "禁止使用武器",
+            "马里兰公园管理局"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

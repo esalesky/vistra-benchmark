@@ -1,0 +1,54 @@
+{
+    "image_file": "43f64829.png",
+    "transcript": [
+        "SERVICE AREA PARKING",
+        "2 HR LIMIT MAXIMUM-NO IDLING",
+        "PARK IN LINED STALLS ONLY",
+        "NO TRESPASSING OR LOITERING",
+        "NO SOLICITING WITHOUT CERTIFICATE",
+        "LOCK CAR AND REMOVE CONTENTS PREMISES UNDER SURVEILLANCE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Raststättenparkplatz",
+            "Höchstparkdauer 2 Stunden - Kein Leerlauf",
+            "Nur in gekennzeichneten Bereichen parken",
+            "Unbefugtes Betreten oder Verweilen verboten",
+            "Keine Werbung ohne Erlaubnis",
+            "Fahrzeug absperren und Wertsachen mitnehmen \nParkplatz wird überwacht"
+        ],
+        "es": [
+            "ESTACIONAMIENTO DE SERVICIO",
+            "2 HORAS MÁX.-NO PERMANECER",
+            "ESTACIONAR SOLO EN LOS ESPACIOS MARCADOS",
+            "NO INGRESAR SIN AUTORIZACIÓN NI MERODEAR",
+            "NO VENDER SIN CERTIFICADO",
+            "CERRAR CON LLAVE EL AUTO Y NO DEJAR PERTENENCIAS\nPREDIO VIGILADO"
+        ],
+        "ru": [
+            "ПАРКОВКА В ЗОНЕ ОБСЛУЖИВАНИЯ",
+            "МАКСИМАЛЬНОЕ ВРЕМЯ ПАРКОВКИ 2 ЧАСА РАБОТА ДВИГАТЕЛЯ НА ХОЛОСТОМ ХОДУ ЗАПРЕЩЕНА",
+            "ПАРКОВКА ТОЛЬКО НА УКАЗАННЫХ МЕСТАХ",
+            "ПРОХОД И НАХОЖДЕНИЕ БЕЗ ОПРЕДЕЛЕННОЙ ЦЕЛИ ЗАПРЕЩЕНЫ",
+            "ПРЕДЛОЖЕНИЕ УСЛУГ БЕЗ СЕРТИФИКАТА ЗАПРЕЩЕНО",
+            "АВТОМОБИЛИ И ИХ СОДЕРЖИМОЕ НАХОДЯТСЯ ПОД НАБЛЮДЕНИЕМ"
+        ],
+        "zh": [
+            "服务区停车",
+            "最多 2 小时 - 禁止怠速",
+            "停车入位",
+            "禁止擅闯或闲逛",
+            "无证不得揽客",
+            "锁车并搬走监控下的物品"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

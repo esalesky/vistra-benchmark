@@ -1,0 +1,29 @@
+{
+    "image_file": "36d433cf.png",
+    "transcript": [
+        "NO SMOKING WITHIN 25 FEET OF BUILDING ENTRANCE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rauchen im Umkreis von 8 Metern vom Eingang des Gebäudes verboten"
+        ],
+        "es": [
+            "NO FUMAR A MENOS DE 25 METROS DE LA ENTRADA"
+        ],
+        "ru": [
+            "НЕ КУРИТЬ НА РАССТОЯНИИ 8 М ОТ ВХОДА В ЗДАНИЕ"
+        ],
+        "zh": [
+            "大楼入口 25 英尺内禁止吸烟"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

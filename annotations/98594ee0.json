@@ -1,0 +1,29 @@
+{
+    "image_file": "98594ee0.png",
+    "transcript": [
+        "RIGHT LANE ENDS 2000 FEET"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Rechte Spur endet in 600 Metern"
+        ],
+        "es": [
+            "FIN DE CARRIL DERECHO 2000 PIES"
+        ],
+        "ru": [
+            "ПРАВАЯ ПОЛОСА ЗАКАНЧИВАЕТСЯ ЧЕРЕЗ 2000 ФУТОВ"
+        ],
+        "zh": [
+            "右车道 2000 英尺后截止"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

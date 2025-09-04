@@ -1,0 +1,29 @@
+{
+    "image_file": "b215174f.png",
+    "transcript": [
+        "NO TRESPASSING SUNSET TO SUNRISE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Durchgang von Sonnenaufgang bis Sonnenuntergang verboten"
+        ],
+        "es": [
+            "NO PASAR DESDE EL ATARDECER HASTA EL AMANECER"
+        ],
+        "ru": [
+            "ПРОХОД ЗАПРЕЩЕН ОТ ЗАКАТА ДО РАССВЕТА"
+        ],
+        "zh": [
+            "夜间不许擅自闯入"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "e505e621.png",
+    "transcript": [
+        "TRUCKS DO NOT ENTER"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Einfahrt für LKWs verboten"
+        ],
+        "es": [
+            "PROHIBIDO INGRESO DE CAMIONES"
+        ],
+        "ru": [
+            "ВЪЕЗД ГРУЗОВИКОВ ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "卡车不得进入"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

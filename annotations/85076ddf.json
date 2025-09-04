@@ -1,0 +1,34 @@
+{
+    "image_file": "85076ddf.png",
+    "transcript": [
+        "Waste",
+        "We separate for you!"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Mülleimer",
+            "Wir trennen für Sie!"
+        ],
+        "es": [
+            "Residuos",
+            "Los separamos por usted."
+        ],
+        "ru": [
+            "Мусор",
+            "Мы разделяем его для вас!"
+        ],
+        "zh": [
+            "废物",
+            "我们为您分类！"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

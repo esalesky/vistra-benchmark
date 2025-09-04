@@ -1,0 +1,29 @@
+{
+    "image_file": "ef6fac22.png",
+    "transcript": [
+        "END ROAD WORK"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Baustellenende"
+        ],
+        "es": [
+            "FIN DE OBRAS"
+        ],
+        "ru": [
+            "ОКОНЧАНИЕ ДОРОЖНЫХ РАБОТ"
+        ],
+        "zh": [
+            "终点 道路施工"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

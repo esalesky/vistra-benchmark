@@ -1,0 +1,34 @@
+{
+    "image_file": "cf78f7d9.png",
+    "transcript": [
+        "RIGHT LANE ENDS",
+        "500 FEET"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rechte Spur endet",
+            "150 Meter"
+        ],
+        "es": [
+            "FIN CARRIL DERECHO",
+            "500 PIES"
+        ],
+        "ru": [
+            "ПРАВАЯ ПОЛОСА ЗАКАНЧИВАЕТСЯ",
+            "ЧЕРЕЗ 500 ФУТОВ"
+        ],
+        "zh": [
+            "右侧车道封闭",
+            "500 英尺"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

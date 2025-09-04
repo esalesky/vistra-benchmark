@@ -1,0 +1,34 @@
+{
+    "image_file": "96a0bdfd.png",
+    "transcript": [
+        "SMILE",
+        "YOU'RE ON CAMERA"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Lächeln",
+            "Kameraüberwachung"
+        ],
+        "es": [
+            "SONRÍA",
+            "LO ESTAMOS FILMANDO"
+        ],
+        "ru": [
+            "УЛЫБНИТЕСЬ",
+            "ВАС СНИМАЮТ"
+        ],
+        "zh": [
+            "笑一个",
+            "您在监控区域内"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

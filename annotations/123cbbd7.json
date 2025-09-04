@@ -1,0 +1,49 @@
+{
+    "image_file": "123cbbd7.png",
+    "transcript": [
+        "THIS IS A DRUG FREE FACILITY",
+        "NO SMOKING",
+        "NO VAPING",
+        "NO E-CIGARETTES",
+        "NO MARIJUANA"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "In dieser Einrichtung sind folgende Drogen verboten:",
+            "Zigaretten",
+            "Verdampfer",
+            "E-Zigaretten",
+            "MARIJUANA"
+        ],
+        "es": [
+            "LUGAR LIBRE DE DROGAS",
+            "NO FUMAR",
+            "NO VAPEAR",
+            "NO CIGARRILLOS ELECTRÓNICOS",
+            "NO MARIHUANA"
+        ],
+        "ru": [
+            "КУРЕНИЕ И УПОТРЕБЛЕНИЕ НАРКОТИКОВ В ЭТОМ УЧРЕЖДЕНИИ ЗАПРЕЩЕНЫ",
+            "КУРЕНИЕ ЗАПРЕЩЕНО",
+            "ВЕЙПЫ ЗАПРЕЩЕНЫ",
+            "ЭЛЕКТРОННЫЕ СИГАРЕТЫ ЗАПРЕЩЕНЫ",
+            "КУРЕНИЕ МАРИХУАНЫ ЗАПРЕЩЕНО"
+        ],
+        "zh": [
+            "禁毒区",
+            "禁止吸烟",
+            "禁止水烟",
+            "禁止电子烟",
+            "禁止大麻"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

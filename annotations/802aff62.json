@@ -1,0 +1,39 @@
+{
+    "image_file": "802aff62.png",
+    "transcript": [
+        "NO ENTRY",
+        "EXCEPT AUTHORISED PERSONNEL AND VEHICLES",
+        "FINE UP TO $ 2,000"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Betreten verboten",
+            "Befugte Mitarbeiter und Fahrzeuge ausgenommen",
+            "Bis zu 2000 Euro Geldbuße"
+        ],
+        "es": [
+            "NO INGRESAR",
+            "EXCEPTO PERSONAL Y VEHÍCULOS AUTORIZADOS",
+            "MULTA HASTA $2000"
+        ],
+        "ru": [
+            "ВЪЕЗД ЗАПРЕЩЕН",
+            "КРОМЕ АВТОРИЗОВАННОГО ПЕРСОНАЛА И ТРАНСПОРТНЫХ СРЕДСТВ",
+            "ШТРАФ ДО 2000 ДОЛЛАРОВ"
+        ],
+        "zh": [
+            "禁止进入",
+            "获授权人员及车辆除外",
+            "最高罚款 2000 美元"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "68373789.png",
+    "transcript": [
+        "PARKED VEHICLES AHEAD",
+        "MERGE LEFT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Geparkte Fahrzeuge voraus",
+            "Links einordnen"
+        ],
+        "es": [
+            "VEHÍCULOS ESTACIONADOS ADELANTE",
+            "INCORPÓRESE A LA IZQUIERDA"
+        ],
+        "ru": [
+            "ВПЕРЕДИ ПРИПАРКОВАННЫЕ АВТОМОБИЛИ",
+            "ОБЪЕДИНЯЙТЕСЬ С ЛЕВОЙ ПОЛОСОЙ"
+        ],
+        "zh": [
+            "前方停放车辆",
+            "向左道行驶"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

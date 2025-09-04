@@ -1,0 +1,29 @@
+{
+    "image_file": "3cce5c90.png",
+    "transcript": [
+        "LINE STARTS THIS WAY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warteschlange beginnt hier"
+        ],
+        "es": [
+            "FORME FILA HACIA ESE LADO"
+        ],
+        "ru": [
+            "ОЧЕРЕДЬ НАЧИНАЕТСЯ ЗДЕСЬ"
+        ],
+        "zh": [
+            "排队起点"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "4ab488ac.png",
+    "transcript": [
+        "ENTER HERE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Hier eintreten"
+        ],
+        "es": [
+            "ENTRAR AQUÍ"
+        ],
+        "ru": [
+            "ВХОД"
+        ],
+        "zh": [
+            "由此而入"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

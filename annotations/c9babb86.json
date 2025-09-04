@@ -1,0 +1,34 @@
+{
+    "image_file": "c9babb86.png",
+    "transcript": [
+        "PLEASE DO NOT FLUSH FEMININE PRODUCTS, BABY WIPES, TRASH, PAPER TOWELS, OR DIAPERS IN THE TOILET.",
+        "Thank You!"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Bitte werfen Sie keine Hygieneartikel, Feuchttücher, Abfälle, Papierhandtücher oder Windeln in die Toilette.",
+            "Vielen Dank!"
+        ],
+        "es": [
+            "NO ARROJE PRODUCTOS DE HIGIENE FEMENINA, TOALLITAS DE BEBÉ, BASURA, TOALLAS DE PAPEL NI PAÑALES EN EL EXCUSADO.",
+            "¡Gracias!"
+        ],
+        "ru": [
+            "НЕ СМЫВАЙТЕ В УНИТАЗ ЖЕНСКИЕ СРЕДСТВА ЛИЧНОЙ ГИГИЕНЫ, ДЕТСКИЕ САЛФЕТКИ, МУСОР, БУМАЖНЫЕ ПОЛОТЕНЦА И ПОДГУЗНИКИ.",
+            "Спасибо!"
+        ],
+        "zh": [
+            "请勿在厕所内冲洗女性用品、婴儿湿巾、垃圾、纸巾或尿布。",
+            "谢谢！"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

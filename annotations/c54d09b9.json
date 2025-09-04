@@ -1,0 +1,29 @@
+{
+    "image_file": "c54d09b9.png",
+    "transcript": [
+        "PLEASE WAIT HERE FOR NEXT AVAILABLE CLERK"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warten Sie hier auf den nächsten verfügbaren Mitarbeiter"
+        ],
+        "es": [
+            "ESPERE AQUÍ AL PRÓXIMO EMPLEADO DISPONIBLE"
+        ],
+        "ru": [
+            "ОЖИДАЙТЕ СЛЕДУЮЩЕГО СВОБОДНОГО СОТРУДНИКА ЗДЕСЬ"
+        ],
+        "zh": [
+            "请在这里等下一位有空的职员"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

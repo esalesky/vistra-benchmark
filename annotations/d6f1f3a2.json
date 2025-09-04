@@ -1,0 +1,49 @@
+{
+    "image_file": "d6f1f3a2.png",
+    "transcript": [
+        "NO PARKING",
+        "BALTIMORE COUNTY DEPT OF RECREATION & PARKS",
+        "ADDITIONAL PARKING AT MTA LOT",
+        "TURN RIGHT AT MAIN PARK ENTRANCE",
+        "PARK CLOSES AND GATES LOCKED AT SUNSET"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parkverbot",
+            "Abteilung für Freizeit und Parks des Baltimore County",
+            "Zusätzliche Parkplätze auf dem MTA-Gelände",
+            "Am Haupteingang des Parks rechts abbiegen",
+            "Der Park und die Tore werden bei Sonnenuntergang geschlossen."
+        ],
+        "es": [
+            "NO ESTACIONAR",
+            "DEPT. DE PARQUES Y RECREACIÓN DEL CONDADO DE BALTIMORE",
+            "MÁS ESTACIONAMIENTO EN LOTE DE MTA",
+            "GIRE A LA DERECHA EN LA ENTRADA PRINCIPAL DEL PARQUE",
+            "EL PARQUE Y LAS PUERTAS CIERRAN AL ATARDECER"
+        ],
+        "ru": [
+            "ПАРКОВКА ЗАПРЕЩЕНА",
+            "BALTIMORE COUNTY DEPT OF RECREATION & PARKS",
+            "ДОПОЛНИТЕЛЬНАЯ ПАРКОВКА В MTA",
+            "ПОВЕРНИТЕ НАПРАВО У ГЛАВНОГО ВХОДА В ПАРК",
+            "ПАРК ЗАКРЫВАЕТСЯ И ВОРОТА ЗАКРЫВАЮТСЯ НА ЗАМОК НА ЗАКАТЕ"
+        ],
+        "zh": [
+            "禁止停车",
+            "巴尔的摩县娱乐和公园部门",
+            "MTA 停车场的有额外停车位",
+            "在主公园入口右转",
+            "日落时分，公园将关闭，大门将紧锁"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "05e75845.png",
+    "transcript": [
+        "DO NOT ENTER"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Zutritt verboten"
+        ],
+        "es": [
+            "NO ENTRAR"
+        ],
+        "ru": [
+            "ВЪЕЗД ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "禁止进入"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image_file": "4b7acb81.png",
+    "transcript": [
+        "NOTICE",
+        "THIS PROPERTY IS PROTECTED BY VIDEO SURVEILLANCE",
+        "CLOSED SUNSET"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Hinweis",
+            "Dieses Objekt wird videoüberwacht",
+            "Wird bei Sonnenuntergang geschlossen"
+        ],
+        "es": [
+            "AVISO",
+            "ESTA PROPIEDAD ESTÁ PROTEGIDA POR VIDEOVIGILANCIA",
+            "CERRADO AL ATARDECER"
+        ],
+        "ru": [
+            "УВЕДОМЛЕНИЕ",
+            "ЭТА ТЕРРИТОРИЯ ОХРАНЯЕТСЯ С ПОМОЩЬЮ ВИДЕОНАБЛЮДЕНИЯ",
+            "ВИД НА ЗАКАТ ЗАКРЫТ"
+        ],
+        "zh": [
+            "注意",
+            "这处房产有视频监控",
+            "封闭的日落"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image_file": "f1cc1015.png",
+    "transcript": [
+        "Public Parking",
+        "6am-10pm",
+        "Residents only after 10pm"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Öffentlicher Parkplatz",
+            "6:00 bis 22:00 Uhr",
+            "Anwohner erst ab 22:00 Uhr"
+        ],
+        "es": [
+            "Estacionamiento público",
+            "6 a. m.-10 p. m.",
+            "Residentes solo después de las 10 p. m."
+        ],
+        "ru": [
+            "Открытая парковка",
+            "6:00-22:00",
+            "Парковка для резидентов только после 22:00"
+        ],
+        "zh": [
+            "公共停车场",
+            "上午 6 点至下午 10 点",
+            "晚上 10 点以后才入内"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "image_file": "3b6aeec1.png",
+    "transcript": [
+        "Pets Must Be Kept On Leash",
+        "Clean Up After Pets",
+        "All Laws Strictly Enforced",
+        "Howard County Code 19.208.B"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Leinenpflicht",
+            "Entfernen Sie die Hinterlassenschaften Ihres Hundes",
+            "Alle Gesetze werden strikt durchgesetzt",
+            "Howard County-Code 19.208.B"
+        ],
+        "es": [
+            "Lleve su mascota con correa",
+            "Limpie lo que hace su mascota",
+            "Todas las leyes se aplican estrictamente",
+            "Código del Condado de Howard 19.208.B"
+        ],
+        "ru": [
+            "Держите животных на поводке",
+            "Убирайте за животными",
+            "Все законы должны строго соблюдаться",
+            "Кодекс округа Говард  19.208.B"
+        ],
+        "zh": [
+            "宠物必须拴上皮带",
+            "及时清理宠物排泄物",
+            "严格执行所有法律",
+            "霍华德县法典 19.208.B"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

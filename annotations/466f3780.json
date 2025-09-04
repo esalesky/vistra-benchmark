@@ -1,0 +1,49 @@
+{
+    "image_file": "466f3780.png",
+    "transcript": [
+        "HAVE FEEDBACK?",
+        "LET US KNOW!",
+        "FEEL FREE TO GRAB A FEEDBACK FORM AND LEAVE US A MESSAGE!",
+        "YOU CAN ALSO TAKE A BUSINESS CARD AND EMAIL THE DIRECTOR OF THE FACILITY.",
+        "THANK YOU!"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Feedback?",
+            "Sehr gerne!",
+            "Holen Sie sich ein Feedback-Formular und hinterlassen Sie uns eine Nachricht.",
+            "Sie können auch eine Visitenkarte mitnehmen und dem Leiter der Einrichtung eine E-Mail schreiben.",
+            "Vielen Dank!"
+        ],
+        "es": [
+            "¿TIENE COMENTARIOS?",
+            "CUÉNTENOS.",
+            "TOME UN FORMULARIO DE COMENTARIOS Y ESCRIBA SU MENSAJE.",
+            "TAMBIÉN PUEDE TOMAR UNA TARJETA Y ENVIARLE UN CORREO AL DIRECTOR DEL ESTABLECIMIENTO.",
+            "¡GRACIAS!"
+        ],
+        "ru": [
+            "ХОТИТЕ ОСТАВИТЬ ОТЗЫВ?",
+            "СДЕЛАЙТЕ ЭТО!",
+            "ВОЗЬМИТЕ ФОРМУ ОТЗЫВА И ОСТАВЬТЕ НАМ СООБЩЕНИЕ!",
+            "ВЫ ТАКЖЕ МОЖЕТЕ ВЗЯТЬ НАШУ ВИЗИТНУЮ КАРТОЧКУ И ОТПРАВИТЬ ЭЛЕКТРОННОЕ ПИСЬМО ДИРЕКТОРУ УЧРЕЖДЕНИЯ.",
+            "СПАСИБО!"
+        ],
+        "zh": [
+            "有反馈吗？",
+            "告诉我们！",
+            "请随时获取反馈表并给我们留言！",
+            "您也可以带一张名片，给厂长发电子邮件。",
+            "谢谢！"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "no"
+    }
+}

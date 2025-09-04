@@ -1,0 +1,49 @@
+{
+    "image_file": "3f7d1809.png",
+    "transcript": [
+        "NO PETS ALLOWED",
+        "NO SMOKING",
+        "NO CYCLING",
+        "1800-4717300",
+        "Be aware of possible lightning strike and falling branch due to bad weather"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Tiere verboten",
+            "Rauchen verboten",
+            "Fahrradfahren verboten",
+            "1800-4717300",
+            "Achten Sie auf mögliche Blitzeinschläge und herabfallende Äste aufgrund schlechten Wetters"
+        ],
+        "es": [
+            "NO SE PERMITEN MASCOTAS",
+            "PROHIBIDO FUMAR",
+            "PROHIBIDO BICICLETAS",
+            "1800-4717300",
+            "Peligro de caída de rayos y desprendimiento de ramas debido al mal tiempo"
+        ],
+        "ru": [
+            "ДОМАШНИЕ ЖИВОТНЫЕ ЗАПРЕЩЕНЫ",
+            "КУРЕНИЕ ЗАПРЕЩЕНО",
+            "ПРОЕЗД НА ВЕЛОСИПЕДЕ ЗАПРЕЩЕН",
+            "1800-4717300",
+            "В плохую погоду возможно падение веток из-за удара молнии"
+        ],
+        "zh": [
+            "宠物禁止入内",
+            "禁止吸烟",
+            "禁止骑车",
+            "1800-4717300",
+            "注意恶劣天气可能造成的雷击和树枝掉落"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "308a930f.png",
+    "transcript": [
+        "CAUTION!",
+        "WATCH YOUR STEP"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Vorsicht",
+            "Stufe"
+        ],
+        "es": [
+            "¡PRECAUCIÓN!",
+            "CUIDADO DONDE PISA"
+        ],
+        "ru": [
+            "ОСТОРОЖНО!",
+            "НЕ СПОТКНИТЕСЬ"
+        ],
+        "zh": [
+            "小心！",
+            "注意脚下"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

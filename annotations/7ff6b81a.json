@@ -1,0 +1,34 @@
+{
+    "image_file": "7ff6b81a.png",
+    "transcript": [
+        "DRAW BRIDGE AHEAD",
+        "NO PARKING ANY TIME"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Zugbrücke voraus",
+            "Absolutes Halteverbot"
+        ],
+        "es": [
+            "PUENTE LEVADIZO ADELANTE",
+            "NO ESTACIONAR EN NINGÚN MOMENTO"
+        ],
+        "ru": [
+            "ВПЕРЕДИ РАЗВОДНОЙ МОСТ",
+            "ПАРКОВКА ЗАПРЕЩЕНА В ЛЮБОЕ ВРЕМЯ"
+        ],
+        "zh": [
+            "前方拉桥",
+            "任何时间禁止停车"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

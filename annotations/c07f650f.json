@@ -1,0 +1,34 @@
+{
+    "image_file": "c07f650f.png",
+    "transcript": [
+        "Pedestrian Access Only",
+        "No Vehicle Access"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nur Fußgänger",
+            "Keine Fahrzeuge"
+        ],
+        "es": [
+            "Solo acceso peatonal",
+            "Prohibido el acceso de vehículos"
+        ],
+        "ru": [
+            "Проход только для пешеходов",
+            "Проезд автомобилей запрещен"
+        ],
+        "zh": [
+            "行人专用通道",
+            "禁止车辆出入"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

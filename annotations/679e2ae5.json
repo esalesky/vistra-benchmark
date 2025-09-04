@@ -1,0 +1,29 @@
+{
+    "image_file": "679e2ae5.png",
+    "transcript": [
+        "How Do We Know the World?"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Wie nehmen wir die Welt wahr?"
+        ],
+        "es": [
+            "¿Cómo conocemos el mundo?"
+        ],
+        "ru": [
+            "Насколько хорошо мы знаем мир?"
+        ],
+        "zh": [
+            "我们是如何认识世界？"
+        ]
+    },
+    "requires_image_context": {
+        "de": "no",
+        "es": "yes",
+        "ru": "no",
+        "zh": "no"
+    }
+}

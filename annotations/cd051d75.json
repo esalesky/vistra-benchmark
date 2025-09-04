@@ -1,0 +1,34 @@
+{
+    "image_file": "cd051d75.png",
+    "transcript": [
+        "ONE WAY",
+        "DO NOT ENTER"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Einbahnstraße",
+            "Einfahrt verboten"
+        ],
+        "es": [
+            "UNA VÍA",
+            "NO INGRESAR"
+        ],
+        "ru": [
+            "ОДНОСТОРОННЕЕ ДВИЖЕНИЕ",
+            "ВЪЕЗД ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "单向",
+            "禁止入内"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

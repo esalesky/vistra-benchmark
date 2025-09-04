@@ -1,0 +1,34 @@
+{
+    "image_file": "4d5486b2.png",
+    "transcript": [
+        "I REALLY WANT TO ENJOY THIS FILM",
+        "BUT IT IS SO SCIENTIFICALLY INACCURATE"
+    ],
+    "category": null,
+    "height": 407,
+    "width": 615,
+    "translation": {
+        "de": [
+            "Ich würde diesen Film wirklich gerne genießen,",
+            "aber er ist wissenschaftlich so ungenau"
+        ],
+        "es": [
+            "EN VERDAD QUIERO DISFRUTAR DE ESTA PELÍCULA",
+            "PERO ES CIENTÍFICAMENTE INCORRECTA"
+        ],
+        "ru": [
+            "Я ДЕЙСТВИТЕЛЬНО ХОЧУ НАСЛАДИТЬСЯ ЭТИМ ФИЛЬМОМ",
+            "НО ОН НАСТОЛЬКО НЕТОЧЕН С НАУЧНОЙ ТОЧКИ ЗРЕНИЯ"
+        ],
+        "zh": [
+            "我真的很想欣赏这部电影",
+            "但这在科学上是不准确的"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

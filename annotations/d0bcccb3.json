@@ -1,0 +1,39 @@
+{
+    "image_file": "d0bcccb3.png",
+    "transcript": [
+        "3 HR PARKING",
+        "7 AM TO 4 PM",
+        "MONDAY - FRIDAY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "3 Stunden Parken",
+            "7:00 bis 16:00 Uhr",
+            "Montag – Freitag"
+        ],
+        "es": [
+            "3 HORAS ESTACIONAMIENTO",
+            "7 A. M. A 4 P. M.",
+            "LUNES A VIERNES"
+        ],
+        "ru": [
+            "ПАРКОВКА С ОГРАНИЧЕНИЕМ 3 ЧАСА",
+            "07:00-16:00",
+            "С ПОНЕДЕЛЬНИКА ПО ПЯТНИЦУ"
+        ],
+        "zh": [
+            "3 小时停车",
+            "早上 7 点到下午 4 点",
+            "周一至周五"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

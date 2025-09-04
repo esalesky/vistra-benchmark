@@ -1,0 +1,34 @@
+{
+    "image_file": "26051d73.png",
+    "transcript": [
+        "Food Allergy Notice",
+        "Please be advised that food prepared here may contain or have come in contact with: Milk, Eggs, Wheat, Soy, Peanuts, Tree Nuts, Fish, and Sesame"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Hinweis bei Lebensmittelallergie",
+            "Beachten Sie, dass die hier zubereiteten Speisen Folgendes enthalten oder damit in Berührung gekommen sein können: Milch, Eier, Weizen, Soja, Erdnüsse, Baumnüsse, Fisch und Sesam"
+        ],
+        "es": [
+            "Aviso sobre alergias alimentarias",
+            "Los alimentos preparados aquí pueden contener o haber estado en contacto con: leche, huevos, trigo, soja, cacahuetes, frutos secos, pescado y sésamo"
+        ],
+        "ru": [
+            "Уведомление о пищевой аллергии",
+            "Приготовленные здесь блюда могут содержать молоко, яйца, пшеницу, сою, арахис, лесные орехи, рыбу и кунжут или контактировать с этими продуктами"
+        ],
+        "zh": [
+            "食物过敏须知",
+            "请注意，这里准备的食物可能含有或接触过：牛奶、鸡蛋、小麦、大豆、花生、树坚果、鱼和芝麻"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

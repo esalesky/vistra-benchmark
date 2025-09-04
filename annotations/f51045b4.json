@@ -1,0 +1,29 @@
+{
+    "image_file": "f51045b4.png",
+    "transcript": [
+        "ELECTRIC VEHICLE CHARGING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Ladestation für E-Autos"
+        ],
+        "es": [
+            "CARGA DE VEHÍCULOS ELÉCTRICOS"
+        ],
+        "ru": [
+            "ЗАРЯДКА ЭЛЕКТРОМОБИЛЕЙ"
+        ],
+        "zh": [
+            "电动汽车充电"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

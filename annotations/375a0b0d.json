@@ -1,0 +1,29 @@
+{
+    "image_file": "375a0b0d.png",
+    "transcript": [
+        "WATCH YOUR STEP"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Vorsicht vor einfahrendem Zug"
+        ],
+        "es": [
+            "CUIDADO DONDE PISA"
+        ],
+        "ru": [
+            "СОБЛЮДАЙТЕ ОСТОРОЖНОСТЬ"
+        ],
+        "zh": [
+            "小心脚下"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

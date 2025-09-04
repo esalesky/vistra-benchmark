@@ -1,0 +1,29 @@
+{
+    "image_file": "0651f15a.png",
+    "transcript": [
+        "Visitor Parking"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Besucherparkplatz"
+        ],
+        "es": [
+            "Estacionamiento para visitantes"
+        ],
+        "ru": [
+            "Парковка для посетителей"
+        ],
+        "zh": [
+            "访客停车位"
+        ]
+    },
+    "requires_image_context": {
+        "de": "no",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

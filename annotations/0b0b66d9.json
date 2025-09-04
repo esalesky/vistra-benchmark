@@ -1,0 +1,29 @@
+{
+    "image_file": "0b0b66d9.png",
+    "transcript": [
+        "Please use other Entrance for Public Defender Service"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Anderen Eingang für Public Defender Service verwenden"
+        ],
+        "es": [
+            "Use la otra entrada para el Servicio de Defensoría Pública"
+        ],
+        "ru": [
+            "Для получения услуг государственного защитника используйте другой вход"
+        ],
+        "zh": [
+            "公设辩护律师服务请使用其他入口"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

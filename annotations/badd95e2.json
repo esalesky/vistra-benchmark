@@ -1,0 +1,39 @@
+{
+    "image_file": "badd95e2.png",
+    "transcript": [
+        "PARKING",
+        "DO NOT BLOCK DRIVEWAY",
+        "NO PARKING ANY TIME"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parkplatz",
+            "Durchfahrt freihalten",
+            "Absolutes Parkverbot"
+        ],
+        "es": [
+            "ESTACIONAMIENTO",
+            "NO BLOQUEAR LA ENTRADA",
+            "NO ESTACIONAR EN NINGÚN MOMENTO"
+        ],
+        "ru": [
+            "ПАРКОВКА",
+            "НЕ БЛОКИРОВАТЬ ПРОЕЗД",
+            "ПАРКОВКА ЗАПРЕЩЕНА В ЛЮБОЕ ВРЕМЯ"
+        ],
+        "zh": [
+            "停车场",
+            "切勿堵塞车道",
+            "任何时间都禁止停车"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

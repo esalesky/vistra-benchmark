@@ -1,0 +1,39 @@
+{
+    "image_file": "d889e381.png",
+    "transcript": [
+        "Rec Center Reminders",
+        "If you need help with the equipment, Please ask a fitness monitor",
+        "We are here to help!"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rehazentrum Hinweis",
+            "Wenn Sie Hilfe bei den Geräten brauchen, wenden Sie sich an Ihren Fitnesstrainer",
+            "Wir helfen Ihnen gerne!"
+        ],
+        "es": [
+            "Recordatorio del Centro Recreativo",
+            "Si necesitas ayuda con los equipos, pídele a un monitor de entrenamiento.",
+            "¡Estamos para ayudar!"
+        ],
+        "ru": [
+            "Напоминания рекреационного центра",
+            "Если вам нужна помощь с оборудованием, обратитесь к дежурному тренеру",
+            "Мы рады помочь вам!"
+        ],
+        "zh": [
+            "娱乐中心提醒",
+            "如果您使用设备需要帮助，请询问健身班长",
+            "我们乐意提供帮助！"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

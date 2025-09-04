@@ -1,0 +1,34 @@
+{
+    "image_file": "651d81ce.png",
+    "transcript": [
+        "NO IDLING",
+        "3 MINUTE LIMIT (5 MINUTE LIMIT IF BELOW FREEZING)"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Kein Leerlauf",
+            "Maximal 3 Minuten (maximal 5 Minuten bei Frost)"
+        ],
+        "es": [
+            "NO PERMANECER",
+            "2 MINUTOS MÁX. (5 MINUTOS MÁX. EN CASO DE HELADA)"
+        ],
+        "ru": [
+            "СТОЯНКА С ВКЛЮЧЕННЫМ ДВИГАТЕЛЕМ ЗАПРЕЩЕНА",
+            "ОГРАНИЧЕНИЕ 3 МИНУТЫ (ОГРАНИЧЕНИЕ 5 МИНУТ, ЕСЛИ ТЕМПЕРАТУРА НИЖЕ НУЛЯ)"
+        ],
+        "zh": [
+            "禁止怠速",
+            "限 3 分钟（低于冰点时限 5 分钟）"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

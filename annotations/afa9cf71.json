@@ -1,0 +1,39 @@
+{
+    "image_file": "afa9cf71.png",
+    "transcript": [
+        "ROYAL FARMS",
+        "FOR YOUR SAFETY, THIS AREA IS UNDER 24-HR VIDEO SURVEILLANCE",
+        "(Data saved and accessible by Baltimore Police)"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "ROYAL FARMS",
+            "Aus Sicherheitsgründen wird dieser Bereich rund um die Uhr videoüberwacht",
+            "(Daten werden bei der Baltimore Police gespeichert und können dort abgerufen werden)"
+        ],
+        "es": [
+            "ROYAL FARMS",
+            "POR SU SEGURIDAD, ESTA ÁREA ESTÁ BAJO VIDEOVIGILANCIA LAS 24 HORAS",
+            "(Los datos se guardan y la Policía de Baltimore puede acceder a ellos)"
+        ],
+        "ru": [
+            "ROYAL FARMS",
+            "ДЛЯ ВАШЕЙ БЕЗОПАСНОСТИ В ЭТОЙ ЗОНЕ ВЕДЕТСЯ КРУГЛОСУТОЧНОЕ ВИДЕОНАБЛЮДЕНИЕ",
+            "(Данные сохраняются и могут использоваться полицией Балтимора)"
+        ],
+        "zh": [
+            "皇家农场",
+            "为了您的安全，这里有 24 小时监控",
+            "（数据由巴尔的摩警方保存和查阅）"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

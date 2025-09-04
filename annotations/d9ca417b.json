@@ -1,0 +1,59 @@
+{
+    "image_file": "d9ca417b.png",
+    "transcript": [
+        "CAUTION",
+        "No Bare Feet",
+        "Hold Handrail",
+        "Attend Children",
+        "Avoid Sides",
+        "NO WHEELED VEHICLES",
+        "CAUTION"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Nur mit Schuhen betreten",
+            "Handlauf benutzen",
+            "Kinder beaufsichtigen",
+            "Berührung mit Seiten vermeiden",
+            "Keine Radfahrzeuge",
+            "Achtung"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "No esté descalzo",
+            "Tómese del pasamanos",
+            "Supervise a los niños",
+            "Aléjese de los costados",
+            "PROHIBIDO VEHÍCULOS CON RUEDAS",
+            "PRECAUCIÓN"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "Не вставайте на ступени босиком",
+            "Держитесь за поручень",
+            "Следите за детьми",
+            "Не вставайте на края ступеней",
+            "ИСПОЛЬЗОВАТЬ ТРАНСПОРТНЫЕ СРЕДСТВА С КОЛЕСИКАМИ ЗАПРЕЩЕНО",
+            "ОСТОРОЖНО"
+        ],
+        "zh": [
+            "小心",
+            "禁止赤脚",
+            "抓牢扶手",
+            "请照看好小孩",
+            "避开两侧",
+            "禁止轮式车辆",
+            "小心"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

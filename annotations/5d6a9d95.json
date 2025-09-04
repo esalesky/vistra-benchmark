@@ -1,0 +1,29 @@
+{
+    "image_file": "5d6a9d95.png",
+    "transcript": [
+        "ADDITIONAL PARKING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Zusätzlicher Parkplatz"
+        ],
+        "es": [
+            "MÁS ESTACIONAMIENTO"
+        ],
+        "ru": [
+            "ДОПОЛНИТЕЛЬНАЯ ПАРКОВКА"
+        ],
+        "zh": [
+            "额外的停车位"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

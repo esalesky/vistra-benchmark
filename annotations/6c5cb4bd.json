@@ -1,0 +1,54 @@
+{
+    "image_file": "6c5cb4bd.png",
+    "transcript": [
+        "MONARCH WAYSTATION",
+        "This site provides milkweeds, nectar sources and shelter needed to sustain monarch butterflies as they migrate through North America.",
+        "Certified and registered by Monarch Watch as an official Monarch Waystation.",
+        "CREATE, CONSERVE, & PROTECT MONARCH HABITATS",
+        "WWW.MONARCHWATCH.ORG",
+        "Scan the QR code to watch a video on this garden and why it matters"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rastplatz für Monarchfalter",
+            "In diesem Garten befinden sich Schwalbenwurzgewächse, Nektarquellen und Unterschlupfmöglichkeiten, die der Monarchfalter auf seiner Wanderung durch Nordamerika benötigt.",
+            "Von Monarch Watch als offizieller Rastplatz für Monarchfalter zertifiziert und registriert",
+            "Schaffen, erhalten und schützen Sie den Lebensraum von Monarchfaltern",
+            "WWW.MONARCHWATCH.ORG",
+            "Scannen Sie diesen Code, um ein Video über diesen Garten und seine Bedeutung anzusehen"
+        ],
+        "es": [
+            "ESTACIÓN DE PASO DE MONARCAS",
+            "Este sitio proporciona algodoncillos, fuentes de néctar y refugio necesarios para mantener a las mariposas monarca mientras migran por América del Norte.",
+            "Certificado y registrado por Monarch Watch como una estación de paso oficial de monarcas.",
+            "CREAR, CONSERVAR Y PROTEGER LOS HÁBITATS DE LAS MONARCAS",
+            "WWW.MONARCHWATCH.ORG",
+            "Escanee el código QR para ver un video sobre este jardín y su importancia"
+        ],
+        "ru": [
+            "ПУТЕВАЯ СТАНЦИЯ ДЛЯ БАБОЧЕК МОНАРХОВ",
+            "Здесь есть травы, выделяющие млечный сок, источники нектара и кров, которые необходимы для выживания бабочек монархов во время их миграции по Северной Америке.",
+            "Сертифицировано и зарегистрировано организацией Monarch Watch как официальная путевая станция для бабочек монархов.",
+            "СОЗДАЕМ, СОХРАНЯЕМ И ЗАЩИЩАЕМ МЕСТА ОБИТАНИЯ БАБОЧЕК МОНАРХОВ",
+            "WWW.MONARCHWATCH.ORG",
+            "Отсканируйте QR-код, чтобы посмотреть видео об этом месте и о том, почему оно так важно"
+        ],
+        "zh": [
+            "黑脉金斑蝶小站",
+            "这个地方提供了乳草、花蜜来源和避难所，以维持黑脉金斑蝶在北美的迁徙。",
+            "由黑脉金斑蝶观察站认证并注册为官方君主驿站。",
+            "创造、保存和保护黑脉金斑蝶的栖息地",
+            "WWW.MONARCHWATCH.ORG",
+            "扫描二维码观看这个花园的视频，了解它的重要性"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

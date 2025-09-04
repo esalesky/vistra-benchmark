@@ -1,0 +1,34 @@
+{
+    "image_file": "fd60a5a3.png",
+    "transcript": [
+        "DO NOT LEAVE CHILDREN UNATTENDED",
+        "ALWAYS USE SEAT BELTS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Kinder stets beaufsichtigen",
+            "Anschnallgurte verwenden"
+        ],
+        "es": [
+            "NO DEJE A LOS NIÑOS SIN SUPERVISIÓN",
+            "USE SIEMPRE EL CINTURÓN DE SEGURIDAD"
+        ],
+        "ru": [
+            "НЕ ОСТАВЛЯЙТЕ ДЕТЕЙ БЕЗ ПРИСМОТРА",
+            "ВСЕГДА ПРИСТЕГИВАЙТЕ ИХ РЕМНЯМИ БЕЗОПАСНОСТИ"
+        ],
+        "zh": [
+            "不要让孩子无人看管",
+            "一定要系好安全带"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

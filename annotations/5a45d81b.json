@@ -1,0 +1,34 @@
+{
+    "image_file": "5a45d81b.png",
+    "transcript": [
+        "NEED ASSISTANCE?",
+        "PLEASE SEE GUEST SERVICES"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Sie benötigen Hilfe?",
+            "Wenden Sie sich an die Gästebetreuung"
+        ],
+        "es": [
+            "¿NECESITA ASISTENCIA?",
+            "DIRÍJASE A SERVICIO AL CLIENTE"
+        ],
+        "ru": [
+            "НУЖНА ПОМОЩЬ?",
+            "ВОСПОЛЬЗУЙТЕСЬ УСЛУГАМИ ДЛЯ ГОСТЕЙ"
+        ],
+        "zh": [
+            "需要援助？",
+            "请前往客服部"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

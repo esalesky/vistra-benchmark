@@ -1,0 +1,34 @@
+{
+    "image_file": "bb3ba422.png",
+    "transcript": [
+        "STAY TO THE RIGHT",
+        "NO PHOTOS ON STAIRCASE"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Rechts halten",
+            "Keine Fotos auf der Treppe"
+        ],
+        "es": [
+            "MANTÉNGASE A LA DERECHA",
+            "NO TOMAR FOTOS EN LAS ESCALERAS"
+        ],
+        "ru": [
+            "ДЕРЖИТЕСЬ ПРАВОЙ СТОРОНЫ",
+            "ДЕЛАТЬ ФОТОГРАФИИ НА ЛЕСТНИЦЕ ЗАПРЕЩЕНО"
+        ],
+        "zh": [
+            "靠右行驶",
+            "楼梯上禁止拍照"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

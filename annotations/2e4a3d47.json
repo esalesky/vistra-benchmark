@@ -1,0 +1,29 @@
+{
+    "image_file": "2e4a3d47.png",
+    "transcript": [
+        "PARKING AT YOUR OWN RISK"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parken auf eigene Gefahr"
+        ],
+        "es": [
+            "ESTACIONE A SU PROPIO RIESGO"
+        ],
+        "ru": [
+            "МЫ НЕ НЕСЕМ ОТВЕТСТВЕННОСТИ ЗА СОХРАННОСТЬ ВАШЕГО ВЕЛОСИПЕДА"
+        ],
+        "zh": [
+            "停车后果自负"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

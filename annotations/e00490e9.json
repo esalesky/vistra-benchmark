@@ -1,0 +1,29 @@
+{
+    "image_file": "e00490e9.png",
+    "transcript": [
+        "NO OUTSIDE FOOD & DRINKS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Keine mitgebrachten Speisen und Getränke"
+        ],
+        "es": [
+            "NO INGRESAR CON ALIMENTOS Y BEBIDAS"
+        ],
+        "ru": [
+            "НЕ ПРОНОСИТЬ ЕДУ И НАПИТКИ"
+        ],
+        "zh": [
+            "禁止外带食物和饮料"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "07a9feac.png",
+    "transcript": [
+        "CHILDREN MEDICAL & DISABLED PATRONS ONLY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nur für Kinder, medizinisches Personal und behinderte Personen"
+        ],
+        "es": [
+            "SOLO NIÑOS, PACIENTES MÉDICOS O PERSONAS CON DISCAPACIDAD"
+        ],
+        "ru": [
+            "ТОЛЬКО ДЛЯ ОПЕКУНОВ ДЕТЕЙ С МЕДИЦИНСКИМИ ПОКАЗАНИЯМИ И ИНВАЛИДОВ"
+        ],
+        "zh": [
+            "仅限儿童、医护人员和残疾人使用"
+        ]
+    },
+    "requires_image_context": {
+        "de": "no",
+        "es": "no",
+        "ru": "no",
+        "zh": "no"
+    }
+}

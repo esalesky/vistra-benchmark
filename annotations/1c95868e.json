@@ -1,0 +1,39 @@
+{
+    "image_file": "1c95868e.png",
+    "transcript": [
+        "STATE LAWS",
+        "KEEP RIGHT EXCEPT TO PASS",
+        "FINES DOUBLED IN WORK AREAS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Landesgesetze",
+            "Rechts halten, außer beim Überholen",
+            "Doppelte Geldbußen in Baustellen"
+        ],
+        "es": [
+            "LEYES ESTATALES",
+            "MANTÉNGASE A LA DERECHA EXCEPTO AL SOBREPASAR",
+            "MULTAS DOBLES EN ZONAS DE OBRA"
+        ],
+        "ru": [
+            "ЗАКОНОДАТЕЛЬСТВО ШТАТА",
+            "ДЕРЖИТЕСЬ ПРАВОЙ СТОРОНЫ КРОМЕ ПРОЕЗДА",
+            "В РАБОЧИХ ЗОНАХ РАЗМЕРЫ ШТРАФОВ УДВАИВАЮТСЯ"
+        ],
+        "zh": [
+            "州法律",
+            "除了超车外，请靠右行驶",
+            "工作场所的罚款翻倍"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

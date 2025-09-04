@@ -1,0 +1,34 @@
+{
+    "image_file": "e0e858b8.png",
+    "transcript": [
+        "PARKING",
+        "PASSENGER LOADING ZONE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parken",
+            "Abholung von Passagieren"
+        ],
+        "es": [
+            "ESTACIONAMIENTO",
+            "ZONA DE ASCENSO DE PASAJEROS"
+        ],
+        "ru": [
+            "ПАРКОВКА",
+            "ЗОНА ПОСАДКИ ПАССАЖИРОВ"
+        ],
+        "zh": [
+            "停车场",
+            "上客区"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

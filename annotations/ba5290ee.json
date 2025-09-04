@@ -1,0 +1,29 @@
+{
+    "image_file": "ba5290ee.png",
+    "transcript": [
+        "LOW CLEARANCE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Niedrige Brücke"
+        ],
+        "es": [
+            "ALTURA BAJA"
+        ],
+        "ru": [
+            "НИЗКАЯ ВЫСОТА"
+        ],
+        "zh": [
+            "低空间通行限制"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

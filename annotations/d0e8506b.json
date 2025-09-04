@@ -1,0 +1,29 @@
+{
+    "image_file": "d0e8506b.png",
+    "transcript": [
+        "LASER IN USE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Laser in Betrieb"
+        ],
+        "es": [
+            "LÁSER EN USO"
+        ],
+        "ru": [
+            "ИСПОЛЬЗУЕТСЯ ЛАЗЕР"
+        ],
+        "zh": [
+            "激光使用中"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "no"
+    }
+}

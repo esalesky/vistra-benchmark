@@ -1,0 +1,29 @@
+{
+    "image_file": "db081ab1.png",
+    "transcript": [
+        "WATCH FOR TURNING TRAFFIC"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Vorsicht abbiegender Verkehr"
+        ],
+        "es": [
+            "CUIDADO CON EL TRÁFICO QUE GIRA"
+        ],
+        "ru": [
+            "СЛЕДИТЕ ЗА ТРАНСПОРТНЫМИ СРЕДСТВАМИ, ВЫПОЛНЯЮЩИМИ ПОВОРОТ"
+        ],
+        "zh": [
+            "留意转弯车辆"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

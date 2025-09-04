@@ -1,0 +1,49 @@
+{
+    "image_file": "d7afb5ed.png",
+    "transcript": [
+        "NO TRESPASSING",
+        "PRIVATE MARINA",
+        "ACCESS FOR MEMBERS ONLY",
+        "For Pier Access, Please Go To Marina Office",
+        "Violators Will Be Prosecuted"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Zutritt verboten",
+            "Privater Jachthafen",
+            "Zutritt nur für Mitglieder",
+            "Wenden Sie sich an das Jachthafenbüro, um Zutritt zum Pier zu erhalten",
+            "Verstöße werden strafrechtlich verfolgt"
+        ],
+        "es": [
+            "NO PASAR",
+            "MARINA PRIVADA",
+            "ACCESO EXCLUSIVO MIEMBROS",
+            "Para acceder al muelle, diríjase a la oficina de la marina.",
+            "Se procesará a los infractores"
+        ],
+        "ru": [
+            "ПРОХОД ЗАПРЕЩЕН",
+            "PRIVATE MARINA",
+            "ДОСТУП ТОЛЬКО ДЛЯ ЧЛЕНОВ",
+            "Для доступа на пирс обратитесь в офис Marina",
+            "Нарушители будут привлечены к ответственности"
+        ],
+        "zh": [
+            "禁止侵入",
+            "滨海私人度假屋酒店",
+            "只供会员使用",
+            "如欲进入码头，请前往码头办事处",
+            "违者严惩"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

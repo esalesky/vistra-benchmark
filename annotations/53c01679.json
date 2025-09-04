@@ -1,0 +1,34 @@
+{
+    "image_file": "53c01679.png",
+    "transcript": [
+        "NO TURN ON RED",
+        "7 AM-4 PM SCHOOL DAYS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Bei Rot nicht abbiegen",
+            "7:00 bis 16:00 Uhr an Schultagen"
+        ],
+        "es": [
+            "NO GIRAR CON LUZ ROJA",
+            "7 a. m.-4 p. m. DÍAS DE ESCUELA"
+        ],
+        "ru": [
+            "ПОВОРОТ ПОД КРАСНЫЙ СВЕТ ЗАПРЕЩЕН",
+            "С 07:00 ДО 16:00 В ШКОЛЬНЫЕ ДНИ"
+        ],
+        "zh": [
+            "红灯时不能右转",
+            "上学日早上 7 点到下午 4 点"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

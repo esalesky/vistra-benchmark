@@ -1,0 +1,29 @@
+{
+    "image_file": "d5ea82a5.png",
+    "transcript": [
+        "PLEASE SLOW DOWN"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Langsam fahren"
+        ],
+        "es": [
+            "REDUZCA LA VELOCIDAD"
+        ],
+        "ru": [
+            "СБАВЬТЕ СКОРОСТЬ"
+        ],
+        "zh": [
+            "请慢行"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

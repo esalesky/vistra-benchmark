@@ -1,0 +1,39 @@
+{
+    "image_file": "8fa30c57.png",
+    "transcript": [
+        "CAUTION",
+        "VOLCANIC FUMES ARE HAZARDOUS TO YOUR HEALTH AND CAN BE LIFE-THREATENING",
+        "VISITORS WITH BREATHING AND HEART PROBLEMS, PREGNANT WOMEN AND YOUNG CHILDREN SHOULD AVOID THIS AREA"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Vulkanische Gase sind gesundheitsgefährdend und können lebensbedrohlich sein",
+            "Besucher mit Atem- oder Herzbeschwerden, schwangere Frauen und kleine Kinder sollten diesen Bereich meiden"
+        ],
+        "es": [
+            "PRECACUIÓN",
+            "LOS GASES VOLCÁNICOS SON PELIGROSOS PARA SU SALUD Y PUEDEN SER MORTALES",
+            "LOS VISITANTES CON PROBLEMAS RESPIRATORIOS O CARDÍACOS, LAS EMBARAZADAS Y LOS NIÑOS PEQUEÑOS DEBEN EVITAR ESTA ÁREA"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "ВУЛКАНИЧЕСКИЙ ПЕПЕЛ ОПАСЕН ДЛЯ ЗДОРОВЬЯ И МОЖЕТ ПРЕДСТАВЛЯТЬ УГРОЗУ ДЛЯ ЖИЗНИ",
+            "ПОСЕТИТЕЛЯМ С ЗАБОЛЕВАНИЯМИ ДЫХАТЕЛЬНОЙ И СЕРДЕЧНО-СОСУДИСТОЙ СИСТЕМЫ, БЕРЕМЕННЫМ ЖЕНЩИНАМ И МАЛЕНЬКИМ ДЕТЯМ НЕ СЛЕДУЕТ ПОСЕЩАТЬ ЭТО МЕСТО"
+        ],
+        "zh": [
+            "小心",
+            "火山烟雾对您的健康有害，可能危及生命",
+            "有呼吸和心脏问题的游客、孕妇和幼童应避开此区域"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

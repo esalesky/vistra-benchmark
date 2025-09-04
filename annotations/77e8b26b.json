@@ -1,0 +1,29 @@
+{
+    "image_file": "77e8b26b.png",
+    "transcript": [
+        "NO OUTSIDE FOOD OR DRINKS ALLOWED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Keine Speisen und Getränke"
+        ],
+        "es": [
+            "NO SE PERMITEN ALIMENTOS Y BEBIDAS AJENOS A ESTE ESTABLECIMIENTO"
+        ],
+        "ru": [
+            "ПРОНОСИТЬ С СОБОЙ ЕДУ И НАПИТКИ ЗАПРЕЩЕНО"
+        ],
+        "zh": [
+            "禁止外带食物或饮料"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

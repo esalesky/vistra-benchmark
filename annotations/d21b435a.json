@@ -1,0 +1,29 @@
+{
+    "image_file": "d21b435a.png",
+    "transcript": [
+        "STOP FOR PEDESTRIAN IN CROSSWALK"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Stopp bei Fußgängern auf dem Zebrastreifen"
+        ],
+        "es": [
+            "PARE SI HAY PEATONES EN EL CRUCE PEATONAL"
+        ],
+        "ru": [
+            "СТОП ДЛЯ ПЕШЕХОДОВ НА ПЕРЕХОДЕ"
+        ],
+        "zh": [
+            "停车礼让人行横道上的行人"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

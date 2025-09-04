@@ -1,0 +1,49 @@
+{
+    "image_file": "d76263b5.png",
+    "transcript": [
+        "Private Driveway",
+        "STOP",
+        "No Turn Around",
+        "No Trespassing",
+        "No Exceptions!"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Privatweg",
+            "Stopp",
+            "Kein Wenden",
+            "Kein Zutritt",
+            "Keine Ausnahmen!"
+        ],
+        "es": [
+            "Entrada privada",
+            "PARE",
+            "No dar vuelta",
+            "No pasar",
+            "¡Sin excepciones!"
+        ],
+        "ru": [
+            "Частный проезд",
+            "СТОП",
+            "Разворот запрещен",
+            "Проход запрещен",
+            "Без исключений!"
+        ],
+        "zh": [
+            "专用支路",
+            "停止",
+            "禁止掉头",
+            "禁止侵入",
+            "不可破例！"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

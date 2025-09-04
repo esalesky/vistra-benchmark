@@ -1,0 +1,39 @@
+{
+    "image_file": "380c0402.png",
+    "transcript": [
+        "ATTENTION",
+        "PARENTS... Please Take Your Children by The Hand",
+        "Breakable Items!"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Liebe Eltern, nehmen Sie Ihre Kinder an die Hand",
+            "Zerbrechliche Gegenstände!"
+        ],
+        "es": [
+            "ATENCIÓN",
+            "PADRES... Tomen a sus niños de la mano",
+            "Artículos frágiles"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "РОДИТЕЛИ... Держите детей за руку",
+            "Хрупкие предметы!"
+        ],
+        "zh": [
+            "注意",
+            "家长…请牵着孩子的手",
+            "易碎品！"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

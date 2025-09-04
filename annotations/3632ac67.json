@@ -1,0 +1,39 @@
+{
+    "image_file": "3632ac67.png",
+    "transcript": [
+        "WET AND SLIPPERY FLOOR AHEAD",
+        "PLEASE PROCEED WITH CARE",
+        "HAVE A NICE DAY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nasser und rutschiger Untergrund",
+            "Vorsicht geboten",
+            "Wir wünschen Ihnen einen schönen Tag"
+        ],
+        "es": [
+            "PISO MOJADO Y RESBALADIZO ADELANTE",
+            "CONTINÚE CON CUIDADO",
+            "TENGA UN BUEN DÍA"
+        ],
+        "ru": [
+            "ВПЕРЕДИ МОКРАЯ И СКОЛЬЗКАЯ ПОВЕРХНОСТЬ",
+            "СОБЛЮДАЙТЕ ОСТОРОЖНОСТЬ",
+            "ПРИЯТНОГО ДНЯ"
+        ],
+        "zh": [
+            "前面的地板又湿又滑",
+            "请小心行动",
+            "祝您愉快"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

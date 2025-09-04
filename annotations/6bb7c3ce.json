@@ -1,0 +1,29 @@
+{
+    "image_file": "6bb7c3ce.png",
+    "transcript": [
+        "CONSTRUCTION DELIVERIES ONLY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nur Anlieferung von Baumaterialien"
+        ],
+        "es": [
+            "SOLO ENTREGAS PARA CONSTRUCCIÓN"
+        ],
+        "ru": [
+            "ТОЛЬКО СТРОИТЕЛЬНЫЕ ГРУЗЫ"
+        ],
+        "zh": [
+            "仅限施工交付"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

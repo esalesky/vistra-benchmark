@@ -1,0 +1,34 @@
+{
+    "image_file": "acf655af.png",
+    "transcript": [
+        "PLEASE SIT",
+        "DO NOT STAND ON WALLS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Bitte Setzen",
+            "Stehen auf Mauern verboten"
+        ],
+        "es": [
+            "SIÉNTESE",
+            "NO SE PARE SOBRE LOS MUROS"
+        ],
+        "ru": [
+            "САДИТЕСЬ",
+            "НЕ ВСТАВАЙТЕ НА СТЕНЫ"
+        ],
+        "zh": [
+            "请坐",
+            "不要站在墙上"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

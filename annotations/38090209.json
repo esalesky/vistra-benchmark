@@ -1,0 +1,34 @@
+{
+    "image_file": "38090209.png",
+    "transcript": [
+        "SLOW DOWN",
+        "DOG AND HORSE CROSSING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Langsam fahren",
+            "Hunde und Pferde überqueren die Straße"
+        ],
+        "es": [
+            "BAJE LA VELOCIDAD",
+            "CRUCE DE PERROS Y CABALLOS"
+        ],
+        "ru": [
+            "УМЕНЬШИТЕ СКОРОСТЬ",
+            "ПЕРЕПРАВА ДЛЯ СОБАК И ЛОШАДЕЙ"
+        ],
+        "zh": [
+            "慢行",
+            "有狗和马穿过马路"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

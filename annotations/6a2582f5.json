@@ -1,0 +1,34 @@
+{
+    "image_file": "6a2582f5.png",
+    "transcript": [
+        "Take off rings when climbing!",
+        "Leaving your rings on while climbing increases your chances of finger injuries."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Ringe vor dem Klettern ablegen!",
+            "Das Tragen von Ringen beim Klettern erhöht die Gefahr von Fingerverletzungen."
+        ],
+        "es": [
+            "Quítate los anillos para escalar.",
+            "Si te dejas los anillos durante la escalada, puedes sufrir lesiones en los dedos."
+        ],
+        "ru": [
+            "Снимайте кольца во время занятий скалолазанием!",
+            "В противном случае повышается вероятность травм пальцев."
+        ],
+        "zh": [
+            "攀爬时取下戒指！",
+            "攀岩时戴着戒指会增加手指受伤的几率。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

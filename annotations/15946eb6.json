@@ -1,0 +1,29 @@
+{
+    "image_file": "15946eb6.png",
+    "transcript": [
+        "Except For Mondays - Fridays 7.00pm - 3.00am (next days) Saturdays, Sundays & Public Holidays 3.00pm - 3.00am (next days)"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Ausgenommen montags bis freitags 19:00 bis 3:00 Uhr (am folgenden Tag) samstags, sonntags und an Feiertagen 15:00 bis 3:00 Uhr (am folgenden Tag)"
+        ],
+        "es": [
+            "Excepto de lunes a viernes de 7:00 p. m. a 3:00 a. m. (días siguientes) y sábados, domingos y feriados nacionales de 3:00 p. m. a 3:00 a. m. (días siguientes)"
+        ],
+        "ru": [
+            "Кроме Понедельник-пятница 19:00-03:00 (следующего дня) Суббота, воскресенье и праздничные дни 15:00-03:00 (следующего дня)"
+        ],
+        "zh": [
+            "周一至周五晚上 7:00 - （翌日）周六凌晨 3:00、周日及公共假期下午 3:00 - （翌日）凌晨 3:00 除外"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

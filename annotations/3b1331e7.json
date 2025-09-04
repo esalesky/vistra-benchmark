@@ -1,0 +1,34 @@
+{
+    "image_file": "3b1331e7.png",
+    "transcript": [
+        "MINGLE WITH THE STARS AND TEAM UP WITH YOUR FAVOURITE SUPER HEROES",
+        "SCAN TO FIND OUT MORE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Mischen Sie sich unter die Stars und verbünden Sie sich mit Ihren Lieblingssuperhelden",
+            "Code scannen, um weitere Informationen zu erhalten"
+        ],
+        "es": [
+            "CONOCE A LAS ESTRELLAS Y ÚNETE A TUS SUPERHÉROES FAVORITOS",
+            "ESCANEA PARA SABER MÁS"
+        ],
+        "ru": [
+            "ОБЩАЙТЕСЬ СО ЗВЕЗДАМИ И СОЗДАВАЙТЕ КОМАНДЫ С ЛЮБИМЫМИ СУПЕРГЕРОЯМИ",
+            "ОТСКАНИРУЙТЕ QR-КОД, ЧТОБЫ УЗНАТЬ БОЛЬШЕ"
+        ],
+        "zh": [
+            "与明星打成一片，与你最喜欢的超级英雄组队",
+            "扫描以了解更多信息"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

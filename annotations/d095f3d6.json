@@ -1,0 +1,34 @@
+{
+    "image_file": "d095f3d6.png",
+    "transcript": [
+        "ONE-WAY ONLY",
+        "PLEASE DO NOT TURN BACK"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nur eine Richtung",
+            "Nicht umkehren"
+        ],
+        "es": [
+            "SOLO UNA VÍA",
+            "NO REGRESAR POR AQUÍ"
+        ],
+        "ru": [
+            "ДВИЖЕНИЕ ТОЛЬКО В ОДНУ СТОРОНУ",
+            "НЕ ПОВОРАЧИВАЙТЕ НАЗАД"
+        ],
+        "zh": [
+            "仅限单向",
+            "请勿掉头"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

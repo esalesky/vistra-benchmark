@@ -1,0 +1,34 @@
+{
+    "image_file": "30098c9f.png",
+    "transcript": [
+        "NO PARKING SUNDAY",
+        "POLICE DEPARTMENT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parken am Sonntag verboten",
+            "Ihre Polizeidienststelle"
+        ],
+        "es": [
+            "NO ESTACIONAR LOS DOMINGOS",
+            "DEPARTAMENTO DE POLICÍA"
+        ],
+        "ru": [
+            "ПАРКОВКА ПО ВОСКРЕСЕНЬЯМ ЗАПРЕЩЕНА",
+            "ДЕПАРТАМЕНТ ПОЛИЦИИ"
+        ],
+        "zh": [
+            "周日禁止停车",
+            "警察局"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

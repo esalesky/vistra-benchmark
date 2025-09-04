@@ -1,0 +1,29 @@
+{
+    "image_file": "f329472d.png",
+    "transcript": [
+        "No unauthorised persons allowed beyond this point"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Ab hier Zutritt nur für befugte Personen"
+        ],
+        "es": [
+            "No se permite la entrada a personas no autorizadas más allá de este punto."
+        ],
+        "ru": [
+            "Проход для лиц без соответствующего разрешения запрещен."
+        ],
+        "zh": [
+            "未经授权不得进入"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "45ce800f.png",
+    "transcript": [
+        "Please don't steal our glassware."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Glaswaren bitte nicht stehlen"
+        ],
+        "es": [
+            "No te lleves nuestros vasos."
+        ],
+        "ru": [
+            "Не уносите с собой стеклянную посуду."
+        ],
+        "zh": [
+            "请不要偷我们的玻璃器皿。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "no"
+    }
+}

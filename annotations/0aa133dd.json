@@ -1,0 +1,34 @@
+{
+    "image_file": "0aa133dd.png",
+    "transcript": [
+        "WARNING",
+        "Security Cameras In Use"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Vidoeüberwachung"
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "Cámaras de seguridad en uso"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "Ведется видеонаблюдение"
+        ],
+        "zh": [
+            "警告",
+            "安全摄像头监控中"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "image_file": "e60ad3e8.png",
+    "transcript": [
+        "NO PARKING",
+        "Movie Shoot",
+        "THURSDAY",
+        "DEC. 14, 2023",
+        "1PM-4AM",
+        "TOW AWAY ZONE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parkverbot",
+            "Dreharbeiten",
+            "Donnerstag",
+            "14. Dezember 2023",
+            "13:00 bis 16:00 Uhr",
+            "Abschleppzone"
+        ],
+        "es": [
+            "NO ESTACIONAR",
+            "Filmación",
+            "JUEVES",
+            "14 DIC., 2023",
+            "1 P. M.-4 A. M.",
+            "ZONA DE REMOLQUE"
+        ],
+        "ru": [
+            "ПАРКОВКА ЗАПРЕЩЕНА",
+            "Съемки фильма",
+            "ЧЕТВЕРГ",
+            "14 ДЕКАБРЯ 2023 Г.",
+            "13:00-04:00",
+            "РАБОТАЕТ ЭВАКУАТОР"
+        ],
+        "zh": [
+            "禁止停车",
+            "电影拍摄",
+            "星期四",
+            "2023 年 12 月 14 日",
+            "下午 1 点-凌晨 4 点",
+            "禁止停车，违者拖走！"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

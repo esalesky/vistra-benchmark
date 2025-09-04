@@ -1,0 +1,34 @@
+{
+    "image_file": "aafd216e.png",
+    "transcript": [
+        "THIS IS A SMOKE-FREE PARK",
+        ""
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "In diesem Park ist Rauchen",
+            ""
+        ],
+        "es": [
+            "ESTE ES UN PARQUE LIBRE DE HUMO",
+            ""
+        ],
+        "ru": [
+            "КУРЕНИЕ В ПАРКЕ ЗАПРЕЩЕНО",
+            ""
+        ],
+        "zh": [
+            "这是无烟公园",
+            ""
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

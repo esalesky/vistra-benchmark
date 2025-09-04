@@ -1,0 +1,29 @@
+{
+    "image_file": "87d0b217.png",
+    "transcript": [
+        "LANES NARROW"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Fahrbahnverengung"
+        ],
+        "es": [
+            "ESTRECHAMIENTO DE CARILLES"
+        ],
+        "ru": [
+            "СУЖЕНИЕ ПОЛОС"
+        ],
+        "zh": [
+            "车道狭窄"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

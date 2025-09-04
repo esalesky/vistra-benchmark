@@ -1,0 +1,29 @@
+{
+    "image_file": "183f507e.png",
+    "transcript": [
+        "NO FLYING OF MODEL AIRCRAFT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Modellflugzeuge verboten"
+        ],
+        "es": [
+            "NO VOLAR AVIONES A RADIOCONTROL"
+        ],
+        "ru": [
+            "ЗАПУСК МОДЕЛЕЙ ЛЕТАТЕЛЬНЫХ АППАРАТОВ ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "禁止放飞模型飞机"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

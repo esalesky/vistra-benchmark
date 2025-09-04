@@ -1,0 +1,34 @@
+{
+    "image_file": "7c158b5e.png",
+    "transcript": [
+        "NO TRUCKS BUSES TRAILERS ON PARKWAYS",
+        "LOW BRIDGES"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "LKWs, Busse oder Anhänger auf Parkways verboten",
+            "Niedrige Brücken"
+        ],
+        "es": [
+            "PROHIBIDO CAMIONES BUSES REMOLQUES EN LAS AUTOPISTAS",
+            "PUENTES BAJOS"
+        ],
+        "ru": [
+            "ЗАПРЕЩЕНО ДВИЖЕНИЕ ГРУЗОВИКОВ, АВТОБУСОВ И ПРИЦЕПОВ ПО ПАРКОВЫМ ДОРОГАМ",
+            "НИЗКИЕ МОСТЫ"
+        ],
+        "zh": [
+            "公园道路上禁止卡车、公共汽车和拖车通行",
+            "矮塔斜拉桥"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

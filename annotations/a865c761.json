@@ -1,0 +1,74 @@
+{
+    "image_file": "a865c761.png",
+    "transcript": [
+        "THE HOUSE RULES",
+        "THEATRE POLICIES",
+        "No smoking , vaping or e-cigarettes",
+        "No calls or texting in auditoriums",
+        "No outside food & drink in theatre",
+        "All weapons & simulated weapons prohibited",
+        "No face paint, simulated weapons or face masks (other than personal protective masks)",
+        "No strollers, scooters or skateboards allowed in the auditoriums",
+        "For R-Rated movies, guests must be at least 17 or accompanied by a parent or legal guardian. Children under 6 are not allowed in R-Rated movies after 6pm. IDs will be checked.",
+        "MOST IMPORTANTLY, HAVE FUN !"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Hausregeln",
+            "Hausordnung",
+            "Rauchen, Vapen oder E-Zigaretten verboten",
+            "Keine Anrufe oder Textnachrichten in den Kinosälen",
+            "Keine mitgebrachten Getränke und Speisen im Kino",
+            "Waffen und Anscheinswaffen verboten",
+            "Keine Gesichtsbemalung, Anscheinswaffen oder Gesichtsmasken (mit Ausnahme von Gesundheitsmasken)",
+            "Kinderwagen, Roller und Skateboards sind in den Kinosälen nicht erlaubt.",
+            "Bei Filmen mit R-Rating müssen die Gäste mindestens 17 Jahre alt sein oder von einem Elternteil oder Erziehungsberechtigten begleitet werden. Kindern unter 6 Jahren ist der Zutritt zu Filmen mit R-Rating nach 18.00 Uhr verboten. Ausweiskontrolle.",
+            "Viel Vergnügen!"
+        ],
+        "es": [
+            "NORMAS DE LA CASA",
+            "POLÍTICAS DEL TEATRO",
+            "No fumar, ni usar vaporizadores o cigarrillos electrónicos.",
+            "No se permiten llamadas ni mensajes de texto en las salas.",
+            "No ingresar comida ajena al establecimiento.",
+            "Se prohíben todas las armas y réplicas de armas.",
+            "No se permiten pinturas faciales, réplicas de armas ni máscaras faciales (excepto mascarillas de protección personal).",
+            "No se permiten cochecitos, monopatines ni skates en las salas.",
+            "Para las películas con clasificación R, los asistentes deben tener 17 años o más o estar acompañados por un padre, madre o tutor legal. No se permite el ingreso a niños menores de 6 años en las películas con clasificación R después de las 6 p. m. Se pedirá identificación.",
+            "¡LO MÁS IMPORTANTE ES DIVERTIRSE!"
+        ],
+        "ru": [
+            "ПРАВИЛА ЗАВЕДЕНИЯ",
+            "ПРАВИЛА ПОСЕЩЕНИЯ КИНОТЕАТРА",
+            "Запрещается курение обычных сигарет, вейпов и электронных сигарет",
+            "Запрещается звонить и отправлять сообщения в залах",
+            "Запрещается проносить с собой еду и напитки",
+            "Запрещено иметь любые виды оружия или имитации оружия",
+            "Запрещается использовать краску для лица, имитацию оружия с помощью краски и маски для лица (за исключением защитных медицинских масок)",
+            "Запрещается использовать детские коляски, скутеры и скейтборды в залах",
+            "Для посещения фильмов категории R вам должно быть не менее 17 лет или вас должен сопровождать родитель или законный опекун. Дети младше 6 лет не допускаются на фильмы категории R после 18:00. Для подтверждения возраста будет проверено удостоверение личности.",
+            "ГЛАВНОЕ — ПОЛУЧАЙТЕ УДОВОЛЬСТВИЕ ОТ ПРОСМОТРА!"
+        ],
+        "zh": [
+            "室内规则",
+            "剧院的政策",
+            "禁止吸烟、吸水烟或电子烟",
+            "不要在礼堂打电话或发短信",
+            "剧院内禁止外带食物和饮料",
+            "禁止使用所有武器和模拟武器",
+            "不得在脸上涂漆、使用模拟武器或戴口罩（个人防护口罩除外）",
+            "请勿使用婴儿车、踏板车或滑板进入礼堂",
+            "观看 R 级电影的观众必须年满 17 岁或由父母或法定监护人陪同。6 岁以下儿童不得在下午 6 点后观看限制级电影。将检查 ID。",
+            "最重要的是，玩开心！"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

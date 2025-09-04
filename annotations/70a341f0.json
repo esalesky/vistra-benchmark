@@ -1,0 +1,39 @@
+{
+    "image_file": "70a341f0.png",
+    "transcript": [
+        "SNOW EMERGENCY ROUTE",
+        "NO PARKING DURING EMERGENCY",
+        "TOW AWAY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Ausweichstraße bei Schnee",
+            "Parkverbot bei Schneechaos",
+            "Fahrzeuge werden abgeschleppt"
+        ],
+        "es": [
+            "RUTA DE EMERGENCIA DE NIEVE",
+            "NO ESTACIONAR EN EMERGENCIA",
+            "REMOLQUE"
+        ],
+        "ru": [
+            "АВАРИЙНЫЙ МАРШРУТ В УСЛОВИЯХ СНЕГОПАДА",
+            "ПАРКОВКА ВО ВРЕМЯ ЭКСТРЕМАЛЬНЫХ ПОГОДНЫХ УСЛОВИЙ ЗАПРЕЩЕНА",
+            "РАБОТАЕТ ЭВАКУАТОР"
+        ],
+        "zh": [
+            "雪天应急路线",
+            "紧急情况下禁止停车",
+            "拖车移走"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

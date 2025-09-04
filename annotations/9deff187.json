@@ -1,0 +1,29 @@
+{
+    "image_file": "9deff187.png",
+    "transcript": [
+        "ALL TICKETS"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Alle Tickets"
+        ],
+        "es": [
+            "TODOS LOS BOLETOS"
+        ],
+        "ru": [
+            "ВСЕ БИЛЕТЫ"
+        ],
+        "zh": [
+            "所有票据"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "no"
+    }
+}

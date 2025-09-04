@@ -1,0 +1,44 @@
+{
+    "image_file": "0beed78c.png",
+    "transcript": [
+        "During the concert we ask that you be mindful of our musicians and your fellow concertgoers.",
+        "While we appreciate your enthusiasm, bright lights from smartphone photography and videography can be distracting once the house lights are lowered.",
+        "Photography and videography during opening remarks and closing applause are appreciated.",
+        "THANK YOU"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Während des Konzerts bitten wir Sie, auf unsere Musiker und die anderen Konzertbesucher Rücksicht zu nehmen.",
+            "Auch wenn wir Ihre Begeisterung zu schätzen wissen, können die hellen Lichter bei Foto- und Videoaufnahmen mit dem Smartphone störend wirken, sobald die Lichter im Saal gedimmt werden.",
+            "Foto- und Videoaufnahmen zu Beginn des Konzerts und beim Schlussapplaus sind erwünscht.",
+            "Vielen Dank"
+        ],
+        "es": [
+            "Durante el concierto, respeta a nuestros músicos y al resto del público.",
+            "Si bien apreciamos tu entusiasmo, las luces brillantes de las fotos y videos tomados con un teléfono pueden ser molestas una vez que se bajan las luces de la sala.",
+            "Las fotos y videos durante las palabras de apertura y los aplausos de cierre son bienvenidos.",
+            "GRACIAS"
+        ],
+        "ru": [
+            "Во время концерта будьте тактичными по отношению к музыкантам и другим зрителям.",
+            "Мы ценим ваш энтузиазм, но яркий свет от смартфонов во время съемки фотографий и видео может отвлекать музыкантов и других зрителей, когда общее освещение будет приглушено.",
+            "Съемка фотографий и видео во время вступительных слов и завершающих аплодисментов приветствуются.",
+            "СПАСИБО"
+        ],
+        "zh": [
+            "音乐会期间，我们要求您注意音乐家和观众朋友们。",
+            "虽然我们很感谢您的热情，但一旦室内灯光降低，智能手机摄影和摄像发出的强光可能会分散注意力。",
+            "欢迎在致开幕词和致闭幕词时拍照和摄像。",
+            "谢谢"
+        ]
+    },
+    "requires_image_context": {
+        "de": "no",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

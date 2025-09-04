@@ -1,0 +1,39 @@
+{
+    "image_file": "8ba30040.png",
+    "transcript": [
+        "Help us preserve this historic structure.",
+        "Keep yourself safe.",
+        "Please stay on paved surfaces."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Helfen Sie uns, diese historische Struktur zu bewahren.",
+            "Schützen Sie sich selbst.",
+            "Bleiben Sie auf den befestigten Wegen."
+        ],
+        "es": [
+            "Ayúdenos a preservar esta estructura histórica.",
+            "Manténgase a salvo.",
+            "Permanezca en las superficies pavimentadas."
+        ],
+        "ru": [
+            "Помогите нам сохранить это историческое место.",
+            "Соблюдайте осторожность.",
+            "Оставайтесь на поверхности с искусственным покрытием."
+        ],
+        "zh": [
+            "帮助我们保护这个历史建筑。",
+            "保护自身安全",
+            "请待在铺好的路面上。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

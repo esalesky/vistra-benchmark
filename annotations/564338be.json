@@ -1,0 +1,39 @@
+{
+    "image_file": "564338be.png",
+    "transcript": [
+        "Rec Center Rules",
+        "Appropriate athletic attire must be worn at all times",
+        "Closed-toed shoes must be worn at all times"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Regeln in der Freizeitanlage",
+            "Angemessene Sportbekleidung muss immer getragen werden",
+            "Geschlossene Schuhe müssen immer getragen werden"
+        ],
+        "es": [
+            "Normas del centro de recreación",
+            "Usa el atuendo deportivo adecuando en todo momento.",
+            "Usar calzado cerrado en todo momento."
+        ],
+        "ru": [
+            "Правила поведения в рекреационном центре",
+            "Необходимо всегда носить подходящую одежду для занятий спортом",
+            "Необходимо всегда носить обувь с закрытыми носками"
+        ],
+        "zh": [
+            "娱乐中心规则",
+            "任何时候都必须穿著合适的运动服",
+            "任何时候都必须穿露趾鞋"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

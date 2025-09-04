@@ -1,0 +1,44 @@
+{
+    "image_file": "47b504f9.png",
+    "transcript": [
+        "NO SOLICITING",
+        "NO LOITERING",
+        "NO TRESPASSING",
+        "VIOLATORS WILL BE PROSECUTED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Keine Werbung",
+            "Kein Verweilen",
+            "Kein Zutritt",
+            "Verstöße werden strafrechtlich verfolgt"
+        ],
+        "es": [
+            "NO VENDER",
+            "NO MERODEAR",
+            "NO INGRESAR SIN AUTORIZAZIÓN",
+            "SE PROCESARÁ A LOS INFRACTORES"
+        ],
+        "ru": [
+            "ПРЕДЛОЖЕНИЕ УСЛУГ ЗАПРЕЩЕНО",
+            "НАХОЖДЕНИЕ БЕЗ ОПРЕДЕЛЕННОЙ ЦЕЛИ ЗАПРЕЩЕНО",
+            "ПРОХОД ЗАПРЕЩЕН",
+            "НАРУШИТЕЛИ БУДУТ ПРИВЛЕЧЕНЫ К ОТВЕТСТВЕННОСТИ"
+        ],
+        "zh": [
+            "禁止揽客",
+            "禁止闲荡",
+            "禁止擅自进入",
+            "违者严惩"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

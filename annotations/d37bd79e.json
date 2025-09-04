@@ -1,0 +1,34 @@
+{
+    "image_file": "d37bd79e.png",
+    "transcript": [
+        "WARNING",
+        "Dispense some water from hot and cold controls before turning heating or cooling switches ON."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warnung",
+            "Lassen Sie ein wenig Wasser aus den Heiß- und Kaltwasserreglern ab, bevor Sie die Schalter zum Heizen oder Kühlen bedienen."
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "Dispense un poco de agua mediante los controles de caliente y fría antes de encender los interruptores de calentar o enfriar."
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "Налейте немного воды с помощью кранов горячей и холодной воды, прежде чем включать нагревание или охлаждение."
+        ],
+        "zh": [
+            "警告",
+            "在打开加热或冷却开关之前，从冷热控制装置上放一些水。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

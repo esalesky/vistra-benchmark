@@ -1,0 +1,44 @@
+{
+    "image_file": "c6dac71c.png",
+    "transcript": [
+        "UNATTENDED VEHICLES WILL BE TICKETED AND TOWED.",
+        "NO WARNINGS.",
+        "NO STOPPING, STANDING OR PARKING",
+        "EXCEPT IMMEDIATE LOADING/UNLOADING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Unbeaufsichtigte Fahrzeuge werden ohne Vorwarnung",
+            "mit einer Geldbuße belegt und abgeschleppt.",
+            "Absolutes Halte- oder Parkverbot",
+            "Kurzzeitparken zum Be- und Entladen"
+        ],
+        "es": [
+            "SE MULTARÁ Y REMOLCARÁ A LOS VEHÍCULOS SIN SUPERVISIÓN.",
+            "SIN PREVIO AVISO.",
+            "NO DETENERSE NI ESTACIONAR",
+            "EXCEPTO CARGA/DESCARGA INMEDIATA"
+        ],
+        "ru": [
+            "ВЛАДЕЛЬЦЫ АВТОМОБИЛЕЙ БЕЗ ПРИСМОТРА ПОЛУЧАТ ШТРАФЫ, А ИХ АВТОМОБИЛИ ЭВАКУИРУЮТ.",
+            "БЕЗ ПРЕДУПРЕЖДЕНИЯ.",
+            "ОСТАНОВКА, СТОЯНКА И ПАРКОВКА ЗАПРЕЩЕНЫ",
+            "КРОМЕ БЫСТРОЙ ЗАГРУЗКИ/ВЫГРУЗКИ"
+        ],
+        "zh": [
+            "无人看管的车辆将被开罚单并拖走。",
+            "不予警告。",
+            "禁止停车、驻留或停车",
+            "除非立即装卸"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

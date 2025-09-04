@@ -1,0 +1,29 @@
+{
+    "image_file": "799a8b50.png",
+    "transcript": [
+        "Please ENTER Using the Ramp"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Eingang über Rampe"
+        ],
+        "es": [
+            "ENTRAR por la rampa"
+        ],
+        "ru": [
+            "При входе держитесь за поручень"
+        ],
+        "zh": [
+            "请使用坡道进入"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

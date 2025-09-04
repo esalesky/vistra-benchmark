@@ -1,0 +1,29 @@
+{
+    "image_file": "790b8e94.png",
+    "transcript": [
+        "MAY USE FULL LANE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gesamte Fahrbahn kann genutzt werden"
+        ],
+        "es": [
+            "PUEDEN USAR TODO EL CARRIL"
+        ],
+        "ru": [
+            "МОГУТ ИСПОЛЬЗОВАТЬ ВСЮ ПОЛОСУ"
+        ],
+        "zh": [
+            "可使用全车道"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

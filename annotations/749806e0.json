@@ -1,0 +1,29 @@
+{
+    "image_file": "749806e0.png",
+    "transcript": [
+        "PLEASE DO NOT FLUSH FEMININE PRODUCTS, TRASH OR DISPOSABLE WIPES"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Hygieneprodukte, Abfälle und Einwegtücher nicht in die Toilette werfen"
+        ],
+        "es": [
+            "NO ARROJE PRODUCTOS DE HIGIENE FEMENINA, BASURA NI TOALLAS DESCARTABLES"
+        ],
+        "ru": [
+            "НЕ СМЫВАЙТЕ СРЕДСТВА ЖЕНСКОЙ ГИГИЕНЫ, МУСОР И ОДНОРАЗОВЫЕ САЛФЕТКИ"
+        ],
+        "zh": [
+            "请不要冲洗女性用品、垃圾或一次性湿巾"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

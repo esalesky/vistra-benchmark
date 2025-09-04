@@ -1,0 +1,39 @@
+{
+    "image_file": "21ceb573.png",
+    "transcript": [
+        "RESERVED PARKING",
+        "METER PAYMENT REQUIRED",
+        "TOW AWAY ZONE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parkplatz reserviert für",
+            "Parkschein erforderlich",
+            "Abschleppzone"
+        ],
+        "es": [
+            "ESTACIONAMIENTO RESERVADO",
+            "PAGO DE PARQUÍMETRO OBLIGATORIO",
+            "ZONA DE REMOLQUE"
+        ],
+        "ru": [
+            "ЗАРЕЗЕРВИРОВАННАЯ ПАРКОВКА",
+            "ОПЛАТА ПО СЧЕТЧИКУ",
+            "РАБОТАЕТ ЭВАКУАТОР"
+        ],
+        "zh": [
+            "预留停车位",
+            "需按表付费",
+            "禁止停车，违者拖走"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

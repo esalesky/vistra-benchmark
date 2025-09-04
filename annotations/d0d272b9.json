@@ -1,0 +1,39 @@
+{
+    "image_file": "d0d272b9.png",
+    "transcript": [
+        "Museum hours",
+        "Open Daily 10 a.m. - 5:30 p.m.",
+        "Closed December 25"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Öffnungszeiten des Museums",
+            "Täglich von 10:00 bis 17:30 Uhr",
+            "Am 25. September geschlossen"
+        ],
+        "es": [
+            "Horario del museo",
+            "Abierto Todos los días 10 a. m. a 5:30 p. m.",
+            "Cerrado 25 de diciembre"
+        ],
+        "ru": [
+            "Время работы музея",
+            "Открыто ежедневно с 10:00 до 17:40",
+            "Закрыто 25 декабря"
+        ],
+        "zh": [
+            "美术馆时光",
+            "每日上午 10 点至下午 5 点 30 分",
+            "12 月 25 日闭馆"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image_file": "bd4b0108.png",
+    "transcript": [
+        "PET WASTE TRANSMITS DISEASE",
+        "LEASH AND CLEAN UP AFTER YOUR PET",
+        "PLEASE KEEP THIS AREA CLEAN"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Tierkot als Krankheitsüberträger",
+            "Leinen Sie Ihren Hund an und entfernen Sie dessen Hinterlassenschaften",
+            "Halten Sie diesen Bereich sauber"
+        ],
+        "es": [
+            "LAS HECES DE MASCOTAS TRANSMITEN ENFERMEDADES",
+            "LLEVE A SU PERRO CON CORREA Y LIMPIE LO QUE HACE",
+            "MANTENGA LIMPIA ESTA ÁREA"
+        ],
+        "ru": [
+            "ЭКСКРЕМЕНТЫ СОБАК ЯВЛЯЮТСЯ ИСТОЧНИКОМ ЗАБОЛЕВАНИЙ",
+            "ДЕРЖИТЕ СОБАКУ НА ПОВОДКЕ И УБИРАЙТЕ ЗА НЕЙ",
+            "ПОДДЕРЖИВАЙТЕ ЧИСТОТУ В ЭТОЙ ЗОНЕ"
+        ],
+        "zh": [
+            "宠物排泄物会传播疾病",
+            "给你的宠物拴上皮带并清理干净",
+            "请保持整洁"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

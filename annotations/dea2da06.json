@@ -1,0 +1,34 @@
+{
+    "image_file": "dea2da06.png",
+    "transcript": [
+        "BE MINDFUL OF SOCIAL DISTANCING",
+        "PLEASE REMAIN 6' APART"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achten Sie auf Social Distancing",
+            "Halten Sie 1,80 Meter Abstand"
+        ],
+        "es": [
+            "RESPETE EL DISTANCIAMIENTO SOCIAL",
+            "PERMANEZCA A UNA DISTANCIA DE 6'"
+        ],
+        "ru": [
+            "СОБЛЮДАЙТЕ СОЦИАЛЬНУЮ ДИСТАНЦИЮ",
+            "СОХРАНЯЙТЕ РАССТОЯНИЕ В 6 ФУТОВ"
+        ],
+        "zh": [
+            "注意保持社交距离",
+            "请保持 6 英尺的距离"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

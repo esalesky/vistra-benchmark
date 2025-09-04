@@ -1,0 +1,34 @@
+{
+    "image_file": "5f843cc9.png",
+    "transcript": [
+        "CAUTION",
+        "KEEP DOORS CLOSED AND LOCKED WHEN VEHICLE IS MOVING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Türen geschlossen halten und verriegeln, wenn Fahrzeug in Bewegung"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "MANTENGA LAS PUERTAS CERRADAS CON LLAVE CUANDO EL VEHÍCULO ESTÉ EN MOVIMIENTO"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "ВО ВРЕМЯ ДВИЖЕНИЯ АВТОМОБИЛЯ ДВЕРИ ДОЛЖНЫ БЫТЬ ЗАКРЫТЫ И ЗАБЛОКИРОВАНЫ"
+        ],
+        "zh": [
+            "小心",
+            "车辆行驶时要关紧并锁好车门"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

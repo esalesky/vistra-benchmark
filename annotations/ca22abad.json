@@ -1,0 +1,29 @@
+{
+    "image_file": "ca22abad.png",
+    "transcript": [
+        "DO NOT CLIMB ON CANNONS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Klettern auf Kanonen verboten"
+        ],
+        "es": [
+            "NO SUBIR A LOS CAÑONES"
+        ],
+        "ru": [
+            "НЕ ВЗБИРАЙТЕСЬ НА ПУШКИ"
+        ],
+        "zh": [
+            "不要爬上大炮"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "image_file": "1274eea1.png",
+    "transcript": [
+        "7-9:30AM",
+        "4-6:30PM",
+        "MONDAY-FRIDAY",
+        "EXCEPT HOLIDAYS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "7 bis 9:30 Uhr",
+            "16 bis 18:30 Uhr",
+            "Montag bis Freitag",
+            "Ferien ausgenommen"
+        ],
+        "es": [
+            "7-9:30 a. m.",
+            "4-6:30 p.m.",
+            "LUN-VIER",
+            "EXCEPTO FERIADOS"
+        ],
+        "ru": [
+            "07:00-09:30",
+            "16:00-18:30",
+            "С ПОНЕДЕЛЬНИКА ПО ПЯТНИЦУ",
+            "КРОМЕ ПРАЗДНИЧНЫХ ДНЕЙ"
+        ],
+        "zh": [
+            "上午 7-9:30",
+            "下午 4-6:30",
+            "周一至周五",
+            "节假日除外"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

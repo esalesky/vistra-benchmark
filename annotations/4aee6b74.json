@@ -1,0 +1,29 @@
+{
+    "image_file": "4aee6b74.png",
+    "transcript": [
+        "THIS PROPERTY HAS BEEN PLACED ON THE NATIONAL REGISTER OF HISTORIC PLACES BY THE UNITED STATES DEPARTMENT OF THE INTERIOR"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Dieses Gebäude wurde vom Innenministerium der Vereinigten Staaten in das „Nationale Verzeichnis historischer Stätten“ aufgenommen"
+        ],
+        "es": [
+            "EL DEPARTAMENTO DEL INTERIOR DE ESTADOS UNIDOS INGRESÓ ESTA PROPIEDAD EN EL REGISTRO NACIONAL DE LUGARES HISTÓRICOS"
+        ],
+        "ru": [
+            "МИНИСТЕРСТВО ПРИРОДНЫХ РЕСУРСОВ США ВКЛЮЧИЛО ЭТОТ ОБЪЕКТ В НАЦИОНАЛЬНЫЙ РЕЕСТР ИСТОРИЧЕСКИХ МЕСТ."
+        ],
+        "zh": [
+            "这处房产已被美国内政部列入国家史迹名录"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "image_file": "a9fe3c43.png",
+    "transcript": [
+        "LEVEL 2",
+        "STAIR 1",
+        "Level 1 for Exit Discharge",
+        "Roof Access Penthouse Level"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "2. Etage",
+            "Treppe 1",
+            "Fluchtweg befindet sich auf der ersten Etage",
+            "Penthouse-Etage mit Zugang zum Dach"
+        ],
+        "es": [
+            "NIVEL 2",
+            "ESCALERA 1",
+            "Nivel 1 salida a la calle",
+            "Acceso a la azotea por nivel del penthouse"
+        ],
+        "ru": [
+            "ЭТАЖ 2",
+            "ЛЕСТНИЦА 1",
+            "Уровень 1 для выхода",
+            "Выход на крышу пентхауса"
+        ],
+        "zh": [
+            "2 层",
+            "1 号楼梯",
+            "1级为出口放电\n1 层离开出口",
+            "屋顶通道顶层"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

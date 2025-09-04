@@ -1,0 +1,29 @@
+{
+    "image_file": "88aa6fbe.png",
+    "transcript": [
+        "PEDESTRIAN CROSSWALK IS CLOSED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Fußgängerübergang geschlossen"
+        ],
+        "es": [
+            "CRUCE PEATONAL CERRADO"
+        ],
+        "ru": [
+            "ПЕШЕХОДНЫЙ ПЕРЕХОД ЗАКРЫТ"
+        ],
+        "zh": [
+            "人行横道已关闭"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

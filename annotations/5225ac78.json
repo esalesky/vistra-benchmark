@@ -1,0 +1,39 @@
+{
+    "image_file": "5225ac78.png",
+    "transcript": [
+        "ACCESS RAMP",
+        "DO NOT BLOCK",
+        "TOW AWAY ZONE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rollstuhlrampe",
+            "Freihalten",
+            "Abschleppzone"
+        ],
+        "es": [
+            "RAMPA DE ACCESO",
+            "NO BLOQUEAR",
+            "ZONA DE REMOLQUE"
+        ],
+        "ru": [
+            "ПАНДУС ДЛЯ ДОСТУПА ИНВАЛИДОВ",
+            "НЕ БЛОКИРОВАТЬ",
+            "РАБОТАЕТ ЭВАКУАТОР"
+        ],
+        "zh": [
+            "无障碍坡道",
+            "请勿堵塞",
+            "禁止停车，违者拖走！"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "image_file": "42ebdb28.png",
+    "transcript": [
+        "WARNING",
+        "Food-snatching Monkeys Around",
+        "If you have food with you, keep them in your bags. Do not carry them in plastic bags as these attract the monkeys.",
+        "Be watchful when you are eating in the nature reserves.",
+        "Do not feed the monkeys."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warnung",
+            "vor Affen, die Ihnen Ihr Essen wegschnappen",
+            "Verstauen Sie mitgebrachte Lebensmittel in Ihrer Tasche. Benutzen Sie keine Plastiktüten, da diese die Affen anlocken.",
+            "Seien Sie wachsam beim Essen in Naturschutzgebieten.",
+            "Füttern Sie die Affen nicht."
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "Monos roba comida",
+            "Si tiene comida, guárdela en su bolso. No la lleve en bolsas de plástico, ya que estas atraen a los monos.",
+            "Tenga cuidado al comer en las reservas naturales.",
+            "No alimente a los monos."
+        ],
+        "ru": [
+            "ПРЕДУПРЕЖДЕНИЕ",
+            "Обезьяны могут отнимать еду",
+            "Если у вас есть еда, держите ее в сумке. Не носите еду в пластиковых пакетах, так как это привлекает обезьян.",
+            "Будьте внимательны во время приема пищи в заповедниках.",
+            "Не кормите обезьян."
+        ],
+        "zh": [
+            "警告",
+            "有到处抢食的猴子",
+            "如果您带了食物，将其放入包中。不要用塑料袋携带，因为塑料袋会吸引猴子。",
+            "在自然保护区吃东西要小心。",
+            "不要投喂猴子。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "f5341bf8.png",
+    "transcript": [
+        "STOP",
+        "BEGIN ONE WAY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Stopp",
+            "Beginn der Einbahnstraße"
+        ],
+        "es": [
+            "PARE",
+            "INICIO UNA VÍA"
+        ],
+        "ru": [
+            "СТОП",
+            "НАЧАЛО ОДНОСТОРОННЕГО ДВИЖЕНИЯ"
+        ],
+        "zh": [
+            "停车",
+            "单向路段开始"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

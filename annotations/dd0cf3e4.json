@@ -1,0 +1,34 @@
+{
+    "image_file": "dd0cf3e4.png",
+    "transcript": [
+        "Dog Urine Kills Plants",
+        "Please Curb Your Dog"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Hundeurin tötet Pflanzen",
+            "Hundekot gehört in den Rinnstein"
+        ],
+        "es": [
+            "La orina de los perros mata las plantas",
+            "Controle a su perro"
+        ],
+        "ru": [
+            "Собачья моча приводит к гибели растений",
+            "Держите собаку у бордюра"
+        ],
+        "zh": [
+            "狗尿会杀死植物",
+            "请管住您的狗"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

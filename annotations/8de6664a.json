@@ -1,0 +1,29 @@
+{
+    "image_file": "8de6664a.png",
+    "transcript": [
+        "In line with the Liquor Control (Supply and Consumption) Act 2015, the consumption of liquor at public places is not allowed from 10.30 p.m. to 7.00 a.m. of the next day."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gemäß dem Liquor Control (Supply and Consumption) Act 2015 ist der Konsum von Alkohol an öffentlichen Orten von 22.30 Uhr bis 7.00 Uhr des Folgetages verboten."
+        ],
+        "es": [
+            "De acuerdo con la Ley de Control de Bebidas Alcohólicas (Suministro y Consumo) de 2015, el consumo de alcohol en lugares públicos no está permitido desde las 10:30 p. m. hasta las 7:00 a. m. del día siguiente."
+        ],
+        "ru": [
+            "В соответствии с Законом о регулировании спиртных напитков (поставка и употребление) 2015 года, употребление спиртных напитков в общественных местах запрещено с 22:30 до 7:00 следующего дня."
+        ],
+        "zh": [
+            "根据《2015 年酒类控制(供应和消费)法》，从晚上 10 点 30 分到第二天早上 7 点，公共场所不允许饮酒。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

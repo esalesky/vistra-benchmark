@@ -1,0 +1,29 @@
+{
+    "image_file": "d8653d6f.png",
+    "transcript": [
+        "THIS DOOR IS TO REMAIN UNLOCKED WHEN THE BUILDING IS OCCUPIED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Die Tür muss unverschlossen sein, wenn das Gebäude besetzt ist"
+        ],
+        "es": [
+            "ESTA PUERTA DEBE PERMANECER SIN LLAVE CUANDO HAY PERSONAS DENTRO DEL EDIFICIO"
+        ],
+        "ru": [
+            "ЭТА ДВЕРЬ ДОЛЖНА ОСТАВАТЬСЯ ОТКРЫТОЙ, ПОКА В ЗДАНИИ ЕСТЬ ЛЮДИ"
+        ],
+        "zh": [
+            "楼里有人时，这扇门不能锁着"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

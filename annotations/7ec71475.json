@@ -1,0 +1,29 @@
+{
+    "image_file": "7ec71475.png",
+    "transcript": [
+        "NO PARKING BETWEEN SIGNS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parken zwischen Schildern verboten"
+        ],
+        "es": [
+            "NO ESTACIONAR ENTRE CARTELES"
+        ],
+        "ru": [
+            "ПАРКОВКА МЕЖДУ ЗНАКАМИ ЗАПРЕЩЕНА"
+        ],
+        "zh": [
+            "标志之间禁止停车"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

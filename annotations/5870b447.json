@@ -1,0 +1,59 @@
+{
+    "image_file": "5870b447.png",
+    "transcript": [
+        "WARNING",
+        "Moving Gate Can Cause Serious Injury or Death",
+        "Keep Clear!",
+        "Gate May Move Without Prior Warning",
+        "Do Not Let Children Operate the Gate or Play in the Gate Area",
+        "This Gate is for Vehicles Only.",
+        "Pedestrians Must Use Separate Entrance"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warnung",
+            "Eine sich senkende Schranke kann zu schweren Verletzungen oder zum Tod führen",
+            "Halten Sie Abstand!",
+            "Die Schranke kann sich ohne Vorwarnung senken",
+            "Kinder sollten die Schranke weder bedienen noch im Bereich der Schranke spielen",
+            "Diese Schranke ist nur für Fahrzeuge.",
+            "Fußgänger müssen einen anderen Eingang benutzen"
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "El portón móvil puede causar lesiones graves o la muerte",
+            "¡Mantenga distancia!",
+            "El portón puede moverse sin aviso",
+            "No deje que los niños operen el portón ni jueguen cerca de él",
+            "Este portón es solo para vehículos",
+            "Los peatones deben usar la entrada independiente"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "Движущийся шлагбаум может причинить серьезные травмы или привести к летальному исходу",
+            "Не подходите к нему!",
+            "Шлагбаум может начинать движение без предупреждения",
+            "Не разрешайте детям управлять шлагбаумом или играть в зоне шлагбаума",
+            "Этот въезд предназначен только для автомобилей.",
+            "Пешеходы должны использовать отдельный вход"
+        ],
+        "zh": [
+            "警告",
+            "移动的门可能导致严重的伤害或死亡",
+            "保持距离！",
+            "门可以在没有事先警告的情况下移动",
+            "不要让儿童操作大门或在大门区域内玩耍",
+            "这个门只对车辆开放。",
+            "行人必须使用单独的入口"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

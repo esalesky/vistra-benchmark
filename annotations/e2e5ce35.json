@@ -1,0 +1,39 @@
+{
+    "image_file": "e2e5ce35.png",
+    "transcript": [
+        "NOTICE",
+        "PUSH CHAIRS NOT PERMITTED",
+        "Please do not place your foot near the side of the moving steps and be mindful of the gap between steps."
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Hinweis",
+            "Keine Kinderwagen",
+            "Stellen Sie sich mittig auf die Stufen der Rolltreppe und achten Sie auf die Abstände zwischen den Stufen."
+        ],
+        "es": [
+            "ATENCIÓN",
+            "NO SE PERMITEN COCHECITOS",
+            "No coloque los pies cerca del borde de los escalones móviles y tenga cuidado con el espacio entre ellos."
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "НЕ ПОМЕЩАЙТЕ ПРОГУЛОЧНЫЕ КОЛЯСКИ НА ЭСКАЛАТОР",
+            "Не стойте с края эскалатора и следите за расстоянием между ступеньками."
+        ],
+        "zh": [
+            "注意",
+            "不允许使用推椅",
+            "请不要将脚靠近移动台阶的一侧，并注意台阶之间的间隙。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

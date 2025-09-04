@@ -1,0 +1,39 @@
+{
+    "image_file": "6c70a75b.png",
+    "transcript": [
+        "WARNING",
+        "NO OVERNIGHT PARKING",
+        "VIOLATORS WILL BE TOWED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warnung",
+            "Nächtliches Parkverbot",
+            "Fahrzeuge werden abgeschleppt"
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "NO ESTACIONAR POR LA NOCHE",
+            "SE REMOLCARÁ A LOS INFRACTORES"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "НОЧНАЯ ПАРКОВКА ЗАПРЕЩЕНА",
+            "ТРАНСПОРТНЫЕ СРЕДСТВА НАРУШИТЕЛЕЙ БУДУТ ЭВАКУИРОВАНЫ"
+        ],
+        "zh": [
+            "警告",
+            "严禁夜间停车",
+            "违规者将被拖走"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

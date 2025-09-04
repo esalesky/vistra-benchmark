@@ -1,0 +1,34 @@
+{
+    "image_file": "01d345d5.png",
+    "transcript": [
+        "CAUTION",
+        "WET FLOOR"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "ACHTUNG",
+            "RUTSCHIG"
+        ],
+        "es": [
+            "CUIDADO",
+            "SUELO MOJADO"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "СКОЛЬЗКИЙ ПОЛ"
+        ],
+        "zh": [
+            "小心",
+            "地面湿滑"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

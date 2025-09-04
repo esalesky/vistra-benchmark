@@ -1,0 +1,29 @@
+{
+    "image_file": "2eec169c.png",
+    "transcript": [
+        "EXIT"
+    ],
+    "category": null,
+    "height": 600,
+    "width": 600,
+    "translation": {
+        "de": [
+            "Ausgang"
+        ],
+        "es": [
+            "SALIDA"
+        ],
+        "ru": [
+            "ВЫХОД"
+        ],
+        "zh": [
+            "出口"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

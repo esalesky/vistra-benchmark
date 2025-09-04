@@ -1,0 +1,29 @@
+{
+    "image_file": "12074eee.png",
+    "transcript": [
+        "SHORELINE PUBLIC ACCESS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Öffentlicher Zugang zum Strand"
+        ],
+        "es": [
+            "ACCESO COSTERO PÚBLICO"
+        ],
+        "ru": [
+            "ОТКРЫТЫЙ ПРОХОД К БЕРЕГОВОЙ ЛИНИИ"
+        ],
+        "zh": [
+            "岸线公共通道"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

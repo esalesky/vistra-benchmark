@@ -1,0 +1,44 @@
+{
+    "image_file": "2f98e6ba.png",
+    "transcript": [
+        "\"PEANUTS\"",
+        "I'M THINKING OF DRAWING A NEW COMIC STRIP",
+        "HAVE YOU GOT ANY GOOD IDEAS?",
+        "NOT YET..."
+    ],
+    "category": null,
+    "height": 167,
+    "width": 656,
+    "translation": {
+        "de": [
+            "„PEANUTS“",
+            "Ich denke darüber nach, einen neuen Comic zu zeichnen",
+            "Hast du schon eine gute Idee?",
+            "Noch nicht..."
+        ],
+        "es": [
+            "\"PEANUTS\"",
+            "ESTOY PENSANDO EN DIBUJAR UNA NUEVA TIRA CÓMICA",
+            "¿TIENES ALGUNA BUENA IDEA?",
+            "TODAVÍA NO..."
+        ],
+        "ru": [
+            "\"МАЛЫШ\"",
+            "Я ДУМАЮ О ТОМ, ЧТОБЫ НАРИСОВАТЬ НОВЫЙ КОМИКС",
+            "ЕСТЬ ЛИ У ТЕБЯ ХОРОШИЕ ИДЕИ?",
+            "ЕЩЕ НЕТ..."
+        ],
+        "zh": [
+            "“花生米”",
+            "我在考虑画一幅新的连环漫画",
+            "你有什么好主意吗？",
+            "还没有..."
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

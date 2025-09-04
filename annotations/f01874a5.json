@@ -1,0 +1,34 @@
+{
+    "image_file": "f01874a5.png",
+    "transcript": [
+        "CONGESTED AREA AHEAD",
+        "PREPARE TO STOP WHEN FLASHING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Staugefahr voraus",
+            "Bei blinkender Anzeige auf Stauende achten"
+        ],
+        "es": [
+            "ZONA CONGESTIONADA ADELANTE",
+            "PREPÁRESE PARA DETENERSE CUANDO PARPADEE"
+        ],
+        "ru": [
+            "ВПЕРЕДИ ОБЛАСТЬ С ПЛОТНЫМ ТРАФИКОМ",
+            "ПОДГОТОВЬТЕСЬ К ОСТАНОВКЕ, ЕСЛИ ЛАМПА МИГАЕТ"
+        ],
+        "zh": [
+            "前方拥挤区域",
+            "闪烁时准备停止"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

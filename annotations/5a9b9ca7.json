@@ -1,0 +1,39 @@
+{
+    "image_file": "5a9b9ca7.png",
+    "transcript": [
+        "NO LOITERING",
+        "NO DUMPING TRASH",
+        "VIOLATORS WILL BE FINED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Kein Verweilen",
+            "Kein Abladen von Müll",
+            "Verstöße werden mit Geldbußen geahndet"
+        ],
+        "es": [
+            "NO MERODEAR",
+            "NO ARROJAR BASURA",
+            "SE MULTARÁ A LOS INFRACTORES"
+        ],
+        "ru": [
+            "НАХОЖДЕНИЕ БЕЗ ОПРЕДЕЛЕННОЙ ЦЕЛИ ЗАПРЕЩЕНО",
+            "ВЫБРАСЫВАНИЕ МУСОРА ЗАПРЕЩЕНО",
+            "НАРУШИТЕЛИ БУДУТ ПРИВЛЕЧЕНЫ К ОТВЕТСТВЕННОСТИ"
+        ],
+        "zh": [
+            "禁止逗留",
+            "禁止倾倒垃圾",
+            "违规者将被罚款"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

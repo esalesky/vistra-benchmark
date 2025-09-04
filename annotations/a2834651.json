@@ -1,0 +1,49 @@
+{
+    "image_file": "a2834651.png",
+    "transcript": [
+        "SLOW",
+        "SPEED BUMP",
+        "POSTAL VEHICLES ONLY",
+        "SPEED LIMIT",
+        "10"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Langsam",
+            "Bodenschwelle",
+            "Nur Postfahrzeuge",
+            "Geschwindigkeitsbegrenzung",
+            "10"
+        ],
+        "es": [
+            "DESPACIO",
+            "REDUCTOR DE VELOCIDAD",
+            "SOLO VEHÍCULOS DEL CORREO",
+            "LÍMITE DE VELOCIDAD",
+            "10"
+        ],
+        "ru": [
+            "СБАВЬТЕ СКОРОСТЬ",
+            "ЛЕЖАЧИЙ ПОЛИЦЕЙСКИЙ",
+            "ТОЛЬКО ДЛЯ АВТОМОБИЛЕЙ ПОЧТОВОЙ СЛУЖБЫ",
+            "ОГРАНИЧЕНИЕ СКОРОСТИ",
+            "10"
+        ],
+        "zh": [
+            "慢行",
+            "减速带",
+            "只适用于邮政车辆",
+            "限速",
+            "10"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

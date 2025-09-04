@@ -1,0 +1,34 @@
+{
+    "image_file": "d967f1db.png",
+    "transcript": [
+        "WATCH YOUR STEP",
+        "Wide Gap Between Car And Platform Edge"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Vorsicht",
+            "Breite Lücke zwischen Auto und Plattformkante"
+        ],
+        "es": [
+            "CUIDADO DONDE PISA",
+            "Hay un hueco amplio entre el tren y el borde de la plataforma"
+        ],
+        "ru": [
+            "СОБЛЮДАЙТЕ ОСТОРОЖНОСТЬ",
+            "Широкий интервал между автомобилем и краем платформы"
+        ],
+        "zh": [
+            "小心脚下",
+            "车厢与月台边缘间隙很大"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

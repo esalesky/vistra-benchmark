@@ -1,0 +1,44 @@
+{
+    "image_file": "c5d07845.png",
+    "transcript": [
+        "Elevator out of service",
+        "Sorry for the inconvenience.",
+        "Need help?",
+        "Please ask a National Gallery representative."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Aufzug außer Betrieb",
+            "Entschuldigen Sie die Unannehmlichkeiten.",
+            "Benötigen Sie Hilfe?",
+            "Wenden Sie sich an einen Mitarbeiter der National Gallery."
+        ],
+        "es": [
+            "Elevador fuera de servicio",
+            "Lamentamos los inconvenientes.",
+            "¿Necesita ayuda?",
+            "Solicítela a un representante de la Galería Nacional."
+        ],
+        "ru": [
+            "Лифт не работает.",
+            "Приносим извинения за неудобства.",
+            "Нужна помощь?",
+            "Обратитесь к представителю Национальной галереи."
+        ],
+        "zh": [
+            "电梯待修",
+            "对不便之处表示歉意",
+            "需要帮助？",
+            "请询问国家美术馆的代表。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "d91539ab.png",
+    "transcript": [
+        "KEY SPACES",
+        "IGNITION KEYS MUST BE LEFT WITH ATTENDANT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Schlüsselbrett",
+            "Zündschlüssel müssen beim Personal abgegeben werden"
+        ],
+        "es": [
+            "ESPACIOS PARA LLAVES",
+            "DEJE LA LLAVE DE SU AUTOMÓVIL CON EL ASISTENTE"
+        ],
+        "ru": [
+            "МЕСТО ДЛЯ КЛЮЧЕЙ",
+            "КЛЮЧИ ЗАЖИГАНИЯ НЕОБХОДИМО ОСТАВИТЬ У ОБСЛУЖИВАЮЩЕГО ПЕРСОНАЛА"
+        ],
+        "zh": [
+            "钥匙空间",
+            "点火钥匙必须交给服务员保管"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

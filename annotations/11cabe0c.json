@@ -1,0 +1,29 @@
+{
+    "image_file": "11cabe0c.png",
+    "transcript": [
+        "BIKE ROUTE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Fahrradstraße"
+        ],
+        "es": [
+            "RUTA PARA BICICLETAS"
+        ],
+        "ru": [
+            "ПРОЕЗД ДЛЯ ВЕЛОСИПЕДОВ"
+        ],
+        "zh": [
+            "自行车道"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

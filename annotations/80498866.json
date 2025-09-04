@@ -1,0 +1,29 @@
+{
+    "image_file": "80498866.png",
+    "transcript": [
+        "TURN LEFT ON GREEN ONLY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Bei Grün nur links abbiegen"
+        ],
+        "es": [
+            "GIRO A LA IZQUIERDA SOLO CON VERDE"
+        ],
+        "ru": [
+            "ПОВОРОТ НАЛЕВО ТОЛЬКО НА ЗЕЛЕНЫЙ СИГНАЛ СВЕТОФОРА"
+        ],
+        "zh": [
+            "只在绿灯处左转"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

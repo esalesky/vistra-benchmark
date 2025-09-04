@@ -1,0 +1,34 @@
+{
+    "image_file": "be1955f3.png",
+    "transcript": [
+        "CAUTION",
+        "Hard hats required."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Schutzhelme erforderlich."
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "Se requiere casco."
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "Ношение каски обязательно."
+        ],
+        "zh": [
+            "小心",
+            "需要戴安全帽。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

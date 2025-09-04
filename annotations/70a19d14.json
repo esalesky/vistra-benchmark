@@ -1,0 +1,39 @@
+{
+    "image_file": "70a19d14.png",
+    "transcript": [
+        "METERS IN OPERATION",
+        "DAYS-EVENINGS AND WEEKENDS",
+        "NO STOPPING ANY TIME"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parkautomaten in Betrieb",
+            "Tagsüber, abends und an Wochenenden",
+            "Absolutes Halteverbot"
+        ],
+        "es": [
+            "PARQUÍMETROS EN FUNCIONAMIENTO",
+            "DÍAS, NOCHES Y FINES DE SEMANA",
+            "NO DETENERSE EN NINGÚN MOMENTO"
+        ],
+        "ru": [
+            "РАБОТАЮТ ПАРКОВОЧНЫЕ СЧЕТЧИКИ",
+            "ПО ВЕЧЕРАМ БУДНИХ ДНЕЙ И В ВЫХОДНЫЕ",
+            "ОСТАНОВКА ЗАПРЕЩЕНА В ЛЮБОЕ ВРЕМЯ"
+        ],
+        "zh": [
+            "计费器运行中",
+            "白天、晚上和周末",
+            "任何时候都禁止停车"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

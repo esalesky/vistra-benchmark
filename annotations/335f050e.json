@@ -1,0 +1,29 @@
+{
+    "image_file": "335f050e.png",
+    "transcript": [
+        "CUSTOMERS MAY SIT AT ANY TABLE REGARDLESS OF THE STALL THEY PATRONISE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gäste können unabhängig vom besuchten Imbissstand überall Platz nehmen"
+        ],
+        "es": [
+            "LOS CLIENTES PUEDEN SENTARSE EN CUALQUIER MESA, INDEPENDIENTEMENTE DEL PUESTO EN EL QUE COMPREN"
+        ],
+        "ru": [
+            "КЛИЕНТЫ МОГУТ ВЫБРАТЬ ЛЮБОЙ СТОЛИК НЕЗАВИСИМО ОТ ТОГО, В КАКОМ КИОСКЕ ОНИ ОБСЛУЖИВАЮТСЯ"
+        ],
+        "zh": [
+            "顾客可以坐任何一张桌子，不管他们光顾的是哪个摊位"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

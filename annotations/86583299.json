@@ -1,0 +1,44 @@
+{
+    "image_file": "86583299.png",
+    "transcript": [
+        "This Warehouse complies with state and local health regulations as well as federal ADA regulations",
+        "NO ANIMALS ALLOWED Except Service Animals",
+        "\"Service Animals\" means any animal trained to do work or perform tasks for the benefit of an individual with a disability.",
+        "Pets providing emotional support, well being, comfort or companionship are not recognized as service animals under ADA regulations."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "In diesem Geschäft gelten die staatlichen und örtlichen Gesundheitsvorschriften sowie die Bestimmungen des ADA (Americans with Disabilities Act).",
+            "Tiere verboten mit Ausnahme von Assistenzhunden",
+            "„Assistenzhunde“ sind Hunde mit einer speziellen Ausbildung, die Menschen mit Behinderung dabei unterstützen, Ihren Alltag möglichst selbstständig zu bewältigen.",
+            "Haustiere, die dem Wohlbefinden dienen, Trost spenden oder Gesellschaft leisten, sind nach den Bestimmungen des ADA nicht als Assistenzhunde anerkannt."
+        ],
+        "es": [
+            "Este almacén cumple con las regulaciones de salud estatales y locales, así como con las regulaciones federales de la ADA.",
+            "NO SE PERMITEN ANIMALES Excepto animales de servicio",
+            "\"Animales de servicio\" implica cualquier animal entrenado para realizar trabajos o tareas en beneficio de una persona con discapacidad.",
+            "Las mascotas que proporcionan apoyo emocional, bienestar, consuelo o compañía no se consideran animales de servicio según las regulaciones de la ADA."
+        ],
+        "ru": [
+            "Этот склад соответствует государственным и местным санитарным нормам, а также федеральным нормам ADA",
+            "ВХОД С ЖИВОТНЫМИ ЗАПРЕЩЕН за исключением служебных животных",
+            "\"Служебные животные\" — это любые животные, обученные на выполнение работы или решение задач для лиц с ограниченными возможностями.",
+            "Домашние животные, предоставляющие эмоциональную поддержку, благополучие, комфорт или компанию, не считаются служебными животными в соответствии с правилами ADA."
+        ],
+        "zh": [
+            "本仓库符合州和地方卫生法规以及联邦 ADA 法规",
+            "除服务性动物外，其他动物不得入内",
+            "“服务性动物”是指经过训练为残疾人工作或执行任务的任何动物。",
+            "根据《美国残疾人法》的规定，提供情感支持、健康、舒适或陪伴的宠物不被视为服务性动物。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

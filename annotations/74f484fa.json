@@ -1,0 +1,29 @@
+{
+    "image_file": "74f484fa.png",
+    "transcript": [
+        "PLEASE ALLOW SENIORS AND PERSONS WITH DISABILITIES TO USE THESE SEATS WHEN REQUESTED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Räumen Sie Ihren Platz, wenn Sie von älteren  Personen oder Menschen mit Behinderung darum gebeten werden"
+        ],
+        "es": [
+            "CEDA ESTOS ASIENTOS A PERSONAS MAYORES Y PERSONAS CON DISCAPACIDAD CUANDO LO SOLICITEN"
+        ],
+        "ru": [
+            "УСТУПАЙТЕ МЕСТА ПОЖИЛЫМ ЛЮДЯМ И ЛЮДЯМ С ОГРАНИЧЕННЫМИ ВОЗМОЖНОСТЯМИ ПО ИХ ПРОСЬБЕ"
+        ],
+        "zh": [
+            "如有要求，请允许长者及残障人士使用这些座位"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

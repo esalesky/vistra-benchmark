@@ -1,0 +1,34 @@
+{
+    "image_file": "4781e96c.png",
+    "transcript": [
+        "All pets must be on a leash",
+        "Please clean up after your pet"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Leinenpflicht",
+            "Entfernen Sie die Hinterlassenschaften Ihres Hundes"
+        ],
+        "es": [
+            "Lleve su mascota con correa",
+            "Limpie lo que hace su mascota"
+        ],
+        "ru": [
+            "Держите животных на поводке",
+            "Убирайте за животными"
+        ],
+        "zh": [
+            "所有宠物都必须拴上皮带",
+            "请及时清理宠物粪便"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

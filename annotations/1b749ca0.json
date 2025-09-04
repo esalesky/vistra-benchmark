@@ -1,0 +1,39 @@
+{
+    "image_file": "1b749ca0.png",
+    "transcript": [
+        "UTILITY EASEMENT",
+        "This area is not maintained for pedestrian access",
+        "Stay on Marked Trails to Protect Wildlife"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Grunddienstbarkeit",
+            "Dieser Bereich ist für Fußgänger nicht zugänglich",
+            "Bleiben Sie zum Schutz der Fauna auf den ausgewiesenen Wegen"
+        ],
+        "es": [
+            "SERVIDUMBRE DE SERVICIOS PÚBLICOS",
+            "Prohibido el acceso peatonal en esta área",
+            "Manténgase en los senderos señalizados para proteger la fauna"
+        ],
+        "ru": [
+            "ПРОКЛАДКА КОММУНИКАЦИЙ",
+            "Эта зона не предназначена для пешеходов",
+            "Не сходите с тропинок, чтобы не нанести вред диким животным"
+        ],
+        "zh": [
+            "效用地役权",
+            "此区域不是为行人而维护的",
+            "走有标记的小路，保护野生动物"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "f76a6a91.png",
+    "transcript": [
+        "ELEVATORS FOR SUITE & DISABLED PATRONS ONLY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Aufzüge nur für Suiten und behinderte Gäste"
+        ],
+        "es": [
+            "ELEVADORES EXCLUSIVOS PARA SUITE Y PERSONAS CON DISCAPACIDAD"
+        ],
+        "ru": [
+            "ЛИФТЫ ПРЕДНАЗНАЧЕНЫ ТОЛЬКО ДЛЯ ПОСЕТИТЕЛЕЙ НОМЕРОВ \"ЛЮКС\" И ЛИЦ С ОГРАНИЧЕННЫМИ ВОЗМОЖНОСТЯМИ"
+        ],
+        "zh": [
+            "电梯仅供套房和残疾人使用"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

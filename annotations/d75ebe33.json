@@ -1,0 +1,34 @@
+{
+    "image_file": "d75ebe33.png",
+    "transcript": [
+        "RESTROOMS",
+        "For accessible restrooms, follow signs for East Lobby"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Toiletten",
+            "Für barrierefreie Toiletten folgen Sie den Schildern zur East Lobby"
+        ],
+        "es": [
+            "SANITARIOS",
+            "Para sanitarios accesibles, siga los letreros hacia el Lobby este."
+        ],
+        "ru": [
+            "ТУАЛЕТЫ",
+            "Чтобы найти туалеты для людей с ограниченными возможностями, следуйте знакам в Восточном фойе"
+        ],
+        "zh": [
+            "公共洗手间",
+            "如需无障碍洗手间，请遵循东大堂的标志"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

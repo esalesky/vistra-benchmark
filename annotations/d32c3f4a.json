@@ -1,0 +1,64 @@
+{
+    "image_file": "d32c3f4a.png",
+    "transcript": [
+        "PLEASE DO NOT FLUSH",
+        "Baby Wipes",
+        "Cleaning Wipes",
+        "Feminine Hygiene Products",
+        "Paper Towels",
+        "Tissues",
+        "Trash Of Any Kind",
+        "STOP"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Bitte nicht in die Toilette werfen",
+            "Feuchttücher",
+            "Reinigungstücher",
+            "Hygieneartikel",
+            "Papierhandtücher",
+            "Taschentücher",
+            "Müll jeglicher Art",
+            "Stopp"
+        ],
+        "es": [
+            "NO ARROJE",
+            "Toallitas de bebé",
+            "Toallitas húmedas",
+            "Productos de higiene femenina",
+            "Toallas de papel",
+            "Pañuelos de papel",
+            "Basura de ningún tipo",
+            "PARE"
+        ],
+        "ru": [
+            "НЕ СМЫВАЙТЕ",
+            "Салфетки для детей",
+            "Чистящие салфетки",
+            "Предметы женской гигиены",
+            "Бумажные полотенца",
+            "Ткани",
+            "Любой мусор",
+            "СТОП"
+        ],
+        "zh": [
+            "请勿冲水",
+            "婴儿湿巾",
+            "清洁湿巾",
+            "女性卫生用品",
+            "纸巾",
+            "面巾纸",
+            "任何类型的垃圾",
+            "停止"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "b787a4a8.png",
+    "transcript": [
+        "NO BICYCLES!",
+        "LOCKS WILL BE CUT OFF WITHOUT A WARNING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Keine Fahrräder!",
+            "Schlösser werden ohne Vorwarnung geöffnet"
+        ],
+        "es": [
+            "¡NO DEJAR BICICLETAS!",
+            "LOS CANDADOS SE CORTARÁN SIN AVISO"
+        ],
+        "ru": [
+            "ПРИКРЕПЛЯТЬ ВЕЛОСИПЕДЫ К ОГРАДЕ ЗАПРЕЩЕНО",
+            "ЗАМКИ БУДУТ СРЕЗАТЬСЯ БЕЗ ПРЕДУПРЕЖДЕНИЯ"
+        ],
+        "zh": [
+            "禁止自行车",
+            "锁会被切断且不予警告"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

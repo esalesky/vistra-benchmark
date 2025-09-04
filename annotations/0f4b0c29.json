@@ -1,0 +1,29 @@
+{
+    "image_file": "0f4b0c29.png",
+    "transcript": [
+        "NO ENTRY EXCEPT AUTHORISED PERSONNEL"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Zutritt nur für befugtes Personal gestattet"
+        ],
+        "es": [
+            "NO INGRESAR EXCEPTO PERSONAL AUTORIZADO"
+        ],
+        "ru": [
+            "ПРОХОД ЗАПРЕЩЕН ЗА ИСКЛЮЧЕНИЕМ УПОЛНОМОЧЕННОГО ПЕРСОНАЛА"
+        ],
+        "zh": [
+            "未经授权的人员不得进入"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

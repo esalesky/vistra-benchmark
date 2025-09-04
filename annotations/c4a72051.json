@@ -1,0 +1,34 @@
+{
+    "image_file": "c4a72051.png",
+    "transcript": [
+        "STOP",
+        "BICYCLISTS MUST STOP AT STOP SIGN"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Stopp",
+            "Gilt auch für Fahrradfahrer"
+        ],
+        "es": [
+            "PARE",
+            "LOS CICLISTAS DEBEN DETENERSE EN LA SEÑAL DE PARE"
+        ],
+        "ru": [
+            "СТОП",
+            "ВЕЛОСИПЕДИСТЫ ДОЛЖНЫ ОСТАНОВИТЬСЯ У ЗНАКА СТОП"
+        ],
+        "zh": [
+            "停车",
+            "骑自行车的人必须在停车标志前停车"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

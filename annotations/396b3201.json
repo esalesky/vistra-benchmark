@@ -1,0 +1,39 @@
+{
+    "image_file": "396b3201.png",
+    "transcript": [
+        "RIGHT LANE MUST TURN RIGHT",
+        "NO STOPPING",
+        "TOW AWAY ZONE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rechte Spur nur für Rechtsabbieger",
+            "Halteverbot",
+            "Abschleppzone"
+        ],
+        "es": [
+            "EN CARRIL DERECHO DEBE GIRAR A LA DERECHA",
+            "NO DETENERSE",
+            "ZONA DE REMOLQUE"
+        ],
+        "ru": [
+            "ИЗ ПРАВОЙ ПОЛОСЫ ВОЗМОЖЕН ТОЛЬКО ПОВОРОТ НАПРАВО",
+            "ОСТАНОВКА ЗАПРЕЩЕНА",
+            "РАБОТАЕТ ЭВАКУАТОР"
+        ],
+        "zh": [
+            "右车道必须右转",
+            "禁止停留",
+            "拖吊区"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

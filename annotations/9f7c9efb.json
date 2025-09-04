@@ -1,0 +1,29 @@
+{
+    "image_file": "9f7c9efb.png",
+    "transcript": [
+        "please remove climbing shoes before entering the restroom"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Ziehen Sie vor Betreten der Toilette Ihre Kletterschuhe aus"
+        ],
+        "es": [
+            "Quítate los zapatos de escalada antes de entrar al sanitario."
+        ],
+        "ru": [
+            "снимите обувь для скалолазания перед посещением туалета"
+        ],
+        "zh": [
+            "进入洗手间前请脱下登山鞋"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "b3d7e61c.png",
+    "transcript": [
+        "NO PARKING BETWEEN SIGNS",
+        "VIOLATORS TOWED AT OWNER'S EXPENSES"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parkverbot zwischen den Schildern verboten",
+            "Bei Verstößen werden die Fahrzeuge kostenpflichtig abgeschleppt"
+        ],
+        "es": [
+            "NO ESTACIONAR ENTRE CARTELES",
+            "SE REMOLCARÁ A LOS INFRACTORES A COSTO DEL PROPIETARIO"
+        ],
+        "ru": [
+            "ЗАПРЕЩЕНА ПАРКОВКА МЕЖДУ ЗНАКАМИ",
+            "ТРАНСПОРТНЫЕ СРЕДСТВА НАРУШИТЕЛЕЙ БУДУТ ЭВАКУИРОВАНЫ ЗА СЧЕТ ВЛАДЕЛЬЦЕВ"
+        ],
+        "zh": [
+            "标志之间禁止停车",
+            "违规者拖走，费用由车主承担"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

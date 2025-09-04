@@ -1,0 +1,69 @@
+{
+    "image_file": "b0450098.png",
+    "transcript": [
+        "SAFETY RULES",
+        "1. NO STROLLERS",
+        "2. HOLD HANDRAILS",
+        "3. KEEP TENNIS SHOES AWAY FROM SIDES",
+        "4. NO BARE FEET",
+        "5. ALWAYS FACE FORWARD",
+        "6. NO CHILDREN UNATTENDED",
+        "PARENTS",
+        "YOUR CHILDREN MUST OBEY THESE RULES"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Sicherheitsbestimmungen",
+            "1. Keine Kinderwagen",
+            "2. Handläufe benutzen",
+            "3. Tennisschuhe von den Seiten fernhalten",
+            "4. Keine nackten Füße",
+            "5. Immer nach vorne schauen",
+            "6. Keine unbeaufsichtigten Kinder",
+            "Liebe Eltern",
+            "Ihre Kinder müssen sich an die Regeln halten"
+        ],
+        "es": [
+            "NORMAS DE SEGURIDAD",
+            "1. NO SE PERMITEN COCHECITOS",
+            "2. SUJÉTESE DE LOS PASAMANOS",
+            "3. MANTENGA LOS ZAPATOS LEJOS DE LOS LATERALES",
+            "4. NO SE PERMITE ESTAR DESCALZO",
+            "5. MIRE SIEMPRE HACIA ADELANTE",
+            "6. NO SE PERMITEN NIÑOS SIN SUPERVISIÓN",
+            "PADRES",
+            "SUS HIJOS DEBEN CUMPLIR CON ESTAS NORMAS"
+        ],
+        "ru": [
+            "ПРАВИЛА БЕЗОПАСНОСТИ",
+            "1. СТАВИТЬ ДЕТСКИЕ КОЛЯСКИ НА ЭСКАЛАТОР ЗАПРЕЩЕНО",
+            "2. ДЕРЖИТЕСЬ ЗА ПОРУЧНИ",
+            "3. НЕ ПРИСЛОНЯЙТЕ МЯГКИЕ ТУФЛИ К СТОРОНАМ ЭСКАЛАТОРА",
+            "4. НЕ ВСТАВАЙТЕ НА ЭСКАЛАТОР ГОЛЫМИ НОГАМИ",
+            "5. ВСЕГДА СМОТРИТЕ ВПЕРЕД",
+            "6. НЕ ОСТАВЛЯЙТЕ ДЕТЕЙ БЕЗ ПРИСМОТРА",
+            "РОДИТЕЛИ",
+            "ВАШИ ДЕТИ ДОЛЖНЫ СОБЛЮДАТЬ ЭТИ ПРАВИЛА"
+        ],
+        "zh": [
+            "安全规则",
+            "1. 禁止婴儿车",
+            "2. 抓住扶手",
+            "3. 不要穿网球鞋",
+            "4. 不准赤脚",
+            "5. 永远面对前方",
+            "6. 孩子必须有人看管",
+            "家长们",
+            "你们的孩子必须遵守这些规则"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

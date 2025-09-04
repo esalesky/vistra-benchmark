@@ -1,0 +1,29 @@
+{
+    "image_file": "1649d2ca.png",
+    "transcript": [
+        "PLEASE DO NOT STEP"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nicht betreten"
+        ],
+        "es": [
+            "NO PISE AQUÍ"
+        ],
+        "ru": [
+            "НЕ НАСТУПАТЬ"
+        ],
+        "zh": [
+            "请勿踩踏"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

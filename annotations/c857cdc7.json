@@ -1,0 +1,34 @@
+{
+    "image_file": "c857cdc7.png",
+    "transcript": [
+        "In the Event of Fire",
+        "Use Stairs"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Im Brandfall",
+            "Treppe benutzen"
+        ],
+        "es": [
+            "En caso de incendio",
+            "use las escaleras"
+        ],
+        "ru": [
+            "В случае пожара",
+            "пользуйтесь лестницей"
+        ],
+        "zh": [
+            "发生火灾时",
+            "使用楼梯"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "a7d364cd.png",
+    "transcript": [
+        "Authorized Vehicles Only"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nur berechtigte Fahrzeuge"
+        ],
+        "es": [
+            "Solo vehículos autorizados"
+        ],
+        "ru": [
+            "Только для автомобилей, у которых есть разрешение"
+        ],
+        "zh": [
+            "仅限特许车辆"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

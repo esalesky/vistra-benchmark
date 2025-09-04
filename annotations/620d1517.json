@@ -1,0 +1,39 @@
+{
+    "image_file": "620d1517.png",
+    "transcript": [
+        "Please do not enter the Museum if you are experiencing a fever or other symptoms that could be related to COVID-19.",
+        "We will happily move your reservation to another day.",
+        "THANK YOU"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Betreten Sie das Museum nicht mit Fieber oder anderen Symptomen, die mit COVID-19 in Verbindung stehen könnten.",
+            "Wir verschieben Ihre Reservierung gerne auf einen anderen Tag.",
+            "Vielen Dank"
+        ],
+        "es": [
+            "No ingrese al museo si presenta fiebre u otros síntomas que puedan estar relacionados con COVID-19.",
+            "Con gusto pasaremos su reserva para otro día.",
+            "GRACIAS"
+        ],
+        "ru": [
+            "Не входите в помещение музея, сли у вас высокая температура или другие симптомы, которые могут быть связаны с COVID-19.",
+            "Мы будем рады перенести ваше резервирование на другой день.",
+            "СПАСИБО"
+        ],
+        "zh": [
+            "如果您出现发烧或其他可能与 COVID-19 相关的症状，请不要进入博物馆。",
+            "我们很乐意将您的预订改到另一天。",
+            "谢谢"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

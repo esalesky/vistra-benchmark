@@ -1,0 +1,29 @@
+{
+    "image_file": "af001fe0.png",
+    "transcript": [
+        "PLEASE MIND THE GAP BETWEEN THE TRAIN AND THE PLATFORM"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Beachten Sie die Lücke zwischen dem Zug und dem Bahnsteig"
+        ],
+        "es": [
+            "CUIDADO CON EL HUECO ENTRE EL TREN Y LA PLATAFORMA"
+        ],
+        "ru": [
+            "ОБРАЩАЙТЕ ВНИМАНИЕ НА РАССТОЯНИЕ МЕЖДУ ПОЕЗДОМ И ПЛАТФОРМОЙ"
+        ],
+        "zh": [
+            "请小心列车与站台之间的空隙"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

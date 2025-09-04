@@ -1,0 +1,29 @@
+{
+    "image_file": "3a8b8c16.png",
+    "transcript": [
+        "Gates to be Closed at ALL TIMES"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Die Tore müssen IMMER geschlossen sein"
+        ],
+        "es": [
+            "Mantener las puertas cerradas en TODO MOMENTO"
+        ],
+        "ru": [
+            "Ворота должны быть закрыты ПОСТОЯННО"
+        ],
+        "zh": [
+            "大门必须随时关闭"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

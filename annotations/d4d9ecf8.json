@@ -1,0 +1,29 @@
+{
+    "image_file": "d4d9ecf8.png",
+    "transcript": [
+        "DO NOT CHAIN BICYCLE TO FENCE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Anschließen von Fahrrädern nicht gestattet"
+        ],
+        "es": [
+            "NO ENCADENAR BICICLETAS A LA REJA"
+        ],
+        "ru": [
+            "НЕ ПРИКОВЫВАЙТЕ ВЕЛОСИПЕДЫ К ОГРАДЕ"
+        ],
+        "zh": [
+            "禁止将自行车拴在栅栏"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

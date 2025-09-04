@@ -1,0 +1,29 @@
+{
+    "image_file": "3df26a47.png",
+    "transcript": [
+        "NO PARKING PATIENT DROP OFF ONLY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parkverbot Nur zum Absetzen von Patienten"
+        ],
+        "es": [
+            "NO ESTACIONAR SOLO PARA DEJAR PACIENTES"
+        ],
+        "ru": [
+            "ПАРКОВКА ЗАПРЕЩЕНА ТОЛЬКО ВЫСАДКА ПАЦИЕНТОВ"
+        ],
+        "zh": [
+            "禁止停车，只供病人下车"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "no"
+    }
+}

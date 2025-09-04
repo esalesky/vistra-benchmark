@@ -1,0 +1,34 @@
+{
+    "image_file": "46164dfc.png",
+    "transcript": [
+        "Security Notice",
+        "THIS AREA SUBJECT TO VIDEO MONITORING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Sicherheitshinweis",
+            "Dieser Bereich wird videoüberwacht"
+        ],
+        "es": [
+            "Aviso de seguridad",
+            "ÁREA CON VIDEOVIGILANCIA"
+        ],
+        "ru": [
+            "Уведомление о безопасности",
+            "ЭТА ТЕРРИТОРИЯ НАХОДИТСЯ ПОД ВИДЕОНАБЛЮДЕНИЕМ"
+        ],
+        "zh": [
+            "安全提示",
+            "此处有视频监控"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

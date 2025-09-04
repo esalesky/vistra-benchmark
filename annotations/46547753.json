@@ -1,0 +1,34 @@
+{
+    "image_file": "46547753.png",
+    "transcript": [
+        "Exit Only",
+        "Tickets for this exhibition are available for purchase at the box office in the East Lobby."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nur Ausgang",
+            "Eintrittskarten für diese Ausstellung sind an der Kasse im Ost-Foyer erhältlich."
+        ],
+        "es": [
+            "Solo salida",
+            "Puede comprar boletos para esta exposición en la boletería del Lobby Este."
+        ],
+        "ru": [
+            "Только выход",
+            "Билеты на эту выставку можно приобрести в кассе в Восточном фойе."
+        ],
+        "zh": [
+            "仅作出口",
+            "本次展览的门票可在东大堂的售票处购买。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image_file": "2612f203.png",
+    "transcript": [
+        "DO NOT DROP LARGE BOXES INTO THE KIOSK",
+        "Leave them on the counter to your right",
+        "Thank you"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Stellen Sie keine großen Kartons im Kiosk ab",
+            "Stellen Sie sie auf den Tresen zu Ihrer Rechten",
+            "Vielen Dank"
+        ],
+        "es": [
+            "NO COLOQUE CAJAS GRANDES DENTRO DEL BUZÓN",
+            "Déjelas sobre el mostrador a su derecha",
+            "Gracias"
+        ],
+        "ru": [
+            "НЕ БРОСАЙТЕ БОЛЬШИЕ КОРОБКИ В ЯЩИК",
+            "Оставьте их на стойке справа",
+            "Спасибо"
+        ],
+        "zh": [
+            "不要把大箱子扔进售货亭",
+            "把它们放在右边柜台上",
+            "谢谢"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

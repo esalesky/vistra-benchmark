@@ -1,0 +1,29 @@
+{
+    "image_file": "428d6417.png",
+    "transcript": [
+        "AREA CLOSED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Abgeschlossener Bereich"
+        ],
+        "es": [
+            "ZONA CERRADA"
+        ],
+        "ru": [
+            "ЗАКРЫТО"
+        ],
+        "zh": [
+            "封闭区域"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

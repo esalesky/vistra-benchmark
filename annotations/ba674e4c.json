@@ -1,0 +1,69 @@
+{
+    "image_file": "ba674e4c.png",
+    "transcript": [
+        "PROTECT THE FIELD",
+        "PERMITTED PLAY ONLY",
+        "The following items are prohibited:",
+        "> soda, sports drinks, alcohol, coffee, or any beverage other than water",
+        "> food, peanuts, seeds, or gum",
+        "> pets or other animals",
+        "> metal cleats or other sharp objects that could penetrate the synthetic surface",
+        "> unauthorized vehicles",
+        "shaw SPORTS TURF"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Schützen Sie das Spielfeld",
+            "Spielen nur mit Erlaubnis",
+            "Folgendes ist auf dem Spielfeld verboten:",
+            "> Limonade, Sportgetränke, Alkohol, Kaffee oder andere Getränke außer Wasser",
+            "Lebensmittel, Erdnüsse, Kerne oder Kaugummi",
+            "> Haustiere oder andere Tiere",
+            "> Metallstollen oder andere scharfe Gegenstände, die den Kunststoffboden beschädigen könnten",
+            "> nicht berechtigte Fahrzeuge",
+            "shaw SPORTS TURF"
+        ],
+        "es": [
+            "PROTEJA EL CAMPO",
+            "SOLO JUEGOS PERMITIDOS",
+            "Se prohíben los siguientes artículos:",
+            "> refrescos, bebidas deportivas, alcohol, café o cualquier bebida que no sea agua",
+            "> alimentos, maní, semillas o goma de mascar",
+            "> mascotas u otros animales",
+            "> tachones de metal u otros objetos afilados que puedan atravesar la superficie sintética",
+            "> vehículos no autorizados",
+            "shaw SPORTS TURF"
+        ],
+        "ru": [
+            "ЗАЩИТИТЕ ПОЛЕ",
+            "СОБЛЮДАЙТЕ ПРАВИЛА ИГРЫ",
+            "Запрещено проносить на поле:",
+            "> газированные напитки, спортивные напитки, алкоголь, кофе и любые напитки кроме воды",
+            "> еду, орехи, семечки, жевательную резинку",
+            "> домашних или других животных",
+            "> металлические бутсы или другие острые предметы, которые могут пробить синтетическую поверхность",
+            "> транспортные средства (без разрешения)",
+            "shaw SPORTS TURF"
+        ],
+        "zh": [
+            "保护场地",
+            "仅供受允许的玩耍",
+            "禁止携带下列物品：",
+            "> 苏打水、运动饮料、酒精、咖啡或除水以外的任何饮料",
+            "> 食物、花生、种子或口香糖",
+            "> 宠物或其他动物",
+            "> 金属夹板或其他能穿透合成表面的尖锐物体",
+            "> 车辆未经批准不得入内",
+            "shaw 运动草皮"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

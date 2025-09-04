@@ -1,0 +1,39 @@
+{
+    "image_file": "3701c9b3.png",
+    "transcript": [
+        "VISITOR PARKING",
+        "2 HOUR LIMIT",
+        "VIOLATORS WILL BE TOWED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Besucherparkplatz",
+            "Maximal 2 Stunden",
+            "Bei Verstößen wird das Fahrzeug abgeschleppt"
+        ],
+        "es": [
+            "ESTACIONAMIENTO PARA VISITANTES",
+            "2 HORAS MÁXIMO",
+            "SE REMOLCARÁ A LOS INFRACTORES"
+        ],
+        "ru": [
+            "ПАРКОВКА ДЛЯ ПОСЕТИТЕЛЕЙ",
+            "ОГРАНИЧЕНИЕ 2 ЧАСА",
+            "ТРАНСПОРТНЫЕ СРЕДСТВА НАРУШИТЕЛЕЙ БУДУТ ЭВАКУИРОВАНЫ"
+        ],
+        "zh": [
+            "访客停车位",
+            "限 2 小时",
+            "违规者将被拖走"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

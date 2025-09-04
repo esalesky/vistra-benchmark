@@ -1,0 +1,29 @@
+{
+    "image_file": "95e5c7c8.png",
+    "transcript": [
+        "NO FOOD OR BEVERAGE ALLOWED BEYOND THIS POINT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Speisen und Getränke ab hier verboten"
+        ],
+        "es": [
+            "NO SE PERMITEN ALIMENTOS Y BEBIDAS A PARTIR DE AQUÍ"
+        ],
+        "ru": [
+            "ПРОХОД С ЕДОЙ И НАПИТКАМИ ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "不得携带任何食物或饮料进入"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "image_file": "6deeca9c.png",
+    "transcript": [
+        "WARNING KEEP OUT!",
+        "Hazardous Voltage Inside.",
+        "Can Shock, Burn, or Cause Death.",
+        "If open or unlocked, immediately call BG&E (410) 685-0123"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warnung: Nicht betreten",
+            "Gefährliche Spannung.",
+            "Kann zu Schock, Verbrennungen und Tod führen.",
+            "Wenn offen oder unverschlossen, sofort bei BG&E (410) 685-0123 anrufen"
+        ],
+        "es": [
+            "ADVERTENCIA ¡ALÉJESE!",
+            "Voltaje peligroso dentro.",
+            "Puede provocar descargas, quemaduras o la muerte.",
+            "Si está abierto o sin llave, llame de inmediato a BG&E (410) 685-0123"
+        ],
+        "ru": [
+            "ВНИМАНИЕ НЕ ПРИБЛИЖАЙТЕСЬ!",
+            "Опасное напряжение внутри.",
+            "Может привести к удару электрическим токам, ожогам или летальному исходу.",
+            "Если дверца открыта или не закрыта на замок, немедленно позвоните в BG&E по телефону (410) 685-0123"
+        ],
+        "zh": [
+            "警告，请勿入内！",
+            "内有危险电压。",
+            "可导致休克，烧伤或死亡。",
+            "如果打开或未锁定，请立即拨BG&E (410) 685-0123"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

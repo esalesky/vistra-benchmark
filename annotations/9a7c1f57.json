@@ -1,0 +1,39 @@
+{
+    "image_file": "9a7c1f57.png",
+    "transcript": [
+        "Out of paper towels or other supplies?",
+        "Let us know!",
+        "HOLD HAND UNDER GREEN LIGHT FOR 3 SECONDS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Fehlen Papierhandtücher oder andere Artikel?",
+            "Informieren Sie uns!",
+            "Halten Sie ihre Hände 3 Sekunden unter das grüne Licht"
+        ],
+        "es": [
+            "¿Se acabaron las toallas de papel u otros suministros?",
+            "¡Avísenos!",
+            "MANTENGA LA MANO BAJO LA LUZ VERDE DURANTE 3 SEGUNDOS"
+        ],
+        "ru": [
+            "Закончились бумажные полотенца или другие расходные материалы?",
+            "Сообщите нам!",
+            "ДЕРЖИТЕ РУКИ ПОД ЗЕЛЕНЫМ ИНДИКАТОРОМ В ТЕЧЕНИЕ 3 СЕКУНД"
+        ],
+        "zh": [
+            "纸巾或其他用品用完了？",
+            "告诉我们！",
+            "将手停留在绿灯下 3 秒"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

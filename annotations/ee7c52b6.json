@@ -1,0 +1,34 @@
+{
+    "image_file": "ee7c52b6.png",
+    "transcript": [
+        "RESERVED",
+        "EMPLOYEE PERMIT PARKING ONLY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parken",
+            "nur für Mitarbeiter mit Genehmigung"
+        ],
+        "es": [
+            "RESERVADO",
+            "ESTACIONAMIENTO EXCLUSIVO EMPLEADOS CON PERMISO"
+        ],
+        "ru": [
+            "ЗАРЕЗЕРВИРОВАНО",
+            "ПАРКОВКА ТОЛЬКО ДЛЯ АВТОМОБИЛЕЙ С РАЗРЕШЕНИЕМ ОТ РАБОТОДАТЕЛЯ"
+        ],
+        "zh": [
+            "预留车位",
+            "只准许员工停车"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

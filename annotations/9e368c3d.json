@@ -1,0 +1,29 @@
+{
+    "image_file": "9e368c3d.png",
+    "transcript": [
+        "GIVE WARNING WHEN PASSING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Machen Sie sich beim Überholen bemerkbar"
+        ],
+        "es": [
+            "AVISE AL SOBREPASAR"
+        ],
+        "ru": [
+            "ПРИ ПЕРЕХОДЕ ПОДАЙТЕ СИГНАЛ"
+        ],
+        "zh": [
+            "通过时发出警告"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

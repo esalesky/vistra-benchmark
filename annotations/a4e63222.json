@@ -1,0 +1,34 @@
+{
+    "image_file": "a4e63222.png",
+    "transcript": [
+        "State Police",
+        "1/2 MILE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Staatspolizei",
+            "800 Meter"
+        ],
+        "es": [
+            "Policía Estatal",
+            "1/2 MILLA"
+        ],
+        "ru": [
+            "Полиция штата",
+            "1/2 МИЛИ"
+        ],
+        "zh": [
+            "州警",
+            "1/2 英里"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

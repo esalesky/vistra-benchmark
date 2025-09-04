@@ -1,0 +1,34 @@
+{
+    "image_file": "22abcd9e.png",
+    "transcript": [
+        "CAUTION",
+        "BENCHES MAY BE WARM WHEN IN DIRECT SUNLIGHT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Vorsicht",
+            "Bänke könne sich bei direkter Sonneneinstrahlung aufheizen"
+        ],
+        "es": [
+            "CUIDADO",
+            "LOS BANCOS PUEDEN ESTAR CALIENTES AL ESTAR BAJO LUZ SOLAR DIRECTA"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "СКАМЕЙКА МОЖЕТ БЫТЬ ТЕПЛОЙ ПРИ ВОЗДЕЙСТВИИ ПРЯМОГО СОЛНЕЧНОГО СВЕТА"
+        ],
+        "zh": [
+            "注意",
+            "阳光直射时，长椅可能会很热"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

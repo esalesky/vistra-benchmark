@@ -1,0 +1,34 @@
+{
+    "image_file": "43572371.png",
+    "transcript": [
+        "EMERGENCY EXIT ONLY",
+        "Please Exit One Level Below"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nur Notausgang",
+            "Ausgang befindet sich ein Stockwerk tiefer"
+        ],
+        "es": [
+            "SOLO SALIDA DE EMERGENCIA",
+            "Salga un nivel más abajo"
+        ],
+        "ru": [
+            "ТОЛЬКО АВАРИЙНЫЙ ВЫХОД",
+            "Используйте выход, расположенный на один этаж ниже"
+        ],
+        "zh": [
+            "仅限紧急出口",
+            "请从下一层退出"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

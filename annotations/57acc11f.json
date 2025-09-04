@@ -1,0 +1,29 @@
+{
+    "image_file": "57acc11f.png",
+    "transcript": [
+        "CLEAN ALL THE THINGS"
+    ],
+    "category": null,
+    "height": 510,
+    "width": 680,
+    "translation": {
+        "de": [
+            "Alles sauber machen"
+        ],
+        "es": [
+            "LIMPIA TODAS LAS COSAS"
+        ],
+        "ru": [
+            "УБРАТЬ ВСЕ"
+        ],
+        "zh": [
+            "清理所有的东西"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

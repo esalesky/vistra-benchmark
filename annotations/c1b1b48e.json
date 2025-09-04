@@ -1,0 +1,54 @@
+{
+    "image_file": "c1b1b48e.png",
+    "transcript": [
+        "EMERGENCY ASSISTANCE",
+        "TO CALL FOR ASSISTANCE",
+        "1. Press Button for 1 Second, Then Release.",
+        "2. Wait for Verbal Response.",
+        "3. Respond in a Clear Voice.",
+        "IF NO RESPONSE WITHIN 15 SECONDS REPEAT STEPS 1-3"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Hilfe im Notfall",
+            "So rufen Sie Hilfe:",
+            "1. Drücken Sie eine Sekunde auf die Taste und lassen Sie sie dann los.",
+            "2. Warten Sie auf eine Antwort.",
+            "3. Sprechen Sie klar und deutlich.",
+            "Wenn Sie innerhalb von 15 Sekunden keine Antwort erhalten, wiederholen Sie die Schritte 1 bis 3"
+        ],
+        "es": [
+            "ASISTENCIA EN EMERGENCIAS",
+            "PARA SOLICITAR ASISTENCIA",
+            "1. Pulse el botón durante 1 segundo y suéltelo.",
+            "2. Espere una respuesta verbal.",
+            "3. Responda con voz clara.",
+            "SI NO OBTIENE RESPUESTA EN 15 SEGUNDOS, REPITA LOS PASOS 1-3"
+        ],
+        "ru": [
+            "ПОМОЩЬ В ЭКСТРЕННОЙ СИТУАЦИИ",
+            "ЧТОБЫ ОБРАТИТЬСЯ ЗА ПОМОЩЬЮ",
+            "1. Нажмите кнопку в течение 1 секунды, затем отпустите.",
+            "2. Дождитесь ответа.",
+            "3. Задайте свой вопрос четким голосом.",
+            "ЕСЛИ ОТВЕТА НЕТ В ТЕЧЕНИЕ 15 СЕКУНД, ПОВТОРИТЕ ШАГИ 1-3"
+        ],
+        "zh": [
+            "紧急援助",
+            "寻求帮助",
+            "1. 按下按钮 1 秒，然后松开。",
+            "2. 等待口头回应。",
+            "3. 用清晰的声音回应。",
+            "如果在 15 秒内没有反应，重复步骤 1-3"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

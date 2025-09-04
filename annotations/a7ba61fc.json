@@ -1,0 +1,29 @@
+{
+    "image_file": "a7ba61fc.png",
+    "transcript": [
+        "KEEP CLEAR OF GATES"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Tore freihalten"
+        ],
+        "es": [
+            "ALÉJESE DE LAS BARRERAS"
+        ],
+        "ru": [
+            "НЕ ПРИБЛИЖАЙТЕСЬ К ВОРОТАМ"
+        ],
+        "zh": [
+            "远离大门"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

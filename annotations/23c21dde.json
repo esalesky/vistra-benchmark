@@ -1,0 +1,34 @@
+{
+    "image_file": "23c21dde.png",
+    "transcript": [
+        "NO PARKING",
+        "KEEP CLEAR AT ALL TIMES"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parken verboten",
+            "Immer freihalten"
+        ],
+        "es": [
+            "NO ESTACIONAR",
+            "MANTENER DESPEJADO EN TODO MOMENTO"
+        ],
+        "ru": [
+            "ПАРКОВКА ЗАПРЕЩЕНА",
+            "ПРОЕЗД ДОЛЖЕН ВСЕГДА ОСТАВАТЬСЯ СВОБОДНЫМ"
+        ],
+        "zh": [
+            "禁止停车",
+            "始终保持畅通"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

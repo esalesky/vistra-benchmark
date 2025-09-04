@@ -1,0 +1,34 @@
+{
+    "image_file": "db46910d.png",
+    "transcript": [
+        "Women's restroom",
+        "The companion care restroom is located behind you: near the men's restroom across the lobby."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Damentoilette",
+            "Die Behindertentoilette befindet sich hinter Ihnen, in der Nähe der Herrentoilette gegenüber der Rezeption."
+        ],
+        "es": [
+            "Sanitarios femeninos",
+            "El sanitario de cuidados con acompañantes está ubicado detrás de usted, cerca de los sanitarios masculinos al otro lado del lobby."
+        ],
+        "ru": [
+            "Женский туалет",
+            "Туалет для сопровождающих лиц находится позади: рядом с мужским туалетом через холл."
+        ],
+        "zh": [
+            "女厕所",
+            "伴侣护理洗手间位于您身后，在大堂对面的男洗手间附近。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

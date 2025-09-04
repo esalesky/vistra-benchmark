@@ -1,0 +1,29 @@
+{
+    "image_file": "27af3a62.png",
+    "transcript": [
+        "BY ORDER OF THE FIRE MARSHALL, THE OCCUPANCY OF THIS ROOM IS NOT TO EXCEED 170"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Auf Anordnung des Brandinspektors darf dieser Raum mit maximal 170 Personen belegt werden"
+        ],
+        "es": [
+            "POR ORDEN DEL JEFE DE BOMBEROS LA CAPACIDAD MÁXIMA DE ESTA SALA ES 170 PERSONAS"
+        ],
+        "ru": [
+            "В СООТВЕТСТВИИ С РАСПОРЯЖЕНИЕМ НАЧАЛЬНИКА ПОЖАРНОЙ ИНСПЕКЦИИ В ЭТОМ ПОМЕЩЕНИИ МОЖЕТ НАХОДИТЬСЯ НЕ БОЛЕЕ 170 ЧЕЛОВЕК"
+        ],
+        "zh": [
+            "根据消防局长的命令，这个房间的人数不能超过 170 人"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

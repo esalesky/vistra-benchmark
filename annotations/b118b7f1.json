@@ -1,0 +1,29 @@
+{
+    "image_file": "b118b7f1.png",
+    "transcript": [
+        "STAIRS TO MAIN FLOOR"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Treppe zum Erdgeschoss"
+        ],
+        "es": [
+            "ESCALERAS A LA PLANTA PRINCIPAL"
+        ],
+        "ru": [
+            "ЛЕСТНИЦА НА ОСНОВНОЙ ЭТАЖ"
+        ],
+        "zh": [
+            "通往主楼层的楼梯"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

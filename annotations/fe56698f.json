@@ -1,0 +1,34 @@
+{
+    "image_file": "fe56698f.png",
+    "transcript": [
+        "15 MINUTE PARKING",
+        "VIOLATORS WILL BE TOWED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "15 Minuten Parken",
+            "Fahrzeuge werden abgeschleppt"
+        ],
+        "es": [
+            "15 MINUTOS ESTACIONAMIENTO",
+            "SE ROMOLCARÁ A LOS INFRACTORES"
+        ],
+        "ru": [
+            "ПАРКОВКА С ОГРАНИЧЕНИЕМ 15 МИНУТ",
+            "ТРАНСПОРТНЫЕ СРЕДСТВА НАРУШИТЕЛЕЙ БУДУТ ЭВАКУИРОВАНЫ"
+        ],
+        "zh": [
+            "15 分钟停车",
+            "违规者将被拖走"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

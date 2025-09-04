@@ -1,0 +1,34 @@
+{
+    "image_file": "d26fedd6.png",
+    "transcript": [
+        "CAUTION",
+        "MEN AT WORK"
+    ],
+    "category": null,
+    "height": 600,
+    "width": 600,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Baustelle"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "HOMBRES TRABAJANDO"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "ДОРОЖНЫЕ РАБОТЫ"
+        ],
+        "zh": [
+            "小心",
+            "施工中"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

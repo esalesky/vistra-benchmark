@@ -1,0 +1,29 @@
+{
+    "image_file": "0c8fba4e.png",
+    "transcript": [
+        "NOTICE PEDESTRIAN ACCESS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "HINWEIS Zugang für Fußgänger"
+        ],
+        "es": [
+            "ATENCIÓN ACCESO PEATONAL"
+        ],
+        "ru": [
+            "ВНИМАНИЕ ПЕШЕХОДНЫЙ ПЕРЕХОД"
+        ],
+        "zh": [
+            "注意行人通道"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "no"
+    }
+}

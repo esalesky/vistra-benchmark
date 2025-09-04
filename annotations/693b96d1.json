@@ -1,0 +1,29 @@
+{
+    "image_file": "693b96d1.png",
+    "transcript": [
+        "GIVE WARNING BEFORE PASSING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Machen Sie sich vor dem Überholen bemerkbar"
+        ],
+        "es": [
+            "AVISE ANTES DE SOBREPASAR"
+        ],
+        "ru": [
+            "ПРЕДУПРЕДИТЕ ДРУГИХ ЛИЦ ПЕРЕД ПЕРЕХОДОМ"
+        ],
+        "zh": [
+            "通过前发出警告"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

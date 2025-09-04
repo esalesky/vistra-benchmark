@@ -1,0 +1,34 @@
+{
+    "image_file": "3cce5cb9.png",
+    "transcript": [
+        "Private Sign",
+        "DO NOT READ"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Privates Schild",
+            "Nicht lesen"
+        ],
+        "es": [
+            "Cartel privado",
+            "NO LEER"
+        ],
+        "ru": [
+            "Частный знак",
+            "НЕ ЧИТАТЬ"
+        ],
+        "zh": [
+            "私人标识",
+            "禁止阅读"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

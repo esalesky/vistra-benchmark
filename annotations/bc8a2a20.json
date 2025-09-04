@@ -1,0 +1,44 @@
+{
+    "image_file": "bc8a2a20.png",
+    "transcript": [
+        "DO NOT PARK",
+        "in front of this Entrance",
+        "IN USE 24 HOURS",
+        "THANK YOU"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parkvervot",
+            "vor diesem Eingang",
+            "Gilt rund um die Uhr",
+            "Vielen Dank"
+        ],
+        "es": [
+            "NO ESTACIONAR",
+            "frente a esta entrada",
+            "EN USO 24 HORAS",
+            "GRACIAS"
+        ],
+        "ru": [
+            "НЕ ПАРКОВАТЬСЯ",
+            "перед этим входом",
+            "ТРЕБОВАНИЕ ДЕЙСТВИТЕЛЬНО 24 ЧАСА",
+            "СПАСИБО"
+        ],
+        "zh": [
+            "请勿泊车",
+            "在这个入口前面",
+            "全天使用",
+            "谢谢"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

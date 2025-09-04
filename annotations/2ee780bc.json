@@ -1,0 +1,29 @@
+{
+    "image_file": "2ee780bc.png",
+    "transcript": [
+        "YIELD TO ONCOMING TRAFFIC"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gegenverkehr beachten"
+        ],
+        "es": [
+            "CEDA EL PASO AL TRÁFICO EN SENTIDO CONTRARIO"
+        ],
+        "ru": [
+            "УСТУПИТЕ ДОРОГУ ВСТРЕЧНЫМ АВТОМОБИЛЯМ"
+        ],
+        "zh": [
+            "避让迎面而来的车辆"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

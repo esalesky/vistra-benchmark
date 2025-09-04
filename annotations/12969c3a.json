@@ -1,0 +1,34 @@
+{
+    "image_file": "12969c3a.png",
+    "transcript": [
+        "SOMEONE'S ON THE PHONE",
+        "I CAN'T USE THE INTERNET."
+    ],
+    "category": null,
+    "height": 753,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Irgendjemand telefoniert",
+            "Ich kann nicht ins Internet."
+        ],
+        "es": [
+            "ALGUIEN ESTÁ AL TELÉFONO",
+            "NO PUEDO USAR INTERNET."
+        ],
+        "ru": [
+            "КТО-ТО ЗВОНИТ ПО ТЕЛЕФОНУ",
+            "Я НЕ МОГУ ПОЛЬЗОВАТЬСЯ ИНТЕРНЕТОМ."
+        ],
+        "zh": [
+            "有人在打电话",
+            "我不能上网。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

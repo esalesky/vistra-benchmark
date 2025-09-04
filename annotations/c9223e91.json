@@ -1,0 +1,29 @@
+{
+    "image_file": "c9223e91.png",
+    "transcript": [
+        "THANK YOU FOR RETURNING YOUR TRAY & CROCKERY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Vielen Dank für die Rückgabe Ihres Tabletts und Geschirrs"
+        ],
+        "es": [
+            "GRACIAS POR DEVOLVER SU BANDEJA Y VAJILLA"
+        ],
+        "ru": [
+            "СПАСИБО, ЧТО ВЕРНУЛИ ПОДНОС И ПОСУДУ"
+        ],
+        "zh": [
+            "谢谢您归还托盘和陶器"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "no"
+    }
+}

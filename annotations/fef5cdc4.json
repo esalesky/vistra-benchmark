@@ -1,0 +1,29 @@
+{
+    "image_file": "fef5cdc4.png",
+    "transcript": [
+        "RAILROAD CROSSING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Bahnübergang"
+        ],
+        "es": [
+            "CRUCE FERROCARRIL"
+        ],
+        "ru": [
+            "ЖЕЛЕЗНОДОРОЖНЫЙ ПЕРЕЕЗД"
+        ],
+        "zh": [
+            "铁路道口"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

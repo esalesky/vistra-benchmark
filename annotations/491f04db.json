@@ -1,0 +1,34 @@
+{
+    "image_file": "491f04db.png",
+    "transcript": [
+        "CAUTION",
+        "WATCH YOUR STEP"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Vorsicht",
+            "Passen Sie auf"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "CUIDADO DONDE PISA"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "СТУПЕНЬКА"
+        ],
+        "zh": [
+            "注意",
+            "小心脚下"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

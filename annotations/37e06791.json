@@ -1,0 +1,34 @@
+{
+    "image_file": "37e06791.png",
+    "transcript": [
+        "NO BUS PARKING",
+        "TOW AWAY ZONE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parkverbot für Busse",
+            "Abschleppzone"
+        ],
+        "es": [
+            "PROHIBIDO ESTACIONAR BUSES",
+            "ZONA DE REMOLQUE"
+        ],
+        "ru": [
+            "ПАРКОВКА ДЛЯ АВТОБУСОВ ЗАПРЕЩЕНА",
+            "РАБОТАЕТ ЭВАКУАТОР"
+        ],
+        "zh": [
+            "禁止巴士停车",
+            "违者拖走"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

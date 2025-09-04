@@ -1,0 +1,39 @@
+{
+    "image_file": "438e8cbb.png",
+    "transcript": [
+        "NO STOPPING",
+        "ANGLE PARKING",
+        "HEAD IN ONLY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Halteverbot",
+            "Schrägparken",
+            "Nur frontales Parken"
+        ],
+        "es": [
+            "NO DETENERSE",
+            "ESTACIONAMIENTO DIAGONAL",
+            "SOLO DE FRENTE"
+        ],
+        "ru": [
+            "ОСТАНОВКА ЗАПРЕЩЕНА",
+            "УГЛОВАЯ ПАРКОВКА",
+            "ТОЛЬКО ВЪЕЗД"
+        ],
+        "zh": [
+            "禁止停留",
+            "斜角停车",
+            "只向内"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

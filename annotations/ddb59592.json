@@ -1,0 +1,34 @@
+{
+    "image_file": "ddb59592.png",
+    "transcript": [
+        "NO STOPPING",
+        "TOW AWAY ZONE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Halteverbot",
+            "Abschleppzone"
+        ],
+        "es": [
+            "NO DETENERSE",
+            "ZONA DE REMOLQUE"
+        ],
+        "ru": [
+            "ОСТАНОВКА ЗАПРЕЩЕНА",
+            "РАБОТАЕТ ЭВАКУАТОР"
+        ],
+        "zh": [
+            "禁止停车",
+            "拖吊区"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "1ff107b6.png",
+    "transcript": [
+        "NO TRESPASSING",
+        "VIOLATORS CAUGHT LOITERING OR TRESPASSING WILL BE PROSECUTED TO THE FULLEST EXTENT OF THE LAW!"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Zutritt verboten",
+            "Personen, die gegen das Zutrittsverbot verstoßen, werden mit der vollen Härte des Gesetzes bestraft."
+        ],
+        "es": [
+            "NO PASAR",
+            "LOS INFRACTORES ATRAPADOS DEAMBULANDO O INGRESANDO SERÁN PROCESADOS EN LA MÁXIMA MEDIDA PERMITIDA POR LA LEY"
+        ],
+        "ru": [
+            "ПРОХОД ЗАПРЕЩЕН",
+            "НАРУШИТЕЛИ И ЛИЦА БЕЗ ОПРЕДЕЛЕННОЙ ЦЕЛИ БУДУТ НАКАЗАНЫ ПО ВСЕЙ СТРОГОСТИ ЗАКОНА!"
+        ],
+        "zh": [
+            "禁止侵入",
+            "违规闲逛或非法侵入者一旦被抓到，将被起诉，受到顶格法律制裁！"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

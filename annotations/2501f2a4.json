@@ -1,0 +1,49 @@
+{
+    "image_file": "2501f2a4.png",
+    "transcript": [
+        "NO FIREARMS",
+        "NO KNIVES",
+        "NO DRUGS",
+        "NO ALCOHOL",
+        "VIOLATORS WILL BE PROSECUTED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Keine Waffen",
+            "Keine Messer",
+            "Keine Drogen",
+            "Kein Alkohol",
+            "Verstöße werden strafrechtlich verfolgt"
+        ],
+        "es": [
+            "NO ARMAS DE FUEGO",
+            "NO CUCHILLOS",
+            "NO DROGAS",
+            "NO ALCOHOL",
+            "LOS INFRACTORES SERÁN PROCESADOS"
+        ],
+        "ru": [
+            "ОРУЖИЕ ЗАПРЕЩЕНО",
+            "НОЖИ ЗАПРЕЩЕНЫ",
+            "НАРКОТИКИ ЗАПРЕЩЕНЫ",
+            "АЛКОГОЛЬ ЗАПРЕЩЕН",
+            "НАРУШИТЕЛИ БУДУТ НАКАЗАНЫ"
+        ],
+        "zh": [
+            "禁止携带武器",
+            "禁止携带刀具",
+            "禁止携带毒品",
+            "禁止携带酒精",
+            "违反者将被起诉"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "no"
+    }
+}

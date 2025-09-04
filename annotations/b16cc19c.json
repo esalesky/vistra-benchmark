@@ -1,0 +1,44 @@
+{
+    "image_file": "b16cc19c.png",
+    "transcript": [
+        "NO STOPPING",
+        "2 HOUR PARKING LIMIT IN AREA #25",
+        "7AM-7PM MON THRU FRI",
+        "AREA #25 PERMIT HOLDERS EXCEPTED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Halteverbot",
+            "Maximal 2 Stunden Parken in Abschnitt 25",
+            "7:00 bis 19:00 Uhr Montag bis Freitag",
+            "Inhaber eines Parkausweises für Abschnitt 25 sind ausgenommen"
+        ],
+        "es": [
+            "NO DETENERSE",
+            "2 HORAS MÁX. ESTACIONAMIENTO EN ÁREA #25",
+            "7 a. m.-7 p. m. LUN A VIER",
+            "EXCEPTO CON PERMISO PARA ÁREA #25"
+        ],
+        "ru": [
+            "ОСТАНОВКА ЗАПРЕЩЕНА",
+            "ОГРАНИЧЕНИЕ НА ПАРКОВКУ 2 ЧАСА В ЗОНЕ 25",
+            "7:00-19:00 С ПОНЕДЕЛЬНИКА ПО ПЯТНИЦУ",
+            "КРОМЕ ВЛАДЕЛЬЦЕВ РАЗРЕШЕНИЙ В ЗОНЕ 25"
+        ],
+        "zh": [
+            "禁止驻留",
+            "25 区 2 小时限时停车",
+            "周一到周五早上 7 点到晚上 7 点",
+            "25 区许可证持有人除外"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "77d59c3f.png",
+    "transcript": [
+        "We Are Pleased To Provide All Our Guests A Smoke-Free Environment"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Wir freuen uns, allen unseren Gästen eine rauchfreie Umgebung anbieten zu können"
+        ],
+        "es": [
+            "Nos complace ofrecer a todos nuestros huéspedes un ambiente libre de humo"
+        ],
+        "ru": [
+            "Мы рады предоставить своим гостям пространство, свободное от курения"
+        ],
+        "zh": [
+            "我们很高兴为所有客人提供一个无烟的环境"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

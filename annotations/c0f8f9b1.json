@@ -1,0 +1,29 @@
+{
+    "image_file": "c0f8f9b1.png",
+    "transcript": [
+        "PLACE YOUR SCANNED ITEMS HERE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Ablageplatz für Ihre gescannten Artikel"
+        ],
+        "es": [
+            "COLOQUE LOS ARTÍCULOS ESCANEADOS AQUÍ"
+        ],
+        "ru": [
+            "ПОМЕСТИТЕ СКАНИРУЕМЫЕ ПРЕДМЕТЫ СЮДА"
+        ],
+        "zh": [
+            "将扫描后的物品放在这里"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "no"
+    }
+}

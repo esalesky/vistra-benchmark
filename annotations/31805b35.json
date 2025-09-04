@@ -1,0 +1,39 @@
+{
+    "image_file": "31805b35.png",
+    "transcript": [
+        "NO PARKING",
+        "5 Minute Passenger Loading Zone Only",
+        "Violators subject to fines, immobilization and/or towing."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parkverbot",
+            "Halten zur Mitnahme von Fahrgästen auf 5 Minuten beschränkt",
+            "Verstöße werden mit Geldbußen, einer Wegfahrsperre und/oder Abschleppen geahndet"
+        ],
+        "es": [
+            "NO ESTACIONAR",
+            "5 minutos solo para carga de pasajeros",
+            "Los infractores podrán recibir multas, o ser inmovilizados o remolcados."
+        ],
+        "ru": [
+            "ПАРКОВКА ЗАПРЕЩЕНА",
+            "Зона посадки пассажиров с остановкой не более 5 минут",
+            "На нарушителей будет наложен штраф, а также меры по блокировке и/или буксировке транспортного средства."
+        ],
+        "zh": [
+            "禁止停车",
+            "5 分钟乘客上车区",
+            "违规者将被处以罚款、禁驾和/或拖走。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

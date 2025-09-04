@@ -1,0 +1,49 @@
+{
+    "image_file": "b1eecb38.png",
+    "transcript": [
+        "STOP",
+        "SOUND HORN",
+        "PROCEED WITH CAUTION",
+        "AUTHORIZED VEHICLES ONLY",
+        "ONE WAY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Stopp",
+            "Hupen und",
+            "vorsichtig weiterfahren",
+            "Nur berechtigte Fahrzeuge",
+            "Einbahnstraße"
+        ],
+        "es": [
+            "PARE",
+            "TOQUE BOCINA",
+            "AVANCE CON CUIDADO",
+            "SOLO VEHÍCULOS AUTORIZADOS",
+            "UNA VÍA"
+        ],
+        "ru": [
+            "СТОП",
+            "ПОДАЙТЕ ЗВУКОВОЙ СИГНАЛ",
+            "ПРОДОЛЖАЙТЕ ДВИЖЕНИЕ С ОСТОРОЖНОСТЬЮ",
+            "ТОЛЬКО ДЛЯ АВТОМОБИЛЕЙ С РАЗРЕШЕНИЯМИ",
+            "ОДНОСТОРОННЕЕ ДВИЖЕНИЕ"
+        ],
+        "zh": [
+            "停止",
+            "按喇叭",
+            "谨慎行事",
+            "仅限特许车辆",
+            "单向"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

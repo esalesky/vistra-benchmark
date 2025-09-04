@@ -1,0 +1,34 @@
+{
+    "image_file": "2962285f.png",
+    "transcript": [
+        "LEASH LAWS STRICTLY ENFORCED",
+        "Please enjoy our park, but obey the law!"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Strenge Durchsetzung der Leinenpflicht",
+            "Viel Spaß in unserem Park, aber halten Sie sich an das Gesetz."
+        ],
+        "es": [
+            "LEYES DE USO DE CORREA SE APLICAN ESTRICTAMENTE",
+            "Disfrute de nuestro parque, pero cumpla con la ley."
+        ],
+        "ru": [
+            "ОБЯЗАТЕЛЬНО ДЕРЖИТЕ СОБАКУ НА ПОВОДКЕ, ЭТО ЗАКОН",
+            "Наслаждайтесь прогулкой в парке, но соблюдайте закон!"
+        ],
+        "zh": [
+            "严格执行拴绳法",
+            "请尽情享受我们的公园，但要遵守法律！"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

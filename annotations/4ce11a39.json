@@ -1,0 +1,44 @@
+{
+    "image_file": "4ce11a39.png",
+    "transcript": [
+        "DANGER",
+        "CONSTRUCTION AREA",
+        "NO TRESPASSING",
+        "OFF LIMITS TO UNAUTHORIZED PERSONNEL"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Gefahr",
+            "Baustelle",
+            "Zutritt verboten",
+            "Für Unbefugte gesperrt"
+        ],
+        "es": [
+            "PELIGRO",
+            "ZONA DE CONSTRUCCIÓN",
+            "NO PASAR",
+            "PROHIDO EL INGRESO AL PERSONAL NO AUTORIZADO"
+        ],
+        "ru": [
+            "ОПАСНО",
+            "СТРОИТЕЛЬНАЯ ПЛОЩАДКА",
+            "ПРОХОД ЗАПРЕЩЕН",
+            "ПОСТОРОННИМ ВХОД ВОСПРЕЩЕН"
+        ],
+        "zh": [
+            "危险",
+            "施工区域",
+            "非请莫入",
+            "禁止未经授权人员进入"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

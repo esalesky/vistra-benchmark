@@ -1,0 +1,39 @@
+{
+    "image_file": "d4586d25.png",
+    "transcript": [
+        "SAFETY'S OUR GOAL",
+        "How Are We Doing?",
+        "Call 511"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Sicherheit ist unser Ziel",
+            "Wie wir das machen?",
+            "Anruf unter 511"
+        ],
+        "es": [
+            "LA SEGURIDAD ES NUESTRO OBJETIVO",
+            "¿Cómo se siente?",
+            "Llame al 511"
+        ],
+        "ru": [
+            "БЕЗОПАСНОСТЬ — ЭТО НАША ЦЕЛЬ",
+            "Каких результатов мы добились?",
+            "Позвоните по номеру 511"
+        ],
+        "zh": [
+            "安全是我们的目标",
+            "我们做得怎样？",
+            "致电 511"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

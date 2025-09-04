@@ -1,0 +1,84 @@
+{
+    "image_file": "c6a399d3.png",
+    "transcript": [
+        "welcome, parents.",
+        "We believe climbing should be enjoyed by all ages and abilities.",
+        "Please help us foster an enriching environment for kids that is considerate of others and prioritizes safety.",
+        "build community",
+        "Help kids succeed in a shared environment by walking, not running, and taking turns.",
+        "spotters are doing an important job",
+        "Teach your child to give spotters, belayers, and climbers plenty of space.",
+        "stay together",
+        "Adult supervision is required for those under the age of 13.",
+        "Climbers under the age of 13 are not permitted in the Yoga Studio or Fitness Center.",
+        "people and things fall",
+        "Teach your child not to climb or hang out underneath a climber."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Herzlich Willkommen, liebe Eltern.",
+            "Wir sind der Meinung, dass Klettern für alle Altersgruppen und Fähigkeiten geeignet sind.",
+            "Helfen Sie uns, eine angenehme Atmosphäre für Ihre Kinder zu schaffen, in der Rücksichtnahme und Sicherheit groß geschrieben werden.",
+            "Verantwortung übernehmen",
+            "Sorgen Sie dafür, dass Ihre Kinder in der Halle nicht laufen, sondern gehen, und sich gegenseitig abwechseln.",
+            "Spotter erfüllen eine wichtige Aufgabe",
+            "Sensibilisieren Sie Ihre Kinder dafür, dass Spotter, Sichernde und Kletterer viel Platz benötigen.",
+            "Aufsichtspflicht",
+            "Kinder unter 13 Jahren müssen von einem Erwachsenen beaufsichtigt werden.",
+            "Kletterer unter 13 Jahren haben keinen Zutritt zum Yoga-Studio oder Fitness-Center.",
+            "Personen und Gegenstände fallen herunter",
+            "Weisen Sie Ihre Kinder darauf hin, nicht unterhalb eines Kletterers zu klettern oder sich dort aufzuhalten."
+        ],
+        "es": [
+            "Bienvenidos, padres.",
+            "Creemos que las personas de todas las edades y habilidades pueden disfrutar de la escalada.",
+            "Ayúdennos a fomentar un entorno enriquecedor para los niños, donde se respete a los demás y se priorice la seguridad.",
+            "Crear comunidad",
+            "Ayuden a los niños a tener éxito en un entorno compartido caminando, en lugar de correr, y tomando turnos.",
+            "Los supervisores realizan un trabajo importante",
+            "Enséñenles a sus hijos a darles mucho espacio a los supervisores, amarradores y escaladores.",
+            "Manténganse juntos",
+            "Se requiere la supervisión de un adulto para los menores de 13 años.",
+            "No se permite el ingreso de escaladores menores de 13 años en el estudio de yoga ni en el gimnasio.",
+            "Las personas y los objetos pueden caerse",
+            "Enséñenles a sus hijos a no escalar ni permanecer debajo de un escalador."
+        ],
+        "ru": [
+            "приветствуем родителей.",
+            "Мы считаем, что скалолазание должно приносить удовольствие людям всех возрастов и с разными способностями.",
+            "Помогите нам создать благоприятную среду, в которой учитываются интересы других людей и уделяется большое внимание безопасности.",
+            "создаем сообщество",
+            "Помогите детям добиться успеха в общей среде: ходите, а не бегайте, и соблюдайте очередность.",
+            "наблюдатели выполняют важную работу.",
+            "Приучите своего ребенка давать достаточно места наблюдателям, страхующим и скалолазам.",
+            "остаемся вместе",
+            "Наблюдение взрослых требуется для детей до 13 лет.",
+            "Дети младше 13 лет не допускаются в студию йоги или фитнес-центр.",
+            "люди и предметы падают",
+            "Научите своего ребенка не проползать и не висеть под другим скалолазом."
+        ],
+        "zh": [
+            "欢迎各位家长。",
+            "我们相信所有年龄和能力的人都应该喜欢攀岩。",
+            "请帮助我们为孩子们营造一个为他人着想、以安全为先的丰富环境。",
+            "建立社区",
+            "帮助孩子们在共同的环境中取得成功，走路而不是跑步，轮流行动。",
+            "侦察员的工作很重要",
+            "教你的孩子给观测者、保护员和攀登者足够的空间。",
+            "保持团结",
+            "未满 13 岁者须有成人监督。",
+            "13 岁以下的登山者不得进入瑜伽馆或健身中心。",
+            "人与物都会坠落",
+            "教您的孩子不要攀爬或在攀爬者下方闲逛。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

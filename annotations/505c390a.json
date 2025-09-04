@@ -1,0 +1,44 @@
+{
+    "image_file": "505c390a.png",
+    "transcript": [
+        "DANGER",
+        "AUTHORIZED PERSONNEL ONLY",
+        "DANGER",
+        "OVERHEAD HAZARD"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gefahr",
+            "Nur für befugte Personen",
+            "Gefahr",
+            "Gefahr durch herabfallende Gegenstände"
+        ],
+        "es": [
+            "PELIGRO",
+            "SOLO PERSONAL AUTORIZADO",
+            "PELIGRO",
+            "RIESGO DE CAÍDA DE OBJETOS"
+        ],
+        "ru": [
+            "ОПАСНО",
+            "ДОСТУП ТОЛЬКО ДЛЯ АВТОРИЗОВАННОГО ПЕРСОНАЛА",
+            "ОПАСНО",
+            "ОПАСНОСТЬ ПАДЕНИЯ ПРЕДМЕТОВ СВЕРХУ"
+        ],
+        "zh": [
+            "危险",
+            "仅限授权人员",
+            "危险",
+            "小心物品坠落"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

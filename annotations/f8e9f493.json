@@ -1,0 +1,29 @@
+{
+    "image_file": "f8e9f493.png",
+    "transcript": [
+        "PLEASE SHOWER BEFORE ENTERING POOL"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Vor Betreten des Schwimmbads bitte Duschen"
+        ],
+        "es": [
+            "DUCHÉSE ANTES DE ENTRAR A LA PISCINA"
+        ],
+        "ru": [
+            "ПРИМИТЕ ДУШ ПЕРЕД ПОСЕЩЕНИЕМ БАССЕЙНА"
+        ],
+        "zh": [
+            "入池前请先淋浴"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

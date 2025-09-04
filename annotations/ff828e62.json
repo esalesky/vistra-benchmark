@@ -1,0 +1,29 @@
+{
+    "image_file": "ff828e62.png",
+    "transcript": [
+        "NO BIKES"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Keine Fahrräder"
+        ],
+        "es": [
+            "PROHIBIDO BICICLETAS"
+        ],
+        "ru": [
+            "ПРОЕЗД НА ВЕЛОСИПЕДЕ ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "禁止骑行"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

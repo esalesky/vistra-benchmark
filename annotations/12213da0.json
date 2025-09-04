@@ -1,0 +1,34 @@
+{
+    "image_file": "12213da0.png",
+    "transcript": [
+        "NO PARKING",
+        "FIRE LANE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parken verboten",
+            "Feuerwehrzufahrt"
+        ],
+        "es": [
+            "NO ESTACIONAR",
+            "CARRIL DE BOMBEROS"
+        ],
+        "ru": [
+            "ПАРКОВКА ЗАПРЕЩЕНА",
+            "ПРОЕЗД ПОЖАРНОЙ ТЕХНИКИ"
+        ],
+        "zh": [
+            "禁止停车",
+            "消防通道"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

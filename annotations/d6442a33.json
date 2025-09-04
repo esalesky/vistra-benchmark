@@ -1,0 +1,79 @@
+{
+    "image_file": "d6442a33.png",
+    "transcript": [
+        "POOL RULES",
+        "NO DIVING",
+        "Pool For Registered Guests Only.",
+        "Swim At Your Own Risk.",
+        "No Lifeguard On Duty.",
+        "Children Must Be Accompanied by An Adult.",
+        "Pool Hours 8am to 10pm.",
+        "No Running Or Horseplay.",
+        "Glass Containers Prohibited.",
+        "Maximum Pool Depth 5'.",
+        "No Alcoholic Beverages."
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Schwimmbadregeln",
+            "Tauchen verboten",
+            "Schwimmbad darf nur von registrierten Gästen genutzt werden.",
+            "Schwimmen auf eigne Gefahr.",
+            "Kein Bademeister anwesend.",
+            "Kinder müssen von einem Erwachsenen begleitet werden.",
+            "Das Schwimmbad ist von 8:00 bis 22:00 Uhr geöffnet",
+            "Laufen und Herumtoben verboten.",
+            "Glasgefäße verboten.",
+            "Maximale Beckentiefe 1,5 Meter",
+            "Keine alkoholischen Getränke"
+        ],
+        "es": [
+            "NORMAS DE LA PISCINA",
+            "NO ZAMBULLIRSE",
+            "La piscina es solo para huéspedes registrados.",
+            "Nade a su propio riesgo.",
+            "No hay guardavidas.",
+            "Los niños deben estar acompañados por un adulto.",
+            "Horario de piscina 8 a. m. a 10 p. m.",
+            "No correr ni jugar brusco.",
+            "No se permiten contenedores de vidrio.",
+            "Profundidad máxima de la piscina 5'.",
+            "No se permiten bebidas alcohólicas."
+        ],
+        "ru": [
+            "ПРАВИЛА БАССЕЙНА",
+            "НЕ НЫРЯТЬ",
+            "Бассейн предназначен только для зарегистрированных гостей.",
+            "Плавайте на свой страх и риск.",
+            "В бассейне нет дежурных спасателей.",
+            "Дети должны находиться в бассейне в сопровождении взрослого.",
+            "Бассейн работает с 8:00 до 22:00.",
+            "Бег и шумные игры запрещены.",
+            "Стеклянные контейнеры запрещены.",
+            "Максимальная глубина бассейна 5 футов.",
+            "Алкогольные напитки запрещены."
+        ],
+        "zh": [
+            "泳池规则",
+            "禁止潜水",
+            "仅供注册客人使用。",
+            "游泳风险自负。",
+            "没有救生员值班。",
+            "儿童必须由成人陪同。",
+            "游泳池开放时间：上午 8 点至晚上 10 点。",
+            "不要奔跑或胡闹。",
+            "禁止使用玻璃容器。",
+            "最深处 5'。",
+            "禁止酒精饮料。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

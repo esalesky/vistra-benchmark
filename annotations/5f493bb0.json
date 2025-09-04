@@ -1,0 +1,29 @@
+{
+    "image_file": "5f493bb0.png",
+    "transcript": [
+        "NO FISHING CRABBING SWIMMING FROM BRIDGE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Angeln, Krabbenfischen und Schwimmen von Brücke aus verboten"
+        ],
+        "es": [
+            "NO PESCAR SACAR CANGREJOS NADAR DESDE EL PUENTE"
+        ],
+        "ru": [
+            "РЫБАЛКА, ЛОВЛЯ КРАБОВ И ПРЫЖКИ В ВОДУ С МОСТА ЗАПРЕЩЕНЫ"
+        ],
+        "zh": [
+            "禁止钓鱼，禁止在桥下游泳"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

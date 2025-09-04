@@ -1,0 +1,54 @@
+{
+    "image_file": "fdf97221.png",
+    "transcript": [
+        "CAUTION",
+        "KEEP OFF!",
+        "Do not climb in, on or occupy this container for any purpose.",
+        "Injury from slipping or falling may occur.",
+        "P31-078",
+        "FALLING HAZARD"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Abstand halten!",
+            "Klettern Sie nicht auf oder in diesen Container.",
+            "Verletzungsgefahr durch Ausrutschen oder Stürzen.",
+            "P31-078",
+            "Sturzgefahr"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "¡ALÉJESE!",
+            "No salte dentro ni encima, ni ocupe el contenedor para ningún fin.",
+            "Puede sufrir lesiones al resbalarse o caerse.",
+            "P31-078",
+            "PELIGRO DE CAÍDA"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "НЕ ПОДХОДИТЬ",
+            "Не залезайте на этот контейнер и внутрь этого контейнера ни для каких целей.",
+            "Возможны травмы из-за подскальзывания или падения.",
+            "P31-078",
+            "УГРОЗА ПАДЕНИЯ"
+        ],
+        "zh": [
+            "小心",
+            "避开！",
+            "不要爬进、爬上或出于任何目的占用此容器。",
+            "滑倒或跌落可能会造成伤害。",
+            "P31-078",
+            "跌落危险"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

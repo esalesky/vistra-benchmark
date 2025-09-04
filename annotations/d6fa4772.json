@@ -1,0 +1,34 @@
+{
+    "image_file": "d6fa4772.png",
+    "transcript": [
+        "Smoke Free Environment",
+        "No Smoking on Our Grounds or Parking Lots"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rauchfreier Raum",
+            "Rauchverbot auf unserem Gelände und den Parkplätzen"
+        ],
+        "es": [
+            "Ambiente libre de humo",
+            "Prohibido fumar en nuestras instalaciones o estacionamientos."
+        ],
+        "ru": [
+            "Среда, свободная от курения",
+            "Курение на нашей территории и парковках запрещено"
+        ],
+        "zh": [
+            "无烟环境",
+            "禁止在我们的场地和停车场吸烟"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

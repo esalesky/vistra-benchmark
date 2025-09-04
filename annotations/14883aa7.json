@@ -1,0 +1,29 @@
+{
+    "image_file": "14883aa7.png",
+    "transcript": [
+        "PASS ON LEFT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Links vorbeigehen"
+        ],
+        "es": [
+            "PASAR POR LA IZQUIERDA"
+        ],
+        "ru": [
+            "ОБХОДИТЬ СЛЕВА"
+        ],
+        "zh": [
+            "左侧通过"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

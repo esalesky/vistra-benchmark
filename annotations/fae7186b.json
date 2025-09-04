@@ -1,0 +1,64 @@
+{
+    "image_file": "fae7186b.png",
+    "transcript": [
+        "START CROSSING",
+        "Watch For Vehicles",
+        "DON'T START",
+        "Finish Crossing If Started",
+        "FLASHING",
+        "STEADY",
+        "DON'T CROSS",
+        "PUSH BUTTON TO CROSS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Losgehen",
+            "Achten Sie auf Fahrzeuge",
+            "Nicht losgehen",
+            "Wenn Sie bereits losgegangen sind, weitergehen",
+            "Blinkende Hand",
+            "Dauerhaft leuchtende Hand",
+            "Nicht überqueren",
+            "Zum Überqueren Knopf drücken"
+        ],
+        "es": [
+            "COMIENCE A CRUZAR",
+            "Cuidado con los vehículos",
+            "NO COMIENCE",
+            "Termine de cruzar si ya comenzó",
+            "PARPADEO",
+            "FIJO",
+            "NO CRUCE",
+            "PULSE EL BOTÓN PARA CRUZAR"
+        ],
+        "ru": [
+            "НАЧИНАЙТЕ ПЕРЕХОД",
+            "Следите за движением автомобилей",
+            "НЕ НАЧИНАЙТЕ ПЕРЕХОД",
+            "Закончите переход, если начали его",
+            "МИГАЕТ",
+            "ГОРИТ",
+            "НЕ ВЫПОЛНЯЙТЕ ПЕРЕХОД",
+            "НАЖМИТЕ КНОПКУ ДЛЯ ПЕРЕХОДА"
+        ],
+        "zh": [
+            "开始穿越",
+            "当心车辆",
+            "不要开始",
+            "开始后完成穿越",
+            "闪烁",
+            "稳定",
+            "不要穿越",
+            "按按钮以穿越"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

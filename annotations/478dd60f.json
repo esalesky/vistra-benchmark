@@ -1,0 +1,39 @@
+{
+    "image_file": "478dd60f.png",
+    "transcript": [
+        "WARNING:",
+        "DO NOT touch hot surfaces.",
+        "Oven surfaces are hot during and after operation."
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Warnung:",
+            "Berühren Sie keine heißen Oberflächen.",
+            "Das Ofengehäuse ist während und nach der Nutzung heiß."
+        ],
+        "es": [
+            "ADVERTENCIA:",
+            "NO toque las superficies calientes.",
+            "Las superficies del horno están calientes durante y después del uso."
+        ],
+        "ru": [
+            "ВНИМАНИЕ:",
+            "НЕ КАСАЙТЕСЬ горячих поверхностей!",
+            "Поверхности печи являются горячими во время и после работы."
+        ],
+        "zh": [
+            "警告：",
+            "不要触摸热的表面。",
+            "烘箱表面在操作期间和之后都是热的。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

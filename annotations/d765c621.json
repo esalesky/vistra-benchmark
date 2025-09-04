@@ -1,0 +1,49 @@
+{
+    "image_file": "d765c621.png",
+    "transcript": [
+        "PLEASE TAKE YOUR TRASH",
+        "Trash cans have been removed because they attract stinging and biting bees, wasps, flies and other pests. Trash removal is also expensive and reduces time spent on other conservation efforts, visitor services and park maintenance needs.",
+        "Thank you for keeping your park clean!",
+        "MARYLAND DEPARTMENT OF NATURAL RESOURCES",
+        "MARYLAND PARK SERVICE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nehmen Sie Ihren Müll mit",
+            "Die Mülleimer wurden entfernt, weil sie Bienen, Wespen, Fliegen und andere Tiere anziehen. Die Müllbeseitigung ist außerdem kosten- und zeitintensiv – Zeit, die uns dann für weitere Naturschutzmaßnahmen, Besucherdienste und die Instandhaltung des Parks fehlt.",
+            "Danke, dass Sie uns beim Sauberhalten des Parks unterstützen!",
+            "MARYLAND DEPARTMENT OF NATURAL RESOURCES",
+            "MARYLAND PARK SERVICE"
+        ],
+        "es": [
+            "LLÉVESE SUS DESECHOS",
+            "Se quitaron los cubos de basura porque atraen abejas, avispas, moscas y otros insectos que pican. Además, el retiro de basura es costoso y reduce el tiempo disponible para otros esfuerzos de conservación, servicios a los visitantes y necesidades de mantenimiento del parque.",
+            "¡Gracias por mantener limpio el parque!",
+            "DEPARTAMENTO DE RECURSOS NATURALES DE MARYLAND",
+            "SERVICIO DE PARQUES DE MARYLAND"
+        ],
+        "ru": [
+            "ЗАБЕРИТЕ СВОЙ МУСОР С СОБОЙ",
+            "Мы убрали мусорные контейнеры, потому что они привлекают жалящих и кусающих пчел, ос, мух и других вредителей. Кроме того, уборка мусора требует больших расходов и сокращает время, затрачиваемое на другие мероприятия, обслуживание посетителей и содержание парка.",
+            "Спасибо, что поддерживаете чистоту нашего парка!",
+            "MARYLAND DEPARTMENT OF NATURAL RESOURCES",
+            "MARYLAND PARK SERVICE"
+        ],
+        "zh": [
+            "请带走垃圾",
+            "垃圾桶被移除了，因为它们会吸引叮人的蜜蜂、黄蜂、苍蝇和其他害虫。清除垃圾也很昂贵，减少了花在其他保护工作、游客服务和公园维护需求上的时间。",
+            "感谢您保持公园清洁！",
+            "马里兰州自然资源部",
+            "马里兰公园管理局"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

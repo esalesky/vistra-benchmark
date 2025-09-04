@@ -1,0 +1,54 @@
+{
+    "image_file": "7480a4db.png",
+    "transcript": [
+        "Keep right",
+        "No FLASH photography",
+        "Use handrails",
+        "Quiet please",
+        "Do not stop on stairs",
+        "Elevator available"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Rechts halten",
+            "Fotografieren mit Blitzlicht verboten",
+            "Handläufe verwenden",
+            "Ruhe bitte",
+            "Auf Treppen nicht stehen bleiben",
+            "Aufzug verfügbar"
+        ],
+        "es": [
+            "Circule por la derecha",
+            "Fotos SIN flash",
+            "Use los pasamanos",
+            "Guarde silencio",
+            "No se detenga en las escaleras",
+            "Ascensor disponible"
+        ],
+        "ru": [
+            "Держитесь правой стороны",
+            "Фотографируйте БЕЗ ВСПЫШКИ",
+            "Используйтесь поручни",
+            "Соблюдайте тишину",
+            "Не останавливайтесь на лестнице",
+            "Работает лифт"
+        ],
+        "zh": [
+            "靠右行驶",
+            "请勿使用闪光灯",
+            "使用扶手",
+            "请保持安静",
+            "不要在楼梯上停留",
+            "电梯可用"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

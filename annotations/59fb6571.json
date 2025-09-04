@@ -1,0 +1,44 @@
+{
+    "image_file": "59fb6571.png",
+    "transcript": [
+        "AUTHORIZED VEHICLES ONLY",
+        "NO BICYCLE RIDING",
+        "NO SKATEBOARDING",
+        "NO DOGS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nur berechtigte Fahrzeuge",
+            "Keine Fahrräder",
+            "Keine Skateboards",
+            "Keine Hunde"
+        ],
+        "es": [
+            "SOLO VEHÍCULOS AUTORIZADOS",
+            "NO ANDAR EN BICICLETA",
+            "NO ANDAR EN SKATE",
+            "NO INGRESAR CON PERROS"
+        ],
+        "ru": [
+            "ТОЛЬКО АВТОМОБИЛИ С РАЗРЕШЕНИЯМИ",
+            "ПРОЕЗД НА ВЕЛОСИПЕДЕ ЗАПРЕЩЕН",
+            "ПРОЕЗД НА СКЕЙТБОРДЕ ЗАПРЕЩЕН",
+            "ПРОХОД С СОБАКАМИ ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "仅限特许车辆",
+            "禁止骑自行车",
+            "禁止滑板",
+            "禁止遛狗"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

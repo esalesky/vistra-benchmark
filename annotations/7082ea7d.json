@@ -1,0 +1,34 @@
+{
+    "image_file": "7082ea7d.png",
+    "transcript": [
+        "DELAYS AHEAD BE PREPARED TO STOP",
+        "SPEED LIMIT 45"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Staugefahr",
+            "Geschwindigkeitsbeschränkung"
+        ],
+        "es": [
+            "DEMORAS MÁS ADELANTE PREPÁRESE PARA DETENERSE",
+            "LÍMITE DE VELOCIDAD 45"
+        ],
+        "ru": [
+            "ВПЕРЕДИ ПРОБКА ПРИГОТОВЬТЕСЬ К ОСТАНОВКЕ",
+            "ОГРАНИЧЕНИЕ СКОРОСТИ 45"
+        ],
+        "zh": [
+            "前方延误，准备停车",
+            "限速 45"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

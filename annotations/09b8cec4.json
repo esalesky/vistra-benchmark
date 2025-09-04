@@ -1,0 +1,44 @@
+{
+    "image_file": "09b8cec4.png",
+    "transcript": [
+        "TURNING VEHICLES",
+        "YIELD TO",
+        "NO STOPPING",
+        "TOW AWAY ZONE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Abbiegende Fahrzeuge",
+            "Nur für",
+            "Halten verboten",
+            "Fahrzeuge werden abgeschleppt"
+        ],
+        "es": [
+            "AL GIRAR",
+            "DAR PASO A",
+            "NO DETENERSE",
+            "ZONA DE REMOLQUE"
+        ],
+        "ru": [
+            "ПРИ ПОВОРОТЕ",
+            "УСТУПАЙТЕ ДОРОГУ",
+            "ОСТАНОВКА ЗАПРЕЩЕНА",
+            "РАБОТАЕТ ЭВАКУАТОР"
+        ],
+        "zh": [
+            "转弯车辆",
+            "让路给",
+            "禁止停车",
+            "违者拖走"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

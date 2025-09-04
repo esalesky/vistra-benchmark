@@ -1,0 +1,29 @@
+{
+    "image_file": "5eeb5fc6.png",
+    "transcript": [
+        "PLEASE WAIT To Be SEATED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warten Sie, bis Ihnen ein Platz zugewiesen wird"
+        ],
+        "es": [
+            "ESPERE A SER ATENDIDO"
+        ],
+        "ru": [
+            "ОЖИДАЙТЕ СВОБОДНОГО МЕСТА ЗДЕСЬ"
+        ],
+        "zh": [
+            "请稍候入座"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

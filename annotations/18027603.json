@@ -1,0 +1,29 @@
+{
+    "image_file": "18027603.png",
+    "transcript": [
+        "NO FOOD, DRINKS SMOKING OR PETS INSIDE THIS BUILDING"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Lebensmittel, Getränke, Zigaretten oder Haustiere sind in diesem Gebäude nicht erlaubt"
+        ],
+        "es": [
+            "NO SE PERMITEN ALIMENTOS, BEBIDAS, MASCOTAS NI FUMAR DENTRO"
+        ],
+        "ru": [
+            "ПРОНОСИТЬ ЕДУ, НАПИТКИ, КУРИТЬ И ПРОХОДИТЬ С ДОМАШНИМИ ЖИВОТНЫМИ ВНУТРЬ ЗДАНИЯ ЗАПРЕЩЕНО"
+        ],
+        "zh": [
+            "本大楼禁止饮食、吸烟或宠物进入"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

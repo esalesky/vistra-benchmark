@@ -1,0 +1,34 @@
+{
+    "image_file": "7c925fc5.png",
+    "transcript": [
+        "NO PETS ALLOWED",
+        "SERVICE DOGS ONLY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Keine Tiere",
+            "Nur Diensthunde"
+        ],
+        "es": [
+            "NO SE PERMITEN MASCOTAS",
+            "SOLO ANIMALES DE SERVICIO"
+        ],
+        "ru": [
+            "ПРОХОД С ДОМАШНИМИ ЖИВОТНЫМИ ЗАПРЕЩЕН",
+            "ТОЛЬКО СЛУЖЕБНЫЕ СОБАКИ"
+        ],
+        "zh": [
+            "宠物禁止入内",
+            "仅限服务犬"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

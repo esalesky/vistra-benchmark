@@ -1,0 +1,34 @@
+{
+    "image_file": "9f70f25d.png",
+    "transcript": [
+        "ONLINE ORDER PICK UP",
+        "THIS WAY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Abholung von Online-Bestellungen",
+            "Hier entlang"
+        ],
+        "es": [
+            "RECOGIDA DE PEDIDOS EN LÍNEA",
+            "POR AQUÍ"
+        ],
+        "ru": [
+            "ПОЛУЧЕНИЕ ОНЛАЙН-ЗАКАЗОВ",
+            "ЗДЕСЬ"
+        ],
+        "zh": [
+            "网上订单提货",
+            "这边走"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image_file": "1023dace.png",
+    "transcript": [
+        "LOW BRIDGE AHEAD",
+        "11'4\"",
+        "USE COLUMBUS AVE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Vorsicht niedrige Brücke",
+            "3,45 Meter",
+            "Benutzen Sie die Columbus Ave"
+        ],
+        "es": [
+            "PUENTE BAJO ADELANTE",
+            "11'14\"",
+            "CIRCULE POR AV. COLUMBUS"
+        ],
+        "ru": [
+            "ВПЕРЕДИ НИЗКИЙ МОСТ",
+            "3 М 45 СМ",
+            "ПРОЕЗЖАЙТЕ ПО COLUMBUS AVE"
+        ],
+        "zh": [
+            "前方桥低",
+            "11 英尺 4 英寸",
+            "绕行哥伦布大道"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

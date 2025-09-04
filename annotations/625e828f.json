@@ -1,0 +1,39 @@
+{
+    "image_file": "625e828f.png",
+    "transcript": [
+        "WARNING",
+        "ELEVATORS SHALL NOT BE USED IN THE EVENT OF FIRE",
+        "USE MARKED EXIT STAIRWAYS"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Warnung",
+            "Aufzüge dürfen im Brandfall nicht benutzt werden",
+            "Benutzen Sie die gekennzeichneten Fluchttreppen"
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "NO USE LOS ELEVADORES EN CASO DE INCENDIO",
+            "UTILICE LAS ESCALERAS DE SALIDA SEÑALIZADAS"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "В СЛУЧАЕ ПОЖАРА ЛИФТАМИ ПОЛЬЗОВАТЬСЯ НЕЛЬЗЯ",
+            "ИСПОЛЬЗУЙТЕ ЛЕСТНИЦЫ С ОБОЗНАЧЕННЫМИ ВЫХОДАМИ"
+        ],
+        "zh": [
+            "警告",
+            "发生火灾时，不得使用电梯",
+            "使用有标志的出口楼梯"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

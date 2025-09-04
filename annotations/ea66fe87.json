@@ -1,0 +1,29 @@
+{
+    "image_file": "ea66fe87.png",
+    "transcript": [
+        "PUSH BUTTON FOR AUDIBLE SIGNAL"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Drucktaste für akustisches Signal"
+        ],
+        "es": [
+            "PULSE EL BOTÓN PARA SEÑAL AUDIBLE"
+        ],
+        "ru": [
+            "НАЖМИТЕ НА КНОПКУ, ЧТОБЫ УСЛЫШАТЬ ЗВУКОВОЙ СИГНАЛ"
+        ],
+        "zh": [
+            "声音信号按钮"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

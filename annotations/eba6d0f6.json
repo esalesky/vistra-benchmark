@@ -1,0 +1,29 @@
+{
+    "image_file": "eba6d0f6.png",
+    "transcript": [
+        "TRAFFIC FROM RIGHT DOES NOT STOP"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rechts vor links"
+        ],
+        "es": [
+            "EL TRÁFICO DE LA DERECHA NO SE DETIENE"
+        ],
+        "ru": [
+            "ДВИЖУЩИЙСЯ ТРАНСПОРТ СПРАВА НЕ ОСТАНАВЛИВАЕТСЯ"
+        ],
+        "zh": [
+            "右边的车辆不停车"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

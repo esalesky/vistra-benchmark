@@ -1,0 +1,39 @@
+{
+    "image_file": "61442430.png",
+    "transcript": [
+        "1 HR PARKING",
+        "8:00 AM TO 6:00 PM",
+        "EXCEPT SUNDAYS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "1 Stunde Parken",
+            "8:00 bis 18:00 Uhr",
+            "Außer sonntags"
+        ],
+        "es": [
+            "1 HORA ESTACIONAMIENTO",
+            "8:00 a. m. a 6:00 p. m.",
+            "EXCEPTO DOMINGOS"
+        ],
+        "ru": [
+            "ПАРКОВКА ПРОДОЛЖИТЕЛЬНОСТЬЮ 1 ЧАС",
+            "С 8:00 до 18:00",
+            "КРОМЕ ВОСКРЕСЕНЬЯ"
+        ],
+        "zh": [
+            "1 小时停车",
+            "上午 8:00 至下午 6:00",
+            "星期天与节假日除外"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

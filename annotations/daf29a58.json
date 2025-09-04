@@ -1,0 +1,34 @@
+{
+    "image_file": "daf29a58.png",
+    "transcript": [
+        "going to work",
+        "going to work to pick up my paycheck"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Zur Arbeit gehen",
+            "Zur Arbeit gehen, um meinen Gehaltscheck abzuholen"
+        ],
+        "es": [
+            "Yendo al trabajo",
+            "Yendo al trabajo a buscar mi cheque"
+        ],
+        "ru": [
+            "собираюсь на работу",
+            "собираюсь на работу, чтобы забрать зарплату"
+        ],
+        "zh": [
+            "上班",
+            "上班去拿薪水"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

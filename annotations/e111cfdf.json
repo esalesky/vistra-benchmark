@@ -1,0 +1,34 @@
+{
+    "image_file": "e111cfdf.png",
+    "transcript": [
+        "NO CASH PAYMENT",
+        "CREDIT CARD AND CONTACTLESS PAYMENT ONLY AT THIS TIME"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Keine Barzahlung",
+            "Zur Zeit nur Kreditkartenzahlungen oder kontaktloses Bezahlen"
+        ],
+        "es": [
+            "NO SE ACEPTAN PAGOS EN EFECTIVO",
+            "SOLO TARJETA DE CRÉDITO Y PAGO SIN CONTACTO EN ESTE MOMENTO"
+        ],
+        "ru": [
+            "ОПЛАТА НАЛИЧНЫМИ НЕ ПРИНИМАЕТСЯ",
+            "СЕЙЧАС ПРИНИМАЮТСЯ ТОЛЬКО КРЕДИТНЫЕ КАРТЫ И БЕСКОНТАКТНАЯ ОПЛАТА"
+        ],
+        "zh": [
+            "无现金支付",
+            "只能使用信用卡和非接触式付款"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image_file": "847cad0d.png",
+    "transcript": [
+        "DANGER",
+        "UNAUTHORIZED PERSONNEL",
+        "KEEP OUT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gefahr",
+            "Kein Zugang für",
+            "unbefugtes Personal"
+        ],
+        "es": [
+            "PELIGRO",
+            "PERSONAL NO AUTORIZADO",
+            "PROHIBIDO PASAR"
+        ],
+        "ru": [
+            "ОПАСНО",
+            "ПОСТОРОННИМ",
+            "ВХОД ВОСПРЕЩЕН"
+        ],
+        "zh": [
+            "危险",
+            "未被授权的人员",
+            "禁止入内"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "67ed001c.png",
+    "transcript": [
+        "Caution",
+        "Watch Your Step"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Vorsicht",
+            "Treppe"
+        ],
+        "es": [
+            "Precaución",
+            "Cuidado donde pisa"
+        ],
+        "ru": [
+            "Внимание",
+            "Соблюдайте осторожность"
+        ],
+        "zh": [
+            "小心",
+            "注意脚下"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

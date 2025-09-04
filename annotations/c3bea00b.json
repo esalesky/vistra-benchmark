@@ -1,0 +1,39 @@
+{
+    "image_file": "c3bea00b.png",
+    "transcript": [
+        "FLEXIBLE HOURS",
+        "SELF SERVE LAUNDROMAT",
+        "HIGH CAPACITY WASHERS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Flexible Waschzeiten",
+            "SB-Waschsalon",
+            "Großraumwaschmaschinen"
+        ],
+        "es": [
+            "HORARIO FLEXIBLE",
+            "LAVANDERÍA AUTOSERVICIO",
+            "LAVADORAS DE ALTA CAPACIDAD"
+        ],
+        "ru": [
+            "ГИБКИЕ РАБОЧИЕ ЧАСЫ",
+            "ПРАЧЕЧНАЯ САМООБСЛУЖИВАНИЯ",
+            "СТИРАЛЬНЫЕ МАШИНЫ БОЛЬШОЙ ЕМКОСТИ"
+        ],
+        "zh": [
+            "弹性工作时间",
+            "自助洗衣店",
+            "高容量洗衣机"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

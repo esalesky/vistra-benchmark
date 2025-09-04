@@ -1,0 +1,34 @@
+{
+    "image_file": "f27ecdf9.png",
+    "transcript": [
+        "MALE PRIVILEGE IS A MYTH",
+        "CHANGE MY MIND"
+    ],
+    "category": null,
+    "height": 759,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Männerrechte sind ein Mythos",
+            "Überzeugen Sie mich vom Gegenteil"
+        ],
+        "es": [
+            "EL PRIVILEGIO MASCULINO ES UN MITO",
+            "CAMBIA MI OPINIÓN"
+        ],
+        "ru": [
+            "ПРИВИЛЕГИИ МУЖЧИН — ЭТО МИФ",
+            "ИЗМЕНИТЕ СВОЕ МНЕНИЕ"
+        ],
+        "zh": [
+            "男性特权是一个神话",
+            "改变主意"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

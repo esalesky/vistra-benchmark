@@ -1,0 +1,34 @@
+{
+    "image_file": "70bf35e0.png",
+    "transcript": [
+        "ALL TRAFFIC",
+        "EXCEPT BIKES"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gesamter Verkehr",
+            "außer Fahrrädern"
+        ],
+        "es": [
+            "TODO EL TRÁFICO",
+            "EXCEPTO BICICLETAS"
+        ],
+        "ru": [
+            "ВСЕ ТРАНСПОРТНЫЕ СРЕДСТВА",
+            "КРОМЕ ВЕЛОСИПЕДОВ"
+        ],
+        "zh": [
+            "全部交通",
+            "自行车除外"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

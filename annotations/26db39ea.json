@@ -1,0 +1,34 @@
+{
+    "image_file": "26db39ea.png",
+    "transcript": [
+        "PLEASE REMOVE CELL PHONE",
+        "PLACE ON TABLE PRIOR TO SECURITY SCREENING"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Mobiltelefon ablegen",
+            "Legen Sie es vor der Sicherheitskontrolle auf dem Tisch ab"
+        ],
+        "es": [
+            "NO PASE CON EL CELULAR",
+            "DÉJELO SOBRE LA MESA ANTES DEL CONTROL DE SEGURIDAD"
+        ],
+        "ru": [
+            "ДОСТАНЬТЕ МОБИЛЬНЫЙ ТЕЛЕФОН",
+            "ПОЛОЖИТЕ ЕГО НА СТОЛ ПЕРЕД ПРОВЕРКОЙ БЕЗОПАСНОСТИ"
+        ],
+        "zh": [
+            "请取出手机",
+            "放在桌子上再做安全检查"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "a283eeb3.png",
+    "transcript": [
+        "METERS IN OPERATION",
+        "DAYS-EVENINGS AND WEEKENDS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parkschein erforderlich",
+            "Tagsüber, abends und an Wochenenden"
+        ],
+        "es": [
+            "PARQUÍMETROS EN FUNCIONAMIENTO",
+            "DÍAS, NOCHES Y FINES DE SEMANA"
+        ],
+        "ru": [
+            "РАБОТАЮТ ПАРКОВОЧНЫЕ АВТОМАТЫ",
+            "ПО ВЕЧЕРАМ БУДНИХ ДНЕЙ И В ВЫХОДНЫЕ"
+        ],
+        "zh": [
+            "计费器运行中",
+            "白天、晚上和周末"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

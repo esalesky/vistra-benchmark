@@ -1,0 +1,39 @@
+{
+    "image_file": "b2878c12.png",
+    "transcript": [
+        "WARNING",
+        "24 HOUR VIDEO SURVEILLANCE",
+        "NO TRESPASSING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warnung",
+            "24 Stunden Videoüberwachung",
+            "Betreten verboten"
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "VIDEOVIGILANCIA 24 HORAS",
+            "NO PASAR"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "КРУГЛОСУТОЧНОЕ ВИДЕОНАБЛЮДЕНИЕ",
+            "ПРОХОД ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "警告",
+            "24 小时视频监控",
+            "禁止侵入"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

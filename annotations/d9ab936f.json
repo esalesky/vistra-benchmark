@@ -1,0 +1,34 @@
+{
+    "image_file": "d9ab936f.png",
+    "transcript": [
+        "NO TURN ON RED",
+        "7AM-7PM"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Bei Rot nicht rechts abbiegen",
+            "7:00 bis 19:00 Uhr"
+        ],
+        "es": [
+            "NO GIRAR CON LUZ ROJA",
+            "7 a. m.-7 p. m."
+        ],
+        "ru": [
+            "ПОВОРОТ НА КРАСНЫЙ ЗАПРЕЩЕН",
+            "07:00-19:00"
+        ],
+        "zh": [
+            "红灯时不能转弯",
+            "上午 7 点 - 下午 7 点"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

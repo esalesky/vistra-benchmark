@@ -1,0 +1,29 @@
+{
+    "image_file": "f3814797.png",
+    "transcript": [
+        "Line Starts Here"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Anfang der Warteschlange"
+        ],
+        "es": [
+            "La fila comienza aquí"
+        ],
+        "ru": [
+            "Очередь начинается здесь"
+        ],
+        "zh": [
+            "从这里开始排队"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

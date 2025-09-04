@@ -1,0 +1,39 @@
+{
+    "image_file": "20522522.png",
+    "transcript": [
+        "COMPOST",
+        "PAPER TOWELS ONLY",
+        "We are composting to reduce waste."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Kompost",
+            "Nur Papierhandtücher",
+            "Weniger Abfall durch Kompostierung."
+        ],
+        "es": [
+            "COMPOST",
+            "SOLO TOALLAS DE PAPEL",
+            "Hacemos compost para reducir el desperdicio."
+        ],
+        "ru": [
+            "КОМПОСТ",
+            "ТОЛЬКО БУМАЖНЫЕ ПОЛОТЕНЦА",
+            "Мы используем бумажные для изготовления компоста, чтобы уменьшить объем отходов."
+        ],
+        "zh": [
+            "堆肥",
+            "仅纸巾",
+            "我们正在堆肥以减少浪费。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

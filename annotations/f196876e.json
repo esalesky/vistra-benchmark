@@ -1,0 +1,44 @@
+{
+    "image_file": "f196876e.png",
+    "transcript": [
+        "WARNING",
+        "NO LIFEGUARD ON DUTY",
+        "SWIM AT YOUR OWN RISK",
+        "EAST LYME PARKS & RECREATION"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warnung",
+            "Keine Rettungsschwimmer anwesend",
+            "Schwimmen auf eigene Gefahr",
+            "EAST LYME PARKS & RECREATION"
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "ZONA SIN GUARDAVIDAS",
+            "NADE A SU PROPIO RIESGO",
+            "PARQUES Y RECREACIÓN DE EAST LYME"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "ДЕЖУРНОГО СПАСАТЕЛЯ НЕТ",
+            "ПЛАВАЙТЕ НА СВОЙ СОБСТВЕННЫЙ РИСК",
+            "EAST LYME PARKS & RECREATION"
+        ],
+        "zh": [
+            "警告",
+            "没有救生员值班",
+            "游泳风险自负",
+            "东莱姆公园和娱乐部门"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

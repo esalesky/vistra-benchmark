@@ -1,0 +1,29 @@
+{
+    "image_file": "66405808.png",
+    "transcript": [
+        "ESCALATORS TO UPPER LEVEL ONLY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rolltreppen nur in die obere Etage"
+        ],
+        "es": [
+            "ESCALERA MECÁNICA SOLO HASTA EL NIVEL SUPERIOR"
+        ],
+        "ru": [
+            "ЭСКАЛАТОРЫ ТОЛЬКО НА ВЕРХНИЙ УРОВЕНЬ"
+        ],
+        "zh": [
+            "扶梯只能到楼上"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "f7901adc.png",
+    "transcript": [
+        "SHARE THE ROAD"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Fahrradverkehr"
+        ],
+        "es": [
+            "COMPARTIR LA CALLE"
+        ],
+        "ru": [
+            "ПРЕДОСТАВЬТЕ МЕСТО НА ДОРОГЕ ВЕЛОСИПЕДИСТАМ"
+        ],
+        "zh": [
+            "共享道路"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "image_file": "5209efe9.png",
+    "transcript": [
+        "Faculty Hangtag & Evening/Weekend Metered Parking Area",
+        "FACULTY HANGTAGS ARE ACCEPTED AT ALL TIMES",
+        "Pay to park meters may be used only during the following times:",
+        "Mon.-Fri. 3:45 P.M.-11:00 PM.",
+        "Saturday & Sunday all day",
+        "Violators are subject to fines and/or immobilization."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Fakultätsparkausweis & Gebührenpflichtiger Parkplatz am Abend/Wochenende",
+            "Fakultätsparkausweise sind immer gültig",
+            "Die Parkscheinautomaten sollten nur zu folgenden Zeiten benutzt werden:",
+            "Montag bis Freitag 15:45 bis 23:00 Uhr",
+            "Samstags und sonntags ganztägig",
+            "Verstöße werden mit Geldbußen oder Wegfahrsperren geahndet."
+        ],
+        "es": [
+            "Zona de estacionamiento para docentes con cartel y tardes/fines de semana con parquímetro",
+            "LOS CARTELES DE DOCENTE SE ACEPTAN EN TODO MOMENTO",
+            "El pago de parquímetros solo puede usarse en las siguientes horas:",
+            "Lun.-Vie. 3:45 p. m.-11:00 p. m.",
+            "Sábados y domingos todo el día",
+            "Se podrá multar o inmovilizar a los infractores."
+        ],
+        "ru": [
+            "Зона платной парковки для владельцев преподавательских жетонов, а также парковки в вечернее время и по выходным",
+            "ПРЕПОДАВАТЕЛЬСКИЕ ЖЕТОНЫ ПРИНИМАЮТСЯ В ЛЮБОЕ ВРЕМЯ",
+            "Оплата с помощью парковочных автоматов может использоваться только в указанное ниже время:",
+            "С понедельника по пятницу с 15:45 до 23:00",
+            "По субботам и воскресеньям — в течение всего дня",
+            "На нарушителей будет наложен штраф и/или их транспортные средства будут заблокированы."
+        ],
+        "zh": [
+            "特许吊牌和晚上/周末收费停车场",
+            "任何时候都接受特许吊牌",
+            "停车收费表只可在下列时间使用：",
+            "周一至周五。下午 3:45 - 11:00",
+            "星期六和星期日全天",
+            "违规者将被处以罚款和/或监禁。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

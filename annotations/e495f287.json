@@ -1,0 +1,29 @@
+{
+    "image_file": "e495f287.png",
+    "transcript": [
+        "NO TURN ON RED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Bei Rot nicht abbiegen"
+        ],
+        "es": [
+            "NO GIRAR CON LUZ ROJA"
+        ],
+        "ru": [
+            "ПОВОРОТ НА КРАСНЫЙ ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "红灯时不能转弯"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

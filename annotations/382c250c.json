@@ -1,0 +1,29 @@
+{
+    "image_file": "382c250c.png",
+    "transcript": [
+        "LEAVING PUBLIC DRINKING WATER PROTECTION AREA"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Sie verlassen das öffentliche Trinkwasserschutzgebiet"
+        ],
+        "es": [
+            "SALIENDO DE ZONA DE PROTECCIÓN DE AGUA POTABLE"
+        ],
+        "ru": [
+            "ВЫЕЗД ИЗ ЗОНЫ ОХРАНЫ ПИТЬЕВОЙ ВОДЫ ОБЩЕГО ПОЛЬЗОВАНИЯ"
+        ],
+        "zh": [
+            "离开公共饮水保护区"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

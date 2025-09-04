@@ -1,0 +1,34 @@
+{
+    "image_file": "b254c0d7.png",
+    "transcript": [
+        "PRIVATE PROPERTY",
+        "KEEP OUT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Privatgrundstück",
+            "Betreten verboten"
+        ],
+        "es": [
+            "PROPIEDAD PRIVADA",
+            "NO PASAR"
+        ],
+        "ru": [
+            "ЧАСТНАЯ СОБСТВЕННОСТЬ",
+            "НЕ ВХОДИТЬ"
+        ],
+        "zh": [
+            "私有财产",
+            "禁止入内"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "image_file": "ff5aed57.png",
+    "transcript": [
+        "NO CELL PHONE USAGE BEFORE OR DURING THE SHOW.",
+        "VIOLATORS WILL BE EJECTED.",
+        "The following actions on your cell phone are prohibited before or during the show:",
+        "-TEXTING",
+        "-TALKING ON YOUR PHONE",
+        "-TAKING PHOTOS",
+        "-TAKING VIDEOS",
+        "-SOCIAL MEDIA OF ANY KIND",
+        "NO WARNINGS WILL BE GIVEN.",
+        "NO REFUNDS WILL BE GIVEN."
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Nutzung von Mobiltelefonen vor und während der Veranstaltung untersagt.",
+            "Zuwiderhandelnde Personen werden dem Veranstaltungsort verwiesen.",
+            "Folgendes ist auf Ihrem Mobiltelefon vor oder während der Veranstaltung untersagt:",
+            "– Textnachrichten",
+            "– Telefonieren",
+            "– Fotografieren",
+            "– Aufnehmen von Videos",
+            "– Soziale Medien jeglicher Art",
+            "Keine Verwarnungen.",
+            "Keine Rückerstattungen."
+        ],
+        "es": [
+            "NO SE PERMITE EL USO DE TELÉFONOS MÓVILES ANTES O DURANTE EL ESPECTÁCULO.",
+            "SE EXPULSARÁ A LOS INFRACTORES.",
+            "Las siguientes acciones en su teléfono móvil están prohibidas antes o durante el espectáculo:",
+            "-ENVIAR MENSAJES DE TEXTO",
+            "-HABLAR POR TELÉFONO",
+            "-TOMAR FOTOS",
+            "-GRABAR VIDEOS",
+            "-VER LAS REDES SOCIALES",
+            "NO SE DARÁ AVISO PREVIO.",
+            "NO SE OTORGARÁN REEMBOLSOS."
+        ],
+        "ru": [
+            "ПОЛЬЗОВАТЬСЯ МОБИЛЬНЫМ ТЕЛЕФОНОМ ДО НАЧАЛА ПРЕДСТАВЛЕНИЯ И ВО ВРЕМЯ ПРЕДСТАВЛЕНИЯ ЗАПРЕЩЕНО.",
+            "НАРУШИТЕЛИ БУДУТ УДАЛЕНЫ ИЗ ЗАЛА.",
+            "До начала представления и во время представления запрещено:",
+            "- ОТПРАВЛЯТЬ СООБЩЕНИЯ",
+            "- ГОВОРИТЬ ПО ТЕЛЕФОНУ",
+            "- ДЕЛАТЬ ФОТОГРАФИИ",
+            "- СНИМАТЬ ВИДЕО",
+            "- ДЕЛАТЬ ЛЮБЫЕ ПУБЛИКАЦИИ В СОЦИАЛЬНЫХ СЕТЯХ",
+            "ПРЕДВАРИТЕЛЬНОГО ПРЕДУПРЕЖДЕНИЯ НЕ БУДЕТ.",
+            "СТОИМОСТЬ БИЛЕТА ВОЗМЕЩЕНА НЕ БУДЕТ."
+        ],
+        "zh": [
+            "演出前或演出期间禁止使用手机。",
+            "违规者将被驱逐。",
+            "在演出前或演出期间，禁止使用手机进行以下操作：",
+            "-发短信",
+            "-接电话",
+            "-拍照",
+            "-拍视频",
+            "-使用任何形式的社交媒体",
+            "不予警告",
+            "恕不退款"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

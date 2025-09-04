@@ -1,0 +1,34 @@
+{
+    "image_file": "be308ac4.png",
+    "transcript": [
+        "No food or drink is allowed in this area.",
+        "Thank you."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Keine Speisen oder Getränke in diesem Bereich.",
+            "Vielen Dank."
+        ],
+        "es": [
+            "No se permiten alimentos ni bebidas en esta área.",
+            "Gracias."
+        ],
+        "ru": [
+            "Запрещается проносить с собой еду и напитки.",
+            "Спасибо."
+        ],
+        "zh": [
+            "本区域禁止携带食物或饮料。",
+            "谢谢。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

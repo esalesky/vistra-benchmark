@@ -1,0 +1,44 @@
+{
+    "image_file": "b0c7340f.png",
+    "transcript": [
+        "BE CONSIDERATE",
+        "Keep your dog leashed",
+        "Pick up your dog's poo",
+        "NATIONAL PARKS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nehmen Sie Rücksicht",
+            "Leinen Sie Ihren Hund an",
+            "Entfernen Sie die Hinterlassenschaften Ihres Hundes",
+            "National Parks"
+        ],
+        "es": [
+            "SÉ RESPETUOSO",
+            "Lleva a tu perro con correa",
+            "Recoge las heces de tu perro",
+            "PARQUES NACIONALES"
+        ],
+        "ru": [
+            "БУДЬТЕ ВЕЖЛИВЫ",
+            "Держите собаку на поводке",
+            "Убирайте за собакой",
+            "НАЦИОНАЛЬНЫЕ ПАРКИ"
+        ],
+        "zh": [
+            "为别人着想",
+            "拴住您的狗",
+            "捡起您的狗的粪便",
+            "国家公园"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

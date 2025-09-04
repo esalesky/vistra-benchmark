@@ -1,0 +1,29 @@
+{
+    "image_file": "254888f4.png",
+    "transcript": [
+        "PUSH BUTTON TO CROSS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Zum Überqueren Knopf drücken"
+        ],
+        "es": [
+            "PRESIONE EL BOTÓN PARA CRUZAR"
+        ],
+        "ru": [
+            "ДЛЯ ПЕРЕХОДА НАЖМИТЕ НА КНОПКУ"
+        ],
+        "zh": [
+            "过街请按按钮"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "no"
+    }
+}

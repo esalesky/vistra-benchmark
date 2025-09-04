@@ -1,0 +1,29 @@
+{
+    "image_file": "0719e30e.png",
+    "transcript": [
+        "NO JAYWALKING"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Überqueren der Straße verboten"
+        ],
+        "es": [
+            "CRUCE POR LA SENDA PEATONAL"
+        ],
+        "ru": [
+            "ПЕРЕХОД ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "禁闯红灯"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

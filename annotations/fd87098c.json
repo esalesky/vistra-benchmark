@@ -1,0 +1,29 @@
+{
+    "image_file": "fd87098c.png",
+    "transcript": [
+        "Scan the QR code to watch a video on this garden and why it matters"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Scannen Sie den QR-Code, um ein Video über diesen Garten und seine Bedeutung anzusehen."
+        ],
+        "es": [
+            "Escanee el código QR para ver un video sobre este jardín y su importancia"
+        ],
+        "ru": [
+            "Отсканируйте QR-код, чтобы посмотреть видео об этом саде и о том, почему он важен"
+        ],
+        "zh": [
+            "扫描二维码观看这个花园的视频，了解它的重要性"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

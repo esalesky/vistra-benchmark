@@ -1,0 +1,39 @@
+{
+    "image_file": "77667af6.png",
+    "transcript": [
+        "RESTRICTED AREA",
+        "DO NOT ENTER",
+        "AUTHORIZED PERSONNEL ONLY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Sperrgebiet",
+            "Zugang verboten",
+            "Nur für befugte Personen"
+        ],
+        "es": [
+            "ÁREA RESTRINGIDA",
+            "NO INGRESAR",
+            "SOLO PERSONAL AUTORIZADO"
+        ],
+        "ru": [
+            "ЗОНА С ОГРАНИЧЕННЫМ ДОСТУПОМ",
+            "НЕ ВХОДИТЬ",
+            "ТОЛЬКО ДЛЯ ПРОХОДА АВТОРИЗОВАННОГО ПЕРСОНАЛА"
+        ],
+        "zh": [
+            "限制区域",
+            "禁止进入",
+            "仅限授权人员"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

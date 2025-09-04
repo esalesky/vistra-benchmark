@@ -1,0 +1,29 @@
+{
+    "image_file": "8899a1fe.png",
+    "transcript": [
+        "TWO WAY TRAFFIC"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gegenverkehr"
+        ],
+        "es": [
+            "DOBLE VÍA"
+        ],
+        "ru": [
+            "ДВУСТОРОННЕЕ ДВИЖЕНИЕ"
+        ],
+        "zh": [
+            "双向交通"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "94409735.png",
+    "transcript": [
+        "DO NOT ENTER"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Zufahrt verboten"
+        ],
+        "es": [
+            "NO INGRESAR"
+        ],
+        "ru": [
+            "ВЪЕЗД ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "禁止入内"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

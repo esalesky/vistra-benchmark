@@ -1,0 +1,34 @@
+{
+    "image_file": "fda9aa4b.png",
+    "transcript": [
+        "CAUTION",
+        "WET FLOOR"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Rutschgefahr"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "SUELO MOJADO"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "МОКРЫЙ ПОЛ"
+        ],
+        "zh": [
+            "小心",
+            "湿地板"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "063b7b47.png",
+    "transcript": [
+        "Employees Must Wash Hands Before Returning to Work"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Händewaschen für Mitarbeiter vor der Rückkehr an den Arbeitsplatz verpflichtend"
+        ],
+        "es": [
+            "Los empleados deben lavarse las manos antes de regresar al trabajo"
+        ],
+        "ru": [
+            "Мойте руки перед возвращением к работе"
+        ],
+        "zh": [
+            "员工返回工作岗位前必须洗手"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "image_file": "8e6836ae.png",
+    "transcript": [
+        "WARNING TIPPING HAZARD",
+        "LOAD EVENLY!",
+        "Container must be placed on hard, level surface.",
+        "Tilted or unevenly loaded container could result in serious injury or death.",
+        "CAUTION FALLING HAZARD",
+        "KEEP OFF!",
+        "Do not climb in, on or occupy this container for any purpose.",
+        "Injury from slipping or falling may occur."
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Warnung",
+            "Gleichmäßig befüllen!",
+            "Container muss auf einem festen, ebenen Untergrund stehen.",
+            "Ein schräg stehender oder ungleichmäßig befüllter Container kann leicht kippen und schwere oder tödliche Verletzungen verursachen.",
+            "Achtung Sturzgefahr",
+            "Abstand halten!",
+            "Klettern Sie auf keinen Fall in oder auf diesen Container.",
+            "Sie könnten sich Verletzungen durch Stürzen oder Ausrutschen zuziehen."
+        ],
+        "es": [
+            "ADVERTENCIA PELIGRO DE VOLCADO",
+            "LLENAR DE MANERA UNIFORME",
+            "El contenedor debe colocarse sobre una superficie sólida y plana.",
+            "Un contenedor inclinado o llenado de forma despareja puede causar lesiones graves o la muerte.",
+            "PELIGRO DE CAÍDA",
+            "ALÉJESE",
+            "No salte dentro ni encima, ni ocupe el contenedor para ningún fin.",
+            "Puede sufrir lesiones al resbalarse o caerse."
+        ],
+        "ru": [
+            "ВНИМАНИЕ ОПАСНОСТЬ ПАДЕНИЯ",
+            "ЗАГРУЖАЙТЕ КОНТЕЙНЕР РАВНОМЕРНО!",
+            "Контейнер необходимо установить на твердой ровной поверхности.",
+            "Наклон или неравномерная загрузка контейнера могут привести к серьезной травме или смерти.",
+            "ОСТОРОЖНО ОПАСНОСТЬ ПАДЕНИЯ",
+            "НЕ ПОДХОДИТЬ!",
+            "Не забирайтесь на контейнер и не залезайте внутрь контейнера.",
+            "Возможны травмы в результате соскальзывания или падения."
+        ],
+        "zh": [
+            "警告倾卸危险",
+            "均匀分布负荷！",
+            "集装箱必须放置在坚硬、平整的表面上。",
+            "倾斜或不均匀装载的集装箱可能导致严重的人身伤害或死亡。",
+            "坠落危险",
+            "避开",
+            "不要爬进、爬上或出于任何目的占用此集装箱。",
+            "滑倒或跌落可能会造成伤害。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

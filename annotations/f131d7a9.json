@@ -1,0 +1,34 @@
+{
+    "image_file": "f131d7a9.png",
+    "transcript": [
+        "LIBRARY OF CONGRESS",
+        "Please Use The Entrance Under The Stairs."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "LIBRARY OF CONGRESS",
+            "Nutzen Sie den Eingang unterhalb der Treppe."
+        ],
+        "es": [
+            "BIBLIOTECA DEL CONGRESO",
+            "Use la entrada debajo de las escaleras."
+        ],
+        "ru": [
+            "БИБЛИОТЕКА КОНГРЕССА",
+            "Воспользуйтесь входом под лестницей"
+        ],
+        "zh": [
+            "国会图书馆",
+            "请走楼梯下的入口。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

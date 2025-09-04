@@ -1,0 +1,29 @@
+{
+    "image_file": "c4343bec.png",
+    "transcript": [
+        "Watch Out For Cyclists"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Vorsicht Fahrradfahrer"
+        ],
+        "es": [
+            "Cuidado con los ciclistas"
+        ],
+        "ru": [
+            "Следите за появлением велосипедистов"
+        ],
+        "zh": [
+            "小心骑自行车的人"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

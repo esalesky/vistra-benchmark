@@ -1,0 +1,39 @@
+{
+    "image_file": "d7769768.png",
+    "transcript": [
+        "SCHLAGE",
+        "PUSH ΤΟ EXIT",
+        "PUSH TO OPEN"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "SCHLAGE",
+            "Zum Verlassen drücken",
+            "Zum Öffnen drücken"
+        ],
+        "es": [
+            "SCHLAGE",
+            "PULSE PARA SALIR",
+            "PULSE PARA ABRIR"
+        ],
+        "ru": [
+            "SCHLAGE",
+            "НАЖМИТЕ ДЛЯ ВЫХОДА",
+            "НАЖМИТЕ, ЧТОБЫ ОТКРЫТЬ"
+        ],
+        "zh": [
+            "施拉格",
+            "推动以退出",
+            "推动以打开"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

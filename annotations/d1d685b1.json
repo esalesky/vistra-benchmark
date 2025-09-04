@@ -1,0 +1,29 @@
+{
+    "image_file": "d1d685b1.png",
+    "transcript": [
+        "AUTHORIZED VEHICLES ONLY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nur berechtigte Fahrzeuge"
+        ],
+        "es": [
+            "SOLO VEHÍCULOS AUTORIZADOS"
+        ],
+        "ru": [
+            "ТОЛЬКО ТРАНСПОРТНЫЕ СРЕДСТВА С РАЗРЕШЕНИЯМИ"
+        ],
+        "zh": [
+            "仅限特许车辆"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

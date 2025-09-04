@@ -1,0 +1,34 @@
+{
+    "image_file": "ca0ed737.png",
+    "transcript": [
+        "BEGIN RIGHT TURN LANE",
+        "YIELD TO BIKES"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Beginn der Rechtsabbiegerspur",
+            "Fahrräder haben Vorfahrt"
+        ],
+        "es": [
+            "COMIENZA CARRIL DE GIRO A LA DERECHA",
+            "CEDA EL PASO A BICICLETAS"
+        ],
+        "ru": [
+            "НАЧАЛО ПОЛОСЫ С ПОВОРОТОМ НАПРАВО",
+            "УСТУПАЙТЕ ДОРОГУ ВЕЛОСИПЕДИСТАМ"
+        ],
+        "zh": [
+            "开始右转车道",
+            "自行车先行"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

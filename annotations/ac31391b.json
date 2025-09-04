@@ -1,0 +1,29 @@
+{
+    "image_file": "ac31391b.png",
+    "transcript": [
+        "NO PETS ALLOWED"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Hunde verboten"
+        ],
+        "es": [
+            "NO SE PERMITEN MASCOTAS"
+        ],
+        "ru": [
+            "ПРОХОД С ДОМАШНИМИ ЖИВОТНЫМИ ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "禁止宠物入内"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

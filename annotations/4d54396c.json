@@ -1,0 +1,29 @@
+{
+    "image_file": "4d54396c.png",
+    "transcript": [
+        "GIVE WAY TO PEDESTRIANS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Fußgänger vorbeilassen"
+        ],
+        "es": [
+            "CEDA EL PASO A PEATONES"
+        ],
+        "ru": [
+            "УСТУПАЙТЕ ДОРОГУ ПЕШЕХОДАМ"
+        ],
+        "zh": [
+            "避让行人"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

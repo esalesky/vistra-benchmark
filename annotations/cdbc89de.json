@@ -1,0 +1,74 @@
+{
+    "image_file": "cdbc89de.png",
+    "transcript": [
+        "Policies",
+        "Check coats, umbrellas, strollers, backpacks, and other small bags at no charge.",
+        "Please do not check laptops, cameras, fur coats, or other valuable items.",
+        "Please do not bring items larger than 17 x 26 inches (43 x 60 cm) into the museum.",
+        "Luggage and other oversized bags will undergo x-ray screening.",
+        "Please pick up your belongings 10 minutes before closing.",
+        "We are happy to help, but we cannot accept gratuities.",
+        "Please leave all food in the checkroom",
+        "Enjoy dining at our cafés, but please don't bring in any outside food.",
+        "Please keep water bottles concealed at all times, or check them at no charge."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Regeln",
+            "Geben Sie Mäntel, Schirme, Kinderwagen, Rücksäcke und kleine Taschen kostenlos an der Garderobe ab.",
+            "Geben Sie keine Laptops, Kameras, Pelzmäntel oder andere Wertgegenstände an der Garderobe ab.",
+            "Gegenstände größer als 43 x 60 cm sind im Museum nicht gestattet.",
+            "Gepäckstücke und andere übergroße Taschen werden einer Röntgenkontrolle unterzogen.",
+            "Holen Sie Ihre Sachen 10 Minuten vor Schließung des Museums an der Garderobe ab.",
+            "Wir helfen gerne, dürfen aber kein Trinkgeld annehmen.",
+            "Lassen Sie sämtliche Lebensmittel in der Garderobe.",
+            "Besuchen Sie unsere Cafés. Mitgebrachte Speisen sind jedoch nicht gestattet.",
+            "Bewahren Sie Ihre Wasserflaschen verdeckt auf oder geben Sie sie kostenlos an der Garderobe ab."
+        ],
+        "es": [
+            "Normas",
+            "Deje abrigos, paraguas, cochecitos, mochilas y otros bolsos pequeños sin cargo.",
+            "No deje laptops, cámaras, abrigos de piel u otros artículos de valor.",
+            "No ingrese al museo con artículos de más de 17 x 26 pulgadas (43 x 60 cm).",
+            "El equipaje y otros bolsos de gran tamaño deberán pasar por el escáner de rayos X.",
+            "Recoja sus pertenencias 10 minutos antes del cierre.",
+            "Estamos encantados de ayudar, pero no podemos aceptar propinas.",
+            "Deje todos los alimentos en el guardarropa.",
+            "Disfrute de nuestras cafeterías y, por favor, no ingrese alimentos ajenos a este establecimiento.",
+            "Mantenga las botellas de agua guardadas en todo momento o déjelas en el guardarropa sin cargo."
+        ],
+        "ru": [
+            "Правила",
+            "Пальто, зонты, коляски, рюкзаки и небольшие сумки можно сдать в гардероб бесплатно.",
+            "Не сдавайте в гардероб ноутбуки, фотоаппараты, шубы и другие ценные вещи.",
+            "Не приносите в музей вещи, размер которых превышает 17 x 26 дюймов (43 x 60 см).",
+            "Багаж и другие крупногабаритные сумки будут проверены с помощью рентгеновского контроля.",
+            "Пожалуйста, заберите свои вещи за 10 минут до закрытия.",
+            "Мы рады вам помочь, но мы не можем принимать чаевые.",
+            "Оставьте всю еду в комнате для регистрации",
+            "Наслаждайтесь едой в наших кафе, но не приносите еду с собой.",
+            "Не доставайте бутылки с водой или сдайте их в гардероб бесплатно."
+        ],
+        "zh": [
+            "政策",
+            "寄存外套、雨伞、婴儿车、背包和其他小包是免费的。",
+            "请不要寄存笔记本电脑、相机、毛皮大衣或其他贵重物品。",
+            "请不要携带大于 17 x 26 英寸（43 x 60 厘米）的物品进入博物馆。",
+            "行李和其他超大行李将接受 x 光检查。",
+            "请在关门前 10 分钟领取您的物品。",
+            "我们很乐意帮忙，但不能收小费。",
+            "请把所有食物放在寄存处",
+            "在咖啡厅用餐愉快，但请不要带任何外带食物进来。",
+            "请将水瓶藏好，或免费托运。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

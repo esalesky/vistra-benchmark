@@ -1,0 +1,34 @@
+{
+    "image_file": "a7190cfb.png",
+    "transcript": [
+        "KEEP LEFT PLEASE",
+        "KEEP LEFT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Links halten",
+            "Links halten"
+        ],
+        "es": [
+            "MANTÉNGASE A LA IZQUIERDA",
+            "MANTÉNGASE A LA IZQUIERDA"
+        ],
+        "ru": [
+            "ПОЖАЛУЙСТА, ДЕРЖИТЕСЬ ЛЕВОЙ СТОРОНЫ",
+            "ДЕРЖИТЕСЬ ЛЕВОЙ СТОРОНЫ"
+        ],
+        "zh": [
+            "请靠左行驶",
+            "靠左"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

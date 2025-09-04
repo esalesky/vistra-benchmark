@@ -1,0 +1,34 @@
+{
+    "image_file": "201047fc.png",
+    "transcript": [
+        "LITTLE LEAGUE PROPERTY RULES:",
+        "• No Trespassing • No Pets Allowed • No Climbing on Fences"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Eigentumsrechte der Little League",
+            "• Zutritt verboten • Haustiere verboten • Klettern auf Zäune verboten"
+        ],
+        "es": [
+            "NORMAS DE LA PROPIEDAD DE LA LIGA INFANTIL;",
+            "• No pasar • No se permiten mascotas • No subirse a las rejas"
+        ],
+        "ru": [
+            "СОБСТВЕННОСТЬ МАЛОЙ ЛИГИ. ПРАВИЛА ПОВЕДЕНИЯ:",
+            "• Проход запрещен • Проход с домашними животными запрещен • Залезать на ограду запрещено"
+        ],
+        "zh": [
+            "小联盟财产规则：",
+            "•禁止进入•禁止宠物进入•禁止攀爬围栏"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

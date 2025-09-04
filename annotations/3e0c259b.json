@@ -1,0 +1,34 @@
+{
+    "image_file": "3e0c259b.png",
+    "transcript": [
+        "CLOSED FOR CLEANING",
+        "DO NOT ENTER"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Zu Reinigungszwecken geschlossen",
+            "Zutritt verboten"
+        ],
+        "es": [
+            "CERRADO POR LIMPIEZA",
+            "NO INGRESAR"
+        ],
+        "ru": [
+            "ЗАКРЫТО НА УБОРКУ",
+            "НЕ ВХОДИТЬ"
+        ],
+        "zh": [
+            "因清扫而关闭",
+            "禁止入内"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image_file": "449ae8d6.png",
+    "transcript": [
+        "DO NOT ENTER",
+        "AUTHORIZED VEHICLES ONLY",
+        "VIOLATORS WILL BE TOWED AT THEIR OWN EXPENSE."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Zutritt verboten",
+            "Nur berechtigte Fahrzeuge",
+            "Bei Verstößen wird das Fahrzeug kostenpflichtig abgeschleppt"
+        ],
+        "es": [
+            "NO INGRESAR",
+            "SOLO VEHÍCULOS AUTORIZADOS",
+            "SE REMOLCARÁ A LOS INFRACTORES A SU PROPIO COSTO."
+        ],
+        "ru": [
+            "ВЪЕЗД ЗАПРЕЩЕН",
+            "ТОЛЬКО ДЛЯ АВТОМОБИЛЕЙ, У КОТОРЫХ ЕСТЬ РАЗРЕШЕНИЕ",
+            "ТРАНСПОРТНЫЕ СРЕДСТВА НАРУШИТЕЛЕЙ БУДУТ ЭВАКУИРОВАНЫ ЗА СЧЕТ ВЛАДЕЛЬЦЕВ"
+        ],
+        "zh": [
+            "禁止驶入",
+            "仅限特许车辆",
+            "违规者将被拖走，费用自理。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

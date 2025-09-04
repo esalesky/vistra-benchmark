@@ -1,0 +1,44 @@
+{
+    "image_file": "9737b2b6.png",
+    "transcript": [
+        "SCHOOL ZONE",
+        "SPEED LIMIT 25",
+        "PHOTO ENFORCED",
+        "AHEAD"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Schulbereich",
+            "Geschwindigkeitsbegrenzung 25",
+            "Bildüberwachung",
+            "Voraus"
+        ],
+        "es": [
+            "ZONA ESCOLAR",
+            "LÍMITE DE VELOCIDAD 25",
+            "CONTROLADO POR CÁMARA",
+            "ADELANTE"
+        ],
+        "ru": [
+            "ШКОЛЬНАЯ ЗОНА",
+            "ОГРАНИЧЕНИЕ СКОРОСТИ 25",
+            "ИСПОЛЬЗУЕТСЯ ФОТОФИКСАЦИЯ НАРУШЕНИЙ",
+            "ВПЕРЕДИ"
+        ],
+        "zh": [
+            "校区",
+            "限速 25",
+            "强制拍照",
+            "前方"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

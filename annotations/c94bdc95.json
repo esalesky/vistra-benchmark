@@ -1,0 +1,44 @@
+{
+    "image_file": "c94bdc95.png",
+    "transcript": [
+        "WARNING",
+        "PRIVATE PROPERTY",
+        "NO TRESPASSING",
+        "Amtrak Police Will Detain And Or Prosecute Any Trespassers Found On This Property"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warnung",
+            "Privatgrundstück",
+            "Durchgang verboten",
+            "Die Polizei von Amtrak wird alle unbefugten Personen, die sich auf diesem Grundstück aufhalten, festnehmen und/oder strafrechtlich verfolgen"
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "PROPIEDAD PRIVADA",
+            "NO PASAR",
+            "La Policía de Amtrak detendrá o procesará a los intrusos que se encuentren en esta propiedad"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "ЧАСТНАЯ СОБСТВЕННОСТЬ",
+            "ПРОХОД ЗАПРЕЩЕН",
+            "Полиция Amtrack задержит и/или накажет всех нарушителей, обнаруженных на этой территории"
+        ],
+        "zh": [
+            "警告",
+            "私有财产",
+            "禁止侵入",
+            "美铁警察将拘留或起诉在此财产上发现的任何侵入者"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

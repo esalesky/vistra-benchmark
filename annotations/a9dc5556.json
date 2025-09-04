@@ -1,0 +1,29 @@
+{
+    "image_file": "a9dc5556.png",
+    "transcript": [
+        "SHOES, SHIRTS & SHORTS Required"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Schuhe und Oberbekleidung erforderlich"
+        ],
+        "es": [
+            "ZAPATOS, CAMISAS Y PANTALONES CORTOS obligatorios"
+        ],
+        "ru": [
+            "ОБУВЬ, ФУТБОЛКИ И ШОРТЫ обязательны"
+        ],
+        "zh": [
+            "需要穿鞋子，衬衫和短裤"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

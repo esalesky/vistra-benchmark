@@ -1,0 +1,29 @@
+{
+    "image_file": "5931f594.png",
+    "transcript": [
+        "PARK CLOSES AND GATES LOCKED AT SUNSET"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Park und Tore werden bei Sonnenuntergang geschlossen"
+        ],
+        "es": [
+            "EL PARQUE Y LAS PUERTAS SE CIERRAN AL ATARDECER"
+        ],
+        "ru": [
+            "ПАРК ЗАКАНЧИВАЕТ РАБОТУ И ВОРОТА ЗАКРЫВАЮТСЯ НА ЗАКАТЕ"
+        ],
+        "zh": [
+            "日落时分，公园关闭，大门紧锁"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

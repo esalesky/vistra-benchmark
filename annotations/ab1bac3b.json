@@ -1,0 +1,34 @@
+{
+    "image_file": "ab1bac3b.png",
+    "transcript": [
+        "No signal.",
+        "Check the external input or select another input using the INPUT button."
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Kein Signal.",
+            "Überprüfen Sie den externen Ausgang oder verwenden Sie einen anderen Eingang mithilfe der Eingabetaste."
+        ],
+        "es": [
+            "Sin señal.",
+            "Revise la entrada externa o seleccione otra entrada mediante el botón INPUT."
+        ],
+        "ru": [
+            "Нет сигнала.",
+            "Проверьте внешний вход или выберите другой вход с помощью кнопки INPUT."
+        ],
+        "zh": [
+            "无信号",
+            "检查外部输入或使用“输入”按钮选择另一个输入。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

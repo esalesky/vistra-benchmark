@@ -1,0 +1,39 @@
+{
+    "image_file": "6650f7f1.png",
+    "transcript": [
+        "did you check in?",
+        "All visitors must check in at the Front Desk and have a completed liability waiver on file.",
+        "Guests under 18 years of age must have their waiver signed by a parent or court-appointed legal guardian."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Schon eingecheckt?",
+            "Alle Besucher müssen sich an der Rezeption anmelden und eine ausgefüllte Haftungsverzichtserklärung vorlegen.",
+            "Bei Gästen unter 18 Jahren muss die Haftungsverzichtserklärung von einem Elternteil oder einem gerichtlich bestellten Vormund unterschrieben sein."
+        ],
+        "es": [
+            "¿Se registró?",
+            "Todos los visitantes deben registrarse en Recepción y tener una exención de responsabilidad completada en su archivo.",
+            "Los visitantes menores de 18 años deben tener una exención firmada por su padre, madre o tutor legal designado por la corte."
+        ],
+        "ru": [
+            "Вы зарегистрировались?",
+            "Все посетители должны зарегистрироваться на стойке регистрации и должны иметь заполненную форму отказа от ответственности.",
+            "Для гостей младше 18 лет форма отказа от ответственности должна быть подписана родителем или назначенным официальным опекуном."
+        ],
+        "zh": [
+            "您登记了吗?",
+            "所有访客必须在前台办理入住手续，并在文件中填写一份完整的免责声明。",
+            "未满 18 岁的客人必须由父母或法院指定的法定监护人签署免责声明。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

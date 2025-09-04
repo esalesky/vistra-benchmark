@@ -1,0 +1,34 @@
+{
+    "image_file": "d01d60f5.png",
+    "transcript": [
+        "How do you stop a deadly disease that's spread by mosquitoes?",
+        "TED"
+    ],
+    "category": null,
+    "height": 620,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Wie stoppt man eine tödliche Krankheit, die von Moskitos übertragen wird?",
+            "TED"
+        ],
+        "es": [
+            "¿Cómo se detiene una enfermedad mortal propagada por mosquitos?",
+            "TED"
+        ],
+        "ru": [
+            "Как остановить смертельное заболевание, распространяемое комарами?",
+            "TED"
+        ],
+        "zh": [
+            "如何阻止由蚊子传播的致命疾病？",
+            "TED"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

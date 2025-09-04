@@ -1,0 +1,39 @@
+{
+    "image_file": "52472c0f.png",
+    "transcript": [
+        "HELP US MAINTAIN OUR TRAILS",
+        "Trails are extremely vulnerable to damage during and after rain events.",
+        "Please allow at least one day for trails to dry after rain."
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Helfen Sie uns, unsere Wanderwege zu schützen",
+            "Wanderwege sind während und nach Regenfällen extrem anfällig für Schäden.",
+            "Warten Sie mindestens einen Tag, bis die Wanderwege nach dem Regen getrocknet sind."
+        ],
+        "es": [
+            "AYÚDENOS A MANTENER LOS SENDEROS",
+            "Los senderos son muy vulnerables a daños durante y después de las lluvias.",
+            "Espere al menos un día después de la lluvia para que los senderos se sequen."
+        ],
+        "ru": [
+            "ПОМОГИТЕ НАМ СОХРАНИТЬ ДОРОЖКИ",
+            "Они очень уязвимы во время и после дождя.",
+            "Дайте им высохнуть в течение хотя бы одного дня после дождя."
+        ],
+        "zh": [
+            "帮助我们保持小径",
+            "在下雨期间和雨后，小径极易受到破坏。",
+            "请预留至少一天的时间让雨后小径变干。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

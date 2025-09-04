@@ -1,0 +1,59 @@
+{
+    "image_file": "6bd7aedd.png",
+    "transcript": [
+        "IN THIS HOUSE WE BELIEVE:",
+        "BLACK lives matter",
+        "HUMANS are not illegal",
+        "SCIENCE is real",
+        "FEMINISM is for everyone",
+        "LOVE is love",
+        "KINDNESS is everything"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "In diesem Haus glauben wir an:",
+            "BLACK lives matter",
+            "Kein Mensch ist illegal",
+            "Wissenschaft ist real",
+            "Feminismus gilt für jeden",
+            "Liebe ist Liebe",
+            "Freundlichkeit ist alles"
+        ],
+        "es": [
+            "EN ESTA CASA CREEMOS QUE:",
+            "La vida de las PERSONAS DE COLOR importa",
+            "Los HUMANOS nos son ilegales",
+            "La CIENCIA es real",
+            "El FEMINISMO es para todos",
+            "El AMOR es el amor",
+            "La BONDAD es todo"
+        ],
+        "ru": [
+            "МЫ ВЕРИМ В ТО, ЧТО:",
+            "Жизни ТЕМНОКОЖИХ имеют значение",
+            "ЛЮДИ не являются нелегалами",
+            "НАУКА — реальна",
+            "ФЕМИНИЗМ — для всех",
+            "ЛЮБОВЬ — это любовь",
+            "ДОБРОТА — важнее всего"
+        ],
+        "zh": [
+            "在这里，我们相信：",
+            "黑人的命也是命",
+            "人类联盟不是非法的",
+            "科学是真实的",
+            "女权主义属于每个人",
+            "爱就是爱",
+            "善良就是一切"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

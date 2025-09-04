@@ -1,0 +1,49 @@
+{
+    "image_file": "d47f6f96.png",
+    "transcript": [
+        "CAUTION",
+        "FALLING HAZARD",
+        "KEEP OFF!",
+        "Do not climb in, on or occupy this container for any purpose.",
+        "Injury from slipping or falling may occur."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Sturzgefahr",
+            "Abstand halten!",
+            "Klettern Sie auf keinen Fall auf oder in diesen Container.",
+            "Verletzungsgefahr durch Fallen oder Ausrutschen."
+        ],
+        "es": [
+            "CUIDADO",
+            "PELIGRO DE CAÍDA",
+            "¡ALÉJESE!",
+            "No salte dentro ni encima, ni ocupe el contenedor para ningún fin.",
+            "Puede sufrir lesiones al resbalarse o caerse."
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "ОПАСНОСТЬ ПАДЕНИЯ",
+            "НЕ ПОДХОДИТЬ!",
+            "Не забирайтесь на контейнер или внутрь контейнера для каких бы то ни было целей.",
+            "Возможны травмы в результате соскальзывания или падения."
+        ],
+        "zh": [
+            "小心",
+            "跌落危险",
+            "避开！",
+            "不要爬进、爬上或出于任何目的占用此容器。",
+            "滑倒或跌落可能会造成伤害。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

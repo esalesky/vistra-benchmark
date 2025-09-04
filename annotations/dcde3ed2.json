@@ -1,0 +1,34 @@
+{
+    "image_file": "dcde3ed2.png",
+    "transcript": [
+        "WARNING",
+        "THIS PROPERTY IS UNDER 24 HOUR VIDEO SURVEILLANCE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warnung",
+            "Dieses Grundstück wird rund um die Uhr videoüberwacht"
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "ESTA PROPIEDAD ESTÁ BAJO VIDEOVIGILANCIA LAS 24 HORAS"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "ЭТОТ ОБЪЕКТ НАХОДИТСЯ ПОД КРУГЛОСУТОЧНЫМ ВИДЕОНАБЛЮДЕНИЕМ"
+        ],
+        "zh": [
+            "警告",
+            "这里有 24 小时视频监控"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

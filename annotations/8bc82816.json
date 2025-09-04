@@ -1,0 +1,29 @@
+{
+    "image_file": "8bc82816.png",
+    "transcript": [
+        "BIKE REPAIR STATION"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Fahrradwerkstatt"
+        ],
+        "es": [
+            "ESTACIÓN DE REPARACIÓN DE BICICLETAS"
+        ],
+        "ru": [
+            "СТАНЦИЯ РЕМОНТА ВЕЛОСИПЕДОВ"
+        ],
+        "zh": [
+            "自行车维修站"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

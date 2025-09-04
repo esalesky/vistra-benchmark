@@ -1,0 +1,29 @@
+{
+    "image_file": "f97a1887.png",
+    "transcript": [
+        "I am once again asking for your financial support."
+    ],
+    "category": null,
+    "height": 450,
+    "width": 800,
+    "translation": {
+        "de": [
+            "Ich bitte Sie erneut um finanzielle Unterstützung."
+        ],
+        "es": [
+            "Una vez más les pido su apoyo financiero."
+        ],
+        "ru": [
+            "Я снова прошу вашей финансовой поддержки."
+        ],
+        "zh": [
+            "我再次请求您的经济支持。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

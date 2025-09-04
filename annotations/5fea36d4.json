@@ -1,0 +1,64 @@
+{
+    "image_file": "5fea36d4.png",
+    "transcript": [
+        "bouldering etiquette",
+        "The climber on the wall first and above you has the right of way.",
+        "Be aware of your surroundings including climbers above and below you.",
+        "Do not walk under a climber.",
+        "Empty your pockets before climbing.",
+        "Do not sit or stand in bouldering fall zones.",
+        "If you are projecting, take turns with the climbers around you.",
+        "Ensure children are supervised and mindful of the above at all times."
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Boulder-Regeln",
+            "Der erste Kletterer in der Wand und der Kletterer über Ihnen haben Vorrang.",
+            "Achten Sie auf Ihre Umgebung, einschließlich der Kletterer über und unter Ihnen.",
+            "Gehen Sie nicht unter einem Kletterer her.",
+            "Leeren Sie Ihre Taschen vor dem Klettern.",
+            "Sitzen oder Stehen in Landezonen verboten.",
+            "Wechseln Sie sich beim Projektieren mit anderen Kletterern ab.",
+            "Kinder müssen beaufsichtigt werden und die genannten Regeln kennen."
+        ],
+        "es": [
+            "Normas de escalada",
+            "El escalador que subió primero y está encima de ti en la pared tiene prioridad de paso.",
+            "Ten cuidado con el entorno, incluidos los escaladores que están encima y debajo de ti.",
+            "No camines debajo de un escalador.",
+            "Vacía tus bolsillos antes de subir.",
+            "No te sientes ni te pares en zonas de caídas desde la pared de escalada.",
+            "Si estás haciendo un proyecto, túrnate con los escaladores que están a tu alrededor.",
+            "Asegúrate de que los niños tengan supervisión y estén atentos a lo que ocurre arriba en todo momento."
+        ],
+        "ru": [
+            "правила поведения во время боулдеринга",
+            "Скалолаз, который оказался на стене первым и находится выше вас, имеет приоритет.",
+            "Следите за окружающей обстановкой, включая скалолазов, находящихся над вами и под вами.",
+            "Не проходите под скалолазом, находящимся на стене.",
+            "Выньте все предметы из карманов перед залезанием на стену.",
+            "Не сидите и не стойте в зонах падения со стены.",
+            "Если вы проходите сложную трассу, попросите других скалолазов подстраховать вас.",
+            "Не оставляйте детей без присмотра и следите за тем, чтобы они выполняли вышеуказанные правила."
+        ],
+        "zh": [
+            "抱石礼仪",
+            "先到并在您上方的攀岩者有通行权。",
+            "注意周围的环境，包括上面和下面的登山者。",
+            "不要从攀登者的身下走过。",
+            "登山前把口袋掏空。",
+            "不要坐或站在抱石坠落区。",
+            "如果您要投射，请和周围的攀登者轮流行动。",
+            "确保儿童在任何时候都受到监督并牢记上述内容。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "c7b92cc3.png",
+    "transcript": [
+        "PERMIT PARKING FOR RESIDENTS ONLY",
+        "VEHICLES WITHOUT VALID PARKING PERMIT WILL BE TOWED AT VEHICLE OWNER'S EXPENSE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Anwohnerparkplatz",
+            "Fahrzeuge ohne gültigen Parkausweis werden kostenpflichtig abgeschleppt"
+        ],
+        "es": [
+            "ESTACIONAMIENTO EXCLUSIVO RESIDENTES CON PERMISO",
+            "SE REMOLCARÁ A LOS VEHÍCULOS SIN PERMISO DE ESTACIONAMIENTO VÁLIDO A COSTO DEL PROPIETARIO"
+        ],
+        "ru": [
+            "ПАРКОВКА РАЗРЕШЕНА ТОЛЬКО ДЛЯ МЕСТНЫХ ЖИТЕЛЕЙ",
+            "АВТОМОБИЛИ БЕЗ ДЕЙСТВИТЕЛЬНОГО РАЗРЕШЕНИЯ НА ПАРКОВКУ БУДУТ ЭВАКУИРОВАНЫ ЗА СЧЕТ ВЛАДЕЛЬЦЕВ"
+        ],
+        "zh": [
+            "只允许住户停车",
+            "没有有效停车许可证的车辆将被拖走，费用由车主承担"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

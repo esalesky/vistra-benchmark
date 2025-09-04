@@ -1,0 +1,29 @@
+{
+    "image_file": "68c0066b.png",
+    "transcript": [
+        "Accessible Entrance"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Barrierefreier Eingang"
+        ],
+        "es": [
+            "Entrada accesible"
+        ],
+        "ru": [
+            "Вход для инвалидов"
+        ],
+        "zh": [
+            "无障碍入口"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "image_file": "ebcbd83b.png",
+    "transcript": [
+        "CAUTION",
+        "Passengers Only",
+        "Hold Handrail",
+        "Attend Children",
+        "Avoid Sides"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Nur Passagiere",
+            "Handlauf benutzen",
+            "Kinder beaufsichtigen",
+            "Seiten meiden"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "Solo pasajeros",
+            "Tómese del pasamanos",
+            "Supervise a los niños",
+            "Aléjese de los costados"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "Только для пассажиров",
+            "Держитесь за поручень",
+            "Присматривайте за детьми",
+            "Не вставайте близко к боковым сторонам эскалатора"
+        ],
+        "zh": [
+            "小心",
+            "仅限乘客使用",
+            "抓牢扶手",
+            "请照看好您的小孩",
+            "避开两侧"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

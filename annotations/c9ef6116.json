@@ -1,0 +1,39 @@
+{
+    "image_file": "c9ef6116.png",
+    "transcript": [
+        "PLEASE RESPECT PRIVATE PROPERTY",
+        "USE OFFICIAL ENTRANCES TO ENTER & EXIT THE TRAIL",
+        "THANK YOU!"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Privatgrundstück",
+            "Nutzen Sie öffentliche Eingänge zum Betreten und Verlassen des Weges",
+            "Vielen Dank!"
+        ],
+        "es": [
+            "RESPETE LA PROPIEDAD PRIVADA",
+            "USE LAS ENTRADAS OFICIALES PARA ENTRAR Y SALIR DEL SENDERO",
+            "¡GRACIAS!"
+        ],
+        "ru": [
+            "УВАЖАЙТЕ ЧАСТНУЮ СОБСТВЕННОСТЬ",
+            "ДЛЯ ВХОДА И ВЫХОДА С ТРОПИНОК ИСПОЛЬЗУЙТЕ ОБОЗНАЧЕННЫЕ МЕСТА",
+            "СПАСИБО!"
+        ],
+        "zh": [
+            "请尊重私人财产",
+            "使用官方入口进出小径",
+            "谢谢！"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

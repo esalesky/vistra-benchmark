@@ -1,0 +1,34 @@
+{
+    "image_file": "f4ca1d07.png",
+    "transcript": [
+        "CAUTION",
+        "THIS TRAILER MAKES WIDE TURNS"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Anhänger schert beim Abbiegen aus"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "ESTE VEHÍCULO HACE GIROS AMPLIOS"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "ЭТОТ ПРИЦЕП ВЫПОЛНЯЕТ ПОВОРОТЫ С БОЛЬШИМ РАДИУСОМ"
+        ],
+        "zh": [
+            "小心",
+            "这辆拖车会大转弯"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

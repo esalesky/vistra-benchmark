@@ -1,0 +1,34 @@
+{
+    "image_file": "ef3e5ac9.png",
+    "transcript": [
+        "FOR DRINKING ONLY",
+        "BE CONSIDERATE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nur als Trinkwasser verwenden",
+            "Verhalten Sie sich rücksichtsvoll"
+        ],
+        "es": [
+            "SOLO PARA BEBER",
+            "SEA RESPETUOSO"
+        ],
+        "ru": [
+            "ВОДА ПРЕДНАЗНАЧЕНА ТОЛЬКО ДЛЯ ПИТЬЯ",
+            "БЕРЕЖНО ОТНОСИТЕСЬ К ОКРУЖАЮЩЕЙ СРЕДЕ"
+        ],
+        "zh": [
+            "仅供饮用",
+            "为别人着想"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "84ff90e7.png",
+    "transcript": [
+        "SLOW DOWN",
+        "KIDS AND PETS AT PLAY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Langsam fahren",
+            "Spielende Kinder und Hunde"
+        ],
+        "es": [
+            "DESPACIO",
+            "NIÑOS Y MASCOTAS JUGANDO"
+        ],
+        "ru": [
+            "СБАВЬТЕ СКОРОСТЬ",
+            "ИГРОВАЯ ПЛОЩАДКА ДЛЯ ДЕТЕЙ И ДОМАШНИХ ЖИВОТНЫХ"
+        ],
+        "zh": [
+            "慢行",
+            "孩子和宠物在玩耍"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

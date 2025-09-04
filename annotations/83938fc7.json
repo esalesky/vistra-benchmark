@@ -1,0 +1,34 @@
+{
+    "image_file": "83938fc7.png",
+    "transcript": [
+        "BEWARE",
+        "CARS COMING UP FROM RAMP"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Autos kommen die Rampe herauf"
+        ],
+        "es": [
+            "ATENCIÓN",
+            "SALIDA DE COCHES POR LA RAMPA"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "С ПАНДУСА СПУСКАЮТСЯ АВТОМОБИЛИ"
+        ],
+        "zh": [
+            "小心",
+            "汽车从坡道上开过来"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

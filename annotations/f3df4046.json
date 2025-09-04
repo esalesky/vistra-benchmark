@@ -1,0 +1,39 @@
+{
+    "image_file": "f3df4046.png",
+    "transcript": [
+        "SIDEWALK CLOSED",
+        "CROSS HERE",
+        "PED WALKWAY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Bürgersteig gesperrt",
+            "Straßenseite wechseln",
+            "Fußgängerweg"
+        ],
+        "es": [
+            "ACERA CERRADA",
+            "CRUCE AQUÍ",
+            "CRUCE PEATONAL"
+        ],
+        "ru": [
+            "ТРОТУАР ЗАКРЫТ",
+            "ПЕРЕХОД ЗДЕСЬ",
+            "ПЕШЕХОДНАЯ ДОРОЖКА"
+        ],
+        "zh": [
+            "人行道封闭",
+            "在此处过街",
+            "PED 人行道"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

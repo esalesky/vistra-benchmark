@@ -1,0 +1,34 @@
+{
+    "image_file": "fcbd7302.png",
+    "transcript": [
+        "SNOW ROUTE",
+        "NO PARKING DURING SNOW EMERGENCY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Ausweichstraße bei Schnee",
+            "Parkverbot bei Schneechaos"
+        ],
+        "es": [
+            "RUTA DE NIEVE",
+            "NO ESTACIONAR EN EMERGENCIA POR NIEVE"
+        ],
+        "ru": [
+            "ДОРОГА, КОТОРАЯ ПОКРЫВАЕТСЯ СНЕГОМ",
+            "ПАРКОВКА ВО ВРЕМЯ СНЕГОПАДА ЗАПРЕЩЕНА"
+        ],
+        "zh": [
+            "积雪路段",
+            "下雪紧急情况下禁止停车"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

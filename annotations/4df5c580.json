@@ -1,0 +1,39 @@
+{
+    "image_file": "4df5c580.png",
+    "transcript": [
+        "CAUTION",
+        "WATCH YOUR STEP!",
+        "ICE & SNOW May Be Present on Lot & Sidewalks"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Seien Sie vorsichtig!",
+            "Rasenflächen und Bürgersteige können mit Eis und Schnee bedeckt sein"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "CUIDADO DONDE PISA",
+            "HIELO O NIEVE pueden cubrir el césped o las aceras"
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "СОБЛЮДАЙТЕ ОСТОРОЖНОСТЬ!",
+            "На дорожках и тротуарах может присутствовать СНЕГ и ЛЕД."
+        ],
+        "zh": [
+            "注意",
+            "小心脚下",
+            "停车场和人行道上可能存在冰和雪"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

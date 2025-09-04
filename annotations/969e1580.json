@@ -1,0 +1,34 @@
+{
+    "image_file": "969e1580.png",
+    "transcript": [
+        "Emergency Exit Only",
+        "Alarm will sound if door is opened."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Nur Notausgang",
+            "Beim Öffnen der Tür ertönt ein Alarm."
+        ],
+        "es": [
+            "Solo salida de emergencia",
+            "Sonará una alarma si se abre la puerta."
+        ],
+        "ru": [
+            "Аварийный выход",
+            "При открытии двери сработает сигнализация"
+        ],
+        "zh": [
+            "仅限紧急出口",
+            "门一开，警报器就响。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

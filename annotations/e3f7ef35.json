@@ -1,0 +1,34 @@
+{
+    "image_file": "e3f7ef35.png",
+    "transcript": [
+        "For health & safety reasons please do not fill glasses with hot water.",
+        "Thank you for your cooperation"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Füllen Sie aus Gesundheits- und Sicherheitsgründen kein heißes Wasser in die Gläser.",
+            "Vielen Dank"
+        ],
+        "es": [
+            "Por razones de salud y seguridad, no llene los vasos con agua caliente.",
+            "Gracias por su colaboración."
+        ],
+        "ru": [
+            "По соображениям безопасности и гигиены не наливайте в стаканы горячую воду.",
+            "Спасибо за содействие"
+        ],
+        "zh": [
+            "为了健康和安全，请不要往杯子里倒热水。",
+            "谢谢合作"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

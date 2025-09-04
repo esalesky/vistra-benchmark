@@ -1,0 +1,39 @@
+{
+    "image_file": "4de66991.png",
+    "transcript": [
+        "NOTICE FACE MASKS ARE REQUIRED TO ENTER",
+        "MASK REQUIRED",
+        "THANK YOU FOR KEEPING OUR COMMUNITY SAFE."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Hinweis Zutritt nur mit Maske",
+            "Maskenpflicht",
+            "Danke für Ihre Solidarität."
+        ],
+        "es": [
+            "AVISO SE REQUIERE MASCARILLA PARA INGRESAR",
+            "MASCARILLA OBLIGATORIA",
+            "GRACIAS POR CUIDAR A NUESTRA COMUNIDAD."
+        ],
+        "ru": [
+            "УВЕДОМЛЕНИЕ ДЛЯ ВХОДА ОБЯЗАТЕЛЬНА ЛИЦЕВАЯ МАСКА",
+            "ЛИЦЕВАЯ МАСКА ОБЯЗАТЕЛЬНА",
+            "СПАСИБО ЗА ЗАБОТУ О ЗДОРОВЬЕ НАШЕГО СООБЩЕСТВА."
+        ],
+        "zh": [
+            "注意：请佩戴口罩进入",
+            "需要佩戴口罩",
+            "谢谢你维护我们社区的安全。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image_file": "cce4f832.png",
+    "transcript": [
+        "Why we monitor exposure to light.",
+        "Preserving works of art for future generations depends on carefully monitoring and controlling light levels to limit the risk of fading, yellowing, and other forms of deterioration.",
+        "We use sensors like this one to record the collection's exposure to light."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Deshalb überwachen wird die Lichteinwirkung.",
+            "Zur Erhaltung von Kunstwerken für künftige Generationen müssen die Lichtverhältnisse sorgfältig überwacht und kontrolliert werden, um zu verhindern, dass sie verblassen, vergilben oder anderweitig beschädigt werden.",
+            "Wir verwenden Sensoren wie diesen, um die Lichteinwirkung auf die Sammlung zu überwachen."
+        ],
+        "es": [
+            "¿Por qué monitoreamos la exposición a la luz?",
+            "Conservar las obras de arte para las futuras generaciones depende de monitorear y controlar cuidadosamente los niveles de luz para limitar el riesgo de decoloración, amarilleo y otras formas de deterioro.",
+            "Usamos sensores como este para registrar la exposición a la luz de la colección."
+        ],
+        "ru": [
+            "Почему мы отслеживаем воздействие света.",
+            "Сохранение произведений искусства для будущих поколений зависит от тщательного контроля уровня освещенности, чтобы ограничить риск выцветания, пожелтения и другого повреждения предметов искусства.",
+            "Мы используем датчики, такие как этот, чтобы фиксировать воздействие света на коллекцию предметов искусства."
+        ],
+        "zh": [
+            "为什么我们要监控光照。",
+            "为子孙后代保存艺术品取决于仔细监测和控制光线水平，以限制褪色、变黄和其他形式的恶化的风险。",
+            "我们用像这样的传感器来记录收藏品在光线下的暴露情况。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "5cdef98c.png",
+    "transcript": [
+        "Be aware of possible lightning strike and falling branch due to bad weather"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achten Sie auf mögliche Blitzeinschläge und herabfallende Äste aufgrund schlechten Wetters"
+        ],
+        "es": [
+            "Peligro de caída de rayos y desprendimiento de ramas debido al mal tiempo"
+        ],
+        "ru": [
+            "Во время плохой погоды берегитесь молнии и опасайтесь падающих веток"
+        ],
+        "zh": [
+            "注意恶劣天气可能造成的雷击和树枝掉落"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

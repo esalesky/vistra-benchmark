@@ -1,0 +1,34 @@
+{
+    "image_file": "8fde0dc9.png",
+    "transcript": [
+        "UNISEX",
+        "GO WHEREVER YOU WANT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Unisex",
+            "Freie Kabinenwahl"
+        ],
+        "es": [
+            "UNISEX",
+            "USE EL QUE PREFIERA"
+        ],
+        "ru": [
+            "ДЛЯ ЛИЦ ОБОЕГО ПОЛА",
+            "МОЖЕТЕ ВЫБРАТЬ ЛЮБОЙ ТУАЛЕТ"
+        ],
+        "zh": [
+            "男女共用",
+            "随意进出"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

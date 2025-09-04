@@ -1,0 +1,44 @@
+{
+    "image_file": "553ab671.png",
+    "transcript": [
+        "Mutt Mitt",
+        "GRAB IT",
+        "TURN IT",
+        "TOSS IT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Mutt Mitt",
+            "Aufnehmen",
+            "Umdrehen",
+            "Wegwerfen"
+        ],
+        "es": [
+            "Mutt Mitt",
+            "LEVÁNTELO",
+            "DELE LA VUELTA",
+            "ARRÓJELO"
+        ],
+        "ru": [
+            "Mutt Mitt",
+            "СОБЕРИТЕ ЭКСКРЕМЕНТЫ",
+            "ПОЛОЖИТЕ ИХ В ПАКЕТ",
+            "ПОМЕСТИТЕ ПАКЕТ В УРНУ"
+        ],
+        "zh": [
+            "狗粪手套",
+            "抓住",
+            "反转",
+            "抛弃"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

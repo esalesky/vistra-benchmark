@@ -1,0 +1,34 @@
+{
+    "image_file": "2d4b61dd.png",
+    "transcript": [
+        "STACK PARKING",
+        "FRONT CAR MUST LEAVE IGNITION KEY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Übereinander geparkte Fahrzeuge",
+            "Der Zündschlüssel des vorderen Autos muss abgegeben werden"
+        ],
+        "es": [
+            "ESTACIONAMIENTO APILADO",
+            "EL AUTO DE ADELANTE DEBE DEJAR LA LLAVE"
+        ],
+        "ru": [
+            "ПАРКОВКА В ОЧЕРЕДЬ",
+            "В ПЕРЕДНЕМ АВТОМОБИЛЕ НЕОБХОДИМО ОСТАВИТЬ КЛЮЧ ЗАЖИГАНИЯ"
+        ],
+        "zh": [
+            "堆垛类停车",
+            "前车必须留下点火钥匙"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

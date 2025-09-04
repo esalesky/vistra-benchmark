@@ -1,0 +1,44 @@
+{
+    "image_file": "5dd2670d.png",
+    "transcript": [
+        "NO STOPPING STANDING OR PARKING",
+        "NO CRUISING",
+        "FRI-SAT-SUN",
+        "10 PM - 5 AM"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Absolutes Halte- und Parkverbot",
+            "Kein Herumfahren",
+            "Fr-Sa-So",
+            "22:00 bis 5:00 Uhr"
+        ],
+        "es": [
+            "NO ESTACIONAR NI DETENERSE",
+            "NO CIRCULAR DESPACIO",
+            "VIE-SÁB-DOM",
+            "10 p. m. - 5 a. m."
+        ],
+        "ru": [
+            "ОСТАНОВКА И СТОЯНКА ЗАПРЕЩЕНА",
+            "ДВИЖЕНИЕ ЗАПРЕЩЕНО",
+            "ПЯТНИЦА, СУББОТА И ВОСКРЕСЕНЬЕ",
+            "22:00-05:00"
+        ],
+        "zh": [
+            "禁止停车或驻留",
+            "禁止巡航",
+            "周五 - 周六 - 周日",
+            "下午 10 点 - 凌晨 5 点"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

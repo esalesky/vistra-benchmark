@@ -1,0 +1,29 @@
+{
+    "image_file": "1c67e9ec.png",
+    "transcript": [
+        "HANDICAP ENTRANCE AND AFTER HOURS EMERGENCY PHONE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Behindertengerechter Eingang und Notruftelefon nach Geschäftsschluss"
+        ],
+        "es": [
+            "ENTRADA PARA DISCAPACITADOS Y TELÉFONO DE EMERGENCIA DESPUÉS DEL CIERRE"
+        ],
+        "ru": [
+            "ВХОД ДЛЯ ИНВАЛИДОВ И ТЕЛЕФОН ДЛЯ ЭКСТРЕННОЙ ПОМОЩИ В НЕРАБОЧЕЕ ВРЕМЯ"
+        ],
+        "zh": [
+            "残疾人入口和非工作时间紧急电话"
+        ]
+    },
+    "requires_image_context": {
+        "de": "no",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

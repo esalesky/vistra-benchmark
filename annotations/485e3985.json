@@ -1,0 +1,34 @@
+{
+    "image_file": "485e3985.png",
+    "transcript": [
+        "SECURITY NOTICE",
+        "PARKING LOT UNDER VIDEO SURVEILLANCE"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Sicherheitshinweis",
+            "Parkplatz wird videoüberwacht"
+        ],
+        "es": [
+            "AVISO DE SEGURIDAD",
+            "ESTACIONAMIENTO CON VIDEOVIGILANCIA"
+        ],
+        "ru": [
+            "УВЕДОМЛЕНИЕ О БЕЗОПАСНОСТИ",
+            "ПАРКОВКА НАХОДИТСЯ ПОД ВИДЕОНАБЛЮДЕНИЕМ"
+        ],
+        "zh": [
+            "安全提示",
+            "停车场有监控录像"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

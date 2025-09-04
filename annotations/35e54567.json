@@ -1,0 +1,29 @@
+{
+    "image_file": "35e54567.png",
+    "transcript": [
+        "DON'T TOUCH TREE OR BUOYS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Baum und Baumschmuck nicht berühren"
+        ],
+        "es": [
+            "NO TOCAR EL ÁRBOL NI LA BOYAS"
+        ],
+        "ru": [
+            "НЕ ПРИКАСАЙТЕСЬ К ЕЛКЕ И УКРАШЕНИЯМ"
+        ],
+        "zh": [
+            "不要碰树或浮标"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

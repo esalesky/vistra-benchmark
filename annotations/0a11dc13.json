@@ -1,0 +1,39 @@
+{
+    "image_file": "0a11dc13.png",
+    "transcript": [
+        "NO PARKING",
+        "FIRE LANE",
+        "BOTH SIDES OF THE STREET"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Parken verboten",
+            "Feuerwehrzufahrt",
+            "Auf beiden Seiten"
+        ],
+        "es": [
+            "NO ESTACIONAR",
+            "CARRIL DE BOMBEROS",
+            "AMBOS LADOS DE LA CALLE"
+        ],
+        "ru": [
+            "ПАРКОВКА ЗАПРЕЩЕНА",
+            "ПРОЕЗД ДЛЯ ПОЖАРНОЙ ТЕХНИКИ",
+            "НА ОБЕИХ СТОРОНАХ УЛИЦЫ"
+        ],
+        "zh": [
+            "禁止停车",
+            "消防通道",
+            "此街道两侧"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

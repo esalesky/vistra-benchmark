@@ -1,0 +1,29 @@
+{
+    "image_file": "d218eb78.png",
+    "transcript": [
+        "NO Construction Traffic Permitted"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Baustellenverkehr verboten"
+        ],
+        "es": [
+            "No se permite tráfico de construcción"
+        ],
+        "ru": [
+            "Движение строительного транспорта НЕ РАЗРЕШАЕТСЯ"
+        ],
+        "zh": [
+            "禁止施工车辆通行"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

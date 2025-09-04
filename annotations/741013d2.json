@@ -1,0 +1,49 @@
+{
+    "image_file": "741013d2.png",
+    "transcript": [
+        "BUS LANES",
+        "BUSES ONLY",
+        "BUSES ONLY & RIGHT TURNS",
+        "SR-2332",
+        "DEPT OF TRANSPORTATION"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Busspur",
+            "Nur Busse",
+            "Nur Busse und Rechtsabbieger",
+            "SR-2332",
+            "Verkehrsministerium"
+        ],
+        "es": [
+            "CARRILES DE BUSES",
+            "SOLO BUSES",
+            "SOLO BUSES Y GIRO A LA DERECHA",
+            "SR-2332",
+            "DEPT. DE TRANSPORTE"
+        ],
+        "ru": [
+            "ПОЛОСЫ ДЛЯ АВТОБУСОВ",
+            "ТОЛЬКО АВТОБУСЫ",
+            "ТОЛЬКО АВТОБУСЫ, ВКЛЮЧАЯ ПОВОРАЧИВАЮЩИЕ НАПРАВО",
+            "SR-2332",
+            "ДЕПАРТАМЕНТ ОБЩЕСТВЕННОГО ТРАНСПОРТА"
+        ],
+        "zh": [
+            "公交车专用道",
+            "仅限公交车",
+            "仅限公交车和右转",
+            "SR-2332",
+            "交通部"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

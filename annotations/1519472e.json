@@ -1,0 +1,44 @@
+{
+    "image_file": "1519472e.png",
+    "transcript": [
+        "PET WASTE DISPOSAL",
+        "PLEASE LEASH AND CLEAN UP AFTER YOUR PET",
+        "Pet waste carries harmful bacteria that will run off into waterways and is a significant contributor to pollution.",
+        "Dispose of pet waste bags here."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Entsorgung von Hundekot",
+            "Leinen Sie Ihren Hund an und entfernen Sie seine Hinterlassenschaften",
+            "Hundekot enthält schädliche Bakterien, die in Gewässer gelangen und erheblich zu Verschmutzungen beitragen können.",
+            "Hundekotbeutel hier entsorgen"
+        ],
+        "es": [
+            "DESECHOS DE MASCOTAS",
+            "LLEVE SU MASCOTA CON CORREA Y LIMPIE SUS DEPOSICIONES",
+            "Los desechos de las mascotas contienen bacterias peligrosas que pueden llegar a los cursos de agua y son grandes causantes de contaminación.",
+            "Arroje aquí los desechos de su mascota."
+        ],
+        "ru": [
+            "УБИРАЙТЕ ЗА ДОМАШНИМИ ЖИВОТНЫМИ",
+            "ДЕРЖИТЕ ПИТОМЦА НА ПОВОДКЕ И УБИРАЙТЕ ЗА НИМ",
+            "Экскременты домашних животных содержат вредные бактерии, которые попадают в грунтовые воды и вносят значительный вклад в загрязнение окружающей среды.",
+            "Поместите пакет с экскрементами в эту урну."
+        ],
+        "zh": [
+            "宠物废物处理",
+            "请用皮带拴住宠物并清理干净",
+            "宠物粪便携带的有害细菌会流入水道，是造成污染的重要因素。",
+            "在这里丢弃宠物垃圾袋。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

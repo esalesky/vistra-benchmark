@@ -1,0 +1,34 @@
+{
+    "image_file": "f9f7a719.png",
+    "transcript": [
+        "FIRE DEPARTMENT CONNECTION",
+        "DO NOT BLOCK"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Feuerwehranschluss",
+            "Freihalten"
+        ],
+        "es": [
+            "CONEXIÓN DEL DEPARTAMENTO DE BOMBEROS",
+            "NO BLOQUEAR"
+        ],
+        "ru": [
+            "ПОЖАРНЫЙ ГИДРАНТ",
+            "НЕ БЛОКИРОВАТЬ"
+        ],
+        "zh": [
+            "消防水泵接合器",
+            "请勿堵塞"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

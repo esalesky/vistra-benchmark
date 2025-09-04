@@ -1,0 +1,29 @@
+{
+    "image_file": "e4e9714d.png",
+    "transcript": [
+        "TRUCKS TO GWB KEEP LEFT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "LKWs zu GWB links halten"
+        ],
+        "es": [
+            "CAMIONES A GWB MANTENERSE A LA IZQUIERDA"
+        ],
+        "ru": [
+            "ГРУЗОВИКИ В GWB ДОЛЖНЫ ДЕРЖАТЬСЯ ЛЕВОЙ СТОРОНЫ"
+        ],
+        "zh": [
+            "到 GWB 的卡车靠左行驶"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

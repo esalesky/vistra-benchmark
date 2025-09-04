@@ -1,0 +1,34 @@
+{
+    "image_file": "27512d95.png",
+    "transcript": [
+        "UNITED STATES POSTAL SERVICE",
+        "PLEASE WAIT HERE FOR NEXT AVAILABLE CLERK"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "UNITED STATES POSTAL SERVICE",
+            "Warten Sie hier auf den nächsten freien Mitarbeiter"
+        ],
+        "es": [
+            "UNITED STATES POSTAL SERVICE",
+            "ESPERE AQUÍ A SER LLAMADO"
+        ],
+        "ru": [
+            "ПОЧТОВАЯ СЛУЖБА США",
+            "ОЖИДАЙТЕ СВОБОДНОГО СОТРУДНИКА ЗДЕСЬ"
+        ],
+        "zh": [
+            "美国邮政服务",
+            "请在这里等待下一位有空的职员"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

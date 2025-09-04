@@ -1,0 +1,34 @@
+{
+    "image_file": "53684bd2.png",
+    "transcript": [
+        "FIRE FIGHTING ACCESS",
+        "DO NOT OBSTRUCT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Feuerwehrzufahrt",
+            "freihalten"
+        ],
+        "es": [
+            "ACCESO PARA BOMBEROS",
+            "NO OBSTRUIR"
+        ],
+        "ru": [
+            "ДОСТУП ПОЖАРНОЙ СЛУЖБЫ",
+            "НЕ БЛОКИРОВАТЬ"
+        ],
+        "zh": [
+            "消防通道",
+            "请不要堵住入口"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

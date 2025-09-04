@@ -1,0 +1,39 @@
+{
+    "image_file": "4de3b538.png",
+    "transcript": [
+        "P",
+        "PAY PARKING",
+        "3 HOUR LIMIT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "P",
+            "Kostenpflichtiger Parkplatz",
+            "Höchstparkdauer 3 Stunden"
+        ],
+        "es": [
+            "E",
+            "ESTACIONAMIENTO PAGO",
+            "3 HORAS MÁX."
+        ],
+        "ru": [
+            "P",
+            "ПЛАТНАЯ ПАРКОВКА",
+            "ОГРАНИЧЕНИЕ 3 ЧАСА"
+        ],
+        "zh": [
+            "P",
+            "付费停车",
+            "限 3 小时"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

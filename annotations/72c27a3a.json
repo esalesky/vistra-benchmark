@@ -1,0 +1,29 @@
+{
+    "image_file": "72c27a3a.png",
+    "transcript": [
+        "OCCUPANTS MUST REMAIN WITH DISABLED VEHICLES"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Sie müssen bei Ihren havarierten Fahrzeugen bleiben"
+        ],
+        "es": [
+            "LOS OCUPANTES DEBEN PERMANECER JUNTO A LOS VEHÍCULOS AVERIADOS"
+        ],
+        "ru": [
+            "ПАССАЖИРЫ ДОЛЖНЫ ОСТАВАТЬСЯ В АВТОМОБИЛЯХ ДЛЯ ЛИЦ С ОГРАНИЧЕННЫМИ ВОЗМОЖНОСТЯМИ"
+        ],
+        "zh": [
+            "乘客必须与残疾车辆呆在一起"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

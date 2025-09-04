@@ -1,0 +1,34 @@
+{
+    "image_file": "dc9e402b.png",
+    "transcript": [
+        "CAUTION",
+        "THIS VEHICLE MAKES WIDE RIGHT TURNS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Achtung",
+            "Dieses Fahrzeug braucht beim Rechtsabbiegen viel Platz"
+        ],
+        "es": [
+            "PRECAUCIÓN",
+            "ESTE VEHÍCULO HACE GIROS AMPLIOS A LA DERECHA"
+        ],
+        "ru": [
+            "ОСТОРОЖНО",
+            "ЭТОТ АВТОМОБИЛЬ ВЫПОЛНЯЕТ ПРАВЫЙ ПОВОРОТ С ШИРОКИМ РАДИУСОМ"
+        ],
+        "zh": [
+            "小心",
+            "这辆车经常向右大转弯"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

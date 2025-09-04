@@ -1,0 +1,29 @@
+{
+    "image_file": "737b171a.png",
+    "transcript": [
+        "PLEASE LET US KNOW IF WE CAN HELP IN ANY WAY."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Fragen Sie uns, wenn Sie Hilfe benötigen."
+        ],
+        "es": [
+            "DÍGANOS SI PODEMOS AYUDAR EN ALGO."
+        ],
+        "ru": [
+            "СООБЩИТЕ НАМ, ЕСЛИ ВАМ НУЖНА КАКАЯ-ЛИБО ПОМОЩЬ"
+        ],
+        "zh": [
+            "如果我们能以任何方式提供帮助，请告诉我们。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

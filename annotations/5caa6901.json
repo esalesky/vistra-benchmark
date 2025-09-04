@@ -1,0 +1,34 @@
+{
+    "image_file": "5caa6901.png",
+    "transcript": [
+        "REDUCED SPEED AHEAD",
+        "DO NOT PASS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Kommende Geschwindigkeitsbegrenzung",
+            "Nicht überholen"
+        ],
+        "es": [
+            "VELOCIDAD REDUCIDA ADELANTE",
+            "NO SOBREPASAR"
+        ],
+        "ru": [
+            "СБАВЬТЕ СКОРОСТЬ ВПЕРЕДИ",
+            "ПРОХОД ЗАПРЕЩЕН"
+        ],
+        "zh": [
+            "前方减速",
+            "禁止穿越"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

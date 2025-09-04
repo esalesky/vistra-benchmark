@@ -1,0 +1,49 @@
+{
+    "image_file": "2ce8f6f2.png",
+    "transcript": [
+        "Visit your Post Office™ online 24/7 at usps.com",
+        "Buy stamps with delivery to your door",
+        "Ship online with Click-N-ShipⓇ",
+        "Hold mail at your convenience",
+        "Change your address"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Besuchen Sie Ihr Post Office™ online rund um die Uhr unter usps.com",
+            "Briefmarken kaufen und nach Hause liefern lassen",
+            "Online-Versand mit Click-N-ShipⓇ",
+            "Post nach Belieben aufbewahren",
+            "Adresse ändern"
+        ],
+        "es": [
+            "Visite su Post Office™ en línea 24/7 en ups.com",
+            "Compre sellos con entrega a su puerta",
+            "Envíe en línea con Click-N-ShipⓇ",
+            "Reciba el correo como le convenga",
+            "Cambie su dirección"
+        ],
+        "ru": [
+            "Посетите свое почтовое отделение онлайн круглосуточно на сайте usps.com",
+            "Покупайте марки с доставкой до двери",
+            "Отправляйте посылки в Интернете с Click-N-ShipⓇ",
+            "Храните почту для своего удобства",
+            "При необходимости измените свой адрес"
+        ],
+        "zh": [
+            "通过 usps.com 访问 Post Office™（全天候在线）",
+            "购买邮票，送货上门",
+            "Click-N-ShipⓇ 在线发货",
+            "方便的时候保存邮件",
+            "更改地址"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

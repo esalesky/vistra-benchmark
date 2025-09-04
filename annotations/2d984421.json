@@ -1,0 +1,29 @@
+{
+    "image_file": "2d984421.png",
+    "transcript": [
+        "WATCH YOUR STEP"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Vorsicht Stufe"
+        ],
+        "es": [
+            "CUIDADO DONDE PISA"
+        ],
+        "ru": [
+            "ОСТОРОЖНО! СТУПЕНЬКА"
+        ],
+        "zh": [
+            "注意脚下"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "no"
+    }
+}

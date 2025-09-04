@@ -1,0 +1,44 @@
+{
+    "image_file": "2597952f.png",
+    "transcript": [
+        "WARNING",
+        "HOT GLASS WILL CAUSE BURNS.",
+        "DO NOT TOUCH GLASS UNTIL COOLED.",
+        "NEVER ALLOW CHILDREN TO TOUCH GLASS."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warnung",
+            "Heißes Glas verursacht Verbrennungen.",
+            "Glas erst nach dem Abkühlen berühren.",
+            "Kinder dürfen das Glas nicht berühren."
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "EL VIDRIO CALIENTE CAUSA QUEMADURAS.",
+            "NO TOQUE EL VIDRIO ANTES DE QUE SE ENFRÍE.",
+            "NUNCA DEJE QUE LOS NIÑOS TOQUEN EL VIDRIO."
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "ОЖОГИ ПРИ КАСАНИИ ГОРЯЧЕГО СТЕКЛА.",
+            "НЕ КАСАЙТЕСЬ СТЕКЛА, ПОКА ОНО НЕ ОСТЫНЕТ.",
+            "НЕ РАЗРЕШАЙТЕ ДЕТЯМ КАСАТЬСЯ СТЕКЛА."
+        ],
+        "zh": [
+            "警告",
+            "热玻璃会造成灼伤。",
+            "玻璃冷却之前不要触碰。",
+            "千万不要让孩子接触玻璃。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "no"
+    }
+}

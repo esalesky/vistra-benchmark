@@ -1,0 +1,34 @@
+{
+    "image_file": "bf96889e.png",
+    "transcript": [
+        "Corporate needs you to find the differences between this picture and this picture.",
+        "They're the same picture."
+    ],
+    "category": null,
+    "height": 559,
+    "width": 500,
+    "translation": {
+        "de": [
+            "Das Unternehmen braucht Sie, um die Unterschiede zwischen den beiden Bildern zu erkennen.",
+            "Es ist dasselbe Bild."
+        ],
+        "es": [
+            "La empresa necesita que encuentres las diferencias entre esta imagen y esta.",
+            "Son la misma imagen."
+        ],
+        "ru": [
+            "Руководство просит Вас определить различия между этими картинками.",
+            "Они одинаковы."
+        ],
+        "zh": [
+            "公司需要你找出这张图和这张图的区别。",
+            "它们是同一张图。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

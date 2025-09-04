@@ -1,0 +1,39 @@
+{
+    "image_file": "f3fc289a.png",
+    "transcript": [
+        "SCHOOL",
+        "SPEED LIMIT 20",
+        "8AM-330PM SCHOOL DAYS ONLY"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Schule",
+            "Maximal 30 km/h",
+            "8:00 bis 15:30 Uhr an Schultagen"
+        ],
+        "es": [
+            "ESCUELA",
+            "VELOCIDAD MÁX. 20",
+            "SOLO DÍAS DE ESCUELA 8 A. M.-3:30 P. M."
+        ],
+        "ru": [
+            "ШКОЛА",
+            "ОГРАНИЧЕНИЕ СКОРОСТИ 20",
+            "8:00-15:30 ТОЛЬКО ПО ШКОЛЬНЫМ ДНЯМ"
+        ],
+        "zh": [
+            "学校",
+            "限速 20",
+            "仅限上学日上午 8 点至下午 3 点 30 分"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

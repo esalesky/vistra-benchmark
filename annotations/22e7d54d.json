@@ -1,0 +1,34 @@
+{
+    "image_file": "22e7d54d.png",
+    "transcript": [
+        "NO IDLING",
+        "YOU MUST SHUT OFF YOUR VEHICLE IN THIS AREA"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Kein Leerlauf",
+            "Sie müssen Ihr Fahrzeug in diesem Bereich ausmachen."
+        ],
+        "es": [
+            "NO DEJAR EL MOTOR ENCENDIDO",
+            "DEBE APAGAR EL VEHÍCULO EN ESTA ÁREA"
+        ],
+        "ru": [
+            "СТОЯНКА С РАБОТАЮЩИМ ДВИГАТЕЛЕМ ЗАПРЕЩЕНА",
+            "ЗАГЛУШИТЕ ДВИГАТЕЛЬ СВОЕГО АВТОМОБИЛЯ В ЭТОЙ ЗОНЕ"
+        ],
+        "zh": [
+            "禁止怠速",
+            "车辆在此区域必须熄火"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "no"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "image_file": "803e8d1a.png",
+    "transcript": [
+        "WARNING",
+        "KEEP OUT",
+        "Hazardous voltage inside.",
+        "Can shock, burn, or cause death.",
+        "If open or unlocked, immediately call electric company."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Warnung",
+            "Halten Sie Abstand",
+            "Gefährliche Spannung",
+            "Kann Schock, Verbrennungen oder Tod verursachen",
+            "Wenn offen oder unverschlossen, sofort einen Elektroinstallateur anrufen."
+        ],
+        "es": [
+            "ADVERTENCIA",
+            "ALÉJESE",
+            "Voltaje peligroso dentro.",
+            "Puede provocar descargas, quemaduras o la muerte.",
+            "Si está abierto o sin llave, llame de inmediato a la compañía de electricidad."
+        ],
+        "ru": [
+            "ВНИМАНИЕ",
+            "НЕ ПОДХОДИТЬ",
+            "Внутри опасное напряжение.",
+            "Может привести к ударам электрическим током, ожогам или смерти.",
+            "Если дверца открыта или не закрыта на замок, немедленно позвоните в электрическую компанию."
+        ],
+        "zh": [
+            "警告",
+            "禁止入内",
+            "内有电压危险。",
+            "会使人休克、烧伤或致死。",
+            "如果打开或未上锁，立即呼叫电力公司。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

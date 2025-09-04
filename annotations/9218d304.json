@@ -1,0 +1,29 @@
+{
+    "image_file": "9218d304.png",
+    "transcript": [
+        "Masks not required but appreciated"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Masken sind nicht verpflichtend, aber erwünscht"
+        ],
+        "es": [
+            "El uso de mascarilla no es obligatorio pero se agradece"
+        ],
+        "ru": [
+            "Лицевые маски не обязательны, но приветствуются"
+        ],
+        "zh": [
+            "不要求戴口罩，但若您佩戴，我们深表感激"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "yes",
+        "zh": "yes"
+    }
+}

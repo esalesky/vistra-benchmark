@@ -1,0 +1,34 @@
+{
+    "image_file": "82522885.png",
+    "transcript": [
+        "IN CASE OF FIRE DO NOT USE ELEVATORS",
+        "USE STAIRWAYS"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Im Brandfall Aufzüge nicht benutzen",
+            "Treppe benutzen"
+        ],
+        "es": [
+            "EN CASO DE INCENDIO NO USE LOS ELEVADORES",
+            "USE LAS ESCALERAS"
+        ],
+        "ru": [
+            "В СЛУЧАЕ ПОЖАРА НЕ ПОЛЬЗУЙТЕСЬ ЛИФТАМИ",
+            "ИСПОЛЬЗУЙТЕ ЛЕСТНИЦЫ"
+        ],
+        "zh": [
+            "如果发生火灾，不要使用电梯",
+            "使用楼梯"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

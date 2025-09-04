@@ -1,0 +1,29 @@
+{
+    "image_file": "e337da87.png",
+    "transcript": [
+        "PASSENGERS ARE NOT PERMITTED TO STAND FORWARD OF YELLOW LINE WHILE BUS IS IN MOTION"
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Fahrgäste müssen hinter der gelben Linie zurückbleiben, wenn der Bus fährt"
+        ],
+        "es": [
+            "NO SE PERMITE QUE LOS PASAJEROS SE PAREN DELANTE DE LA LÍNEA AMARILLA MIENTRAS EL AUTOBÚS ESTÁ EN MOVIMIENTO"
+        ],
+        "ru": [
+            "ПАССАЖИРАМ ЗАПРЕЩАЕТСЯ СТОЯТЬ ЗА ЖЕЛТОЙ ЛИНИЕЙ ВО ВРЕМЯ ДВИЖЕНИЯ АВТОБУСА"
+        ],
+        "zh": [
+            "公共汽车行驶时，乘客不得站在黄线前面"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

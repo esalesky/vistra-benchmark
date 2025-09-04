@@ -1,0 +1,29 @@
+{
+    "image_file": "6173e988.png",
+    "transcript": [
+        "TAKE A BOOK LEAVE A BOOK"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Ein Buch herausnehmen Ein Buch dalassen"
+        ],
+        "es": [
+            "TOMA UN LIBRO DEJA UN LIBRO"
+        ],
+        "ru": [
+            "ВОЗЬМИТЕ КНИГУ И ПОЛОЖИТЕ СВОЮ КНИГУ"
+        ],
+        "zh": [
+            "带走一本书，留下一本书"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

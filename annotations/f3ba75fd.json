@@ -1,0 +1,34 @@
+{
+    "image_file": "f3ba75fd.png",
+    "transcript": [
+        "Cyclists AHEAD",
+        "SLOW"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Fahrräder voraus",
+            "Langsam fahren"
+        ],
+        "es": [
+            "Ciclistas ADELANTE",
+            "DESPACIO"
+        ],
+        "ru": [
+            "ВПЕРЕДИ велосипедисты",
+            "СБАВЬТЕ СКОРОСТЬ"
+        ],
+        "zh": [
+            "前方有人骑自行车",
+            "慢行"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

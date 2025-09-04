@@ -1,0 +1,29 @@
+{
+    "image_file": "d09a4091.png",
+    "transcript": [
+        "ALL TRAFFIC MUST TURN LEFT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gesamter Verkehr muss rechts abbiegen"
+        ],
+        "es": [
+            "TODO EL TRÁFICO GIRAR A LA IZQUIERDA"
+        ],
+        "ru": [
+            "ВСЕ ТРАНСПОРТНЫЕ СРЕДСТВА ДОЛЖНЫ ПОВОРАЧИВАТЬ НАЛЕВО"
+        ],
+        "zh": [
+            "所有车辆必须向左拐"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "image_file": "e0c81090.png",
+    "transcript": [
+        "PUSH FOR HELP",
+        "(LOCATION / FLOOR 7)",
+        "Persons able to use the exit stairway do so as soon as possible, unless they are assisting others.",
+        "After activating the two-way communication system, wait here for assistance.",
+        "Code Blue",
+        "PUSH FOR HELP"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Hier drücken, wenn Sie Hilfe benötigen",
+            "(Standort/7. Stock)",
+            "Personen, die in der Lage sind, die Treppen zu benutzen, sollten dies schnellstmöglich tun, es sei denn, sie helfen anderen Personen.",
+            "Warten Sie nach Aktivierung des wechselseitigen Kommunikationssystems hier auf Hilfe",
+            "Code Blue",
+            "Hier drücken, wenn Sie Hilfe benötigen"
+        ],
+        "es": [
+            "PULSE PARA AYUDA",
+            "(UBICACIÓN/PISO 7)",
+            "Las personas que puedan usar la escalera de salida deben hacerlo lo antes posible, a menos que estén asistiendo a otros.",
+            "Después de activar el sistema de comunicación bidireccional, espere aquí para recibir asistencia.",
+            "Código azul",
+            "PULSE PARA AYUDA"
+        ],
+        "ru": [
+            "НАЖМИТЕ, ЧТОБЫ ПОЛУЧИТЬ ПОМОЩЬ",
+            "(МЕСТОПОЛОЖЕНИЕ/ЭТАЖ 7)",
+            "Лица, которые могут воспользоваться лестницей, должны сделать это как можно скорее, если они не помогают другим.",
+            "После включения двунаправленной системы связи дожидайтесь ответа здесь.",
+            "Код \"синий\"",
+            "НАЖМИТЕ, ЧТОБЫ ПОЛУЧИТЬ ПОМОЩЬ"
+        ],
+        "zh": [
+            "按下求救",
+            "（位置 / 7 楼）",
+            "能够使用出口楼梯的人应尽快离开，除非是在帮助他人。",
+            "启动双向通讯系统后，在此等候救援。",
+            "紧急救命",
+            "按下求救"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

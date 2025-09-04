@@ -1,0 +1,29 @@
+{
+    "image_file": "4d67f084.png",
+    "transcript": [
+        "SLOWER TRAFFIC KEEP RIGHT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Rechte Spur für langsamere Fahrzeuge"
+        ],
+        "es": [
+            "TRÁFICO LENTO MANTÉNGASE A LA DERECHA"
+        ],
+        "ru": [
+            "ТРАНСПОРТНЫЕ СРЕДСТВА С БОЛЕЕ НИЗКОЙ СКОРОСТЬЮ ДВИЖЕНИЯ ДОЛЖНЫ ДЕРЖАТЬСЯ ПРАВОЙ ПОЛОСЫ"
+        ],
+        "zh": [
+            "慢速车辆靠右行驶"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

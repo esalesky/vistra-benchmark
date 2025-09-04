@@ -1,0 +1,74 @@
+{
+    "image_file": "79faa9ee.png",
+    "transcript": [
+        "bouldering is dangerous",
+        "GRAVITY WORKS INDOORS TOO",
+        "Bouldering is dangerous, and there are inherent risks.",
+        "All falls are ground falls which could result in injury.",
+        "Downclimb whenever possible instead of jumping off, and practice correct falling technique from low heights.",
+        "Keep landing zones clear.",
+        "When falling, stay relaxed; keep arms and legs bent and absorb impact by rolling to the ground.",
+        "Do not brace yourself with your hands!",
+        "View the bouldering orientation video at the Front Desk or on our website.",
+        "New climbers - start with easier problems."
+    ],
+    "category": null,
+    "height": 768,
+    "width": 1024,
+    "translation": {
+        "de": [
+            "Bouldern ist gefährlich",
+            "Auch in Innenräumen gilt die Schwerkraft",
+            "Bouldern ist gefährlich und birgt inhärente Risiken.",
+            "Alle Stürze enden auf dem Boden und können Verletzungen nach sich ziehen.",
+            "Klettern Sie nach Möglichkeit herunter statt zu springen und üben Sie die richtige Falltechnik aus geringer Höhe.",
+            "Halten Sie sich nicht in den Landezonen auf.",
+            "Verkrampfen Sie sich nicht, wenn Sie fallen. Winkeln Sie die Arme und Beine an und fangen Sie Sturz ab, indem Sie sich zusammenrollen.",
+            "Stützen Sie sich nicht mit den Händen ab.",
+            "Schauen Sie sich das Schulungsvideo zum Bouldern an der Rezeption oder auf unserer Website an.",
+            "Anfänger starten dann mit weniger Problemen."
+        ],
+        "es": [
+            "La escalada es peligrosa",
+            "LA GRAVEDAD TAMBIÉN FUNCIONA EN INTERIORES",
+            "La escalada es peligrosa y tiene riesgos inherentes.",
+            "Todas las caídas terminan en el suelo y pueden provocar lesiones.",
+            "Escala hacia abajo siempre que sea posible en lugar de saltar y practica la técnica correcta de caída desde alturas bajas.",
+            "Mantén las zonas de aterrizaje despejadas.",
+            "Si caes, mantén la calma; mantén los brazos y las piernas doblados y absorbe el impacto rodando hacia el suelo.",
+            "No te frenes con las manos.",
+            "Mira el video de orientación sobre escalada en Recepción o en nuestro sitio web.",
+            "Los nuevos escaladores deben empezar con problemas sencillos."
+        ],
+        "ru": [
+            "Боулдеринг представляет опасность",
+            "ГРАВИТАЦИЯ ДЕЙСТВУЕТ И В ПОМЕЩЕНИИ",
+            "Боулдеринг представляет опасность, и с ним связаны определенные риски.",
+            "Все падения — это падения на землю, которые могут привести к травмам.",
+            "Спускайтесь вниз, а не спрыгивайте, когда это возможно, и отрабатывайте правильную технику падения на небольшой высоте.",
+            "Зона приземления должна быть свободной.",
+            "При падении не напрягайте мышцы, держите руки и ноги согнутыми и перекатывайтесь по поверхности, чтобы поглотить силу удара.",
+            "Не старайтесь поглотить силу удара руками!",
+            "Просмотрите ознакомительное видео о болдеринге на стойке регистрации или на нашем веб-сайте.",
+            "Новички должны начинать с более простых маршрутов."
+        ],
+        "zh": [
+            "抱石很危险",
+            "重力在室内也起作用",
+            "抱石是危险的，而且有内在的风险。",
+            "一旦落下就会跌至地面，可能导致受伤。",
+            "尽可能的往下爬，而不向下跳，并且练习正确的低高度坠落技术。",
+            "保持着陆区空旷。",
+            "下落时，保持放松；保持手臂和腿弯曲，通过滚动到地面来缓冲。",
+            "不要用手撑着自己！",
+            "在前台或我们的网站上观看抱石定向视频。",
+            "攀登新手——从简单的问题开始。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

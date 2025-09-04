@@ -1,0 +1,34 @@
+{
+    "image_file": "55c35ff7.png",
+    "transcript": [
+        "ELECTRIC VEHICLE CHARGING",
+        "2 HOUR LIMIT"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Ladestation für E-Autos",
+            "Maximal 2 Stunden"
+        ],
+        "es": [
+            "CARGA DE VEHÍCULOS ELÉCTRICOS",
+            "2 HORAS MÁX."
+        ],
+        "ru": [
+            "ЗАРЯДКА ДЛЯ ЭЛЕКТРОМОБИЛЕЙ",
+            "ОГРАНИЧЕНИЕ 2 ЧАСА"
+        ],
+        "zh": [
+            "电动汽车充电",
+            "限 2 小时"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

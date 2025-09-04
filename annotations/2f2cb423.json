@@ -1,0 +1,29 @@
+{
+    "image_file": "2f2cb423.png",
+    "transcript": [
+        "PLEASE KEEP PARKS FREE OF • ALCOHOL • SMOKING • VAPING • TOBACCO"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "In Parks verboten • Alkohol • Zigaretten • Verdampfer • Tabak"
+        ],
+        "es": [
+            "MANTENGA LOS PARQUES LIBRES DE • ALCOHOL • CIGARRILLOS • VAPORIZADORES • TABACO"
+        ],
+        "ru": [
+            "В ПАРКЕ ЗАПРЕЩЕНО • УПОТРЕБЛЯТЬ АЛКОГОЛЬ • КУРИТЬ СИГАРЕТЫ • ПОЛЬЗОВАТЬСЯ ВЕЙПАМИ • КУРИТЬ ТАБАК"
+        ],
+        "zh": [
+            "请勿在公园内饮酒、吸烟、吸电子烟、吸烟草"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "image_file": "15d85d7f.png",
+    "transcript": [
+        "Run your way."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Geh' deinen Weg."
+        ],
+        "es": [
+            "Corre a tu manera."
+        ],
+        "ru": [
+            "Двигайтесь привычным образом."
+        ],
+        "zh": [
+            "跑您的路。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "no"
+    }
+}

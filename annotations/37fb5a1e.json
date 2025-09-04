@@ -1,0 +1,39 @@
+{
+    "image_file": "37fb5a1e.png",
+    "transcript": [
+        "This Building is Protected by Video Surveillance",
+        "No Trespassing Rollerblades Skateboards Bicycles",
+        "Violators Will Be Prosecuted"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Dieses Gebäude ist videoüberwacht",
+            "Kein Zutritt mit Rollschuhen, Skateboards, Fahrrädern",
+            "Verstöße werden strafrechtlich verfolgt"
+        ],
+        "es": [
+            "Este edificio está protegido por cámaras de videovigilancia",
+            "NO Ingresar Patines Skates Bicicletas",
+            "Se procesará a los infractores"
+        ],
+        "ru": [
+            "В этом здании установлена система видеонаблюдения",
+            "Запрещен проход, проезд на роликах, скейтбордах и велосипедах",
+            "Нарушители будут привлечены к ответственности"
+        ],
+        "zh": [
+            "这栋楼有视频监控系统保护",
+            "禁止入内、旱冰、滑板、自行车",
+            "违者严惩"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

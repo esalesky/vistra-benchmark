@@ -1,0 +1,39 @@
+{
+    "image_file": "f51d48b6.png",
+    "transcript": [
+        "EXIT",
+        "THANK YOU",
+        "SEE YOU AGAIN"
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Ausgang",
+            "Vielen Dank",
+            "Auf Wiedersehen"
+        ],
+        "es": [
+            "SALIDA",
+            "GRACIAS",
+            "NOS VEMOS PRONTO"
+        ],
+        "ru": [
+            "ВЫХОД",
+            "СПАСИБО",
+            "ЖДЕМ ВАС СНОВА"
+        ],
+        "zh": [
+            "出口",
+            "谢谢",
+            "再见"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "no",
+        "ru": "no",
+        "zh": "yes"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "image_file": "2a51108e.png",
+    "transcript": [
+        "DANGER KEEP OFF ROCKS",
+        "EAST LYME PARKS & RECREATION DEPT."
+    ],
+    "category": null,
+    "height": 1024,
+    "width": 768,
+    "translation": {
+        "de": [
+            "Gefahr. Halten Sie sich von den Felsen fern",
+            "Abteilung für Parks und Erholung in East Lyme"
+        ],
+        "es": [
+            "PELIGRO NO CAMINE POR LAS ROCAS",
+            "DEPT. DE PARQUES Y RECREACIÓN DE EAST LYME"
+        ],
+        "ru": [
+            "ОСТОРОЖНО! ПАДЕНИЕ КАМНЕЙ",
+            "EAST LYME PARKS & RECREATION DEPT."
+        ],
+        "zh": [
+            "危险！远离岩石！",
+            "东莱姆公园和休闲部。"
+        ]
+    },
+    "requires_image_context": {
+        "de": "yes",
+        "es": "yes",
+        "ru": "no",
+        "zh": "yes"
+    }
+}
